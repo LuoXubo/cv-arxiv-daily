@@ -512,6 +512,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-05**|**LogoNet: a fine-grained network for instance-level logo sketch retrieval**|Binbin Feng et.al.|[2304.02214](http://arxiv.org/abs/2304.02214)|null|
 |**2023-04-04**|**OrienterNet: Visual Localization in 2D Public Maps with Neural Matching**|Paul-Edouard Sarlin et.al.|[2304.02009](http://arxiv.org/abs/2304.02009)|null|
 |**2023-04-04**|**Cross-Domain Image Captioning with Discriminative Finetuning**|Roberto Dessì et.al.|[2304.01662](http://arxiv.org/abs/2304.01662)|null|
 |**2023-04-02**|**Learning Similarity between Scene Graphs and Images with Transformers**|Yuren Cong et.al.|[2304.00590](http://arxiv.org/abs/2304.00590)|null|
@@ -1142,6 +1143,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-04**|**Generating Continual Human Motion in Diverse 3D Scenes**|Aymen Mir et.al.|[2304.02061](http://arxiv.org/abs/2304.02061)|null|
 |**2023-04-04**|**MonoHuman: Animatable Human Neural Field from Monocular Video**|Zhengming Yu et.al.|[2304.02001](http://arxiv.org/abs/2304.02001)|null|
 |**2023-04-03**|**DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models**|Yukang Cao et.al.|[2304.00916](http://arxiv.org/abs/2304.00916)|null|
 |**2023-04-01**|**JacobiNeRF: NeRF Shaping with Mutual Information Gradients**|Xiaomeng Xu et.al.|[2304.00341](http://arxiv.org/abs/2304.00341)|**[link](https://github.com/xxm19/jacobinerf)**|
@@ -1422,6 +1424,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-05**|**Deep learning estimation of modified Zernike coefficients for image point spread functions**|Abu Bucker Siddik et.al.|[2304.02576](http://arxiv.org/abs/2304.02576)|null|
+|**2023-04-05**|**Multi-annotator Deep Learning: A Probabilistic Framework for Classification**|Marek Herde et.al.|[2304.02539](http://arxiv.org/abs/2304.02539)|**[link](https://github.com/ies-research/multi-annotator-deep-learning)**|
+|**2023-04-05**|**Learning to Compare Longitudinal Images**|Heejong Kim et.al.|[2304.02531](http://arxiv.org/abs/2304.02531)|**[link](https://github.com/heejong-kim/learning-to-compare-longitudinal-images)**|
+|**2023-04-05**|**"It's Weird That it Knows What I Want": Usability and Interactions with Copilot for Novice Programmers**|James Prather et.al.|[2304.02491](http://arxiv.org/abs/2304.02491)|null|
+|**2023-04-05**|**SCB-dataset: A Dataset for Detecting Student Classroom Behavior**|Yang Fan et.al.|[2304.02488](http://arxiv.org/abs/2304.02488)|**[link](https://github.com/whiffe/scb-dataset)**|
+|**2023-04-05**|**Comparing and improving hybrid deep learning algorithms for identifying and locating primary vertices**|Simon Akar et.al.|[2304.02423](http://arxiv.org/abs/2304.02423)|null|
+|**2023-04-05**|**Explaining Multimodal Data Fusion: Occlusion Analysis for Wilderness Mapping**|Burak Ekim et.al.|[2304.02407](http://arxiv.org/abs/2304.02407)|null|
+|**2023-04-05**|**DRAC: Diabetic Retinopathy Analysis Challenge with Ultra-Wide Optical Coherence Tomography Angiography Images**|Bo Qian et.al.|[2304.02389](http://arxiv.org/abs/2304.02389)|null|
+|**2023-04-05**|**How good Neural Networks interpretation methods really are? A quantitative benchmark**|Antoine Passemiers et.al.|[2304.02383](http://arxiv.org/abs/2304.02383)|null|
+|**2023-04-05**|**Segmentation of Planning Target Volume in CT Series for Total Marrow Irradiation Using U-Net**|Ricardo Coimbra Brioso et.al.|[2304.02353](http://arxiv.org/abs/2304.02353)|null|
 |**2023-04-04**|**Large Language Models are Edge-Case Fuzzers: Testing Deep Learning Libraries via FuzzGPT**|Yinlin Deng et.al.|[2304.02014](http://arxiv.org/abs/2304.02014)|null|
 |**2023-04-04**|**FakET: Simulating Cryo-Electron Tomograms with Neural Style Transfer**|Pavol Harar et.al.|[2304.02011](http://arxiv.org/abs/2304.02011)|**[link](https://gitlab.com/deepet/faket)**|
 |**2023-04-04**|**Leveraging Deep Learning Approaches for Deepfake Detection: A Review**|Aniruddha Tiwari et.al.|[2304.01908](http://arxiv.org/abs/2304.01908)|null|
