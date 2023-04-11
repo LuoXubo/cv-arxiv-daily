@@ -499,6 +499,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-10**|**CAVL: Learning Contrastive and Adaptive Representations of Vision and Language**|Shentong Mo et.al.|[2304.04399](http://arxiv.org/abs/2304.04399)|null|
+|**2023-04-09**|**Unsupervised Multi-Criteria Adversarial Detection in Deep Image Retrieval**|Yanru Xiao et.al.|[2304.04228](http://arxiv.org/abs/2304.04228)|null|
+|**2023-04-08**|**SGIDN-LCD: An Appearance-based Loop Closure Detection Algorithm using Superpixel Grids and Incremental Dynamic Nodes**|Baosheng Zhang et.al.|[2304.03872](http://arxiv.org/abs/2304.03872)|null|
 |**2023-04-06**|**$R^{2}$Former: Unified $R$etrieval and $R$ eranking Transformer for Place Recognition**|Sijie Zhu et.al.|[2304.03410](http://arxiv.org/abs/2304.03410)|null|
 |**2023-04-06**|**Distributed formation-enforcing control for UAVs robust to observation noise in relative pose measurements**|Viktor Walter et.al.|[2304.03057](http://arxiv.org/abs/2304.03057)|**[link](https://github.com/ctu-mrs/difec-ron)**|
 |**2023-04-05**|**Efficient OCR for Building a Diverse Digital History**|Jacob Carlson et.al.|[2304.02737](http://arxiv.org/abs/2304.02737)|**[link](https://github.com/dell-research-harvard/effocr)**|
@@ -1129,6 +1132,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-07**|**Event-based Camera Tracker by $\nabla$ t NeRF**|Mana Masuda et.al.|[2304.04559](http://arxiv.org/abs/2304.04559)|null|
+|**2023-04-10**|**Neural Residual Radiance Fields for Streamably Free-Viewpoint Videos**|Liao Wang et.al.|[2304.04452](http://arxiv.org/abs/2304.04452)|null|
+|**2023-04-10**|**Inferring Fluid Dynamics via Inverse Rendering**|Jinxian Liu et.al.|[2304.04446](http://arxiv.org/abs/2304.04446)|null|
+|**2023-04-10**|**Instance Neural Radiance Field**|Benran Hu et.al.|[2304.04395](http://arxiv.org/abs/2304.04395)|null|
+|**2023-04-09**|**NeRF applied to satellite imagery for surface reconstruction**|Federico Semeraro et.al.|[2304.04133](http://arxiv.org/abs/2304.04133)|null|
+|**2023-04-08**|**PVD-AL: Progressive Volume Distillation with Active Learning for Efficient Conversion Between Different NeRF Architectures**|Shuangkang Fang et.al.|[2304.04012](http://arxiv.org/abs/2304.04012)|null|
 |**2023-04-07**|**Lift3D: Synthesize 3D Training Data by Lifting 2D GAN to 3D Generative Radiance Field**|Leheng Li et.al.|[2304.03526](http://arxiv.org/abs/2304.03526)|null|
 |**2023-04-06**|**Beyond NeRF Underwater: Learning Neural Reflectance Fields for True Color Correction of Marine Imagery**|Tianyi Zhang et.al.|[2304.03384](http://arxiv.org/abs/2304.03384)|null|
 |**2023-04-06**|**LANe: Lighting-Aware Neural Fields for Compositional Scene Synthesis**|Akshay Krishnan et.al.|[2304.03280](http://arxiv.org/abs/2304.03280)|null|
@@ -1414,6 +1423,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-10**|**Regional Deep Atrophy: a Self-Supervised Learning Method to Automatically Identify Regions Associated With Alzheimer's Disease Progression From Longitudinal MRI**|Mengjin Dong et.al.|[2304.04673](http://arxiv.org/abs/2304.04673)|null|
+|**2023-04-10**|**Deep Image Matting: A Comprehensive Survey**|Jizhizi Li et.al.|[2304.04672](http://arxiv.org/abs/2304.04672)|**[link](https://github.com/jizhizili/matting-survey)**|
+|**2023-04-10**|**Do We Train on Test Data? The Impact of Near-Duplicates on License Plate Recognition**|Rayson Laroca et.al.|[2304.04653](http://arxiv.org/abs/2304.04653)|null|
+|**2023-04-10**|**ECG-CL: A Comprehensive Electrocardiogram Interpretation Method Based on Continual Learning**|Hongxiang Gao et.al.|[2304.04646](http://arxiv.org/abs/2304.04646)|null|
+|**2023-04-10**|**NeuroBench: Advancing Neuromorphic Computing through Collaborative, Fair and Representative Benchmarking**|Jason Yik et.al.|[2304.04640](http://arxiv.org/abs/2304.04640)|null|
+|**2023-04-10**|**Localise to segment: crop to improve organ at risk segmentation accuracy**|Abraham George Smith et.al.|[2304.04606](http://arxiv.org/abs/2304.04606)|**[link](https://github.com/abe404/localise_to_segment)**|
+|**2023-04-10**|**In-situ crack and keyhole pore detection in laser directed energy deposition through acoustic signal and deep learning**|Lequn Chen et.al.|[2304.04598](http://arxiv.org/abs/2304.04598)|null|
+|**2023-04-10**|**Reconstruction-driven Dynamic Refinement based Unsupervised Domain Adaptation for Joint Optic Disc and Cup Segmentation**|Ziyang Chen et.al.|[2304.04581](http://arxiv.org/abs/2304.04581)|null|
+|**2023-04-10**|**Coherent Concept-based Explanations in Medical Image and Its Application to Skin Lesion Diagnosis**|Cristiano Patrício et.al.|[2304.04579](http://arxiv.org/abs/2304.04579)|**[link](https://github.com/cristianopatricio/coherent-cbe-skin)**|
+|**2023-04-10**|**Two Steps Forward and One Behind: Rethinking Time Series Forecasting with Deep Learning**|Riccardo Ughi et.al.|[2304.04553](http://arxiv.org/abs/2304.04553)|null|
 |**2023-04-07**|**Integrating Edge-AI in Structural Health Monitoring domain**|Anoop Mishra et.al.|[2304.03718](http://arxiv.org/abs/2304.03718)|null|
 |**2023-04-07**|**Deepfake Detection with Deep Learning: Convolutional Neural Networks versus Transformers**|Vrizlynn L. L. Thing et.al.|[2304.03698](http://arxiv.org/abs/2304.03698)|null|
 |**2023-04-07**|**Feature Mining for Encrypted Malicious Traffic Detection with Deep Learning and Other Machine Learning Algorithms**|Zihao Wang et.al.|[2304.03691](http://arxiv.org/abs/2304.03691)|null|
