@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-11**|**ClusterFusion: Real-time Relative Positioning and Dense Reconstruction for UAV Cluster**|Yifei Dong et.al.|[2304.04943](http://arxiv.org/abs/2304.04943)|null|
 |**2023-03-21**|**Learning a Depth Covariance Function**|Eric Dexheimer et.al.|[2303.12157](http://arxiv.org/abs/2303.12157)|null|
 |**2023-03-21**|**Online Learning of Wheel Odometry Correction for Mobile Robots with Attention-based Neural Network**|Alessandro Navone et.al.|[2303.11725](http://arxiv.org/abs/2303.11725)|null|
 |**2023-03-20**|**VR-SLAM: A Visual-Range Simultaneous Localization and Mapping System using Monocular Camera and Ultra-wideband Sensors**|Thien Hoang Nguyen et.al.|[2303.10903](http://arxiv.org/abs/2303.10903)|null|
@@ -499,6 +500,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-11**|**Loop Closure Detection Based on Object-level Spatial Layout and Semantic Consistency**|Xingwu Ji et.al.|[2304.05146](http://arxiv.org/abs/2304.05146)|null|
 |**2023-04-10**|**CAVL: Learning Contrastive and Adaptive Representations of Vision and Language**|Shentong Mo et.al.|[2304.04399](http://arxiv.org/abs/2304.04399)|null|
 |**2023-04-09**|**Unsupervised Multi-Criteria Adversarial Detection in Deep Image Retrieval**|Yanru Xiao et.al.|[2304.04228](http://arxiv.org/abs/2304.04228)|null|
 |**2023-04-08**|**SGIDN-LCD: An Appearance-based Loop Closure Detection Algorithm using Superpixel Grids and Incremental Dynamic Nodes**|Baosheng Zhang et.al.|[2304.03872](http://arxiv.org/abs/2304.03872)|null|
@@ -1132,6 +1134,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-11**|**Improving Neural Radiance Fields with Depth-aware Optimization for Novel View Synthesis**|Shu Chen et.al.|[2304.05218](http://arxiv.org/abs/2304.05218)|**[link](https://github.com/xtu-pr-lab/sfmnerf)**|
+|**2023-04-11**|**One-Shot High-Fidelity Talking-Head Synthesis with Deformable Neural Radiance Field**|Weichuang Li et.al.|[2304.05097](http://arxiv.org/abs/2304.05097)|null|
+|**2023-04-11**|**MRVM-NeRF: Mask-Based Pretraining for Neural Radiance Fields**|Ganlin Yang et.al.|[2304.04962](http://arxiv.org/abs/2304.04962)|null|
+|**2023-04-10**|**Neural Image-based Avatars: Generalizable Radiance Fields for Human Avatar Modeling**|Youngjoong Kwon et.al.|[2304.04897](http://arxiv.org/abs/2304.04897)|null|
 |**2023-04-07**|**Event-based Camera Tracker by $\nabla$ t NeRF**|Mana Masuda et.al.|[2304.04559](http://arxiv.org/abs/2304.04559)|null|
 |**2023-04-10**|**Neural Residual Radiance Fields for Streamably Free-Viewpoint Videos**|Liao Wang et.al.|[2304.04452](http://arxiv.org/abs/2304.04452)|null|
 |**2023-04-10**|**Inferring Fluid Dynamics via Inverse Rendering**|Jinxian Liu et.al.|[2304.04446](http://arxiv.org/abs/2304.04446)|null|
@@ -1423,6 +1429,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-11**|**Pinpointing Why Object Recognition Performance Degrades Across Income Levels and Geographies**|Laura Gustafson et.al.|[2304.05391](http://arxiv.org/abs/2304.05391)|**[link](https://github.com/facebookresearch/dollarstreet_factors)**|
+|**2023-04-11**|**Overload: Latency Attacks on Object Detection for Edge Devices**|Erh-Chung Chen et.al.|[2304.05370](http://arxiv.org/abs/2304.05370)|null|
+|**2023-04-11**|**The No Free Lunch Theorem, Kolmogorov Complexity, and the Role of Inductive Biases in Machine Learning**|Micah Goldblum et.al.|[2304.05366](http://arxiv.org/abs/2304.05366)|**[link](https://github.com/goldblum/free-lunch)**|
+|**2023-04-11**|**A comparative study between paired and unpaired Image Quality Assessment in Low-Dose CT Denoising**|Francesco Di Feola et.al.|[2304.05359](http://arxiv.org/abs/2304.05359)|null|
+|**2023-04-11**|**Deep-learning assisted detection and quantification of (oo)cysts of Giardia and Cryptosporidium on smartphone microscopy images**|Suprim Nakarmi et.al.|[2304.05339](http://arxiv.org/abs/2304.05339)|null|
+|**2023-04-11**|**ELVIS: Empowering Locality of Vision Language Pre-training with Intra-modal Similarity**|Sumin Seo et.al.|[2304.05303](http://arxiv.org/abs/2304.05303)|null|
+|**2023-04-11**|**A Comprehensive Study on Object Detection Techniques in Unconstrained Environments**|Hrishitva Patel et.al.|[2304.05295](http://arxiv.org/abs/2304.05295)|null|
+|**2023-04-11**|**r-softmax: Generalized Softmax with Controllable Sparsity Rate**|Klaudia Bałazy et.al.|[2304.05243](http://arxiv.org/abs/2304.05243)|null|
+|**2023-04-11**|**CGXplain: Rule-Based Deep Neural Network Explanations Using Dual Linear Programs**|Konstantin Hemker et.al.|[2304.05207](http://arxiv.org/abs/2304.05207)|**[link](https://github.com/konst-int-i/cgx)**|
+|**2023-04-11**|**Multi-scale Fusion Fault Diagnosis Method Based on Two-Dimensionaliztion Sequence in Complex Scenarios**|Weiyang Jin et.al.|[2304.05198](http://arxiv.org/abs/2304.05198)|null|
 |**2023-04-10**|**Regional Deep Atrophy: a Self-Supervised Learning Method to Automatically Identify Regions Associated With Alzheimer's Disease Progression From Longitudinal MRI**|Mengjin Dong et.al.|[2304.04673](http://arxiv.org/abs/2304.04673)|null|
 |**2023-04-10**|**Deep Image Matting: A Comprehensive Survey**|Jizhizi Li et.al.|[2304.04672](http://arxiv.org/abs/2304.04672)|**[link](https://github.com/jizhizili/matting-survey)**|
 |**2023-04-10**|**Do We Train on Test Data? The Impact of Near-Duplicates on License Plate Recognition**|Rayson Laroca et.al.|[2304.04653](http://arxiv.org/abs/2304.04653)|null|
