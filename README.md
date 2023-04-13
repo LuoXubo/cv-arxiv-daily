@@ -513,6 +513,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-12**|**Visual Localization using Imperfect 3D Models from the Internet**|Vojtech Panek et.al.|[2304.05947](http://arxiv.org/abs/2304.05947)|null|
+|**2023-04-12**|**Are Local Features All You Need for Cross-Domain Visual Place Recognition?**|Giovanni Barbarani et.al.|[2304.05887](http://arxiv.org/abs/2304.05887)|**[link](https://github.com/gbarbarani/re-ranking-for-vpr)**|
+|**2023-04-12**|**Unicom: Universal and Compact Representation Learning for Image Retrieval**|Xiang An et.al.|[2304.05884](http://arxiv.org/abs/2304.05884)|**[link](https://github.com/deepglint/unicom)**|
+|**2023-04-12**|**SGL: Structure Guidance Learning for Camera Localization**|Xudong Zhang et.al.|[2304.05571](http://arxiv.org/abs/2304.05571)|null|
 |**2023-04-11**|**Loop Closure Detection Based on Object-level Spatial Layout and Semantic Consistency**|Xingwu Ji et.al.|[2304.05146](http://arxiv.org/abs/2304.05146)|null|
 |**2023-04-10**|**CAVL: Learning Contrastive and Adaptive Representations of Vision and Language**|Shentong Mo et.al.|[2304.04399](http://arxiv.org/abs/2304.04399)|null|
 |**2023-04-09**|**Unsupervised Multi-Criteria Adversarial Detection in Deep Image Retrieval**|Yanru Xiao et.al.|[2304.04228](http://arxiv.org/abs/2304.04228)|null|
@@ -1153,6 +1157,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-12**|**NutritionVerse-Thin: An Optimized Strategy for Enabling Improved Rendering of 3D Thin Food Models**|Chi-en Amy Tai et.al.|[2304.05620](http://arxiv.org/abs/2304.05620)|null|
 |**2023-04-11**|**Improving Neural Radiance Fields with Depth-aware Optimization for Novel View Synthesis**|Shu Chen et.al.|[2304.05218](http://arxiv.org/abs/2304.05218)|**[link](https://github.com/xtu-pr-lab/sfmnerf)**|
 |**2023-04-11**|**One-Shot High-Fidelity Talking-Head Synthesis with Deformable Neural Radiance Field**|Weichuang Li et.al.|[2304.05097](http://arxiv.org/abs/2304.05097)|null|
 |**2023-04-11**|**MRVM-NeRF: Mask-Based Pretraining for Neural Radiance Fields**|Ganlin Yang et.al.|[2304.04962](http://arxiv.org/abs/2304.04962)|null|
@@ -1450,6 +1455,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-12**|**GRANIITTI: towards a deep learning-enhanced Monte Carlo event generator for high-energy diffraction**|Mikael Mieskolainen et.al.|[2304.06010](http://arxiv.org/abs/2304.06010)|**[link](https://github.com/mieskolainen/GRANIITTI)**|
+|**2023-04-12**|**SpectralDiff: Hyperspectral Image Classification with Spectral-Spatial Diffusion Models**|Ning Chen et.al.|[2304.05961](http://arxiv.org/abs/2304.05961)|null|
+|**2023-04-12**|**Automated computed tomography and magnetic resonance imaging segmentation using deep learning: a beginner's guide**|Diedre Carmo et.al.|[2304.05901](http://arxiv.org/abs/2304.05901)|null|
+|**2023-04-12**|**Cancer-Net BCa-S: Breast Cancer Grade Prediction using Volumetric Deep Radiomic Features from Synthetic Correlated Diffusion Imaging**|Chi-en Amy Tai et.al.|[2304.05899](http://arxiv.org/abs/2304.05899)|null|
+|**2023-04-12**|**Scale-Equivariant Deep Learning for 3D Data**|Thomas Wimmer et.al.|[2304.05864](http://arxiv.org/abs/2304.05864)|**[link](https://github.com/wimmerth/scale-equivariant-3d-convnet)**|
+|**2023-04-12**|**Self-Supervised Learning with Cluster-Aware-DINO for High-Performance Robust Speaker Verification**|Bing Han et.al.|[2304.05754](http://arxiv.org/abs/2304.05754)|null|
+|**2023-04-12**|**Learning to search for and detect objects in foveal images using deep learning**|Beatriz Paula et.al.|[2304.05741](http://arxiv.org/abs/2304.05741)|null|
+|**2023-04-12**|**Universal Polarization Transformations: Spatial programming of polarization scattering matrices using a deep learning-designed diffractive polarization transformer**|Yuhang Li et.al.|[2304.05724](http://arxiv.org/abs/2304.05724)|null|
+|**2023-04-12**|**Precise localization of corneal reflections in eye images using deep learning trained on synthetic data**|Sean Anthony Byrne et.al.|[2304.05673](http://arxiv.org/abs/2304.05673)|**[link](https://github.com/dcnieho/byrneetal_cr_cnn)**|
+|**2023-04-12**|**Generative Adversarial Networks-Driven Cyber Threat Intelligence Detection Framework for Securing Internet of Things**|Mohamed Amine Ferrag et.al.|[2304.05644](http://arxiv.org/abs/2304.05644)|null|
 |**2023-04-11**|**Pinpointing Why Object Recognition Performance Degrades Across Income Levels and Geographies**|Laura Gustafson et.al.|[2304.05391](http://arxiv.org/abs/2304.05391)|**[link](https://github.com/facebookresearch/dollarstreet_factors)**|
 |**2023-04-12**|**Overload: Latency Attacks on Object Detection for Edge Devices**|Erh-Chung Chen et.al.|[2304.05370](http://arxiv.org/abs/2304.05370)|null|
 |**2023-04-11**|**The No Free Lunch Theorem, Kolmogorov Complexity, and the Role of Inductive Biases in Machine Learning**|Micah Goldblum et.al.|[2304.05366](http://arxiv.org/abs/2304.05366)|**[link](https://github.com/goldblum/free-lunch)**|
