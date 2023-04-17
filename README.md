@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.16
+## Updated on 2023.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -412,7 +412,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#Updated-on-20230416>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230417>back to top</a>)</p>
 
 ## SFM
 
@@ -508,19 +508,19 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#Updated-on-20230416>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230417>back to top</a>)</p>
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-04-13**|**You are here! Finding position and orientation on a 2D map from a single image: The Flatlandia localization problem and dataset**|Matteo Toso et.al.|[2304.06373](http://arxiv.org/abs/2304.06373)|**[link](https://github.com/IIT-PAVIS/Flatlandia)**|
+|**2023-04-14**|**You are here! Finding position and orientation on a 2D map from a single image: The Flatlandia localization problem and dataset**|Matteo Toso et.al.|[2304.06373](http://arxiv.org/abs/2304.06373)|**[link](https://github.com/IIT-PAVIS/Flatlandia)**|
 |**2023-04-12**|**Open-TransMind: A New Baseline and Benchmark for 1st Foundation Model Challenge of Intelligent Transportation**|Yifeng Shi et.al.|[2304.06051](http://arxiv.org/abs/2304.06051)|**[link](https://github.com/Traffic-X/Open-TransMind)**|
 |**2023-04-12**|**Visual Localization using Imperfect 3D Models from the Internet**|Vojtech Panek et.al.|[2304.05947](http://arxiv.org/abs/2304.05947)|**[link](https://github.com/v-pnk/cadloc)**|
 |**2023-04-12**|**Are Local Features All You Need for Cross-Domain Visual Place Recognition?**|Giovanni Barbarani et.al.|[2304.05887](http://arxiv.org/abs/2304.05887)|**[link](https://github.com/gbarbarani/re-ranking-for-vpr)**|
 |**2023-04-12**|**Unicom: Universal and Compact Representation Learning for Image Retrieval**|Xiang An et.al.|[2304.05884](http://arxiv.org/abs/2304.05884)|**[link](https://github.com/deepglint/unicom)**|
 |**2023-04-12**|**SGL: Structure Guidance Learning for Camera Localization**|Xudong Zhang et.al.|[2304.05571](http://arxiv.org/abs/2304.05571)|null|
-|**2023-04-11**|**Loop Closure Detection Based on Object-level Spatial Layout and Semantic Consistency**|Xingwu Ji et.al.|[2304.05146](http://arxiv.org/abs/2304.05146)|null|
+|**2023-04-14**|**Loop Closure Detection Based on Object-level Spatial Layout and Semantic Consistency**|Xingwu Ji et.al.|[2304.05146](http://arxiv.org/abs/2304.05146)|null|
 |**2023-04-10**|**CAVL: Learning Contrastive and Adaptive Representations of Vision and Language**|Shentong Mo et.al.|[2304.04399](http://arxiv.org/abs/2304.04399)|null|
 |**2023-04-09**|**Unsupervised Multi-Criteria Adversarial Detection in Deep Image Retrieval**|Yanru Xiao et.al.|[2304.04228](http://arxiv.org/abs/2304.04228)|null|
 |**2023-04-08**|**SGIDN-LCD: An Appearance-based Loop Closure Detection Algorithm using Superpixel Grids and Incremental Dynamic Nodes**|Baosheng Zhang et.al.|[2304.03872](http://arxiv.org/abs/2304.03872)|null|
@@ -887,7 +887,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#Updated-on-20230416>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230417>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1024,7 +1024,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#Updated-on-20230416>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230417>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1156,7 +1156,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#Updated-on-20230416>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230417>back to top</a>)</p>
 
 ## NeRF
 
@@ -1457,7 +1457,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#Updated-on-20230416>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230417>back to top</a>)</p>
 
 ## Computer Vision
 
@@ -1468,7 +1468,7 @@
 |**2023-04-13**|**Deep Learning in Breast Cancer Imaging: A Decade of Progress and Future Directions**|Luyang Luo et.al.|[2304.06662](http://arxiv.org/abs/2304.06662)|null|
 |**2023-04-13**|**Neural networks: from the perceptron to deep nets**|Marylou Gabrié et.al.|[2304.06636](http://arxiv.org/abs/2304.06636)|null|
 |**2023-04-13**|**PickBlue: Seismic phase picking for ocean bottom seismometers with deep learning**|Thomas Bornstein et.al.|[2304.06635](http://arxiv.org/abs/2304.06635)|null|
-|**2023-04-13**|**Exploring the State of the Art in Legal QA Systems**|Abdelrahman Abdallah et.al.|[2304.06623](http://arxiv.org/abs/2304.06623)|**[link](https://github.com/abdoelsayed2016/legal-question-answering-review)**|
+|**2023-04-14**|**Exploring the State of the Art in Legal QA Systems**|Abdelrahman Abdallah et.al.|[2304.06623](http://arxiv.org/abs/2304.06623)|**[link](https://github.com/abdoelsayed2016/legal-question-answering-review)**|
 |**2023-04-13**|**Brain Structure Ages -- A new biomarker for multi-disease classification**|Huy-Dung Nguyen et.al.|[2304.06591](http://arxiv.org/abs/2304.06591)|null|
 |**2023-04-13**|**Real-Time Wheel Detection and Rim Classification in Automotive Production**|Roman Stanek et.al.|[2304.06560](http://arxiv.org/abs/2304.06560)|null|
 |**2023-04-13**|**Energy-Efficient GPU Clusters Scheduling for Deep Learning**|Diandian Gu et.al.|[2304.06381](http://arxiv.org/abs/2304.06381)|null|
@@ -1544,7 +1544,7 @@
 |**2023-04-04**|**Denoising Diffusion Probabilistic Models to Predict the Density of Molecular Clouds**|Duo Xu et.al.|[2304.01670](http://arxiv.org/abs/2304.01670)|null|
 |**2023-04-04**|**Re-thinking Model Inversion Attacks Against Deep Neural Networks**|Ngoc-Bao Nguyen et.al.|[2304.01669](http://arxiv.org/abs/2304.01669)|**[link](https://github.com/sutd-visual-computing-group/Re-thinking_MI)**|
 
-<p align=right>(<a href=#Updated-on-20230416>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230417>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
