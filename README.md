@@ -514,6 +514,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-14**|**FM-Loc: Using Foundation Models for Improved Vision-based Localization**|Reihaneh Mirjalili et.al.|[2304.07058](http://arxiv.org/abs/2304.07058)|null|
+|**2023-04-14**|**Toward Real-Time Image Annotation Using Marginalized Coupled Dictionary Learning**|Seyed Mahdi Roostaiyan et.al.|[2304.06907](http://arxiv.org/abs/2304.06907)|**[link](https://github.com/hamid-amiri/mcdl-image-annotation)**|
 |**2023-04-14**|**You are here! Finding position and orientation on a 2D map from a single image: The Flatlandia localization problem and dataset**|Matteo Toso et.al.|[2304.06373](http://arxiv.org/abs/2304.06373)|**[link](https://github.com/IIT-PAVIS/Flatlandia)**|
 |**2023-04-12**|**Open-TransMind: A New Baseline and Benchmark for 1st Foundation Model Challenge of Intelligent Transportation**|Yifeng Shi et.al.|[2304.06051](http://arxiv.org/abs/2304.06051)|**[link](https://github.com/Traffic-X/Open-TransMind)**|
 |**2023-04-12**|**Visual Localization using Imperfect 3D Models from the Internet**|Vojtech Panek et.al.|[2304.05947](http://arxiv.org/abs/2304.05947)|**[link](https://github.com/v-pnk/cadloc)**|
@@ -1162,6 +1164,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-14**|**UVA: Towards Unified Volumetric Avatar for View Synthesis, Pose rendering, Geometry and Texture Editing**|Jinlong Fan et.al.|[2304.06969](http://arxiv.org/abs/2304.06969)|null|
 |**2023-04-13**|**Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction**|Hansheng Chen et.al.|[2304.06714](http://arxiv.org/abs/2304.06714)|null|
 |**2023-04-13**|**Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields**|Jonathan T. Barron et.al.|[2304.06706](http://arxiv.org/abs/2304.06706)|null|
 |**2023-04-13**|**NeRFVS: Neural Radiance Fields for Free View Synthesis via Geometry Scaffolds**|Chen Yang et.al.|[2304.06287](http://arxiv.org/abs/2304.06287)|null|
@@ -1463,6 +1466,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-14**|**CAD-RADS scoring of coronary CT angiography with Multi-Axis Vision Transformer: a clinically-inspired deep learning pipeline**|Alessia Gerbasi et.al.|[2304.07277](http://arxiv.org/abs/2304.07277)|null|
+|**2023-04-14**|**Fusing Structure from Motion and Simulation-Augmented Pose Regression from Optical Flow for Challenging Indoor Environments**|Felix Ott et.al.|[2304.07250](http://arxiv.org/abs/2304.07250)|null|
+|**2023-04-14**|**Adapting Meter Tracking Models to Latin American Music**|Lucas S. Maia et.al.|[2304.07186](http://arxiv.org/abs/2304.07186)|null|
+|**2023-04-14**|**Tailored Multi-Organ Segmentation with Model Adaptation and Ensemble**|Jiahua Dong et.al.|[2304.07123](http://arxiv.org/abs/2304.07123)|null|
+|**2023-04-14**|**FairRec: Fairness Testing for Deep Recommender Systems**|Huizhong Guo et.al.|[2304.07030](http://arxiv.org/abs/2304.07030)|**[link](https://github.com/grey-z/fairrec)**|
+|**2023-04-14**|**Long-term instabilities of deep learning-based digital twins of the climate system: The cause and a solution**|Ashesh Chattopadhyay et.al.|[2304.07029](http://arxiv.org/abs/2304.07029)|null|
+|**2023-04-14**|**Continuous time recurrent neural networks: overview and application to forecasting blood glucose in the intensive care unit**|Oisin Fitzgerald et.al.|[2304.07025](http://arxiv.org/abs/2304.07025)|null|
+|**2023-04-14**|**DIPNet: Efficiency Distillation and Iterative Pruning for Image Super-Resolution**|Lei Yu et.al.|[2304.07018](http://arxiv.org/abs/2304.07018)|null|
+|**2023-04-14**|**Self-Supervised Learning based Depth Estimation from Monocular Images**|Mayank Poddar et.al.|[2304.06966](http://arxiv.org/abs/2304.06966)|**[link](https://github.com/nyu-ce-projects/depth-estimation)**|
+|**2023-04-14**|**Uncertainty-Aware Null Space Networks for Data-Consistent Image Reconstruction**|Christoph Angermann et.al.|[2304.06955](http://arxiv.org/abs/2304.06955)|**[link](https://github.com/anger-man/cascaded-null-space-learning)**|
 |**2023-04-13**|**STU-Net: Scalable and Transferable Medical Image Segmentation Models Empowered by Large-Scale Supervised Pre-training**|Ziyan Huang et.al.|[2304.06716](http://arxiv.org/abs/2304.06716)|**[link](https://github.com/ziyan-huang/stu-net)**|
 |**2023-04-13**|**Evaluating the Robustness of Interpretability Methods through Explanation Invariance and Equivariance**|Jonathan Crabbé et.al.|[2304.06715](http://arxiv.org/abs/2304.06715)|**[link](https://github.com/jonathancrabbe/robustxai)**|
 |**2023-04-13**|**Deep Learning in Breast Cancer Imaging: A Decade of Progress and Future Directions**|Luyang Luo et.al.|[2304.06662](http://arxiv.org/abs/2304.06662)|null|
