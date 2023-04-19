@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-18**|**Visual-LiDAR Odometry and Mapping with Monocular Scale Correction and Motion Compensation**|Hanyu Cai et.al.|[2304.08978](http://arxiv.org/abs/2304.08978)|null|
 |**2023-04-12**|**SiLK -- Simple Learned Keypoints**|Pierre Gleize et.al.|[2304.06194](http://arxiv.org/abs/2304.06194)|**[link](https://github.com/facebookresearch/silk)**|
 |**2023-04-11**|**ClusterFusion: Real-time Relative Positioning and Dense Reconstruction for UAV Cluster**|Yifei Dong et.al.|[2304.04943](http://arxiv.org/abs/2304.04943)|null|
 |**2023-03-21**|**Learning a Depth Covariance Function**|Eric Dexheimer et.al.|[2303.12157](http://arxiv.org/abs/2303.12157)|null|
@@ -1175,6 +1176,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-18**|**SurfelNeRF: Neural Surfel Radiance Fields for Online Photorealistic Reconstruction of Indoor Scenes**|Yiming Gao et.al.|[2304.08971](http://arxiv.org/abs/2304.08971)|null|
+|**2023-04-18**|**NeAI: A Pre-convoluted Representation for Plug-and-Play Neural Ambient Illumination**|Yiyu Zhuang et.al.|[2304.08757](http://arxiv.org/abs/2304.08757)|null|
 |**2023-04-17**|**MoDA: Modeling Deformable 3D Objects from Casual Videos**|Chaoyue Song et.al.|[2304.08279](http://arxiv.org/abs/2304.08279)|**[link](https://github.com/chaoyuesong/moda)**|
 |**2023-04-17**|**NeRF-Loc: Visual Localization with Conditional Neural Radiance Field**|Jianlin Liu et.al.|[2304.07979](http://arxiv.org/abs/2304.07979)|null|
 |**2023-04-16**|**Likelihood-Based Generative Radiance Field with Latent Space Energy-Based Model for 3D-Aware Disentangled Image Representation**|Yaxuan Zhu et.al.|[2304.07918](http://arxiv.org/abs/2304.07918)|null|
@@ -1482,6 +1485,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-18**|**Structure Preserving Cycle-GAN for Unsupervised Medical Image Domain Adaptation**|Paolo Iacono et.al.|[2304.09164](http://arxiv.org/abs/2304.09164)|null|
+|**2023-04-18**|**Detection and Classification of Glioblastoma Brain Tumor**|Utkarsh Maurya et.al.|[2304.09133](http://arxiv.org/abs/2304.09133)|null|
+|**2023-04-18**|**Performance of GAN-based augmentation for deep learning COVID-19 image classification**|Oleksandr Fedoruk et.al.|[2304.09067](http://arxiv.org/abs/2304.09067)|null|
+|**2023-04-18**|**MER 2023: Multi-label Learning, Modality Robustness, and Semi-Supervised Learning**|Zheng Lian et.al.|[2304.08981](http://arxiv.org/abs/2304.08981)|null|
+|**2023-04-18**|**Saliency-aware Stereoscopic Video Retargeting**|Hassan Imani et.al.|[2304.08852](http://arxiv.org/abs/2304.08852)|null|
+|**2023-04-18**|**UDTIRI: An Open-Source Road Pothole Detection Benchmark Suite**|Sicen Guo et.al.|[2304.08842](http://arxiv.org/abs/2304.08842)|null|
+|**2023-04-18**|**Towards the Transferable Audio Adversarial Attack via Ensemble Methods**|Feng Guo et.al.|[2304.08811](http://arxiv.org/abs/2304.08811)|null|
+|**2023-04-18**|**W-MAE: Pre-trained weather model with masked autoencoder for multi-variable weather forecasting**|Xin Man et.al.|[2304.08754](http://arxiv.org/abs/2304.08754)|null|
+|**2023-04-18**|**An end-to-end, interactive Deep Learning based Annotation system for cursive and print English handwritten text**|Pranav Guruprasad et.al.|[2304.08670](http://arxiv.org/abs/2304.08670)|null|
+|**2023-04-17**|**(LC) $^2$ : LiDAR-Camera Loop Constraints For Cross-Modal Place Recognition**|Alex Junho Lee et.al.|[2304.08660](http://arxiv.org/abs/2304.08660)|null|
 |**2023-04-17**|**Applications of Uncalibrated Image Based Visual Servoing in Micro- and Macroscale Robotics**|Yifan Yin et.al.|[2304.08464](http://arxiv.org/abs/2304.08464)|null|
 |**2023-04-17**|**Deep Learning Criminal Networks**|Haroldo V. Ribeiro et.al.|[2304.08457](http://arxiv.org/abs/2304.08457)|null|
 |**2023-04-17**|**RadarFormer: Lightweight and Accurate Real-Time Radar Object Detection Model**|Yahia Dalbah et.al.|[2304.08447](http://arxiv.org/abs/2304.08447)|**[link](https://github.com/yahidar/radarformer)**|
