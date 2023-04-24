@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-21**|**FSNet: Redesign Self-Supervised MonoDepth for Full-Scale Depth Prediction for Autonomous Driving**|Yuxuan Liu et.al.|[2304.10719](http://arxiv.org/abs/2304.10719)|null|
 |**2023-04-18**|**Visual-LiDAR Odometry and Mapping with Monocular Scale Correction and Motion Compensation**|Hanyu Cai et.al.|[2304.08978](http://arxiv.org/abs/2304.08978)|null|
 |**2023-04-12**|**SiLK -- Simple Learned Keypoints**|Pierre Gleize et.al.|[2304.06194](http://arxiv.org/abs/2304.06194)|**[link](https://github.com/facebookresearch/silk)**|
 |**2023-04-11**|**ClusterFusion: Real-time Relative Positioning and Dense Reconstruction for UAV Cluster**|Yifei Dong et.al.|[2304.04943](http://arxiv.org/abs/2304.04943)|null|
@@ -1157,6 +1158,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-21**|**Omni-Line-of-Sight Imaging for Holistic Shape Reconstruction**|Binbin Huang et.al.|[2304.10780](http://arxiv.org/abs/2304.10780)|null|
+|**2023-04-20**|**A Comparative Neural Radiance Field (NeRF) 3D Analysis of Camera Poses from HoloLens Trajectories and Structure from Motion**|Miriam Jäger et.al.|[2304.10664](http://arxiv.org/abs/2304.10664)|null|
 |**2023-04-20**|**Learning Neural Duplex Radiance Fields for Real-Time View Synthesis**|Ziyu Wan et.al.|[2304.10537](http://arxiv.org/abs/2304.10537)|null|
 |**2023-04-20**|**Nerfbusters: Removing Ghostly Artifacts from Casually Captured NeRFs**|Frederik Warburg et.al.|[2304.10532](http://arxiv.org/abs/2304.10532)|**[link](https://github.com/ethanweber/nerfbusters)**|
 |**2023-04-20**|**ReLight My NeRF: A Dataset for Novel View Synthesis and Relighting of Real World Objects**|Marco Toschi et.al.|[2304.10448](http://arxiv.org/abs/2304.10448)|null|
@@ -1473,6 +1476,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-21**|**Deep-Learning-based Fast and Accurate 3D CT Deformable Image Registration in Lung Cancer**|Yuzhen Ding et.al.|[2304.11135](http://arxiv.org/abs/2304.11135)|null|
+|**2023-04-21**|**A vector quantized masked autoencoder for speech emotion recognition**|Samir Sadok et.al.|[2304.11117](http://arxiv.org/abs/2304.11117)|null|
+|**2023-04-21**|**RGB-D Inertial Odometry for a Resource-Restricted Robot in Dynamic Environments**|Jianheng Liu et.al.|[2304.10987](http://arxiv.org/abs/2304.10987)|null|
+|**2023-04-21**|**Launching a Robust Backdoor Attack under Capability Constrained Scenarios**|Ming Yi et.al.|[2304.10985](http://arxiv.org/abs/2304.10985)|null|
+|**2023-04-21**|**Hear Me Out: A Study on the Use of the Voice Modality for Crowdsourced Relevance Assessments**|Nirmal Roy et.al.|[2304.10881](http://arxiv.org/abs/2304.10881)|null|
+|**2023-04-21**|**Med-Tuning: Exploring Parameter-Efficient Transfer Learning for Medical Volumetric Segmentation**|Wenxuan Wang et.al.|[2304.10880](http://arxiv.org/abs/2304.10880)|null|
+|**2023-04-21**|**Ultra Sharp : Single Image Super Resolution using Residual Dense Network**|Karthick Prasad Gunasekaran et.al.|[2304.10870](http://arxiv.org/abs/2304.10870)|null|
+|**2023-04-21**|**A Deep Learning algorithm to accelerate Algebraic Multigrid methods in Finite Element solvers of 3D elliptic PDEs**|Matteo Caldana et.al.|[2304.10832](http://arxiv.org/abs/2304.10832)|null|
+|**2023-04-21**|**WATT-EffNet: A Lightweight and Accurate Model for Classifying Aerial Disaster Images**|Gao Yu Lee et.al.|[2304.10811](http://arxiv.org/abs/2304.10811)|null|
+|**2023-04-21**|**A Revisit to the Normalized Eight-Point Algorithm and A Self-Supervised Deep Solution**|Bin Fan et.al.|[2304.10771](http://arxiv.org/abs/2304.10771)|null|
 |**2023-04-20**|**Multidimensional Uncertainty Quantification for Deep Neural Networks**|Xujiang Zhao et.al.|[2304.10527](http://arxiv.org/abs/2304.10527)|null|
 |**2023-04-20**|**"Can We Detect Substance Use Disorder?": Knowledge and Time Aware Classification on Social Media from Darkweb**|Usha Lokala et.al.|[2304.10512](http://arxiv.org/abs/2304.10512)|null|
 |**2023-04-20**|**Securing Neural Networks with Knapsack Optimization**|Yakir Gorski et.al.|[2304.10442](http://arxiv.org/abs/2304.10442)|**[link](https://github.com/yg320/secure_inference)**|
