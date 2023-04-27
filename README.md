@@ -516,6 +516,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-26**|**Hydra-Multi: Collaborative Online Construction of 3D Scene Graphs with Multi-Robot Teams**|Yun Chang et.al.|[2304.13487](http://arxiv.org/abs/2304.13487)|null|
+|**2023-04-26**|**STIR: Siamese Transformer for Image Retrieval Postprocessing**|Aleksei Shabanov et.al.|[2304.13393](http://arxiv.org/abs/2304.13393)|**[link](https://github.com/OML-Team/open-metric-learning)**|
 |**2023-04-25**|**DualSlide: Global-to-Local Sketching Interface for Slide Content and Layout Design**|Jiahao Weng et.al.|[2304.12506](http://arxiv.org/abs/2304.12506)|null|
 |**2023-04-24**|**Rank Flow Embedding for Unsupervised and Semi-Supervised Manifold Learning**|Lucas Pascotti Valem et.al.|[2304.12448](http://arxiv.org/abs/2304.12448)|null|
 |**2023-04-23**|**IDLL: Inverse Depth Line based Visual Localization in Challenging Environments**|Wanting Li et.al.|[2304.11748](http://arxiv.org/abs/2304.11748)|null|
@@ -1181,6 +1183,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-26**|**Super-NeRF: View-consistent Detail Generation for NeRF super-resolution**|Yuqi Han et.al.|[2304.13518](http://arxiv.org/abs/2304.13518)|null|
+|**2023-04-26**|**VGOS: Voxel Grid Optimization for View Synthesis from Sparse Inputs**|Jiakai Sun et.al.|[2304.13386](http://arxiv.org/abs/2304.13386)|**[link](https://github.com/sjojok/vgos)**|
 |**2023-04-25**|**Local Implicit Ray Function for Generalizable Radiance Field Representation**|Xin Huang et.al.|[2304.12746](http://arxiv.org/abs/2304.12746)|null|
 |**2023-04-26**|**MixNeRF: Memory Efficient NeRF with Feature Mixed-up Hash Table**|Yongjae Lee et.al.|[2304.12587](http://arxiv.org/abs/2304.12587)|**[link](https://github.com/nfyfamr/mixnerf)**|
 |**2023-04-24**|**Instant-3D: Instant Neural Radiance Field Training Towards On-Device AR/VR 3D Reconstruction**|Sixu Li et.al.|[2304.12467](http://arxiv.org/abs/2304.12467)|null|
@@ -1512,6 +1516,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-26**|**Multi-View Stereo Representation Revist: Region-Aware MVSNet**|Yisu Zhang et.al.|[2304.13614](http://arxiv.org/abs/2304.13614)|null|
+|**2023-04-26**|**Mixing Data Augmentation with Preserving Foreground Regions in Medical Image Segmentation**|Xiaoqing Liu et.al.|[2304.13490](http://arxiv.org/abs/2304.13490)|null|
+|**2023-04-26**|**Comparison of artificial neural network adaptive control techniques for a nonlinear system with delay**|Bartłomiej Guś et.al.|[2304.13468](http://arxiv.org/abs/2304.13468)|null|
+|**2023-04-26**|**Are Explainability Tools Gender Biased? A Case Study on Face Presentation Attack Detection**|Marco Huber et.al.|[2304.13419](http://arxiv.org/abs/2304.13419)|null|
+|**2023-04-26**|**Deep Lifelong Cross-modal Hashing**|Liming Xu et.al.|[2304.13357](http://arxiv.org/abs/2304.13357)|null|
+|**2023-04-26**|**SMPC-based Federated Learning for 6G enabled Internet of Medical Things**|Aditya Pribadi Kalapaaking et.al.|[2304.13352](http://arxiv.org/abs/2304.13352)|null|
+|**2023-04-26**|**Nonsmooth nonconvex stochastic heavy ball**|Tam Le et.al.|[2304.13328](http://arxiv.org/abs/2304.13328)|null|
+|**2023-04-26**|**HiQ -- A Declarative, Non-intrusive, Dynamic and Transparent Observability and Optimization System**|Fuheng Wu et.al.|[2304.13302](http://arxiv.org/abs/2304.13302)|**[link](https://github.com/oracle/hiq)**|
+|**2023-04-26**|**UNADON: Transformer-based model to predict genome-wide chromosome spatial position**|Muyu Yang et.al.|[2304.13230](http://arxiv.org/abs/2304.13230)|null|
+|**2023-04-26**|**Generating Adversarial Examples with Task Oriented Multi-Objective Optimization**|Anh Bui et.al.|[2304.13229](http://arxiv.org/abs/2304.13229)|null|
 |**2023-04-25**|**CompletionFormer: Depth Completion with Convolutions and Vision Transformers**|Zhang Youmin et.al.|[2304.13030](http://arxiv.org/abs/2304.13030)|**[link](https://github.com/youmi-zym/completionformer)**|
 |**2023-04-25**|**Bake off redux: a review and experimental evaluation of recent time series classification algorithms**|Matthew Middlehurst et.al.|[2304.13029](http://arxiv.org/abs/2304.13029)|null|
 |**2023-04-25**|**Certifying Ensembles: A General Certification Theory with S-Lipschitzness**|Aleksandar Petrov et.al.|[2304.13019](http://arxiv.org/abs/2304.13019)|null|
