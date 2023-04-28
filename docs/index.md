@@ -504,7 +504,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-04-26**|**Hydra-Multi: Collaborative Online Construction of 3D Scene Graphs with Multi-Robot Teams**|Yun Chang et.al.|[2304.13487](http://arxiv.org/abs/2304.13487)|null|
-|**2023-04-27**|**STIR: Siamese Transformer for Image Retrieval Postprocessing**|Aleksei Shabanov et.al.|[2304.13393](http://arxiv.org/abs/2304.13393)|**[link](https://github.com/OML-Team/open-metric-learning/tree/main/pipelines/postprocessing/pairwise_postprocessing)**|
+|**2023-04-27**|**STIR: Siamese Transformer for Image Retrieval Postprocessing**|Aleksei Shabanov et.al.|[2304.13393](http://arxiv.org/abs/2304.13393)|null|
 |**2023-04-25**|**DualSlide: Global-to-Local Sketching Interface for Slide Content and Layout Design**|Jiahao Weng et.al.|[2304.12506](http://arxiv.org/abs/2304.12506)|null|
 |**2023-04-24**|**Rank Flow Embedding for Unsupervised and Semi-Supervised Manifold Learning**|Lucas Pascotti Valem et.al.|[2304.12448](http://arxiv.org/abs/2304.12448)|**[link](https://github.com/UDLF/UDLF)**|
 |**2023-04-23**|**IDLL: Inverse Depth Line based Visual Localization in Challenging Environments**|Wanting Li et.al.|[2304.11748](http://arxiv.org/abs/2304.11748)|null|
@@ -1164,6 +1164,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-27**|**ActorsNeRF: Animatable Few-shot Human Rendering with Generalizable NeRFs**|Jiteng Mu et.al.|[2304.14401](http://arxiv.org/abs/2304.14401)|null|
+|**2023-04-27**|**Combining HoloLens with Instant-NeRFs: Advanced Real-Time 3D Mobile Mapping**|Dennis Haitz et.al.|[2304.14301](http://arxiv.org/abs/2304.14301)|null|
+|**2023-04-27**|**Compositional 3D Human-Object Neural Animation**|Zhi Hou et.al.|[2304.14070](http://arxiv.org/abs/2304.14070)|null|
 |**2023-04-26**|**Super-NeRF: View-consistent Detail Generation for NeRF super-resolution**|Yuqi Han et.al.|[2304.13518](http://arxiv.org/abs/2304.13518)|null|
 |**2023-04-26**|**VGOS: Voxel Grid Optimization for View Synthesis from Sparse Inputs**|Jiakai Sun et.al.|[2304.13386](http://arxiv.org/abs/2304.13386)|**[link](https://github.com/sjojok/vgos)**|
 |**2023-04-25**|**Local Implicit Ray Function for Generalizable Radiance Field Representation**|Xin Huang et.al.|[2304.12746](http://arxiv.org/abs/2304.12746)|null|
@@ -1495,6 +1498,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-27**|**Maximizing Model Generalization for Manufacturing with Self-Supervised Learning and Federated Learning**|Matthew Russell et.al.|[2304.14398](http://arxiv.org/abs/2304.14398)|null|
+|**2023-04-27**|**Towards Efficient and Comprehensive Urban Spatial-Temporal Prediction: A Unified Library and Performance Benchmark**|Jingyuan Wang et.al.|[2304.14343](http://arxiv.org/abs/2304.14343)|null|
+|**2023-04-27**|**A Probabilistic Attention Model with Occlusion-aware Texture Regression for 3D Hand Reconstruction from a Single RGB Image**|Zheheng Jiang et.al.|[2304.14299](http://arxiv.org/abs/2304.14299)|**[link](https://github.com/zhehengjianglancaster/amvur)**|
+|**2023-04-27**|**Distinguishing a planetary transit from false positives: a Transformer-based classification for planetary transit signals**|Helem Salinas et.al.|[2304.14283](http://arxiv.org/abs/2304.14283)|null|
+|**2023-04-27**|**TorchBench: Benchmarking PyTorch with High API Surface Coverage**|Yueming Hao et.al.|[2304.14226](http://arxiv.org/abs/2304.14226)|null|
+|**2023-04-27**|**A Modular Approach for Multilingual Timex Detection and Normalization using Deep Learning and Grammar-based methods**|Nayla Escribano et.al.|[2304.14221](http://arxiv.org/abs/2304.14221)|null|
+|**2023-04-27**|**ClusterNet: A Perception-Based Clustering Model for Scattered Data**|Sebastian Hartwig et.al.|[2304.14185](http://arxiv.org/abs/2304.14185)|null|
+|**2023-04-27**|**Categorification of Group Equivariant Neural Networks**|Edward Pearce-Crump et.al.|[2304.14144](http://arxiv.org/abs/2304.14144)|null|
+|**2023-04-27**|**TempEE: Temporal-Spatial Parallel Transformer for Radar Echo Extrapolation Beyond Auto-Regression**|Shengchao Chen et.al.|[2304.14131](http://arxiv.org/abs/2304.14131)|null|
+|**2023-04-27**|**Towards Precise Weakly Supervised Object Detection via Interactive Contrastive Learning of Context Information**|Lai Qi et.al.|[2304.14114](http://arxiv.org/abs/2304.14114)|null|
 |**2023-04-27**|**Multi-View Stereo Representation Revisit: Region-Aware MVSNet**|Yisu Zhang et.al.|[2304.13614](http://arxiv.org/abs/2304.13614)|null|
 |**2023-04-26**|**Mixing Data Augmentation with Preserving Foreground Regions in Medical Image Segmentation**|Xiaoqing Liu et.al.|[2304.13490](http://arxiv.org/abs/2304.13490)|null|
 |**2023-04-26**|**Comparison of artificial neural network adaptive control techniques for a nonlinear system with delay**|Bartłomiej Guś et.al.|[2304.13468](http://arxiv.org/abs/2304.13468)|null|
