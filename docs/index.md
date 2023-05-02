@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-29**|**Modality-invariant Visual Odometry for Embodied Vision**|Marius Memmel et.al.|[2305.00348](http://arxiv.org/abs/2305.00348)|**[link](https://github.com/memmelma/vo-transformer)**|
 |**2023-04-21**|**FSNet: Redesign Self-Supervised MonoDepth for Full-Scale Depth Prediction for Autonomous Driving**|Yuxuan Liu et.al.|[2304.10719](http://arxiv.org/abs/2304.10719)|null|
 |**2023-04-18**|**Visual-LiDAR Odometry and Mapping with Monocular Scale Correction and Motion Compensation**|Hanyu Cai et.al.|[2304.08978](http://arxiv.org/abs/2304.08978)|null|
 |**2023-04-12**|**SiLK -- Simple Learned Keypoints**|Pierre Gleize et.al.|[2304.06194](http://arxiv.org/abs/2304.06194)|**[link](https://github.com/facebookresearch/silk)**|
@@ -503,6 +504,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-30**|**Second-order Anisotropic Gaussian Directional Derivative Filters for Blob Detection**|Jie Ren et.al.|[2305.00435](http://arxiv.org/abs/2305.00435)|null|
 |**2023-04-28**|**SFD2: Semantic-guided Feature Detection and Description**|Fei Xue et.al.|[2304.14845](http://arxiv.org/abs/2304.14845)|null|
 |**2023-04-28**|**Quantum enhanced non-interferometric quantitative phase imaging**|Giuseppe Ortolano et.al.|[2304.14727](http://arxiv.org/abs/2304.14727)|null|
 |**2023-04-26**|**Hydra-Multi: Collaborative Online Construction of 3D Scene Graphs with Multi-Robot Teams**|Yun Chang et.al.|[2304.13487](http://arxiv.org/abs/2304.13487)|null|
@@ -1034,6 +1036,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-29**|**A Comprehensive Review of Image Line Segment Detection and Description: Taxonomies, Comparisons, and Challenges**|Xinyu Lin et.al.|[2305.00264](http://arxiv.org/abs/2305.00264)|null|
 |**2023-04-28**|**SFD2: Semantic-guided Feature Detection and Description**|Fei Xue et.al.|[2304.14845](http://arxiv.org/abs/2304.14845)|null|
 |**2023-04-17**|**DeepSim-Nets: Deep Similarity Networks for Stereo Image Matching**|Mohamed Ali Chebbi et.al.|[2304.08056](http://arxiv.org/abs/2304.08056)|**[link](https://github.com/dalichebbi/deepsimnets)**|
 |**2023-04-16**|**Long-term Visual Localization with Mobile Sensors**|Shen Yan et.al.|[2304.07691](http://arxiv.org/abs/2304.07691)|null|
@@ -1167,6 +1170,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-01**|**GeneFace++: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation**|Zhenhui Ye et.al.|[2305.00787](http://arxiv.org/abs/2305.00787)|null|
+|**2023-04-30**|**Neural Radiance Fields (NeRFs): A Review and Some Recent Developments**|Mohamed Debbagh et.al.|[2305.00375](http://arxiv.org/abs/2305.00375)|null|
+|**2023-04-28**|**ViP-NeRF: Visibility Prior for Sparse Input Neural Radiance Fields**|Nagabhushan Somraj et.al.|[2305.00041](http://arxiv.org/abs/2305.00041)|null|
 |**2023-04-28**|**NeRF-LiDAR: Generating Realistic LiDAR Point Clouds with Neural Radiance Fields**|Junge Zhang et.al.|[2304.14811](http://arxiv.org/abs/2304.14811)|null|
 |**2023-04-27**|**Learning a Diffusion Prior for NeRFs**|Guandao Yang et.al.|[2304.14473](http://arxiv.org/abs/2304.14473)|null|
 |**2023-04-27**|**ActorsNeRF: Animatable Few-shot Human Rendering with Generalizable NeRFs**|Jiteng Mu et.al.|[2304.14401](http://arxiv.org/abs/2304.14401)|null|
@@ -1503,6 +1509,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-01**|**Behavioral Forensics in Social Networks: Identifying Misinformation, Disinformation and Refutation Spreaders Using Machine Learning**|Euna Mehnaz Khan et.al.|[2305.00957](http://arxiv.org/abs/2305.00957)|null|
+|**2023-05-01**|**Variational Inference for Bayesian Neural Networks under Model and Parameter Uncertainty**|Aliaksandr Hubin et.al.|[2305.00934](http://arxiv.org/abs/2305.00934)|**[link](https://github.com/aliaksah/variational-inference-for-bayesian-neural-networks-under-model-and-parameter-uncertainty)**|
+|**2023-05-01**|**IoTFlowGenerator: Crafting Synthetic IoT Device Traffic Flows for Cyber Deception**|Joseph Bao et.al.|[2305.00925](http://arxiv.org/abs/2305.00925)|null|
+|**2023-05-01**|**Early Detection of Alzheimer's Disease using Bottleneck Transformers**|Arunima Jaiswal et.al.|[2305.00923](http://arxiv.org/abs/2305.00923)|null|
+|**2023-05-01**|**FCA: Taming Long-tailed Federated Medical Image Classification by Classifier Anchoring**|Jeffry Wicaksana et.al.|[2305.00738](http://arxiv.org/abs/2305.00738)|**[link](https://github.com/jwicaksana/fca)**|
+|**2023-05-01**|**Event Camera as Region Proposal Network**|Shrutarv Awasthi et.al.|[2305.00718](http://arxiv.org/abs/2305.00718)|null|
+|**2023-05-01**|**Joint tone mapping and denoising of thermal infrared images via multi-scale Retinex and multi-task learning**|Axel Gödrich et.al.|[2305.00691](http://arxiv.org/abs/2305.00691)|null|
+|**2023-05-01**|**slytHErin: An Agile Framework for Encrypted Deep Neural Network Inference**|Francesco Intoci et.al.|[2305.00690](http://arxiv.org/abs/2305.00690)|null|
+|**2023-05-01**|**Enhanced Multi-level Features for Very High Resolution Remote Sensing Scene Classification**|Chiranjibi Sitaula et.al.|[2305.00679](http://arxiv.org/abs/2305.00679)|null|
+|**2023-05-01**|**Rethinking Boundary Detection in Deep Learning Models for Medical Image Segmentation**|Yi Lin et.al.|[2305.00678](http://arxiv.org/abs/2305.00678)|null|
 |**2023-04-28**|**Semi-supervised Road Updating Network (SRUNet): A Deep Learning Method for Road Updating from Remote Sensing Imagery and Historical Vector Maps**|Xin Chen et.al.|[2304.14972](http://arxiv.org/abs/2304.14972)|null|
 |**2023-04-28**|**The Exponential Capacity of Dense Associative Memories**|Carlo Lucibello et.al.|[2304.14964](http://arxiv.org/abs/2304.14964)|null|
 |**2023-04-28**|**Unified Noise-aware Network for Low-count PET Denoising**|Huidong Xie et.al.|[2304.14900](http://arxiv.org/abs/2304.14900)|null|
