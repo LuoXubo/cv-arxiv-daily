@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.01
+## Updated on 2023.05.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -503,6 +503,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-28**|**SFD2: Semantic-guided Feature Detection and Description**|Fei Xue et.al.|[2304.14845](http://arxiv.org/abs/2304.14845)|null|
+|**2023-04-28**|**Quantum enhanced non-interferometric quantitative phase imaging**|Giuseppe Ortolano et.al.|[2304.14727](http://arxiv.org/abs/2304.14727)|null|
 |**2023-04-26**|**Hydra-Multi: Collaborative Online Construction of 3D Scene Graphs with Multi-Robot Teams**|Yun Chang et.al.|[2304.13487](http://arxiv.org/abs/2304.13487)|null|
 |**2023-04-27**|**STIR: Siamese Transformer for Image Retrieval Postprocessing**|Aleksei Shabanov et.al.|[2304.13393](http://arxiv.org/abs/2304.13393)|null|
 |**2023-04-25**|**DualSlide: Global-to-Local Sketching Interface for Slide Content and Layout Design**|Jiahao Weng et.al.|[2304.12506](http://arxiv.org/abs/2304.12506)|null|
@@ -1032,6 +1034,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-28**|**SFD2: Semantic-guided Feature Detection and Description**|Fei Xue et.al.|[2304.14845](http://arxiv.org/abs/2304.14845)|null|
 |**2023-04-17**|**DeepSim-Nets: Deep Similarity Networks for Stereo Image Matching**|Mohamed Ali Chebbi et.al.|[2304.08056](http://arxiv.org/abs/2304.08056)|**[link](https://github.com/dalichebbi/deepsimnets)**|
 |**2023-04-16**|**Long-term Visual Localization with Mobile Sensors**|Shen Yan et.al.|[2304.07691](http://arxiv.org/abs/2304.07691)|null|
 |**2023-04-12**|**SiLK -- Simple Learned Keypoints**|Pierre Gleize et.al.|[2304.06194](http://arxiv.org/abs/2304.06194)|**[link](https://github.com/facebookresearch/silk)**|
@@ -1164,6 +1167,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-28**|**NeRF-LiDAR: Generating Realistic LiDAR Point Clouds with Neural Radiance Fields**|Junge Zhang et.al.|[2304.14811](http://arxiv.org/abs/2304.14811)|null|
+|**2023-04-27**|**Learning a Diffusion Prior for NeRFs**|Guandao Yang et.al.|[2304.14473](http://arxiv.org/abs/2304.14473)|null|
 |**2023-04-27**|**ActorsNeRF: Animatable Few-shot Human Rendering with Generalizable NeRFs**|Jiteng Mu et.al.|[2304.14401](http://arxiv.org/abs/2304.14401)|null|
 |**2023-04-27**|**Combining HoloLens with Instant-NeRFs: Advanced Real-Time 3D Mobile Mapping**|Dennis Haitz et.al.|[2304.14301](http://arxiv.org/abs/2304.14301)|null|
 |**2023-04-27**|**Compositional 3D Human-Object Neural Animation**|Zhi Hou et.al.|[2304.14070](http://arxiv.org/abs/2304.14070)|null|
@@ -1498,6 +1503,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-28**|**Semi-supervised Road Updating Network (SRUNet): A Deep Learning Method for Road Updating from Remote Sensing Imagery and Historical Vector Maps**|Xin Chen et.al.|[2304.14972](http://arxiv.org/abs/2304.14972)|null|
+|**2023-04-28**|**The Exponential Capacity of Dense Associative Memories**|Carlo Lucibello et.al.|[2304.14964](http://arxiv.org/abs/2304.14964)|null|
+|**2023-04-28**|**Unified Noise-aware Network for Low-count PET Denoising**|Huidong Xie et.al.|[2304.14900](http://arxiv.org/abs/2304.14900)|null|
+|**2023-04-28**|**Parametric model order reduction for a wildland fire model via the shifted POD based deep learning method**|Shubhaditya Burela et.al.|[2304.14872](http://arxiv.org/abs/2304.14872)|null|
+|**2023-04-28**|**Deep Stock: training and trading scheme using deep learning**|Sungwoo Kang et.al.|[2304.14870](http://arxiv.org/abs/2304.14870)|null|
+|**2023-04-28**|**Deep Learning assisted microwave-plasma interaction based technique for plasma density estimation**|Pratik Ghosh et.al.|[2304.14807](http://arxiv.org/abs/2304.14807)|null|
+|**2023-04-28**|**Semi-Supervised RF Fingerprinting with Consistency-Based Regularization**|Weidong Wang et.al.|[2304.14795](http://arxiv.org/abs/2304.14795)|null|
+|**2023-04-28**|**Learning Graph Neural Networks using Exact Compression**|Jeroen Bollen et.al.|[2304.14793](http://arxiv.org/abs/2304.14793)|null|
+|**2023-04-28**|**Synergy of Machine and Deep Learning Models for Multi-Painter Recognition**|Vassilis Lyberatos et.al.|[2304.14773](http://arxiv.org/abs/2304.14773)|**[link](https://github.com/jliartis/art-recognition)**|
+|**2023-04-28**|**Differentiable Sensor Layouts for End-to-End Learning of Task-Specific Camera Parameters**|Hendrik Sommerhoff et.al.|[2304.14736](http://arxiv.org/abs/2304.14736)|null|
 |**2023-04-27**|**Maximizing Model Generalization for Manufacturing with Self-Supervised Learning and Federated Learning**|Matthew Russell et.al.|[2304.14398](http://arxiv.org/abs/2304.14398)|null|
 |**2023-04-27**|**Towards Efficient and Comprehensive Urban Spatial-Temporal Prediction: A Unified Library and Performance Benchmark**|Jingyuan Wang et.al.|[2304.14343](http://arxiv.org/abs/2304.14343)|**[link](https://github.com/libcity/bigscity-libcity)**|
 |**2023-04-27**|**A Probabilistic Attention Model with Occlusion-aware Texture Regression for 3D Hand Reconstruction from a Single RGB Image**|Zheheng Jiang et.al.|[2304.14299](http://arxiv.org/abs/2304.14299)|**[link](https://github.com/zhehengjianglancaster/amvur)**|
