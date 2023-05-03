@@ -1189,6 +1189,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-02**|**Neural LiDAR Fields for Novel View Synthesis**|Shengyu Huang et.al.|[2305.01643](http://arxiv.org/abs/2305.01643)|null|
+|**2023-05-02**|**LatentAvatar: Learning Latent Expression Code for Expressive Neural Head Avatar**|Yuelang Xu et.al.|[2305.01190](http://arxiv.org/abs/2305.01190)|null|
+|**2023-05-02**|**Federated Neural Radiance Fields**|Lachlan Holden et.al.|[2305.01163](http://arxiv.org/abs/2305.01163)|null|
 |**2023-05-01**|**GeneFace++: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation**|Zhenhui Ye et.al.|[2305.00787](http://arxiv.org/abs/2305.00787)|null|
 |**2023-04-30**|**Neural Radiance Fields (NeRFs): A Review and Some Recent Developments**|Mohamed Debbagh et.al.|[2305.00375](http://arxiv.org/abs/2305.00375)|null|
 |**2023-04-28**|**ViP-NeRF: Visibility Prior for Sparse Input Neural Radiance Fields**|Nagabhushan Somraj et.al.|[2305.00041](http://arxiv.org/abs/2305.00041)|null|
@@ -1530,6 +1533,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-02**|**Deep Learning for Joint Acoustic Echo and Acoustic Howling Suppression in Hybrid Meetings**|Hao Zhang et.al.|[2305.01637](http://arxiv.org/abs/2305.01637)|null|
+|**2023-05-02**|**Revisiting Gradient Clipping: Stochastic bias and tight convergence guarantees**|Anastasia Koloskova et.al.|[2305.01588](http://arxiv.org/abs/2305.01588)|null|
+|**2023-05-02**|**Interpretable Machine Learning for Science with PySR and SymbolicRegression.jl**|Miles Cranmer et.al.|[2305.01582](http://arxiv.org/abs/2305.01582)|**[link](https://github.com/milescranmer/pysr_paper)**|
+|**2023-05-02**|**Touch and deformation perception of soft manipulators with capacitive e-skins and deep learning**|Delin Hu et.al.|[2305.01545](http://arxiv.org/abs/2305.01545)|null|
+|**2023-05-02**|**Discovering the Effectiveness of Pre-Training in a Large-scale Car-sharing Platform**|Kyung Ho Park et.al.|[2305.01506](http://arxiv.org/abs/2305.01506)|null|
+|**2023-05-02**|**Great Models Think Alike: Improving Model Reliability via Inter-Model Latent Agreement**|Ailin Deng et.al.|[2305.01481](http://arxiv.org/abs/2305.01481)|null|
+|**2023-05-02**|**Multimodal Neural Databases**|Giovanni Trappolini et.al.|[2305.01447](http://arxiv.org/abs/2305.01447)|**[link](https://github.com/giovannitra/multimodalneuraldatabases)**|
+|**2023-05-02**|**Sentiment Perception Adversarial Attacks on Neural Machine Translation Systems**|Vyas Raina et.al.|[2305.01437](http://arxiv.org/abs/2305.01437)|null|
+|**2023-05-02**|**Physics-Informed Learning Using Hamiltonian Neural Networks with Output Error Noise Models**|Sarvin Moradi et.al.|[2305.01338](http://arxiv.org/abs/2305.01338)|null|
+|**2023-05-02**|**A Survey of Methods for Converting Unstructured Data to CSG Models**|Pierre-Alain Fayolle et.al.|[2305.01220](http://arxiv.org/abs/2305.01220)|null|
 |**2023-05-01**|**Behavioral Forensics in Social Networks: Identifying Misinformation, Disinformation and Refutation Spreaders Using Machine Learning**|Euna Mehnaz Khan et.al.|[2305.00957](http://arxiv.org/abs/2305.00957)|null|
 |**2023-05-01**|**Variational Inference for Bayesian Neural Networks under Model and Parameter Uncertainty**|Aliaksandr Hubin et.al.|[2305.00934](http://arxiv.org/abs/2305.00934)|**[link](https://github.com/aliaksah/variational-inference-for-bayesian-neural-networks-under-model-and-parameter-uncertainty)**|
 |**2023-05-01**|**IoTFlowGenerator: Crafting Synthetic IoT Device Traffic Flows for Cyber Deception**|Joseph Bao et.al.|[2305.00925](http://arxiv.org/abs/2305.00925)|null|
