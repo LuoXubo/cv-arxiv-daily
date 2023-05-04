@@ -504,6 +504,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-03**|**A Neural Divide-and-Conquer Reasoning Framework for Image Retrieval from Linguistically Complex Text**|Yunxin Li et.al.|[2305.02265](http://arxiv.org/abs/2305.02265)|**[link](https://github.com/yunxinli/ndcr)**|
+|**2023-05-03**|**AV-SAM: Segment Anything Model Meets Audio-Visual Localization and Segmentation**|Shentong Mo et.al.|[2305.01836](http://arxiv.org/abs/2305.01836)|null|
 |**2023-04-30**|**Second-order Anisotropic Gaussian Directional Derivative Filters for Blob Detection**|Jie Ren et.al.|[2305.00435](http://arxiv.org/abs/2305.00435)|null|
 |**2023-04-28**|**SFD2: Semantic-guided Feature Detection and Description**|Fei Xue et.al.|[2304.14845](http://arxiv.org/abs/2304.14845)|null|
 |**2023-04-28**|**Quantum enhanced non-interferometric quantitative phase imaging**|Giuseppe Ortolano et.al.|[2304.14727](http://arxiv.org/abs/2304.14727)|null|
@@ -1512,6 +1514,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-03**|**Making the Most of What You Have: Adapting Pre-trained Visual Language Models in the Low-data Regime**|Chuhan Zhang et.al.|[2305.02297](http://arxiv.org/abs/2305.02297)|null|
+|**2023-05-03**|**Iranian License Plate Recognition Using a Reliable Deep Learning Approach**|Soheila Hatami et.al.|[2305.02292](http://arxiv.org/abs/2305.02292)|null|
+|**2023-05-03**|**Continual Reasoning: Non-Monotonic Reasoning in Neurosymbolic AI using Continual Learning**|Sofoklis Kyriakopoulos et.al.|[2305.02171](http://arxiv.org/abs/2305.02171)|null|
+|**2023-05-03**|**Semi-Supervised Segmentation of Functional Tissue Units at the Cellular Level**|Volodymyr Sydorskyi et.al.|[2305.02148](http://arxiv.org/abs/2305.02148)|**[link](https://github.com/vsydorskyy/hubmap_2022_htt_solution)**|
+|**2023-05-03**|**Automatic Parameterization for Aerodynamic Shape Optimization via Deep Geometric Learning**|Zhen Wei et.al.|[2305.02116](http://arxiv.org/abs/2305.02116)|null|
+|**2023-05-03**|**What makes a good pause? Investigating the turn-holding effects of fillers**|Bing'er Jiang et.al.|[2305.02101](http://arxiv.org/abs/2305.02101)|null|
+|**2023-05-03**|**Removing Human Bottlenecks in Bird Classification Using Camera Trap Images and Deep Learning**|Carl Chalmers et.al.|[2305.02097](http://arxiv.org/abs/2305.02097)|null|
+|**2023-05-03**|**Efficient CNN-based Super Resolution Algorithms for mmWave Mobile Radar Imaging**|Christos Vasileiou et.al.|[2305.02092](http://arxiv.org/abs/2305.02092)|null|
+|**2023-05-03**|**A Systematic Study on Object Recognition Using Millimeter-wave Radar**|Maloy Kumar Devnath et.al.|[2305.02085](http://arxiv.org/abs/2305.02085)|null|
+|**2023-05-03**|**Unsupervised Mutual Transformer Learning for Multi-Gigapixel Whole Slide Image Classification**|Sajid Javed et.al.|[2305.02032](http://arxiv.org/abs/2305.02032)|null|
 |**2023-05-02**|**Deep Learning for Joint Acoustic Echo and Acoustic Howling Suppression in Hybrid Meetings**|Hao Zhang et.al.|[2305.01637](http://arxiv.org/abs/2305.01637)|null|
 |**2023-05-02**|**Revisiting Gradient Clipping: Stochastic bias and tight convergence guarantees**|Anastasia Koloskova et.al.|[2305.01588](http://arxiv.org/abs/2305.01588)|null|
 |**2023-05-02**|**Interpretable Machine Learning for Science with PySR and SymbolicRegression.jl**|Miles Cranmer et.al.|[2305.01582](http://arxiv.org/abs/2305.01582)|**[link](https://github.com/milescranmer/pysr_paper)**|
