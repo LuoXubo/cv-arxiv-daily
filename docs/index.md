@@ -504,6 +504,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-04**|**Boundary-aware Backward-Compatible Representation via Adversarial Learning in Image Retrieval**|Tan Pan et.al.|[2305.02610](http://arxiv.org/abs/2305.02610)|**[link](https://github.com/ashespt/advbct)**|
+|**2023-05-03**|**Learning-based Relational Object Matching Across Views**|Cathrin Elich et.al.|[2305.02398](http://arxiv.org/abs/2305.02398)|null|
 |**2023-05-03**|**A Neural Divide-and-Conquer Reasoning Framework for Image Retrieval from Linguistically Complex Text**|Yunxin Li et.al.|[2305.02265](http://arxiv.org/abs/2305.02265)|**[link](https://github.com/yunxinli/ndcr)**|
 |**2023-05-03**|**AV-SAM: Segment Anything Model Meets Audio-Visual Localization and Segmentation**|Shentong Mo et.al.|[2305.01836](http://arxiv.org/abs/2305.01836)|null|
 |**2023-04-30**|**Second-order Anisotropic Gaussian Directional Derivative Filters for Blob Detection**|Jie Ren et.al.|[2305.00435](http://arxiv.org/abs/2305.00435)|null|
@@ -1172,6 +1174,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-04**|**NeuralEditor: Editing Neural Radiance Fields via Manipulating Point Clouds**|Jun-Kun Chen et.al.|[2305.03049](http://arxiv.org/abs/2305.03049)|null|
+|**2023-05-04**|**Radiance Field Gradient Scaling for Unbiased Near-Camera Training**|Julien Philip et.al.|[2305.02756](http://arxiv.org/abs/2305.02756)|**[link](https://github.com/gradient-scaling/gradient-scaling.github.io)**|
+|**2023-05-04**|**Semantic-aware Generation of Multi-view Portrait Drawings**|Biao Ma et.al.|[2305.02618](http://arxiv.org/abs/2305.02618)|**[link](https://github.com/aiart-hdu/sage)**|
 |**2023-05-02**|**Neural LiDAR Fields for Novel View Synthesis**|Shengyu Huang et.al.|[2305.01643](http://arxiv.org/abs/2305.01643)|null|
 |**2023-05-03**|**LatentAvatar: Learning Latent Expression Code for Expressive Neural Head Avatar**|Yuelang Xu et.al.|[2305.01190](http://arxiv.org/abs/2305.01190)|null|
 |**2023-05-02**|**Federated Neural Radiance Fields**|Lachlan Holden et.al.|[2305.01163](http://arxiv.org/abs/2305.01163)|null|
@@ -1514,6 +1519,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-04**|**Ultrahigh oxygen ion mobility in ferroelectric hafnia**|Liyang Ma et.al.|[2305.02952](http://arxiv.org/abs/2305.02952)|null|
+|**2023-05-04**|**Leveraging gradient-derived metrics for data selection and valuation in differentially private training**|Dmitrii Usynin et.al.|[2305.02942](http://arxiv.org/abs/2305.02942)|null|
+|**2023-05-04**|**Image Captioners Sometimes Tell More Than Images They See**|Honori Udo et.al.|[2305.02932](http://arxiv.org/abs/2305.02932)|null|
+|**2023-05-04**|**Forward-Forward Contrastive Learning**|Md. Atik Ahamed et.al.|[2305.02927](http://arxiv.org/abs/2305.02927)|null|
+|**2023-05-04**|**Bridging Theory with Experiment: Digital Twins and Deep Learning Segmentation of Defects in Monolayer MX2 Phases**|Addis S. Fuhr et.al.|[2305.02917](http://arxiv.org/abs/2305.02917)|null|
+|**2023-05-04**|**Interpretable Sentence Representation with Variational Autoencoders and Attention**|Ghazi Felhi et.al.|[2305.02810](http://arxiv.org/abs/2305.02810)|null|
+|**2023-05-04**|**The Elephant in the Room: Analyzing the Presence of Big Tech in Natural Language Processing Research**|Mohamed Abdalla et.al.|[2305.02797](http://arxiv.org/abs/2305.02797)|null|
+|**2023-05-04**|**ItoV: Efficiently Adapting Deep Learning-based Image Watermarking to Video Watermarking**|Guanhui Ye et.al.|[2305.02781](http://arxiv.org/abs/2305.02781)|null|
+|**2023-05-04**|**Towards End-to-End Semi-Supervised Table Detection with Deformable Transformer**|Tahira Shehzadi et.al.|[2305.02769](http://arxiv.org/abs/2305.02769)|null|
+|**2023-05-04**|**Deep Learning Aided Beamforming for Downlink Non Orthogonal Multiple Access Systems**|Georgios Konstantopoulos et.al.|[2305.02744](http://arxiv.org/abs/2305.02744)|null|
 |**2023-05-03**|**Making the Most of What You Have: Adapting Pre-trained Visual Language Models in the Low-data Regime**|Chuhan Zhang et.al.|[2305.02297](http://arxiv.org/abs/2305.02297)|null|
 |**2023-05-03**|**Iranian License Plate Recognition Using a Reliable Deep Learning Approach**|Soheila Hatami et.al.|[2305.02292](http://arxiv.org/abs/2305.02292)|null|
 |**2023-05-03**|**Continual Reasoning: Non-Monotonic Reasoning in Neurosymbolic AI using Continual Learning**|Sofoklis Kyriakopoulos et.al.|[2305.02171](http://arxiv.org/abs/2305.02171)|null|
