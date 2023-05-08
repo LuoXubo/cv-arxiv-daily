@@ -517,6 +517,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-05**|**COLA: How to adapt vision-language models to Compose Objects Localized with Attributes?**|Arijit Ray et.al.|[2305.03689](http://arxiv.org/abs/2305.03689)|null|
+|**2023-05-05**|**HSCNet++: Hierarchical Scene Coordinate Classification and Regression for Visual Localization with Transformer**|Shuzhe Wang et.al.|[2305.03595](http://arxiv.org/abs/2305.03595)|null|
+|**2023-05-05**|**WWFedCBMIR: World-Wide Federated Content-Based Medical Image Retrieval**|Zahra Tabatabaei et.al.|[2305.03383](http://arxiv.org/abs/2305.03383)|null|
 |**2023-05-04**|**Boundary-aware Backward-Compatible Representation via Adversarial Learning in Image Retrieval**|Tan Pan et.al.|[2305.02610](http://arxiv.org/abs/2305.02610)|**[link](https://github.com/ashespt/advbct)**|
 |**2023-05-03**|**Learning-based Relational Object Matching Across Views**|Cathrin Elich et.al.|[2305.02398](http://arxiv.org/abs/2305.02398)|null|
 |**2023-05-05**|**A Neural Divide-and-Conquer Reasoning Framework for Image Retrieval from Linguistically Complex Text**|Yunxin Li et.al.|[2305.02265](http://arxiv.org/abs/2305.02265)|**[link](https://github.com/yunxinli/ndcr)**|
@@ -918,6 +921,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-05**|**HD2Reg: Hierarchical Descriptors and Detectors for Point Cloud Registration**|Canhui Tang et.al.|[2305.03487](http://arxiv.org/abs/2305.03487)|**[link](https://github.com/hui-design/hd2reg)**|
 |**2023-04-17**|**Human Pose Estimation in Monocular Omnidirectional Top-View Images**|Jingrui Yu et.al.|[2304.08186](http://arxiv.org/abs/2304.08186)|null|
 |**2023-04-14**|**CoPR: Towards Accurate Visual Localization With Continuous Place-descriptor Regression**|Mubariz Zaffar et.al.|[2304.07426](http://arxiv.org/abs/2304.07426)|null|
 |**2023-04-12**|**SiLK -- Simple Learned Keypoints**|Pierre Gleize et.al.|[2304.06194](http://arxiv.org/abs/2304.06194)|**[link](https://github.com/facebookresearch/silk)**|
@@ -1193,6 +1197,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**NeRF-QA: Neural Radiance Fields Quality Assessment Database**|Pedro Martin et.al.|[2305.03176](http://arxiv.org/abs/2305.03176)|null|
 |**2023-05-04**|**NeuralEditor: Editing Neural Radiance Fields via Manipulating Point Clouds**|Jun-Kun Chen et.al.|[2305.03049](http://arxiv.org/abs/2305.03049)|null|
 |**2023-05-04**|**Radiance Field Gradient Scaling for Unbiased Near-Camera Training**|Julien Philip et.al.|[2305.02756](http://arxiv.org/abs/2305.02756)|**[link](https://github.com/gradient-scaling/gradient-scaling.github.io)**|
 |**2023-05-04**|**Semantic-aware Generation of Multi-view Portrait Drawings**|Biao Ma et.al.|[2305.02618](http://arxiv.org/abs/2305.02618)|**[link](https://github.com/aiart-hdu/sage)**|
@@ -1540,6 +1545,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-05**|**DSPDet3D: Dynamic Spatial Pruning for 3D Small Object Detection**|Xiuwei Xu et.al.|[2305.03716](http://arxiv.org/abs/2305.03716)|**[link](https://github.com/xuxw98/dspdet3d)**|
+|**2023-05-05**|**Is dataset condensation a silver bullet for healthcare data sharing?**|Yujiang Wang et.al.|[2305.03711](http://arxiv.org/abs/2305.03711)|null|
+|**2023-05-05**|**Data Encoding For Healthcare Data Democratisation and Information Leakage Prevention**|Anshul Thakur et.al.|[2305.03710](http://arxiv.org/abs/2305.03710)|**[link](https://github.com/AnshThakur/Quantum-Encoding)**|
+|**2023-05-05**|**Contrastive Graph Clustering in Curvature Spaces**|Li Sun et.al.|[2305.03555](http://arxiv.org/abs/2305.03555)|null|
+|**2023-05-05**|**Breast Cancer Immunohistochemical Image Generation: a Benchmark Dataset and Challenge Review**|Chuang Zhu et.al.|[2305.03546](http://arxiv.org/abs/2305.03546)|null|
+|**2023-05-05**|**Next-generation Surgical Navigation: Multi-view Marker-less 6DoF Pose Estimation of Surgical Instruments**|Jonas Hein et.al.|[2305.03535](http://arxiv.org/abs/2305.03535)|null|
+|**2023-05-05**|**Leaf Cultivar Identification via Prototype-enhanced Learning**|Yiyi Zhang et.al.|[2305.03351](http://arxiv.org/abs/2305.03351)|null|
+|**2023-05-05**|**Time-weighted Frequency Domain Audio Representation with GMM Estimator for Anomalous Sound Detection**|Jian Guan et.al.|[2305.03328](http://arxiv.org/abs/2305.03328)|null|
+|**2023-05-05**|**Composite Motion Learning with Task Control**|Pei Xu et.al.|[2305.03286](http://arxiv.org/abs/2305.03286)|**[link](https://github.com/xupei0610/compositemotion)**|
+|**2023-05-05**|**Contrastive Learning for Sleep Staging based on Inter Subject Correlation**|Tongxu Zhang et.al.|[2305.03178](http://arxiv.org/abs/2305.03178)|null|
 |**2023-05-04**|**Ultrahigh oxygen ion mobility in ferroelectric hafnia**|Liyang Ma et.al.|[2305.02952](http://arxiv.org/abs/2305.02952)|null|
 |**2023-05-05**|**Leveraging gradient-derived metrics for data selection and valuation in differentially private training**|Dmitrii Usynin et.al.|[2305.02942](http://arxiv.org/abs/2305.02942)|null|
 |**2023-05-04**|**Image Captioners Sometimes Tell More Than Images They See**|Honori Udo et.al.|[2305.02932](http://arxiv.org/abs/2305.02932)|null|
