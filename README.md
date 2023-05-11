@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-10**|**Transformer-based model for monocular visual odometry: a video understanding approach**|André O. Françani et.al.|[2305.06121](http://arxiv.org/abs/2305.06121)|null|
 |**2023-04-29**|**Modality-invariant Visual Odometry for Embodied Vision**|Marius Memmel et.al.|[2305.00348](http://arxiv.org/abs/2305.00348)|**[link](https://github.com/memmelma/vo-transformer)**|
 |**2023-04-21**|**FSNet: Redesign Self-Supervised MonoDepth for Full-Scale Depth Prediction for Autonomous Driving**|Yuxuan Liu et.al.|[2304.10719](http://arxiv.org/abs/2304.10719)|null|
 |**2023-04-18**|**Visual-LiDAR Odometry and Mapping with Monocular Scale Correction and Motion Compensation**|Hanyu Cai et.al.|[2304.08978](http://arxiv.org/abs/2304.08978)|null|
@@ -517,6 +518,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-09**|**Visual Place Recognition with Low-Resolution Images**|Mihnea-Alexandru Tomita et.al.|[2305.05776](http://arxiv.org/abs/2305.05776)|null|
+|**2023-05-09**|**Vision-Language Models in Remote Sensing: Current Progress and Future Trends**|Congcong Wen et.al.|[2305.05726](http://arxiv.org/abs/2305.05726)|null|
+|**2023-05-09**|**An Evaluation and Ranking of Different Voting Schemes for Improved Visual Place Recognition**|Maria Waheed et.al.|[2305.05705](http://arxiv.org/abs/2305.05705)|null|
 |**2023-05-09**|**Region-based Contrastive Pretraining for Medical Image Retrieval with Anatomic Query**|Ho Hin Lee et.al.|[2305.05598](http://arxiv.org/abs/2305.05598)|null|
 |**2023-05-09**|**ColonMapper: topological mapping and localization for colonoscopy**|Javier Morlana et.al.|[2305.05546](http://arxiv.org/abs/2305.05546)|null|
 |**2023-05-09**|**Eiffel Tower: A Deep-Sea Underwater Dataset for Long-Term Visual Localization**|Clémentin Boittiaux et.al.|[2305.05301](http://arxiv.org/abs/2305.05301)|**[link](https://github.com/clementinboittiaux/sfm-pipeline)**|
@@ -1070,6 +1074,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-10**|**Level-line Guided Edge Drawing for Robust Line Segment Detection**|Xinyu Lin et.al.|[2305.05883](http://arxiv.org/abs/2305.05883)|**[link](https://github.com/roylin1229/gedrlsd)**|
 |**2023-05-09**|**ColonMapper: topological mapping and localization for colonoscopy**|Javier Morlana et.al.|[2305.05546](http://arxiv.org/abs/2305.05546)|null|
 |**2023-04-29**|**A Comprehensive Review of Image Line Segment Detection and Description: Taxonomies, Comparisons, and Challenges**|Xinyu Lin et.al.|[2305.00264](http://arxiv.org/abs/2305.00264)|null|
 |**2023-04-28**|**SFD2: Semantic-guided Feature Detection and Description**|Fei Xue et.al.|[2304.14845](http://arxiv.org/abs/2304.14845)|**[link](https://github.com/feixue94/sfd2)**|
@@ -1207,6 +1212,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-10**|**Generative AI meets 3D: A Survey on Text-to-3D in AIGC Era**|Chenghao Li et.al.|[2305.06131](http://arxiv.org/abs/2305.06131)|null|
+|**2023-05-10**|**NeRF $^\textbf{2}$ : Neural Radio-Frequency Radiance Fields**|Xiaopeng Zhao et.al.|[2305.06118](http://arxiv.org/abs/2305.06118)|null|
+|**2023-05-09**|**Instant-NeRF: Instant On-Device Neural Radiance Field Training via Algorithm-Accelerator Co-Designed Near-Memory Processing**|Yang Zhao et.al.|[2305.05766](http://arxiv.org/abs/2305.05766)|null|
 |**2023-05-09**|**PET-NeuS: Positional Encoding Tri-Planes for Neural Surfaces**|Yiqun Wang et.al.|[2305.05594](http://arxiv.org/abs/2305.05594)|**[link](https://github.com/yiqun-wang/pet-neus)**|
 |**2023-05-08**|**NerfAcc: Efficient Sampling Accelerates NeRFs**|Ruilong Li et.al.|[2305.04966](http://arxiv.org/abs/2305.04966)|null|
 |**2023-05-08**|**AvatarReX: Real-time Expressive Full-body Avatars**|Zerong Zheng et.al.|[2305.04789](http://arxiv.org/abs/2305.04789)|null|
@@ -1560,6 +1568,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-10**|**NervePool: A Simplicial Pooling Layer**|Sarah McGuire et.al.|[2305.06315](http://arxiv.org/abs/2305.06315)|null|
+|**2023-05-10**|**Embedded Feature Correlation Optimization with Specific Parameter Initialization for 2D/3D Registration**|Minheng Chen et.al.|[2305.06252](http://arxiv.org/abs/2305.06252)|null|
+|**2023-05-10**|**Rethinking the Value of Labels for Instance-Dependent Label Noise Learning**|Hanwen Deng et.al.|[2305.06247](http://arxiv.org/abs/2305.06247)|null|
+|**2023-05-10**|**Explainable Knowledge Distillation for On-device Chest X-Ray Classification**|Chakkrit Termritthikun et.al.|[2305.06244](http://arxiv.org/abs/2305.06244)|null|
+|**2023-05-10**|**When ChatGPT for Computer Vision Will Come? From 2D to 3D**|Chenghao Li et.al.|[2305.06133](http://arxiv.org/abs/2305.06133)|null|
+|**2023-05-10**|**Transformer-based model for monocular visual odometry: a video understanding approach**|André O. Françani et.al.|[2305.06121](http://arxiv.org/abs/2305.06121)|null|
+|**2023-05-10**|**VTPNet for 3D deep learning on point cloud**|Wei Zhou et.al.|[2305.06115](http://arxiv.org/abs/2305.06115)|null|
+|**2023-05-10**|**Pavlok-Nudge: A Feedback Mechanism for Atomic Behaviour Modification**|Shreya Ghosh et.al.|[2305.06110](http://arxiv.org/abs/2305.06110)|null|
+|**2023-05-10**|**XTab: Cross-table Pretraining for Tabular Transformers**|Bingzhao Zhu et.al.|[2305.06090](http://arxiv.org/abs/2305.06090)|**[link](https://github.com/bingzhaozhu/xtab)**|
+|**2023-05-10**|**Self-Supervised Federated Learning for Fast MR Imaging**|Juan Zou et.al.|[2305.06066](http://arxiv.org/abs/2305.06066)|null|
 |**2023-05-09**|**Predicting Cardiovascular Disease Risk using Photoplethysmography and Deep Learning**|Wei-Hung Weng et.al.|[2305.05648](http://arxiv.org/abs/2305.05648)|null|
 |**2023-05-09**|**Deep learning and genetic algorithm framework for tailoring mechanical properties via inverse microstructure optimization**|Xiao Shang et.al.|[2305.05634](http://arxiv.org/abs/2305.05634)|null|
 |**2023-05-09**|**Metric Space Magnitude and Generalisation in Neural Networks**|Rayna Andreeva et.al.|[2305.05611](http://arxiv.org/abs/2305.05611)|null|
