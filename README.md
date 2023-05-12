@@ -1074,6 +1074,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-10**|**SENDD: Sparse Efficient Neural Depth and Deformation for Tissue Tracking**|Adam Schmidt et.al.|[2305.06477](http://arxiv.org/abs/2305.06477)|null|
 |**2023-05-10**|**Level-line Guided Edge Drawing for Robust Line Segment Detection**|Xinyu Lin et.al.|[2305.05883](http://arxiv.org/abs/2305.05883)|**[link](https://github.com/roylin1229/gedrlsd)**|
 |**2023-05-09**|**ColonMapper: topological mapping and localization for colonoscopy**|Javier Morlana et.al.|[2305.05546](http://arxiv.org/abs/2305.05546)|null|
 |**2023-04-29**|**A Comprehensive Review of Image Line Segment Detection and Description: Taxonomies, Comparisons, and Challenges**|Xinyu Lin et.al.|[2305.00264](http://arxiv.org/abs/2305.00264)|null|
@@ -1568,6 +1569,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-11**|**Provable Guarantees for Nonlinear Feature Learning in Three-Layer Neural Networks**|Eshaan Nichani et.al.|[2305.06986](http://arxiv.org/abs/2305.06986)|null|
+|**2023-05-11**|**Local structure, thermodynamics, and melting curve of boron phosphide at high pressures by deep learning-driven ab initio simulations**|N. M. Chtchelkatchev et.al.|[2305.06981](http://arxiv.org/abs/2305.06981)|null|
+|**2023-05-11**|**Meta-hallucinator: Towards Few-Shot Cross-Modality Cardiac Image Segmentation**|Ziyuan Zhao et.al.|[2305.06978](http://arxiv.org/abs/2305.06978)|null|
+|**2023-05-11**|**Cascaded Cross-Attention Networks for Data-Efficient Whole-Slide Image Classification Using Transformers**|Firas Khader et.al.|[2305.06963](http://arxiv.org/abs/2305.06963)|null|
+|**2023-05-11**|**Deep Finite Volume Method for High-Dimensional Partial Differential Equations**|Jianhuan Cen et.al.|[2305.06863](http://arxiv.org/abs/2305.06863)|null|
+|**2023-05-11**|**Detection and Classification of Pole-like Landmarks for Domain-invariant 3D Point Cloud Map Matching**|Sun Yifei et.al.|[2305.06845](http://arxiv.org/abs/2305.06845)|null|
+|**2023-05-11**|**DeepSTEP -- Deep Learning-Based Spatio-Temporal End-To-End Perception for Autonomous Vehicles**|Sebastian Huch et.al.|[2305.06820](http://arxiv.org/abs/2305.06820)|null|
+|**2023-05-11**|**ReMark: Receptive Field based Spatial WaterMark Embedding Optimization using Deep Network**|Natan Semyonov et.al.|[2305.06786](http://arxiv.org/abs/2305.06786)|null|
+|**2023-05-11**|**Investigating the generative dynamics of energy-based neural networks**|Lorenzo Tausani et.al.|[2305.06745](http://arxiv.org/abs/2305.06745)|null|
+|**2023-05-11**|**Deep Learning for Retrospective Motion Correction in MRI: A Comprehensive Review**|Veronika Spieker et.al.|[2305.06739](http://arxiv.org/abs/2305.06739)|null|
 |**2023-05-10**|**NervePool: A Simplicial Pooling Layer**|Sarah McGuire et.al.|[2305.06315](http://arxiv.org/abs/2305.06315)|null|
 |**2023-05-11**|**Embedded Feature Similarity Optimization with Specific Parameter Initialization for 2D/3D Registration**|Minheng Chen et.al.|[2305.06252](http://arxiv.org/abs/2305.06252)|null|
 |**2023-05-10**|**Rethinking the Value of Labels for Instance-Dependent Label Noise Learning**|Hanwen Deng et.al.|[2305.06247](http://arxiv.org/abs/2305.06247)|null|
