@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.11
+## Updated on 2023.05.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1548,13 +1548,13 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-05-10**|**NervePool: A Simplicial Pooling Layer**|Sarah McGuire et.al.|[2305.06315](http://arxiv.org/abs/2305.06315)|null|
-|**2023-05-10**|**Embedded Feature Correlation Optimization with Specific Parameter Initialization for 2D/3D Registration**|Minheng Chen et.al.|[2305.06252](http://arxiv.org/abs/2305.06252)|null|
+|**2023-05-11**|**Embedded Feature Similarity Optimization with Specific Parameter Initialization for 2D/3D Registration**|Minheng Chen et.al.|[2305.06252](http://arxiv.org/abs/2305.06252)|null|
 |**2023-05-10**|**Rethinking the Value of Labels for Instance-Dependent Label Noise Learning**|Hanwen Deng et.al.|[2305.06247](http://arxiv.org/abs/2305.06247)|null|
 |**2023-05-10**|**Explainable Knowledge Distillation for On-device Chest X-Ray Classification**|Chakkrit Termritthikun et.al.|[2305.06244](http://arxiv.org/abs/2305.06244)|null|
 |**2023-05-10**|**When ChatGPT for Computer Vision Will Come? From 2D to 3D**|Chenghao Li et.al.|[2305.06133](http://arxiv.org/abs/2305.06133)|null|
 |**2023-05-10**|**Transformer-based model for monocular visual odometry: a video understanding approach**|André O. Françani et.al.|[2305.06121](http://arxiv.org/abs/2305.06121)|null|
 |**2023-05-10**|**VTPNet for 3D deep learning on point cloud**|Wei Zhou et.al.|[2305.06115](http://arxiv.org/abs/2305.06115)|null|
-|**2023-05-10**|**Pavlok-Nudge: A Feedback Mechanism for Atomic Behaviour Modification**|Shreya Ghosh et.al.|[2305.06110](http://arxiv.org/abs/2305.06110)|null|
+|**2023-05-11**|**Pavlok-Nudge: A Feedback Mechanism for Atomic Behaviour Modification with Snoring Usecase**|Shreya Ghosh et.al.|[2305.06110](http://arxiv.org/abs/2305.06110)|null|
 |**2023-05-10**|**XTab: Cross-table Pretraining for Tabular Transformers**|Bingzhao Zhu et.al.|[2305.06090](http://arxiv.org/abs/2305.06090)|**[link](https://github.com/bingzhaozhu/xtab)**|
 |**2023-05-10**|**Self-Supervised Federated Learning for Fast MR Imaging**|Juan Zou et.al.|[2305.06066](http://arxiv.org/abs/2305.06066)|null|
 |**2023-05-09**|**Predicting Cardiovascular Disease Risk using Photoplethysmography and Deep Learning**|Wei-Hung Weng et.al.|[2305.05648](http://arxiv.org/abs/2305.05648)|null|
