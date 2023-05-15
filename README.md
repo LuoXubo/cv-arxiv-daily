@@ -518,6 +518,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-11**|**Foundations of Spatial Perception for Robotics: Hierarchical Representations and Real-time Systems**|Nathan Hughes et.al.|[2305.07154](http://arxiv.org/abs/2305.07154)|null|
 |**2023-05-09**|**Visual Place Recognition with Low-Resolution Images**|Mihnea-Alexandru Tomita et.al.|[2305.05776](http://arxiv.org/abs/2305.05776)|null|
 |**2023-05-09**|**Vision-Language Models in Remote Sensing: Current Progress and Future Trends**|Congcong Wen et.al.|[2305.05726](http://arxiv.org/abs/2305.05726)|null|
 |**2023-05-09**|**An Evaluation and Ranking of Different Voting Schemes for Improved Visual Place Recognition**|Maria Waheed et.al.|[2305.05705](http://arxiv.org/abs/2305.05705)|null|
@@ -1074,6 +1075,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-12**|**CLIP-Count: Towards Text-Guided Zero-Shot Object Counting**|Ruixiang Jiang et.al.|[2305.07304](http://arxiv.org/abs/2305.07304)|**[link](https://github.com/songrise/clip-count)**|
 |**2023-05-10**|**SENDD: Sparse Efficient Neural Depth and Deformation for Tissue Tracking**|Adam Schmidt et.al.|[2305.06477](http://arxiv.org/abs/2305.06477)|null|
 |**2023-05-10**|**Level-line Guided Edge Drawing for Robust Line Segment Detection**|Xinyu Lin et.al.|[2305.05883](http://arxiv.org/abs/2305.05883)|**[link](https://github.com/roylin1229/gedrlsd)**|
 |**2023-05-09**|**ColonMapper: topological mapping and localization for colonoscopy**|Javier Morlana et.al.|[2305.05546](http://arxiv.org/abs/2305.05546)|null|
@@ -1213,6 +1215,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-12**|**BundleRecon: Ray Bundle-Based 3D Neural Reconstruction**|Weikun Zhang et.al.|[2305.07342](http://arxiv.org/abs/2305.07342)|null|
 |**2023-05-10**|**Generative AI meets 3D: A Survey on Text-to-3D in AIGC Era**|Chenghao Li et.al.|[2305.06131](http://arxiv.org/abs/2305.06131)|null|
 |**2023-05-10**|**NeRF $^\textbf{2}$ : Neural Radio-Frequency Radiance Fields**|Xiaopeng Zhao et.al.|[2305.06118](http://arxiv.org/abs/2305.06118)|null|
 |**2023-05-09**|**Instant-NeRF: Instant On-Device Neural Radiance Field Training via Algorithm-Accelerator Co-Designed Near-Memory Processing**|Yang Zhao et.al.|[2305.05766](http://arxiv.org/abs/2305.05766)|null|
@@ -1569,6 +1572,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-12**|**Vision and Control for Grasping Clear Plastic Bags**|Joohwan Seo et.al.|[2305.07631](http://arxiv.org/abs/2305.07631)|null|
+|**2023-05-12**|**Uncertainty Estimation for Deep Learning Image Reconstruction using a Local Lipschitz Metric**|Danyal F. Bhutto et.al.|[2305.07618](http://arxiv.org/abs/2305.07618)|null|
+|**2023-05-12**|**Scalable Coupling of Deep Learning with Logical Reasoning**|Marianne Defresne et.al.|[2305.07617](http://arxiv.org/abs/2305.07617)|null|
+|**2023-05-12**|**Multimodal Sentiment Analysis: A Survey**|Songning Lai et.al.|[2305.07611](http://arxiv.org/abs/2305.07611)|null|
+|**2023-05-12**|**Dish detection in food platters: A framework for automated diet logging and nutrition management**|Mansi Goel et.al.|[2305.07552](http://arxiv.org/abs/2305.07552)|null|
+|**2023-05-12**|**On-line Dose Calculation Using Deep Learning for Beams Selection in Non-Coplanar Radiotherapy**|Fang Guo et.al.|[2305.07551](http://arxiv.org/abs/2305.07551)|null|
+|**2023-05-12**|**Saturated Non-Monotonic Activation Functions**|Junjia Chen et.al.|[2305.07537](http://arxiv.org/abs/2305.07537)|null|
+|**2023-05-12**|**eXplainable Artificial Intelligence on Medical Images: A Survey**|Matteus Vargas Simão da Silva et.al.|[2305.07511](http://arxiv.org/abs/2305.07511)|null|
+|**2023-05-12**|**Calibration-Aware Bayesian Learning**|Jiayi Huang et.al.|[2305.07504](http://arxiv.org/abs/2305.07504)|null|
+|**2023-05-12**|**Gallery Sampling for Robust and Fast Face Identification**|Myung-cheol Roh et.al.|[2305.07495](http://arxiv.org/abs/2305.07495)|null|
 |**2023-05-11**|**Provable Guarantees for Nonlinear Feature Learning in Three-Layer Neural Networks**|Eshaan Nichani et.al.|[2305.06986](http://arxiv.org/abs/2305.06986)|null|
 |**2023-05-11**|**Local structure, thermodynamics, and melting curve of boron phosphide at high pressures by deep learning-driven ab initio simulations**|N. M. Chtchelkatchev et.al.|[2305.06981](http://arxiv.org/abs/2305.06981)|null|
 |**2023-05-11**|**Meta-hallucinator: Towards Few-Shot Cross-Modality Cardiac Image Segmentation**|Ziyuan Zhao et.al.|[2305.06978](http://arxiv.org/abs/2305.06978)|null|
