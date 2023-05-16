@@ -518,6 +518,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-13**|**Illumination-insensitive Binary Descriptor for Visual Measurement Based on Local Inter-patch Invariance**|Xinyu Lin et.al.|[2305.07943](http://arxiv.org/abs/2305.07943)|null|
 |**2023-05-11**|**Foundations of Spatial Perception for Robotics: Hierarchical Representations and Real-time Systems**|Nathan Hughes et.al.|[2305.07154](http://arxiv.org/abs/2305.07154)|null|
 |**2023-05-09**|**Visual Place Recognition with Low-Resolution Images**|Mihnea-Alexandru Tomita et.al.|[2305.05776](http://arxiv.org/abs/2305.05776)|null|
 |**2023-05-09**|**Vision-Language Models in Remote Sensing: Current Progress and Future Trends**|Congcong Wen et.al.|[2305.05726](http://arxiv.org/abs/2305.05726)|null|
@@ -935,6 +936,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-15**|**Non-Separable Multi-Dimensional Network Flows for Visual Computing**|Viktoria Ehm et.al.|[2305.08628](http://arxiv.org/abs/2305.08628)|null|
+|**2023-05-13**|**Illumination-insensitive Binary Descriptor for Visual Measurement Based on Local Inter-patch Invariance**|Xinyu Lin et.al.|[2305.07943](http://arxiv.org/abs/2305.07943)|null|
 |**2023-05-05**|**HD2Reg: Hierarchical Descriptors and Detectors for Point Cloud Registration**|Canhui Tang et.al.|[2305.03487](http://arxiv.org/abs/2305.03487)|**[link](https://github.com/hui-design/hd2reg)**|
 |**2023-04-17**|**Human Pose Estimation in Monocular Omnidirectional Top-View Images**|Jingrui Yu et.al.|[2304.08186](http://arxiv.org/abs/2304.08186)|null|
 |**2023-04-14**|**CoPR: Towards Accurate Visual Localization With Continuous Place-descriptor Regression**|Mubariz Zaffar et.al.|[2304.07426](http://arxiv.org/abs/2304.07426)|null|
@@ -1215,6 +1218,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-15**|**MV-Map: Offboard HD-Map Generation with Multi-view Consistency**|Ziyang Xie et.al.|[2305.08851](http://arxiv.org/abs/2305.08851)|**[link](https://github.com/ziyang-xie/mv-map)**|
 |**2023-05-12**|**BundleRecon: Ray Bundle-Based 3D Neural Reconstruction**|Weikun Zhang et.al.|[2305.07342](http://arxiv.org/abs/2305.07342)|null|
 |**2023-05-10**|**Generative AI meets 3D: A Survey on Text-to-3D in AIGC Era**|Chenghao Li et.al.|[2305.06131](http://arxiv.org/abs/2305.06131)|null|
 |**2023-05-10**|**NeRF $^\textbf{2}$ : Neural Radio-Frequency Radiance Fields**|Xiaopeng Zhao et.al.|[2305.06118](http://arxiv.org/abs/2305.06118)|null|
@@ -1572,6 +1576,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-15**|**Python Tool for Visualizing Variability of Pareto Fronts over Multiple Runs**|Shuhei Watanabe et.al.|[2305.08852](http://arxiv.org/abs/2305.08852)|**[link](https://github.com/nabenabe0928/empirical-attainment-func)**|
+|**2023-05-15**|**Deep Learning combined with singular value decomposition to reconstruct databases in fluid dynamics**|Paula Díaz et.al.|[2305.08832](http://arxiv.org/abs/2305.08832)|null|
+|**2023-05-15**|**Dragon-Alpha&cu32: A Java-based Tensor Computing Framework With its High-Performance CUDA Library**|Zhiyi Zhang et.al.|[2305.08819](http://arxiv.org/abs/2305.08819)|null|
+|**2023-05-15**|**Interpretability at Scale: Identifying Causal Mechanisms in Alpaca**|Zhengxuan Wu et.al.|[2305.08809](http://arxiv.org/abs/2305.08809)|**[link](https://github.com/frankaging/align-transformers)**|
+|**2023-05-15**|**DA-LSTM: A Dynamic Drift-Adaptive Learning Framework for Interval Load Forecasting with LSTM Networks**|Firas Bayram et.al.|[2305.08767](http://arxiv.org/abs/2305.08767)|null|
+|**2023-05-15**|**A Matter of Annotation: An Empirical Study on In Situ and Self-Recall Activity Annotations from Wearable Sensors**|Alexander Hoelzemann et.al.|[2305.08752](http://arxiv.org/abs/2305.08752)|**[link](https://github.com/ahoelzemann/annotationmatters)**|
+|**2023-05-15**|**Integrating Uncertainty into Neural Network-based Speech Enhancement**|Huajian Fang et.al.|[2305.08744](http://arxiv.org/abs/2305.08744)|**[link](https://github.com/sp-uhh/uncertainty-se)**|
+|**2023-05-15**|**Application of Graph Networks to background rejection in Imaging Air Cherenkov Telescopes**|Jonas Glombitza et.al.|[2305.08674](http://arxiv.org/abs/2305.08674)|null|
+|**2023-05-15**|**Topological Interpretability for Deep-Learning**|Adam Spannaus et.al.|[2305.08642](http://arxiv.org/abs/2305.08642)|null|
+|**2023-05-15**|**Text2Gender: A Deep Learning Architecture for Analysis of Blogger's Age and Gender**|Vishesh Thakur et.al.|[2305.08633](http://arxiv.org/abs/2305.08633)|null|
 |**2023-05-12**|**Vision and Control for Grasping Clear Plastic Bags**|Joohwan Seo et.al.|[2305.07631](http://arxiv.org/abs/2305.07631)|null|
 |**2023-05-12**|**Uncertainty Estimation for Deep Learning Image Reconstruction using a Local Lipschitz Metric**|Danyal F. Bhutto et.al.|[2305.07618](http://arxiv.org/abs/2305.07618)|null|
 |**2023-05-12**|**Scalable Coupling of Deep Learning with Logical Reasoning**|Marianne Defresne et.al.|[2305.07617](http://arxiv.org/abs/2305.07617)|null|
