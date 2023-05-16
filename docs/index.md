@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.15
+## Updated on 2023.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1556,7 +1556,7 @@ layout: default
 |**2023-05-12**|**Scalable Coupling of Deep Learning with Logical Reasoning**|Marianne Defresne et.al.|[2305.07617](http://arxiv.org/abs/2305.07617)|null|
 |**2023-05-12**|**Multimodal Sentiment Analysis: A Survey**|Songning Lai et.al.|[2305.07611](http://arxiv.org/abs/2305.07611)|null|
 |**2023-05-12**|**Dish detection in food platters: A framework for automated diet logging and nutrition management**|Mansi Goel et.al.|[2305.07552](http://arxiv.org/abs/2305.07552)|null|
-|**2023-05-12**|**On-line Dose Calculation Using Deep Learning for Beams Selection in Non-Coplanar Radiotherapy**|Fang Guo et.al.|[2305.07551](http://arxiv.org/abs/2305.07551)|null|
+|**2023-05-15**|**On-line Dose Calculation Using Deep Learning for Beams Selection in Non-Coplanar Radiotherapy**|Fang Guo et.al.|[2305.07551](http://arxiv.org/abs/2305.07551)|null|
 |**2023-05-12**|**Saturated Non-Monotonic Activation Functions**|Junjia Chen et.al.|[2305.07537](http://arxiv.org/abs/2305.07537)|null|
 |**2023-05-12**|**eXplainable Artificial Intelligence on Medical Images: A Survey**|Matteus Vargas Simão da Silva et.al.|[2305.07511](http://arxiv.org/abs/2305.07511)|null|
 |**2023-05-12**|**Calibration-Aware Bayesian Learning**|Jiayi Huang et.al.|[2305.07504](http://arxiv.org/abs/2305.07504)|null|
