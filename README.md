@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-15**|**Event Camera-based Visual Odometry for Dynamic Motion Tracking of a Legged Robot Using Adaptive Time Surface**|Shifan Zhu et.al.|[2305.08962](http://arxiv.org/abs/2305.08962)|null|
 |**2023-05-10**|**Transformer-based model for monocular visual odometry: a video understanding approach**|André O. Françani et.al.|[2305.06121](http://arxiv.org/abs/2305.06121)|**[link](https://github.com/aofrancani/tsformer-vo)**|
 |**2023-04-29**|**Modality-invariant Visual Odometry for Embodied Vision**|Marius Memmel et.al.|[2305.00348](http://arxiv.org/abs/2305.00348)|**[link](https://github.com/memmelma/vo-transformer)**|
 |**2023-04-21**|**FSNet: Redesign Self-Supervised MonoDepth for Full-Scale Depth Prediction for Autonomous Driving**|Yuxuan Liu et.al.|[2304.10719](http://arxiv.org/abs/2304.10719)|null|
@@ -1078,6 +1079,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-15**|**Image Matching by Bare Homography**|Fabio Bellavia et.al.|[2305.08946](http://arxiv.org/abs/2305.08946)|null|
 |**2023-05-12**|**CLIP-Count: Towards Text-Guided Zero-Shot Object Counting**|Ruixiang Jiang et.al.|[2305.07304](http://arxiv.org/abs/2305.07304)|**[link](https://github.com/songrise/clip-count)**|
 |**2023-05-10**|**SENDD: Sparse Efficient Neural Depth and Deformation for Tissue Tracking**|Adam Schmidt et.al.|[2305.06477](http://arxiv.org/abs/2305.06477)|null|
 |**2023-05-10**|**Level-line Guided Edge Drawing for Robust Line Segment Detection**|Xinyu Lin et.al.|[2305.05883](http://arxiv.org/abs/2305.05883)|**[link](https://github.com/roylin1229/gedrlsd)**|
@@ -1576,6 +1578,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-16**|**The Power of Learned Locally Linear Models for Nonlinear Policy Optimization**|Daniel Pfrommer et.al.|[2305.09619](http://arxiv.org/abs/2305.09619)|null|
+|**2023-05-16**|**Identification and Classification of Exoplanets Using Machine Learning Techniques**|Prithivraj G et.al.|[2305.09596](http://arxiv.org/abs/2305.09596)|null|
+|**2023-05-16**|**HiNoVa: A Novel Open-Set Detection Method for Automating RF Device Authentication**|Luke Puppo et.al.|[2305.09594](http://arxiv.org/abs/2305.09594)|null|
+|**2023-05-16**|**Demonstration of Sub-micron UCN Position Resolution using Room-temperature CMOS Sensor**|S. Lin et.al.|[2305.09562](http://arxiv.org/abs/2305.09562)|null|
+|**2023-05-16**|**Increasing Melanoma Diagnostic Confidence: Forcing the Convolutional Network to Learn from the Lesion**|Norsang Lama et.al.|[2305.09542](http://arxiv.org/abs/2305.09542)|null|
+|**2023-05-16**|**Learning Higher-order Object Interactions for Keypoint-based Video Understanding**|Yi Huang et.al.|[2305.09539](http://arxiv.org/abs/2305.09539)|null|
+|**2023-05-16**|**Light-VQA: A Multi-Dimensional Quality Assessment Model for Low-Light Video Enhancement**|Yunlong Dong et.al.|[2305.09512](http://arxiv.org/abs/2305.09512)|null|
+|**2023-05-16**|**Content-Adaptive Downsampling in Convolutional Neural Networks**|Robin Hesse et.al.|[2305.09504](http://arxiv.org/abs/2305.09504)|**[link](https://github.com/visinf/cad)**|
+|**2023-05-16**|**Low-complexity deep learning frameworks for acoustic scene classification using teacher-student scheme and multiple spectrograms**|Lam Pham et.al.|[2305.09463](http://arxiv.org/abs/2305.09463)|null|
+|**2023-05-16**|**A Novel Strategy for Improving Robustness in Computer Vision Manufacturing Defect Detection**|Ahmad Mohamad Mezher et.al.|[2305.09407](http://arxiv.org/abs/2305.09407)|null|
 |**2023-05-15**|**Python Tool for Visualizing Variability of Pareto Fronts over Multiple Runs**|Shuhei Watanabe et.al.|[2305.08852](http://arxiv.org/abs/2305.08852)|**[link](https://github.com/nabenabe0928/empirical-attainment-func)**|
 |**2023-05-15**|**Deep Learning combined with singular value decomposition to reconstruct databases in fluid dynamics**|Paula Díaz et.al.|[2305.08832](http://arxiv.org/abs/2305.08832)|null|
 |**2023-05-15**|**Dragon-Alpha&cu32: A Java-based Tensor Computing Framework With its High-Performance CUDA Library**|Zhiyi Zhang et.al.|[2305.08819](http://arxiv.org/abs/2305.08819)|null|
