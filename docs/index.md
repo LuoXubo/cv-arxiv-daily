@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.18
+## Updated on 2023.05.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1567,7 +1567,7 @@ layout: default
 |**2023-05-17**|**Cross-domain Iterative Network for Simultaneous Denoising, Limited-angle Reconstruction, and Attenuation Correction of Low-dose Cardiac SPECT**|Xiongchao Chen et.al.|[2305.10326](http://arxiv.org/abs/2305.10326)|null|
 |**2023-05-17**|**Rethinking Data Augmentation for Tabular Data in Deep Learning**|Soma Onishi et.al.|[2305.10308](http://arxiv.org/abs/2305.10308)|**[link](https://github.com/somaonishi/mtr)**|
 |**2023-05-17**|**Binarized Spectral Compressive Imaging**|Yuanhao Cai et.al.|[2305.10299](http://arxiv.org/abs/2305.10299)|**[link](https://github.com/caiyuanhao1998/MST)**|
-|**2023-05-17**|**SGAD: Spiking Generative Adversarial Network with Attention Scoring Decoding**|Linghao Feng et.al.|[2305.10246](http://arxiv.org/abs/2305.10246)|null|
+|**2023-05-18**|**Spiking Generative Adversarial Network with Attention Scoring Decoding**|Linghao Feng et.al.|[2305.10246](http://arxiv.org/abs/2305.10246)|null|
 |**2023-05-17**|**rWISDM: Repaired WISDM, a Public Dataset for Human Activity Recognition**|Mohammadreza Heydarian et.al.|[2305.10222](http://arxiv.org/abs/2305.10222)|null|
 |**2023-05-17**|**Deep Learning Applications Based on WISE Infrared Data: Classification of Stars, Galaxies and Quasars**|Guiyu Zhao et.al.|[2305.10217](http://arxiv.org/abs/2305.10217)|null|
 |**2023-05-16**|**The Power of Learned Locally Linear Models for Nonlinear Policy Optimization**|Daniel Pfrommer et.al.|[2305.09619](http://arxiv.org/abs/2305.09619)|null|
