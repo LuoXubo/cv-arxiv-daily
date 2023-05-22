@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.21
+## Updated on 2023.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1566,7 +1566,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-05-18**|**A Compound Gaussian Network for Solving Linear Inverse Problems**|Carter Lyons et.al.|[2305.11120](http://arxiv.org/abs/2305.11120)|null|
+|**2023-05-19**|**A Compound Gaussian Network for Solving Linear Inverse Problems**|Carter Lyons et.al.|[2305.11120](http://arxiv.org/abs/2305.11120)|null|
 |**2023-05-18**|**MiraBest: A Dataset of Morphologically Classified Radio Galaxies for Machine Learning**|Fiona A. M. Porter et.al.|[2305.11108](http://arxiv.org/abs/2305.11108)|**[link](https://zenodo.org/record/4288837)**|
 |**2023-05-18**|**Deep Metric Tensor Regularized Policy Gradient**|Gang Chen et.al.|[2305.11017](http://arxiv.org/abs/2305.11017)|null|
 |**2023-05-18**|**SDC-UDA: Volumetric Unsupervised Domain Adaptation Framework for Slice-Direction Continuous Cross-Modality Medical Image Segmentation**|Hyungseob Shin et.al.|[2305.11012](http://arxiv.org/abs/2305.11012)|null|
