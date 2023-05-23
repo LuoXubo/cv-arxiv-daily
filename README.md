@@ -519,6 +519,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-20**|**DAC: Detector-Agnostic Spatial Covariances for Deep Local Features**|Javier Tirado-Garín et.al.|[2305.12250](http://arxiv.org/abs/2305.12250)|**[link](https://github.com/javrtg/dac)**|
 |**2023-05-19**|**Towards More Transparent and Accurate Cancer Diagnosis with an Unsupervised CAE Approach**|Zahra Tabatabaei et.al.|[2305.11728](http://arxiv.org/abs/2305.11728)|null|
 |**2023-05-19**|**Learning Sequence Descriptor based on Spatiotemporal Attention for Visual Place Recognition**|Fenglin Zhang et.al.|[2305.11467](http://arxiv.org/abs/2305.11467)|null|
 |**2023-05-12**|**IMAGINATOR: Pre-Trained Image+Text Joint Embeddings using Word-Level Grounding of Images**|Varuna Krishna et.al.|[2305.10438](http://arxiv.org/abs/2305.10438)|null|
@@ -1083,6 +1084,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-19**|**SIDAR: Synthetic Image Dataset for Alignment & Restoration**|Monika Kwiatkowski et.al.|[2305.12036](http://arxiv.org/abs/2305.12036)|**[link](https://github.com/niika/SIDAR)**|
 |**2023-05-18**|**LLMScore: Unveiling the Power of Large Language Models in Text-to-Image Synthesis Evaluation**|Yujie Lu et.al.|[2305.11116](http://arxiv.org/abs/2305.11116)|**[link](https://github.com/yujielu10/llmscore)**|
 |**2023-05-16**|**A Method for Training-free Person Image Picture Generation**|Tianyu Chen et.al.|[2305.09817](http://arxiv.org/abs/2305.09817)|null|
 |**2023-05-15**|**Image Matching by Bare Homography**|Fabio Bellavia et.al.|[2305.08946](http://arxiv.org/abs/2305.08946)|null|
@@ -1226,6 +1228,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-22**|**NeRFuser: Large-Scale Scene Representation by NeRF Fusion**|Jiading Fang et.al.|[2305.13307](http://arxiv.org/abs/2305.13307)|**[link](https://github.com/ripl/nerfuser)**|
+|**2023-05-22**|**Registering Neural Radiance Fields as 3D Density Images**|Han Jiang et.al.|[2305.12843](http://arxiv.org/abs/2305.12843)|null|
 |**2023-05-19**|**Text2NeRF: Text-Driven 3D Scene Generation with Neural Radiance Fields**|Jingbo Zhang et.al.|[2305.11588](http://arxiv.org/abs/2305.11588)|null|
 |**2023-05-18**|**MVPSNet: Fast Generalizable Multi-view Photometric Stereo**|Dongxu Zhao et.al.|[2305.11167](http://arxiv.org/abs/2305.11167)|null|
 |**2023-05-18**|**ConsistentNeRF: Enhancing Neural Radiance Fields with 3D Consistency for Sparse View Synthesis**|Shoukang Hu et.al.|[2305.11031](http://arxiv.org/abs/2305.11031)|**[link](https://github.com/skhu101/consistentnerf)**|
@@ -1590,6 +1594,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-22**|**RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text**|Wangchunshu Zhou et.al.|[2305.13304](http://arxiv.org/abs/2305.13304)|**[link](https://github.com/aiwaves-cn/recurrentgpt)**|
+|**2023-05-22**|**Uncertainty and Structure in Neural Ordinary Differential Equations**|Katharina Ott et.al.|[2305.13290](http://arxiv.org/abs/2305.13290)|null|
+|**2023-05-22**|**Sequence-to-Sequence Forecasting-aided State Estimation for Power Systems**|Kamal Basulaiman et.al.|[2305.13215](http://arxiv.org/abs/2305.13215)|null|
+|**2023-05-22**|**Learning to detect an animal sound from five examples**|Inês Nolasco et.al.|[2305.13210](http://arxiv.org/abs/2305.13210)|null|
+|**2023-05-22**|**U-DiT TTS: U-Diffusion Vision Transformer for Text-to-Speech**|Xin Jing et.al.|[2305.13195](http://arxiv.org/abs/2305.13195)|null|
+|**2023-05-22**|**Editing Large Language Models: Problems, Methods, and Opportunities**|Yunzhi Yao et.al.|[2305.13172](http://arxiv.org/abs/2305.13172)|null|
+|**2023-05-22**|**Hang-Time HAR: A Benchmark Dataset for Basketball Activity Recognition using Wrist-worn Inertial Sensors**|Alexander Hoelzemann et.al.|[2305.13124](http://arxiv.org/abs/2305.13124)|null|
+|**2023-05-22**|**Debiased Automatic Speech Recognition for Dysarthric Speech via Sample Reweighting with Sample Affinity Test**|Eungbeom Kim et.al.|[2305.13108](http://arxiv.org/abs/2305.13108)|null|
+|**2023-05-22**|**Restore Anything Pipeline: Segment Anything Meets Image Restoration**|Jiaxi Jiang et.al.|[2305.13093](http://arxiv.org/abs/2305.13093)|**[link](https://github.com/eth-siplab/rap)**|
+|**2023-05-22**|**Breaking the Paradox of Explainable Deep Learning**|Arlind Kadra et.al.|[2305.13072](http://arxiv.org/abs/2305.13072)|null|
 |**2023-05-19**|**Photo-zSNthesis: Converting Type Ia Supernova Lightcurves to Redshift Estimates via Deep Learning**|Helen Qu et.al.|[2305.11869](http://arxiv.org/abs/2305.11869)|null|
 |**2023-05-19**|**ViDaS Video Depth-aware Saliency Network**|Ioanna Diamanti et.al.|[2305.11729](http://arxiv.org/abs/2305.11729)|null|
 |**2023-05-19**|**Direction Specific Ambisonics Source Separation with End-To-End Deep Learning**|Francesc Lluís et.al.|[2305.11727](http://arxiv.org/abs/2305.11727)|null|
