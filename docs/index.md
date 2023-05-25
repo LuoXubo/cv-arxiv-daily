@@ -1212,6 +1212,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-24**|**Deceptive-NeRF: Enhancing NeRF Reconstruction using Pseudo-Observations from Diffusion Models**|Xinhang Liu et.al.|[2305.15171](http://arxiv.org/abs/2305.15171)|null|
+|**2023-05-24**|**InpaintNeRF360: Text-Guided 3D Inpainting on Unbounded Neural Radiance Fields**|Dongqing Wang et.al.|[2305.15094](http://arxiv.org/abs/2305.15094)|null|
+|**2023-05-24**|**OD-NeRF: Efficient Training of On-the-Fly Dynamic Neural Radiance Fields**|Zhiwen Yan et.al.|[2305.14831](http://arxiv.org/abs/2305.14831)|null|
 |**2023-05-24**|**3D Open-vocabulary Segmentation with Foundation Models**|Kunhao Liu et.al.|[2305.14093](http://arxiv.org/abs/2305.14093)|**[link](https://github.com/kunhao-liu/3d-ovs)**|
 |**2023-05-22**|**NeRFuser: Large-Scale Scene Representation by NeRF Fusion**|Jiading Fang et.al.|[2305.13307](http://arxiv.org/abs/2305.13307)|**[link](https://github.com/ripl/nerfuser)**|
 |**2023-05-22**|**Registering Neural Radiance Fields as 3D Density Images**|Han Jiang et.al.|[2305.12843](http://arxiv.org/abs/2305.12843)|null|
@@ -1577,6 +1580,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-24**|**Deep learning non-local and scalable energy functionals for quantum Ising models**|Emanuele Costa et.al.|[2305.15370](http://arxiv.org/abs/2305.15370)|null|
+|**2023-05-24**|**A Virtual Reality Tool for Representing, Visualizing and Updating Deep Learning Models**|Hannes Kath et.al.|[2305.15353](http://arxiv.org/abs/2305.15353)|null|
+|**2023-05-24**|**Diffusion-Based Audio Inpainting**|Eloi Moliner et.al.|[2305.15266](http://arxiv.org/abs/2305.15266)|null|
+|**2023-05-24**|**Ethics and Deep Learning**|Travis LaCroix et.al.|[2305.15239](http://arxiv.org/abs/2305.15239)|null|
+|**2023-05-24**|**GTNet: Graph Transformer Network for 3D Point Cloud Classification and Semantic Segmentation**|Wei Zhou et.al.|[2305.15213](http://arxiv.org/abs/2305.15213)|null|
+|**2023-05-24**|**Promoting Generalization in Cross-Dataset Remote Photoplethysmography**|Nathan Vance et.al.|[2305.15199](http://arxiv.org/abs/2305.15199)|null|
+|**2023-05-24**|**Mixture of Experts with Uncertainty Voting for Imbalanced Deep Regression Problems**|Yuchang Jiang et.al.|[2305.15178](http://arxiv.org/abs/2305.15178)|null|
+|**2023-05-24**|**Personalized DP-SGD using Sampling Mechanisms**|Geon Heo et.al.|[2305.15165](http://arxiv.org/abs/2305.15165)|null|
+|**2023-05-24**|**Reliability Scores from Saliency Map Clusters for Improved Image-based Harvest-Readiness Prediction in Cauliflower**|Jana Kierdorf et.al.|[2305.15149](http://arxiv.org/abs/2305.15149)|null|
+|**2023-05-24**|**Networks are Slacking Off: Understanding Generalization Problem in Image Deraining**|Jinjin Gu et.al.|[2305.15134](http://arxiv.org/abs/2305.15134)|null|
 |**2023-05-23**|**Prototype Adaption and Projection for Few- and Zero-shot 3D Point Cloud Semantic Segmentation**|Shuting He et.al.|[2305.14335](http://arxiv.org/abs/2305.14335)|**[link](https://github.com/heshuting555/pap-fzs3d)**|
 |**2023-05-23**|**Basis Pursuit Denoising via Recurrent Neural Network Applied to Super-resolving SAR Tomography**|Kun Qian et.al.|[2305.14209](http://arxiv.org/abs/2305.14209)|null|
 |**2023-05-23**|**Reparo: Loss-Resilient Generative Codec for Video Conferencing**|Tianhong Li et.al.|[2305.14135](http://arxiv.org/abs/2305.14135)|null|
