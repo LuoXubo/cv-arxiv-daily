@@ -519,6 +519,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-25**|**Candidate Set Re-ranking for Composed Image Retrieval with Dual Multi-modal Encoder**|Zheyuan Liu et.al.|[2305.16304](http://arxiv.org/abs/2305.16304)|null|
 |**2023-05-23**|**Leveraging BEV Representation for 360-degree Visual Place Recognition**|Xuecheng Xu et.al.|[2305.13814](http://arxiv.org/abs/2305.13814)|**[link](https://github.com/maverickpeter/vdisco)**|
 |**2023-05-23**|**EDIS: Entity-Driven Image Search over Multimodal Web Content**|Siqi Liu et.al.|[2305.13631](http://arxiv.org/abs/2305.13631)|null|
 |**2023-05-20**|**DAC: Detector-Agnostic Spatial Covariances for Deep Local Features**|Javier Tirado-Garín et.al.|[2305.12250](http://arxiv.org/abs/2305.12250)|**[link](https://github.com/javrtg/dac)**|
@@ -1231,6 +1232,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-25**|**Interactive Segment Anything NeRF with Feature Imitation**|Xiaokang Chen et.al.|[2305.16233](http://arxiv.org/abs/2305.16233)|null|
+|**2023-05-25**|**ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation**|Zhengyi Wang et.al.|[2305.16213](http://arxiv.org/abs/2305.16213)|null|
 |**2023-05-24**|**Deceptive-NeRF: Enhancing NeRF Reconstruction using Pseudo-Observations from Diffusion Models**|Xinhang Liu et.al.|[2305.15171](http://arxiv.org/abs/2305.15171)|null|
 |**2023-05-24**|**InpaintNeRF360: Text-Guided 3D Inpainting on Unbounded Neural Radiance Fields**|Dongqing Wang et.al.|[2305.15094](http://arxiv.org/abs/2305.15094)|null|
 |**2023-05-24**|**OD-NeRF: Efficient Training of On-the-Fly Dynamic Neural Radiance Fields**|Zhiwen Yan et.al.|[2305.14831](http://arxiv.org/abs/2305.14831)|null|
@@ -1601,6 +1604,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-25**|**CENSUS-HWR: a large training dataset for offline handwriting recognition**|Chetan Joshi et.al.|[2305.16275](http://arxiv.org/abs/2305.16275)|null|
+|**2023-05-25**|**Incomplete Multimodal Learning for Complex Brain Disorders Prediction**|Reza Shirkavand et.al.|[2305.16222](http://arxiv.org/abs/2305.16222)|null|
+|**2023-05-25**|**Explainability Techniques for Chemical Language Models**|Stefan Hödl et.al.|[2305.16192](http://arxiv.org/abs/2305.16192)|null|
+|**2023-05-25**|**Dropout Drops Double Descent**|Tian-Le Yang et.al.|[2305.16179](http://arxiv.org/abs/2305.16179)|null|
+|**2023-05-25**|**From Latent Graph to Latent Topology Inference: Differentiable Cell Complex Module**|Claudio Battiloro et.al.|[2305.16174](http://arxiv.org/abs/2305.16174)|null|
+|**2023-05-25**|**Automated Tensor Model Parallelism with Overlapped Communication for Efficient Foundation Model Training**|Shengwei Li et.al.|[2305.16121](http://arxiv.org/abs/2305.16121)|null|
+|**2023-05-25**|**VEDA: Uneven light image enhancement via a vision-based exploratory data analysis model**|Tian Pu et.al.|[2305.16072](http://arxiv.org/abs/2305.16072)|null|
+|**2023-05-25**|**Fake News Detection and Behavioral Analysis: Case of COVID-19**|Chih-Yuan Li et.al.|[2305.16057](http://arxiv.org/abs/2305.16057)|null|
+|**2023-05-25**|**Dynamic Inter-treatment Information Sharing for Heterogeneous Treatment Effects Estimation**|Vinod Kumar Chauhan et.al.|[2305.15984](http://arxiv.org/abs/2305.15984)|null|
+|**2023-05-25**|**Neural Characteristic Activation Value Analysis for Improved ReLU Network Feature Learning**|Wenlin Chen et.al.|[2305.15912](http://arxiv.org/abs/2305.15912)|null|
 |**2023-05-24**|**Deep learning non-local and scalable energy functionals for quantum Ising models**|Emanuele Costa et.al.|[2305.15370](http://arxiv.org/abs/2305.15370)|null|
 |**2023-05-24**|**A Virtual Reality Tool for Representing, Visualizing and Updating Deep Learning Models**|Hannes Kath et.al.|[2305.15353](http://arxiv.org/abs/2305.15353)|null|
 |**2023-05-24**|**Diffusion-Based Audio Inpainting**|Eloi Moliner et.al.|[2305.15266](http://arxiv.org/abs/2305.15266)|null|
