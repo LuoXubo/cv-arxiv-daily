@@ -1232,6 +1232,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-26**|**PlaNeRF: SVD Unsupervised 3D Plane Regularization for NeRF Large-Scale Scene Reconstruction**|Fusang Wang et.al.|[2305.16914](http://arxiv.org/abs/2305.16914)|null|
+|**2023-05-25**|**ZeroAvatar: Zero-shot 3D Avatar Generation from a Single Image**|Zhenzhen Weng et.al.|[2305.16411](http://arxiv.org/abs/2305.16411)|null|
 |**2023-05-25**|**Interactive Segment Anything NeRF with Feature Imitation**|Xiaokang Chen et.al.|[2305.16233](http://arxiv.org/abs/2305.16233)|null|
 |**2023-05-25**|**ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation**|Zhengyi Wang et.al.|[2305.16213](http://arxiv.org/abs/2305.16213)|**[link](https://github.com/thu-ml/prolificdreamer)**|
 |**2023-05-24**|**Deceptive-NeRF: Enhancing NeRF Reconstruction using Pseudo-Observations from Diffusion Models**|Xinhang Liu et.al.|[2305.15171](http://arxiv.org/abs/2305.15171)|null|
@@ -1604,6 +1606,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-26**|**Manifold Regularization for Memory-Efficient Training of Deep Neural Networks**|Shadi Sartipi et.al.|[2305.17119](http://arxiv.org/abs/2305.17119)|null|
+|**2023-05-26**|**Extremely weakly-supervised blood vessel segmentation with physiologically based synthesis and domain adaptation**|Peidi Xu et.al.|[2305.17054](http://arxiv.org/abs/2305.17054)|**[link](https://github.com/miccai2023anony/renalvesselseg)**|
+|**2023-05-26**|**Explaining Deep Learning for ECG Analysis: Building Blocks for Auditing and Knowledge Discovery**|Patrick Wagner et.al.|[2305.17043](http://arxiv.org/abs/2305.17043)|null|
+|**2023-05-26**|**Contouring by Unit Vector Field Regression**|Amir Jamaludin et.al.|[2305.17024](http://arxiv.org/abs/2305.17024)|null|
+|**2023-05-26**|**Green Runner: A tool for efficient model selection from model repositories**|Jai Kannan et.al.|[2305.16849](http://arxiv.org/abs/2305.16849)|null|
+|**2023-05-26**|**Geometric deep learning approach to knot theory**|Lennart Jaretzki et.al.|[2305.16808](http://arxiv.org/abs/2305.16808)|**[link](https://github.com/lennartjaretzki/geometricdeeplearningknotdata)**|
+|**2023-05-26**|**Unleashing the Potential of Unsupervised Deep Outlier Detection through Automated Training Stopping**|Yihong Huang et.al.|[2305.16777](http://arxiv.org/abs/2305.16777)|**[link](https://github.com/goldennormal/automatedtrainingod)**|
+|**2023-05-26**|**ElectrodeNet -- A Deep Learning Based Sound Coding Strategy for Cochlear Implants**|Enoch Hsin-Ho Huang et.al.|[2305.16753](http://arxiv.org/abs/2305.16753)|null|
+|**2023-05-26**|**Sources of Uncertainty in Machine Learning -- A Statisticians' View**|Cornelia Gruber et.al.|[2305.16703](http://arxiv.org/abs/2305.16703)|null|
+|**2023-05-26**|**Dual Bayesian ResNet: A Deep Learning Approach to Heart Murmur Detection**|Benjamin Walker et.al.|[2305.16691](http://arxiv.org/abs/2305.16691)|**[link](https://github.com/benjamin-walker/physionetchallenge2022)**|
 |**2023-05-25**|**CENSUS-HWR: a large training dataset for offline handwriting recognition**|Chetan Joshi et.al.|[2305.16275](http://arxiv.org/abs/2305.16275)|null|
 |**2023-05-25**|**Incomplete Multimodal Learning for Complex Brain Disorders Prediction**|Reza Shirkavand et.al.|[2305.16222](http://arxiv.org/abs/2305.16222)|null|
 |**2023-05-25**|**Explainability Techniques for Chemical Language Models**|Stefan Hödl et.al.|[2305.16192](http://arxiv.org/abs/2305.16192)|**[link](https://github.com/kachmanlab/chemical_language_model_explainer)**|
