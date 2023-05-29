@@ -110,7 +110,7 @@
 |**2022-11-16**|**Self-supervised Egomotion and Depth Learning via Bi-directional Coarse-to-Fine Scale Recovery**|Hao Qu et.al.|[2211.08904](http://arxiv.org/abs/2211.08904)|null|
 |**2022-11-20**|**Detecting Line Segments in Motion-blurred Images with Events**|Huai Yu et.al.|[2211.07365](http://arxiv.org/abs/2211.07365)|**[link](https://github.com/lh9171338/FE-LSD)**|
 |**2022-11-13**|**Automatic Eye-in-Hand Calibration using EKF**|Aditya Ramakrishnan et.al.|[2211.06881](http://arxiv.org/abs/2211.06881)|null|
-|**2022-11-12**|**Active View Planning for Visual SLAM in Outdoor Environments Based on Continuous Information Modeling**|Zhihao Wang et.al.|[2211.06557](http://arxiv.org/abs/2211.06557)|null|
+|**2022-11-12**|**Active View Planning for Visual SLAM in Outdoor Environments Based on Continuous Information Modeling**|Zhihao Wang et.al.|[2211.06557](http://arxiv.org/abs/2211.06557)|**[link](https://github.com/hitsz-nrsl/iglov)**|
 |**2022-11-11**|**Multi-domain Cooperative SLAM: The Enabler for Integrated Sensing and Communications**|Jie Yang et.al.|[2211.05982](http://arxiv.org/abs/2211.05982)|null|
 |**2022-11-10**|**Online Stochastic Variational Gaussian Process Mapping for Large-Scale SLAM in Real Time**|Ignacio Torroba et.al.|[2211.05601](http://arxiv.org/abs/2211.05601)|**[link](https://github.com/ignaciotb/uwexploration)**|
 |**2022-11-07**|**When Geometry is not Enough: Using Reflector Markers in Lidar SLAM**|Gerhard Kurz et.al.|[2211.03484](http://arxiv.org/abs/2211.03484)|null|
@@ -1104,7 +1104,7 @@
 |**2023-04-16**|**ALIKED: A Lighter Keypoint and Descriptor Extraction Network via Deformable Transformation**|Xiaoming Zhao et.al.|[2304.03608](http://arxiv.org/abs/2304.03608)|**[link](https://github.com/Shiaoming/ALIKED)**|
 |**2023-04-04**|**GlueStick: Robust Image Matching by Sticking Points and Lines Together**|Rémi Pautrat et.al.|[2304.02008](http://arxiv.org/abs/2304.02008)|**[link](https://github.com/cvg/gluestick)**|
 |**2023-04-03**|**PoseMatcher: One-shot 6D Object Pose Estimation by Deep Feature Matching**|Pedro Castro et.al.|[2304.01382](http://arxiv.org/abs/2304.01382)|null|
-|**2023-04-02**|**Enhancing Deformable Local Features by Jointly Learning to Detect and Describe Keypoints**|Guilherme Potje et.al.|[2304.00583](http://arxiv.org/abs/2304.00583)|null|
+|**2023-04-02**|**Enhancing Deformable Local Features by Jointly Learning to Detect and Describe Keypoints**|Guilherme Potje et.al.|[2304.00583](http://arxiv.org/abs/2304.00583)|**[link](https://github.com/verlab/DALF_CVPR_2023)**|
 |**2023-04-13**|**Structured Epipolar Matcher for Local Feature Matching**|Jiahao Chang et.al.|[2303.16646](http://arxiv.org/abs/2303.16646)|null|
 |**2023-03-29**|**Adaptive Spot-Guided Transformer for Consistent Local Feature Matching**|Jiahuan Yu et.al.|[2303.16624](http://arxiv.org/abs/2303.16624)|null|
 |**2023-03-28**|**ASIC: Aligning Sparse in-the-wild Image Collections**|Kamal Gupta et.al.|[2303.16201](http://arxiv.org/abs/2303.16201)|null|
@@ -1262,7 +1262,7 @@
 |**2023-05-04**|**Semantic-aware Generation of Multi-view Portrait Drawings**|Biao Ma et.al.|[2305.02618](http://arxiv.org/abs/2305.02618)|**[link](https://github.com/aiart-hdu/sage)**|
 |**2023-05-02**|**Neural LiDAR Fields for Novel View Synthesis**|Shengyu Huang et.al.|[2305.01643](http://arxiv.org/abs/2305.01643)|null|
 |**2023-05-03**|**LatentAvatar: Learning Latent Expression Code for Expressive Neural Head Avatar**|Yuelang Xu et.al.|[2305.01190](http://arxiv.org/abs/2305.01190)|null|
-|**2023-05-02**|**Federated Neural Radiance Fields**|Lachlan Holden et.al.|[2305.01163](http://arxiv.org/abs/2305.01163)|null|
+|**2023-05-02**|**Federated Neural Radiance Fields**|Lachlan Holden et.al.|[2305.01163](http://arxiv.org/abs/2305.01163)|**[link](https://github.com/lachholden/fednerf-pytorch)**|
 |**2023-05-01**|**GeneFace++: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation**|Zhenhui Ye et.al.|[2305.00787](http://arxiv.org/abs/2305.00787)|null|
 |**2023-04-30**|**Neural Radiance Fields (NeRFs): A Review and Some Recent Developments**|Mohamed Debbagh et.al.|[2305.00375](http://arxiv.org/abs/2305.00375)|null|
 |**2023-04-28**|**ViP-NeRF: Visibility Prior for Sparse Input Neural Radiance Fields**|Nagabhushan Somraj et.al.|[2305.00041](http://arxiv.org/abs/2305.00041)|**[link](https://github.com/NagabhushanSN95/ViP-NeRF)**|
@@ -1616,7 +1616,7 @@
 |**2023-05-25**|**Neural Characteristic Activation Value Analysis for Improved ReLU Network Feature Learning**|Wenlin Chen et.al.|[2305.15912](http://arxiv.org/abs/2305.15912)|null|
 |**2023-05-24**|**Deep learning non-local and scalable energy functionals for quantum Ising models**|Emanuele Costa et.al.|[2305.15370](http://arxiv.org/abs/2305.15370)|null|
 |**2023-05-24**|**A Virtual Reality Tool for Representing, Visualizing and Updating Deep Learning Models**|Hannes Kath et.al.|[2305.15353](http://arxiv.org/abs/2305.15353)|null|
-|**2023-05-24**|**Diffusion-Based Audio Inpainting**|Eloi Moliner et.al.|[2305.15266](http://arxiv.org/abs/2305.15266)|null|
+|**2023-05-24**|**Diffusion-Based Audio Inpainting**|Eloi Moliner et.al.|[2305.15266](http://arxiv.org/abs/2305.15266)|**[link](https://github.com/eloimoliner/audio-inpainting-diffusion)**|
 |**2023-05-24**|**Ethics and Deep Learning**|Travis LaCroix et.al.|[2305.15239](http://arxiv.org/abs/2305.15239)|null|
 |**2023-05-24**|**GTNet: Graph Transformer Network for 3D Point Cloud Classification and Semantic Segmentation**|Wei Zhou et.al.|[2305.15213](http://arxiv.org/abs/2305.15213)|null|
 |**2023-05-24**|**Promoting Generalization in Cross-Dataset Remote Photoplethysmography**|Nathan Vance et.al.|[2305.15199](http://arxiv.org/abs/2305.15199)|null|
@@ -1637,16 +1637,16 @@
 |**2023-05-22**|**RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text**|Wangchunshu Zhou et.al.|[2305.13304](http://arxiv.org/abs/2305.13304)|**[link](https://github.com/aiwaves-cn/recurrentgpt)**|
 |**2023-05-22**|**Uncertainty and Structure in Neural Ordinary Differential Equations**|Katharina Ott et.al.|[2305.13290](http://arxiv.org/abs/2305.13290)|null|
 |**2023-05-22**|**Sequence-to-Sequence Forecasting-aided State Estimation for Power Systems**|Kamal Basulaiman et.al.|[2305.13215](http://arxiv.org/abs/2305.13215)|null|
-|**2023-05-22**|**Learning to detect an animal sound from five examples**|Inês Nolasco et.al.|[2305.13210](http://arxiv.org/abs/2305.13210)|null|
+|**2023-05-22**|**Learning to detect an animal sound from five examples**|Inês Nolasco et.al.|[2305.13210](http://arxiv.org/abs/2305.13210)|**[link](https://github.com/inesnolas/acoustic_stereotypy)**|
 |**2023-05-22**|**U-DiT TTS: U-Diffusion Vision Transformer for Text-to-Speech**|Xin Jing et.al.|[2305.13195](http://arxiv.org/abs/2305.13195)|null|
 |**2023-05-22**|**Editing Large Language Models: Problems, Methods, and Opportunities**|Yunzhi Yao et.al.|[2305.13172](http://arxiv.org/abs/2305.13172)|null|
-|**2023-05-22**|**Hang-Time HAR: A Benchmark Dataset for Basketball Activity Recognition using Wrist-worn Inertial Sensors**|Alexander Hoelzemann et.al.|[2305.13124](http://arxiv.org/abs/2305.13124)|null|
+|**2023-05-22**|**Hang-Time HAR: A Benchmark Dataset for Basketball Activity Recognition using Wrist-worn Inertial Sensors**|Alexander Hoelzemann et.al.|[2305.13124](http://arxiv.org/abs/2305.13124)|**[link](https://github.com/ahoelzemann/hangtime_har)**|
 |**2023-05-22**|**Debiased Automatic Speech Recognition for Dysarthric Speech via Sample Reweighting with Sample Affinity Test**|Eungbeom Kim et.al.|[2305.13108](http://arxiv.org/abs/2305.13108)|null|
 |**2023-05-22**|**Restore Anything Pipeline: Segment Anything Meets Image Restoration**|Jiaxi Jiang et.al.|[2305.13093](http://arxiv.org/abs/2305.13093)|**[link](https://github.com/eth-siplab/rap)**|
-|**2023-05-22**|**Breaking the Paradox of Explainable Deep Learning**|Arlind Kadra et.al.|[2305.13072](http://arxiv.org/abs/2305.13072)|null|
+|**2023-05-22**|**Breaking the Paradox of Explainable Deep Learning**|Arlind Kadra et.al.|[2305.13072](http://arxiv.org/abs/2305.13072)|**[link](https://github.com/releaunifreiburg/inn)**|
 |**2023-05-19**|**Photo-zSNthesis: Converting Type Ia Supernova Lightcurves to Redshift Estimates via Deep Learning**|Helen Qu et.al.|[2305.11869](http://arxiv.org/abs/2305.11869)|null|
 |**2023-05-19**|**ViDaS Video Depth-aware Saliency Network**|Ioanna Diamanti et.al.|[2305.11729](http://arxiv.org/abs/2305.11729)|null|
-|**2023-05-19**|**Direction Specific Ambisonics Source Separation with End-To-End Deep Learning**|Francesc Lluís et.al.|[2305.11727](http://arxiv.org/abs/2305.11727)|null|
+|**2023-05-19**|**Direction Specific Ambisonics Source Separation with End-To-End Deep Learning**|Francesc Lluís et.al.|[2305.11727](http://arxiv.org/abs/2305.11727)|**[link](https://github.com/francesclluis/direction-ambisonics-source-separation)**|
 |**2023-05-19**|**A quality assurance framework for real-time monitoring of deep learning segmentation models in radiotherapy**|Xiyao Jin et.al.|[2305.11715](http://arxiv.org/abs/2305.11715)|null|
 |**2023-05-19**|**Sim-to-Real Segmentation in Robot-assisted Transoral Tracheal Intubation**|Guankun Wang et.al.|[2305.11686](http://arxiv.org/abs/2305.11686)|null|
 |**2023-05-19**|**Sensing of inspiration events from speech: comparison of deep learning and linguistic methods**|Aki Härmä et.al.|[2305.11683](http://arxiv.org/abs/2305.11683)|null|
@@ -1663,7 +1663,7 @@
 |**2023-05-18**|**Domain Adaptive Sim-to-Real Segmentation of Oropharyngeal Organs**|Guankun Wang et.al.|[2305.10883](http://arxiv.org/abs/2305.10883)|**[link](https://github.com/gkw0010/eisost-sim2real-dataset-release)**|
 |**2023-05-18**|**How Deep Learning Sees the World: A Survey on Adversarial Attacks & Defenses**|Joana C. Costa et.al.|[2305.10862](http://arxiv.org/abs/2305.10862)|null|
 |**2023-05-18**|**Towards an Accurate and Secure Detector against Adversarial Perturbations**|Chao Wang et.al.|[2305.10856](http://arxiv.org/abs/2305.10856)|null|
-|**2023-05-18**|**3D Registration with Maximal Cliques**|Xiyu Zhang et.al.|[2305.10854](http://arxiv.org/abs/2305.10854)|null|
+|**2023-05-18**|**3D Registration with Maximal Cliques**|Xiyu Zhang et.al.|[2305.10854](http://arxiv.org/abs/2305.10854)|**[link](https://github.com/zhangxy0517/3d-registration-with-maximal-cliques)**|
 |**2023-05-17**|**Online data-driven changepoint detection for high-dimensional dynamical systems**|Sen Lin et.al.|[2305.10423](http://arxiv.org/abs/2305.10423)|null|
 |**2023-05-17**|**End-To-End Latent Variational Diffusion Models for Inverse Problems in High Energy Physics**|Alexander Shmakov et.al.|[2305.10399](http://arxiv.org/abs/2305.10399)|null|
 |**2023-05-17**|**Logit-Based Ensemble Distribution Distillation for Robust Autoregressive Sequence Uncertainties**|Yassir Fathullah et.al.|[2305.10384](http://arxiv.org/abs/2305.10384)|null|
@@ -1916,7 +1916,7 @@
 |**2023-04-13**|**Generalizable Deep Learning Method for Suppressing Unseen and Multiple MRI Artifacts Using Meta-learning**|Arun Palla et.al.|[2304.06378](http://arxiv.org/abs/2304.06378)|null|
 |**2023-04-12**|**GRANIITTI: towards a deep learning-enhanced Monte Carlo event generator for high-energy diffraction**|Mikael Mieskolainen et.al.|[2304.06010](http://arxiv.org/abs/2304.06010)|**[link](https://github.com/mieskolainen/GRANIITTI)**|
 |**2023-04-12**|**SpectralDiff: Hyperspectral Image Classification with Spectral-Spatial Diffusion Models**|Ning Chen et.al.|[2304.05961](http://arxiv.org/abs/2304.05961)|null|
-|**2023-04-12**|**Automated computed tomography and magnetic resonance imaging segmentation using deep learning: a beginner's guide**|Diedre Carmo et.al.|[2304.05901](http://arxiv.org/abs/2304.05901)|null|
+|**2023-04-12**|**Automated computed tomography and magnetic resonance imaging segmentation using deep learning: a beginner's guide**|Diedre Carmo et.al.|[2304.05901](http://arxiv.org/abs/2304.05901)|**[link](https://github.com/miclab-unicamp/medical-imaging-tutorial)**|
 |**2023-04-12**|**Cancer-Net BCa-S: Breast Cancer Grade Prediction using Volumetric Deep Radiomic Features from Synthetic Correlated Diffusion Imaging**|Chi-en Amy Tai et.al.|[2304.05899](http://arxiv.org/abs/2304.05899)|**[link](https://github.com/catai9/cancer-net-bca)**|
 |**2023-04-12**|**Scale-Equivariant Deep Learning for 3D Data**|Thomas Wimmer et.al.|[2304.05864](http://arxiv.org/abs/2304.05864)|**[link](https://github.com/wimmerth/scale-equivariant-3d-convnet)**|
 |**2023-04-12**|**Self-Supervised Learning with Cluster-Aware-DINO for High-Performance Robust Speaker Verification**|Bing Han et.al.|[2304.05754](http://arxiv.org/abs/2304.05754)|null|
