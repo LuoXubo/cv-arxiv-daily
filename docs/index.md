@@ -507,6 +507,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-31**|**Chatting Makes Perfect -- Chat-based Image Retrieval**|Matan Levy et.al.|[2305.20062](http://arxiv.org/abs/2305.20062)|null|
+|**2023-05-31**|**Probabilistic Uncertainty Quantification of Prediction Models with Application to Visual Localization**|Junan Chen et.al.|[2305.20044](http://arxiv.org/abs/2305.20044)|null|
 |**2023-05-30**|**A Recipe for Efficient SBIR Models: Combining Relative Triplet Loss with Batch Normalization and Knowledge Distillation**|Omar Seddati et.al.|[2305.18988](http://arxiv.org/abs/2305.18988)|null|
 |**2023-05-29**|**Synfeal: A Data-Driven Simulator for End-to-End Camera Localization**|Daniel Coelho et.al.|[2305.18260](http://arxiv.org/abs/2305.18260)|**[link](https://github.com/danielcoelho112/synfeal)**|
 |**2023-05-29**|**Nanoscale visualization of the thermally-driven evolution of antiferromagnetic domains in FeTe thin films**|Shrinkhala Sharma et.al.|[2305.18197](http://arxiv.org/abs/2305.18197)|null|
@@ -1601,6 +1603,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-31**|**Exploring Regions of Interest: Visualizing Histological Image Classification for Breast Cancer using Deep Learning**|Imane Nedjar et.al.|[2305.20058](http://arxiv.org/abs/2305.20058)|null|
+|**2023-05-31**|**Hardness and fracture toughness models by symbolic regression**|Jinbin Zhao et.al.|[2305.19991](http://arxiv.org/abs/2305.19991)|null|
+|**2023-05-31**|**Measuring irreversibility from learned representations of biological patterns**|Junang Li et.al.|[2305.19983](http://arxiv.org/abs/2305.19983)|null|
+|**2023-05-31**|**MicroSegNet: A Deep Learning Approach for Prostate Segmentation on Micro-Ultrasound Images**|Hongxu Jiang et.al.|[2305.19956](http://arxiv.org/abs/2305.19956)|null|
+|**2023-05-31**|**Breast Cancer Detection and Diagnosis: A comparative study of state-of-the-arts deep learning architectures**|Brennon Maistry et.al.|[2305.19937](http://arxiv.org/abs/2305.19937)|null|
+|**2023-05-31**|**Unsupervised Anomaly Detection in Medical Images Using Masked Diffusion Model**|Hasan Iqbal et.al.|[2305.19867](http://arxiv.org/abs/2305.19867)|**[link](https://github.com/hasan1292/mddpm)**|
+|**2023-05-31**|**A Survey of Label-Efficient Deep Learning for 3D Point Clouds**|Aoran Xiao et.al.|[2305.19812](http://arxiv.org/abs/2305.19812)|**[link](https://github.com/xiaoaoran/3d_label_efficient_learning)**|
+|**2023-05-31**|**Neuro-Causal Factor Analysis**|Alex Markham et.al.|[2305.19802](http://arxiv.org/abs/2305.19802)|null|
+|**2023-05-31**|**DeepMerge: Deep Learning-Based Region-Merging for Image Segmentation**|Xianwei Lv et.al.|[2305.19787](http://arxiv.org/abs/2305.19787)|null|
+|**2023-05-31**|**Deep learning and MCMC with aggVAE for shifting administrative boundaries: mapping malaria prevalence in Kenya**|Elizaveta Semenova et.al.|[2305.19779](http://arxiv.org/abs/2305.19779)|null|
 |**2023-05-30**|**Scanning Gate Microscopy response for local tip potentials beyond perturbation theory**|Ousmane Ly et.al.|[2305.19224](http://arxiv.org/abs/2305.19224)|null|
 |**2023-05-30**|**Graph-based Time Series Clustering for End-to-End Hierarchical Forecasting**|Andrea Cini et.al.|[2305.19183](http://arxiv.org/abs/2305.19183)|null|
 |**2023-05-30**|**FERN: Leveraging Graph Attention Networks for Failure Evaluation and Robust Network Design**|Chenyi Liu et.al.|[2305.19153](http://arxiv.org/abs/2305.19153)|null|
