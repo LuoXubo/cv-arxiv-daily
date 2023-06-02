@@ -520,6 +520,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-01**|**Class Anchor Margin Loss for Content-Based Image Retrieval**|Alexandru Ghita et.al.|[2306.00630](http://arxiv.org/abs/2306.00630)|null|
 |**2023-05-31**|**Chatting Makes Perfect -- Chat-based Image Retrieval**|Matan Levy et.al.|[2305.20062](http://arxiv.org/abs/2305.20062)|null|
 |**2023-05-31**|**Probabilistic Uncertainty Quantification of Prediction Models with Application to Visual Localization**|Junan Chen et.al.|[2305.20044](http://arxiv.org/abs/2305.20044)|null|
 |**2023-05-30**|**A Recipe for Efficient SBIR Models: Combining Relative Triplet Loss with Batch Normalization and Knowledge Distillation**|Omar Seddati et.al.|[2305.18988](http://arxiv.org/abs/2305.18988)|null|
@@ -956,6 +957,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-01**|**A Probabilistic Relaxation of the Two-Stage Object Pose Estimation Paradigm**|Onur Beker et.al.|[2306.00892](http://arxiv.org/abs/2306.00892)|null|
 |**2023-05-30**|**Align, Perturb and Decouple: Toward Better Leverage of Difference Information for RSI Change Detection**|Supeng Wang et.al.|[2305.18714](http://arxiv.org/abs/2305.18714)|**[link](https://github.com/wangsp1999/cd-research)**|
 |**2023-05-23**|**Diffusion Hyperfeatures: Searching Through Time and Space for Semantic Correspondence**|Grace Luo et.al.|[2305.14334](http://arxiv.org/abs/2305.14334)|null|
 |**2023-05-15**|**Non-Separable Multi-Dimensional Network Flows for Visual Computing**|Viktoria Ehm et.al.|[2305.08628](http://arxiv.org/abs/2305.08628)|null|
@@ -1245,6 +1247,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-01**|**FDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models**|Hao Zhang et.al.|[2306.00783](http://arxiv.org/abs/2306.00783)|**[link](https://github.com/billyxyb/fdnerf)**|
+|**2023-06-01**|**Analyzing the Internals of Neural Radiance Fields**|Lukas Radl et.al.|[2306.00696](http://arxiv.org/abs/2306.00696)|null|
+|**2023-06-01**|**AvatarStudio: Text-driven Editing of 3D Dynamic Human Head Avatars**|Mohit Mendiratta. Xingang Pan et.al.|[2306.00547](http://arxiv.org/abs/2306.00547)|null|
 |**2023-05-30**|**DäRF: Boosting Radiance Fields from Sparse Inputs with Monocular Depth Adaptation**|Jiuhn Song et.al.|[2305.19201](http://arxiv.org/abs/2305.19201)|null|
 |**2023-05-30**|**Template-free Articulated Neural Point Clouds for Reposable View Synthesis**|Lukas Uzolas et.al.|[2305.19065](http://arxiv.org/abs/2305.19065)|**[link](https://github.com/lukasuz/articulated-point-nerf)**|
 |**2023-05-31**|**HiFA: High-fidelity Text-to-3D with Advanced Diffusion Guidance**|Junzhe Zhu et.al.|[2305.18766](http://arxiv.org/abs/2305.18766)|null|
@@ -1624,6 +1629,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-01**|**Quantifying Deep Learning Model Uncertainty in Conformal Prediction**|Hamed Karimi et.al.|[2306.00876](http://arxiv.org/abs/2306.00876)|null|
+|**2023-06-01**|**A Transformer-based representation-learning model with unified processing of multimodal input for clinical diagnostics**|Hong-Yu Zhou et.al.|[2306.00864](http://arxiv.org/abs/2306.00864)|null|
+|**2023-06-01**|**Differentiable Allpass Filters for Phase Response Estimation and Automatic Signal Alignment**|Anders R. Bargum et.al.|[2306.00860](http://arxiv.org/abs/2306.00860)|null|
+|**2023-06-01**|**A deep-learning approach to early identification of suggested sexual harassment from videos**|Shreya Shetye et.al.|[2306.00856](http://arxiv.org/abs/2306.00856)|null|
+|**2023-06-01**|**What model does MuZero learn?**|Jinke He et.al.|[2306.00840](http://arxiv.org/abs/2306.00840)|null|
+|**2023-06-01**|**Auto-Spikformer: Spikformer Architecture Search**|Kaiwei Che et.al.|[2306.00807](http://arxiv.org/abs/2306.00807)|null|
+|**2023-06-01**|**Microstructure quality control of steels using deep learning**|Ali Riza Durmaz et.al.|[2306.00797](http://arxiv.org/abs/2306.00797)|null|
+|**2023-06-01**|**SlothSpeech: Denial-of-service Attack Against Speech Recognition Models**|Mirazul Haque et.al.|[2306.00794](http://arxiv.org/abs/2306.00794)|**[link](https://github.com/0xrutvij/slothspeech)**|
+|**2023-06-01**|**A Uniform Confidence Phenomenon in Deep Learning and its Implications for Calibration**|Muthu Chidambaram et.al.|[2306.00740](http://arxiv.org/abs/2306.00740)|null|
+|**2023-06-01**|**DAM-Net: Global Flood Detection from SAR Imagery Using Differential Attention Metric-Based Vision Transformers**|Tamer Saleh et.al.|[2306.00704](http://arxiv.org/abs/2306.00704)|**[link](https://github.com/tamer-saleh/s1gflood-detection)**|
 |**2023-05-31**|**Exploring Regions of Interest: Visualizing Histological Image Classification for Breast Cancer using Deep Learning**|Imane Nedjar et.al.|[2305.20058](http://arxiv.org/abs/2305.20058)|null|
 |**2023-05-31**|**Hardness and fracture toughness models by symbolic regression**|Jinbin Zhao et.al.|[2305.19991](http://arxiv.org/abs/2305.19991)|null|
 |**2023-05-31**|**Measuring irreversibility from learned representations of biological patterns**|Junang Li et.al.|[2305.19983](http://arxiv.org/abs/2305.19983)|null|
