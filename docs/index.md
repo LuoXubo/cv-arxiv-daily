@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.04
+## Updated on 2023.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1230,7 +1230,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-01**|**FDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models**|Hao Zhang et.al.|[2306.00783](http://arxiv.org/abs/2306.00783)|**[link](https://github.com/billyxyb/fdnerf)**|
 |**2023-06-01**|**Analyzing the Internals of Neural Radiance Fields**|Lukas Radl et.al.|[2306.00696](http://arxiv.org/abs/2306.00696)|**[link](https://github.com/r4dl/nerfinternals)**|
-|**2023-06-01**|**AvatarStudio: Text-driven Editing of 3D Dynamic Human Head Avatars**|Mohit Mendiratta. Xingang Pan et.al.|[2306.00547](http://arxiv.org/abs/2306.00547)|null|
+|**2023-06-02**|**AvatarStudio: Text-driven Editing of 3D Dynamic Human Head Avatars**|Mohit Mendiratta et.al.|[2306.00547](http://arxiv.org/abs/2306.00547)|null|
 |**2023-05-30**|**DäRF: Boosting Radiance Fields from Sparse Inputs with Monocular Depth Adaptation**|Jiuhn Song et.al.|[2305.19201](http://arxiv.org/abs/2305.19201)|null|
 |**2023-05-30**|**Template-free Articulated Neural Point Clouds for Reposable View Synthesis**|Lukas Uzolas et.al.|[2305.19065](http://arxiv.org/abs/2305.19065)|**[link](https://github.com/lukasuz/articulated-point-nerf)**|
 |**2023-05-31**|**HiFA: High-fidelity Text-to-3D with Advanced Diffusion Guidance**|Junzhe Zhu et.al.|[2305.18766](http://arxiv.org/abs/2305.18766)|null|
@@ -1610,7 +1610,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-01**|**Quantifying Deep Learning Model Uncertainty in Conformal Prediction**|Hamed Karimi et.al.|[2306.00876](http://arxiv.org/abs/2306.00876)|null|
 |**2023-06-01**|**A Transformer-based representation-learning model with unified processing of multimodal input for clinical diagnostics**|Hong-Yu Zhou et.al.|[2306.00864](http://arxiv.org/abs/2306.00864)|null|
-|**2023-06-01**|**Differentiable Allpass Filters for Phase Response Estimation and Automatic Signal Alignment**|Anders R. Bargum et.al.|[2306.00860](http://arxiv.org/abs/2306.00860)|null|
+|**2023-06-02**|**Differentiable Allpass Filters for Phase Response Estimation and Automatic Signal Alignment**|Anders R. Bargum et.al.|[2306.00860](http://arxiv.org/abs/2306.00860)|null|
 |**2023-06-01**|**A deep-learning approach to early identification of suggested sexual harassment from videos**|Shreya Shetye et.al.|[2306.00856](http://arxiv.org/abs/2306.00856)|null|
 |**2023-06-01**|**What model does MuZero learn?**|Jinke He et.al.|[2306.00840](http://arxiv.org/abs/2306.00840)|null|
 |**2023-06-01**|**Auto-Spikformer: Spikformer Architecture Search**|Kaiwei Che et.al.|[2306.00807](http://arxiv.org/abs/2306.00807)|null|
