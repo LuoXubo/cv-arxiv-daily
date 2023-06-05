@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-01**|**Event-based Visual Odometry with Full Temporal Resolution via Continuous-time Gaussian Process Regression**|Jianeng Wang et.al.|[2306.01188](http://arxiv.org/abs/2306.01188)|null|
 |**2023-05-28**|**OSPC: Online Sequential Photometric Calibration**|Jawad Haidar et.al.|[2305.17673](http://arxiv.org/abs/2305.17673)|null|
 |**2023-05-15**|**Event Camera-based Visual Odometry for Dynamic Motion Tracking of a Legged Robot Using Adaptive Time Surface**|Shifan Zhu et.al.|[2305.08962](http://arxiv.org/abs/2305.08962)|null|
 |**2023-05-10**|**Transformer-based model for monocular visual odometry: a video understanding approach**|André O. Françani et.al.|[2305.06121](http://arxiv.org/abs/2305.06121)|**[link](https://github.com/aofrancani/tsformer-vo)**|
@@ -1608,6 +1609,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-02**|**MutateNN: Mutation Testing of Image Recognition Models Deployed on Hardware Accelerators**|Nikolaos Louloudakis et.al.|[2306.01697](http://arxiv.org/abs/2306.01697)|**[link](https://github.com/luludak/mutatenn)**|
+|**2023-06-02**|**A Conditional Normalizing Flow for Accelerated Multi-Coil MR Imaging**|Jeffrey Wen et.al.|[2306.01630](http://arxiv.org/abs/2306.01630)|**[link](https://github.com/jwen307/mri_cnf)**|
+|**2023-06-02**|**Centered Self-Attention Layers**|Ameen Ali et.al.|[2306.01610](http://arxiv.org/abs/2306.01610)|null|
+|**2023-06-02**|**Transfer learning for atomistic simulations using GNNs and kernel mean embeddings**|John Falk et.al.|[2306.01589](http://arxiv.org/abs/2306.01589)|**[link](https://github.com/isakfalk/atomistic_transfer_mekrr)**|
+|**2023-06-02**|**Spatio-Temporal Deep Learning-Assisted Reduced Security-Constrained Unit Commitment**|Arun Venkatesh Ramesh et.al.|[2306.01570](http://arxiv.org/abs/2306.01570)|null|
+|**2023-06-02**|**Accelerating the electronic-structure calculation of magnetic systems by equivariant neural networks**|Yang Zhong et.al.|[2306.01558](http://arxiv.org/abs/2306.01558)|null|
+|**2023-06-02**|**Publicly available datasets of breast histopathology H&E whole-slide images: A systematic review**|Masoud Tafavvoghi et.al.|[2306.01546](http://arxiv.org/abs/2306.01546)|null|
+|**2023-06-02**|**Lensing reconstruction from the cosmic microwave background polarization with machine learning**|Ye-Peng Yan et.al.|[2306.01516](http://arxiv.org/abs/2306.01516)|null|
+|**2023-06-02**|**Robust low-rank training via approximate orthonormal constraints**|Dayana Savostianova et.al.|[2306.01485](http://arxiv.org/abs/2306.01485)|null|
+|**2023-06-02**|**MLP-Mixer as a Wide and Sparse MLP**|Tomohiro Hayase et.al.|[2306.01470](http://arxiv.org/abs/2306.01470)|null|
 |**2023-06-01**|**Quantifying Deep Learning Model Uncertainty in Conformal Prediction**|Hamed Karimi et.al.|[2306.00876](http://arxiv.org/abs/2306.00876)|null|
 |**2023-06-01**|**A Transformer-based representation-learning model with unified processing of multimodal input for clinical diagnostics**|Hong-Yu Zhou et.al.|[2306.00864](http://arxiv.org/abs/2306.00864)|null|
 |**2023-06-02**|**Differentiable Allpass Filters for Phase Response Estimation and Automatic Signal Alignment**|Anders R. Bargum et.al.|[2306.00860](http://arxiv.org/abs/2306.00860)|null|
