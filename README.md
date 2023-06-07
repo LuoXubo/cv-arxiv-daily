@@ -1252,6 +1252,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-06**|**Towards Visual Foundational Models of Physical Scenes**|Chethan Parameshwara et.al.|[2306.03727](http://arxiv.org/abs/2306.03727)|null|
+|**2023-06-06**|**Human 3D Avatar Modeling with Implicit Neural Representation: A Brief Survey**|Mingyang Sun et.al.|[2306.03576](http://arxiv.org/abs/2306.03576)|null|
+|**2023-06-05**|**H2-Mapping: Real-time Dense Mapping Using Hierarchical Hybrid Representation**|Chenxing Jiang et.al.|[2306.03207](http://arxiv.org/abs/2306.03207)|null|
 |**2023-06-05**|**BeyondPixels: A Comprehensive Review of the Evolution of Neural Radiance Fields**|AKM Shahariar Azad Rabby et.al.|[2306.03000](http://arxiv.org/abs/2306.03000)|null|
 |**2023-06-05**|**ZIGNeRF: Zero-shot 3D Scene Representation with Invertible Generative Neural Radiance Fields**|Kanghyeok Ko et.al.|[2306.02741](http://arxiv.org/abs/2306.02741)|null|
 |**2023-06-01**|**FDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models**|Hao Zhang et.al.|[2306.00783](http://arxiv.org/abs/2306.00783)|**[link](https://github.com/billyxyb/fdnerf)**|
@@ -1636,6 +1639,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-06**|**Atrial Septal Defect Detection in Children Based on Ultrasound Video Using Multiple Instances Learning**|Yiman Liu et.al.|[2306.03835](http://arxiv.org/abs/2306.03835)|null|
+|**2023-06-06**|**The Emergence of Essential Sparsity in Large Pre-trained Models: The Weights that Matter**|Ajay Jaiswal et.al.|[2306.03805](http://arxiv.org/abs/2306.03805)|**[link](https://github.com/vita-group/essential_sparsity)**|
+|**2023-06-06**|**Performance-optimized deep neural networks are evolving into worse models of inferotemporal visual cortex**|Drew Linsley et.al.|[2306.03779](http://arxiv.org/abs/2306.03779)|null|
+|**2023-06-06**|**Exploring the effects of robotic design on learning and neural control**|Joshua Paul Powers et.al.|[2306.03757](http://arxiv.org/abs/2306.03757)|**[link](https://github.com/jpp46/alife2018)**|
+|**2023-06-06**|**Fisher information and shape-morphing modes for solving the Fokker-Planck equation in higher dimensions**|William Anderson et.al.|[2306.03749](http://arxiv.org/abs/2306.03749)|null|
+|**2023-06-06**|**Experimental Performance of Blind Position Estimation Using Deep Learning**|Ivo Bizon et.al.|[2306.03721](http://arxiv.org/abs/2306.03721)|null|
+|**2023-06-06**|**Deep Learning-Enabled Sleep Staging From Vital Signs and Activity Measured Using a Near-Infrared Video Camera**|Jonathan Carter et.al.|[2306.03711](http://arxiv.org/abs/2306.03711)|null|
+|**2023-06-06**|**Blind Transmitter Localization Using Deep Learning: A Scalability Study**|Ivo Bizon et.al.|[2306.03708](http://arxiv.org/abs/2306.03708)|null|
+|**2023-06-06**|**Effective Intrusion Detection in Highly Imbalanced IoT Networks with Lightweight S2CGAN-IDS**|Caihong Wang et.al.|[2306.03707](http://arxiv.org/abs/2306.03707)|null|
+|**2023-06-06**|**YONA: You Only Need One Adjacent Reference-frame for Accurate and Fast Video Polyp Detection**|Yuncheng Jiang et.al.|[2306.03686](http://arxiv.org/abs/2306.03686)|null|
 |**2023-06-05**|**DeepGraphDMD: Interpretable Spatio-Temporal Decomposition of Non-linear Functional Brain Network Dynamics**|Md Asadullah Turja et.al.|[2306.03088](http://arxiv.org/abs/2306.03088)|null|
 |**2023-06-05**|**Dismantling Hate: Understanding Hate Speech Trends Against NBA Athletes**|Edinam Kofi Klutse et.al.|[2306.03086](http://arxiv.org/abs/2306.03086)|null|
 |**2023-06-05**|**Sensitivity-Aware Finetuning for Accuracy Recovery on Deep Learning Hardware**|Lakshmi Nair et.al.|[2306.03076](http://arxiv.org/abs/2306.03076)|null|
