@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.10
+## Updated on 2023.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1630,7 +1630,7 @@ layout: default
 |**2023-06-08**|**Mesh-MLP: An all-MLP Architecture for Mesh Classification and Semantic Segmentation**|Qiujie Dong et.al.|[2306.05246](http://arxiv.org/abs/2306.05246)|null|
 |**2023-06-08**|**Autoencoding for the 'Good Dictionary' of eigen pairs of the Koopman Operator**|Neranjaka Jayarathne et.al.|[2306.05224](http://arxiv.org/abs/2306.05224)|null|
 |**2023-06-08**|**Deep learning the hierarchy of steering measurement settings of qubit-pair states**|Hong-Ming Wang et.al.|[2306.05201](http://arxiv.org/abs/2306.05201)|null|
-|**2023-06-08**|**Octree-based hierarchical sampling optimization for the volumetric super-resolution of scientific data**|Xinjie Wang et.al.|[2306.05133](http://arxiv.org/abs/2306.05133)|null|
+|**2023-06-08**|**Octree-based hierarchical sampling optimization for the volumetric super-resolution of scientific data**|Xinjie Wang et.al.|[2306.05133](http://arxiv.org/abs/2306.05133)|**[link](https://github.com/xinjiewang/octree-based_sampling)**|
 |**2023-06-07**|**GP-UNIT: Generative Prior for Versatile Unsupervised Image-to-Image Translation**|Shuai Yang et.al.|[2306.04636](http://arxiv.org/abs/2306.04636)|**[link](https://github.com/williamyang1991/gp-unit)**|
 |**2023-06-07**|**A Dataset for Deep Learning-based Bone Structure Analyses in Total Hip Arthroplasty**|Kaidong Zhang et.al.|[2306.04579](http://arxiv.org/abs/2306.04579)|**[link](https://github.com/hitachinsk/tha)**|
 |**2023-06-07**|**Cross-Database and Cross-Channel ECG Arrhythmia Heartbeat Classification Based on Unsupervised Domain Adaptation**|Md Niaz Imtiaz et.al.|[2306.04433](http://arxiv.org/abs/2306.04433)|null|
