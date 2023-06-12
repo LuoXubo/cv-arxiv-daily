@@ -1090,6 +1090,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-09**|**Leaving the Lines Behind: Vision-Based Crop Row Exit for Agricultural Robot Navigation**|Rajitha de Silva et.al.|[2306.05869](http://arxiv.org/abs/2306.05869)|null|
 |**2023-06-07**|**A2B: Anchor to Barycentric Coordinate for Robust Correspondence**|Weiyue Zhao et.al.|[2306.02760](http://arxiv.org/abs/2306.02760)|null|
 |**2023-05-27**|**Pentagon-Match (PMatch): Identification of View-Invariant Planar Feature for Local Feature Matching-Based Homography Estimation**|Yueh-Cheng Huang et.al.|[2305.17463](http://arxiv.org/abs/2305.17463)|null|
 |**2023-05-19**|**SIDAR: Synthetic Image Dataset for Alignment & Restoration**|Monika Kwiatkowski et.al.|[2305.12036](http://arxiv.org/abs/2305.12036)|**[link](https://github.com/niika/SIDAR)**|
@@ -1234,6 +1235,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-09**|**HyP-NeRF: Learning Improved NeRF Priors using a HyperNetwork**|Bipasha Sen et.al.|[2306.06093](http://arxiv.org/abs/2306.06093)|null|
+|**2023-06-09**|**GANeRF: Leveraging Discriminators to Optimize Neural Radiance Fields**|Barbara Roessle et.al.|[2306.06044](http://arxiv.org/abs/2306.06044)|null|
+|**2023-06-09**|**RePaint-NeRF: NeRF Editting via Semantic Masks and Diffusion Models**|Xingchen Zhou et.al.|[2306.05668](http://arxiv.org/abs/2306.05668)|null|
 |**2023-06-08**|**LU-NeRF: Scene and Pose Estimation by Synchronizing Local Unposed NeRFs**|Zezhou Cheng et.al.|[2306.05410](http://arxiv.org/abs/2306.05410)|null|
 |**2023-06-08**|**Enhance-NeRF: Multiple Performance Evaluation for Neural Radiance Fields**|Qianqiu Tan et.al.|[2306.05303](http://arxiv.org/abs/2306.05303)|null|
 |**2023-06-06**|**Towards Visual Foundational Models of Physical Scenes**|Chethan Parameshwara et.al.|[2306.03727](http://arxiv.org/abs/2306.03727)|null|
@@ -1621,6 +1625,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-09**|**NuCLR: Nuclear Co-Learned Representations**|Ouail Kitouni et.al.|[2306.06099](http://arxiv.org/abs/2306.06099)|null|
+|**2023-06-09**|**Error Feedback Can Accurately Compress Preconditioners**|Ionut-Vlad Modoranu et.al.|[2306.06098](http://arxiv.org/abs/2306.06098)|**[link](https://github.com/ist-daslab/efcp)**|
+|**2023-06-09**|**Exploring the Impact of Image Resolution on Chest X-ray Classification Performance**|Alessandro Wollek et.al.|[2306.06051](http://arxiv.org/abs/2306.06051)|null|
+|**2023-06-09**|**HiTZ@Antidote: Argumentation-driven Explainable Artificial Intelligence for Digital Medicine**|Rodrigo Agerri et.al.|[2306.06029](http://arxiv.org/abs/2306.06029)|null|
+|**2023-06-09**|**Self-Interpretable Time Series Prediction with Counterfactual Explanations**|Jingquan Yan et.al.|[2306.06024](http://arxiv.org/abs/2306.06024)|null|
+|**2023-06-09**|**Automated Labeling of German Chest X-Ray Radiology Reports using Deep Learning**|Alessandro Wollek et.al.|[2306.05997](http://arxiv.org/abs/2306.05997)|null|
+|**2023-06-09**|**3D objects and scenes classification, recognition, segmentation, and reconstruction using 3D point cloud data: A review**|Omar Elharrouss et.al.|[2306.05978](http://arxiv.org/abs/2306.05978)|null|
+|**2023-06-09**|**Taxonomy of hybridly polarized Stokes vortex beams**|Gauri Arora et.al.|[2306.05974](http://arxiv.org/abs/2306.05974)|null|
+|**2023-06-09**|**Prediction of Transportation Index for Urban Patterns in Small and Medium-sized Indian Cities using Hybrid RidgeGAN Model**|Rahisha Thottolil et.al.|[2306.05951](http://arxiv.org/abs/2306.05951)|**[link](https://github.com/rahisha-thottolil/ridgegan)**|
+|**2023-06-09**|**GAN-CAN: A Novel Attack to Behavior-Based Driver Authentication Systems**|Emad Efatinasab et.al.|[2306.05923](http://arxiv.org/abs/2306.05923)|null|
 |**2023-06-08**|**Subject clustering by IF-PCA and several recent methods**|Dieyi Chen et.al.|[2306.05363](http://arxiv.org/abs/2306.05363)|**[link](https://github.com/zhengtracyke/ifpca)**|
 |**2023-06-08**|**Real-time GeoAI for High-resolution Mapping and Segmentation of Arctic Permafrost Features**|Wenwen Li et.al.|[2306.05341](http://arxiv.org/abs/2306.05341)|null|
 |**2023-06-08**|**Connectional-Style-Guided Contextual Representation Learning for Brain Disease Diagnosis**|Gongshu Wang et.al.|[2306.05297](http://arxiv.org/abs/2306.05297)|null|
