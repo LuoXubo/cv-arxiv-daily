@@ -521,6 +521,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-15**|**Yes, we CANN: Constrained Approximate Nearest Neighbors for local feature-based visual localization**|Dror Aiger et.al.|[2306.09012](http://arxiv.org/abs/2306.09012)|null|
+|**2023-06-15**|**Prompt Performance Prediction for Generative IR**|Nicolas Bizzozzero et.al.|[2306.08915](http://arxiv.org/abs/2306.08915)|null|
+|**2023-06-15**|**Graph Convolution Based Efficient Re-Ranking for Visual Retrieval**|Yuqi Zhang et.al.|[2306.08792](http://arxiv.org/abs/2306.08792)|**[link](https://github.com/WesleyZhang1991/GCN_rerank)**|
 |**2023-06-13**|**GeneCIS: A Benchmark for General Conditional Image Similarity**|Sagar Vaze et.al.|[2306.07969](http://arxiv.org/abs/2306.07969)|null|
 |**2023-06-13**|**MOFI: Learning Image Representations from Noisy Entity Annotated Images**|Wentao Wu et.al.|[2306.07952](http://arxiv.org/abs/2306.07952)|null|
 |**2023-06-12**|**Zero-shot Composed Text-Image Retrieval**|Yikun Liu et.al.|[2306.07272](http://arxiv.org/abs/2306.07272)|null|
@@ -1260,6 +1263,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-15**|**UrbanIR: Large-Scale Urban Scene Inverse Rendering from a Single Video**|Zhi-Hao Lin et.al.|[2306.09349](http://arxiv.org/abs/2306.09349)|null|
+|**2023-06-13**|**DORSal: Diffusion for Object-centric Representations of Scenes $\textit{et al.}$**|Allan Jabri et.al.|[2306.08068](http://arxiv.org/abs/2306.08068)|null|
 |**2023-06-13**|**Binary Radiance Fields**|Seungjoo Shin et.al.|[2306.07581](http://arxiv.org/abs/2306.07581)|null|
 |**2023-06-10**|**From NeRFLiX to NeRFLiX++: A General NeRF-Agnostic Restorer Paradigm**|Kun Zhou et.al.|[2306.06388](http://arxiv.org/abs/2306.06388)|null|
 |**2023-06-15**|**NERFBK: A High-Quality Benchmark for NERF-Based 3D Reconstruction**|Ali Karami et.al.|[2306.06300](http://arxiv.org/abs/2306.06300)|**[link](https://github.com/3dom-fbk/nerfbk)**|
@@ -1655,6 +1660,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-15**|**PaReprop: Fast Parallelized Reversible Backpropagation**|Tyler Zhu et.al.|[2306.09342](http://arxiv.org/abs/2306.09342)|null|
+|**2023-06-15**|**Understanding Optimization of Deep Learning**|Xianbiao Qi et.al.|[2306.09338](http://arxiv.org/abs/2306.09338)|null|
+|**2023-06-15**|**Radars for Autonomous Driving: A Review of Deep Learning Methods and Challenges**|Arvind Srivastav et.al.|[2306.09304](http://arxiv.org/abs/2306.09304)|null|
+|**2023-06-15**|**Robustness Analysis on Foundational Segmentation Models**|Madeline Chantry Schiappa et.al.|[2306.09278](http://arxiv.org/abs/2306.09278)|null|
+|**2023-06-15**|**Mitigating Cold-start Forecasting using Cold Causal Demand Forecasting Model**|Zahra Fatemi et.al.|[2306.09261](http://arxiv.org/abs/2306.09261)|null|
+|**2023-06-15**|**MinMax Networks**|Winfried Lohmiller et.al.|[2306.09253](http://arxiv.org/abs/2306.09253)|null|
+|**2023-06-15**|**Deep Learning for Energy Time-Series Analysis and Forecasting**|Maria Tzelepi et.al.|[2306.09129](http://arxiv.org/abs/2306.09129)|null|
+|**2023-06-15**|**DIFFender: Diffusion-Based Adversarial Defense against Patch Attacks in the Physical World**|Caixin Kang et.al.|[2306.09124](http://arxiv.org/abs/2306.09124)|null|
+|**2023-06-15**|**Deep learning based Meta-modeling for Multi-objective Technology Optimization of Electrical Machines**|Vivek Parekh et.al.|[2306.09087](http://arxiv.org/abs/2306.09087)|null|
+|**2023-06-15**|**Improving Explainability of Disentangled Representations using Multipath-Attribution Mappings**|Lukas Klein et.al.|[2306.09035](http://arxiv.org/abs/2306.09035)|**[link](https://github.com/iml-dkfz/m-pax_lib)**|
 |**2023-06-13**|**Supervised-Contrastive Loss Learns Orthogonal Frames and Batching Matters**|Ganesh Ramachandra Kini et.al.|[2306.07960](http://arxiv.org/abs/2306.07960)|**[link](https://github.com/valavakilian/scl_geometry_and_batching)**|
 |**2023-06-13**|**CAMEO: A Causal Transfer Learning Approach for Performance Optimization of Configurable Computer Systems**|Md Shahriar Iqbal et.al.|[2306.07888](http://arxiv.org/abs/2306.07888)|null|
 |**2023-06-13**|**Deep Learning-Enabled Zero-Touch Device Identification: Mitigating the Impact of Channel Variability Through MIMO Diversity**|Bechir Hamdaoui et.al.|[2306.07878](http://arxiv.org/abs/2306.07878)|null|
