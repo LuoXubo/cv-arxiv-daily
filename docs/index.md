@@ -508,6 +508,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-20**|**Annotation Cost Efficient Active Learning for Content Based Image Retrieval**|Julia Henkel et.al.|[2306.11605](http://arxiv.org/abs/2306.11605)|null|
+|**2023-06-19**|**Cross-Modal Attribute Insertions for Assessing the Robustness of Vision-and-Language Learning**|Shivaen Ramshetty et.al.|[2306.11065](http://arxiv.org/abs/2306.11065)|**[link](https://github.com/claws-lab/multimodal-robustness-xmai)**|
+|**2023-06-18**|**LiDAR-Based Place Recognition For Autonomous Driving: A Survey**|Pengcheng Shi et.al.|[2306.10561](http://arxiv.org/abs/2306.10561)|null|
 |**2023-06-15**|**Yes, we CANN: Constrained Approximate Nearest Neighbors for local feature-based visual localization**|Dror Aiger et.al.|[2306.09012](http://arxiv.org/abs/2306.09012)|null|
 |**2023-06-15**|**Prompt Performance Prediction for Generative IR**|Nicolas Bizzozzero et.al.|[2306.08915](http://arxiv.org/abs/2306.08915)|null|
 |**2023-06-15**|**Graph Convolution Based Efficient Re-Ranking for Visual Retrieval**|Yuqi Zhang et.al.|[2306.08792](http://arxiv.org/abs/2306.08792)|**[link](https://github.com/WesleyZhang1991/GCN_rerank)**|
@@ -1099,6 +1102,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-19**|**Graph Self-Supervised Learning for Endoscopic Image Matching**|Manel Farhat et.al.|[2306.11141](http://arxiv.org/abs/2306.11141)|**[link](https://github.com/abenhamadou/graph-self-supervised-learning-for-endoscopic-image-matching)**|
 |**2023-06-09**|**Leaving the Lines Behind: Vision-Based Crop Row Exit for Agricultural Robot Navigation**|Rajitha de Silva et.al.|[2306.05869](http://arxiv.org/abs/2306.05869)|null|
 |**2023-06-07**|**A2B: Anchor to Barycentric Coordinate for Robust Correspondence**|Weiyue Zhao et.al.|[2306.02760](http://arxiv.org/abs/2306.02760)|null|
 |**2023-05-27**|**Pentagon-Match (PMatch): Identification of View-Invariant Planar Feature for Local Feature Matching-Based Homography Estimation**|Yueh-Cheng Huang et.al.|[2305.17463](http://arxiv.org/abs/2305.17463)|null|
@@ -1244,6 +1248,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-20**|**NeRF synthesis with shading guidance**|Chenbin Li et.al.|[2306.11556](http://arxiv.org/abs/2306.11556)|null|
+|**2023-06-17**|**MA-NeRF: Motion-Assisted Neural Radiance Fields for Face Synthesis from Sparse Images**|Weichen Zhang et.al.|[2306.10350](http://arxiv.org/abs/2306.10350)|null|
 |**2023-06-15**|**Edit-DiffNeRF: Editing 3D Neural Radiance Fields using 2D Diffusion Model**|Lu Yu et.al.|[2306.09551](http://arxiv.org/abs/2306.09551)|null|
 |**2023-06-16**|**UrbanIR: Large-Scale Urban Scene Inverse Rendering from a Single Video**|Zhi-Hao Lin et.al.|[2306.09349](http://arxiv.org/abs/2306.09349)|null|
 |**2023-06-13**|**DORSal: Diffusion for Object-centric Representations of Scenes $\textit{et al.}$**|Allan Jabri et.al.|[2306.08068](http://arxiv.org/abs/2306.08068)|null|
@@ -1640,6 +1646,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-20**|**SkyGPT: Probabilistic Short-term Solar Forecasting Using Synthetic Sky Videos from Physics-constrained VideoGPT**|Yuhao Nie et.al.|[2306.11682](http://arxiv.org/abs/2306.11682)|null|
+|**2023-06-20**|**A Survey on Automated Software Vulnerability Detection Using Machine Learning and Deep Learning**|Nima Shiri Harzevili et.al.|[2306.11673](http://arxiv.org/abs/2306.11673)|null|
+|**2023-06-20**|**Deep Learning Methods for Retinal Blood Vessel Segmentation: Evaluation on Images with Retinopathy of Prematurity**|Gorana Gojić et.al.|[2306.11576](http://arxiv.org/abs/2306.11576)|null|
+|**2023-06-20**|**MILD: Modeling the Instance Learning Dynamics for Learning with Noisy Labels**|Chuanyang Hu et.al.|[2306.11560](http://arxiv.org/abs/2306.11560)|null|
+|**2023-06-20**|**Improving visual image reconstruction from human brain activity using latent diffusion models via multiple decoded inputs**|Yu Takagi et.al.|[2306.11536](http://arxiv.org/abs/2306.11536)|null|
+|**2023-06-20**|**Self-learning Monte Carlo with equivariant Transformer**|Yuki Nagai et.al.|[2306.11527](http://arxiv.org/abs/2306.11527)|null|
+|**2023-06-20**|**Implicit neural representation with physics-informed neural networks for the reconstruction of the early part of room impulse responses**|Mirco Pezzoli et.al.|[2306.11509](http://arxiv.org/abs/2306.11509)|null|
+|**2023-06-20**|**UM-CAM: Uncertainty-weighted Multi-resolution Class Activation Maps for Weakly-supervised Fetal Brain Segmentation**|Jia Fu et.al.|[2306.11490](http://arxiv.org/abs/2306.11490)|null|
+|**2023-06-20**|**Exploring the Performance and Efficiency of Transformer Models for NLP on Mobile Devices**|Ioannis Panopoulos et.al.|[2306.11426](http://arxiv.org/abs/2306.11426)|null|
+|**2023-06-20**|**Pipeline for recording datasets and running neural networks on the Bela embedded hardware platform**|Teresa Pelinski et.al.|[2306.11389](http://arxiv.org/abs/2306.11389)|null|
 |**2023-06-20**|**CLIP2Protect: Protecting Facial Privacy using Text-Guided Makeup via Adversarial Latent Search**|Fahad Shamshad et.al.|[2306.10008](http://arxiv.org/abs/2306.10008)|**[link](https://github.com/fahadshamshad/clip2protect)**|
 |**2023-06-16**|**Query-Free Evasion Attacks Against Machine Learning-Based Malware Detectors with Generative Adversarial Networks**|Daniel Gibert et.al.|[2306.09925](http://arxiv.org/abs/2306.09925)|null|
 |**2023-06-16**|**Uncertainty Quantification via Spatial-Temporal Tweedie Model for Zero-inflated and Long-tail Travel Demand Prediction**|Xinke Jiang et.al.|[2306.09882](http://arxiv.org/abs/2306.09882)|**[link](https://github.com/sttdanonymous/sttd)**|
