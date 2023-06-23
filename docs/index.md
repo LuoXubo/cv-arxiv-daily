@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.22
+## Updated on 2023.06.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1652,7 +1652,7 @@ layout: default
 |**2023-06-21**|**M-VAAL: Multimodal Variational Adversarial Active Learning for Downstream Medical Image Analysis Tasks**|Bidur Khanal et.al.|[2306.12376](http://arxiv.org/abs/2306.12376)|**[link](https://github.com/bidur-khanal/mvaal-medical-images)**|
 |**2023-06-21**|**PriorBand: Practical Hyperparameter Optimization in the Age of Deep Learning**|Neeratyoy Mallik et.al.|[2306.12370](http://arxiv.org/abs/2306.12370)|**[link](https://github.com/automl/mf-prior-exp)**|
 |**2023-06-21**|**Attention Hybrid Variational Net for Accelerated MRI Reconstruction**|Guoyao Shen et.al.|[2306.12365](http://arxiv.org/abs/2306.12365)|null|
-|**2023-06-21**|**Beyond Deep Ensembles -- A Large-Scale Evaluation of Bayesian Deep Learning under Distribution Shift**|Florian Seligmann et.al.|[2306.12306](http://arxiv.org/abs/2306.12306)|**[link](https://github.com/bdl-authors/beyond-ensembles)**|
+|**2023-06-22**|**Beyond Deep Ensembles: A Large-Scale Evaluation of Bayesian Deep Learning under Distribution Shift**|Florian Seligmann et.al.|[2306.12306](http://arxiv.org/abs/2306.12306)|**[link](https://github.com/bdl-authors/beyond-ensembles)**|
 |**2023-06-21**|**Reporting existing datasets for automatic epilepsy diagnosis and seizure detection**|Palak Handa et.al.|[2306.12292](http://arxiv.org/abs/2306.12292)|null|
 |**2023-06-21**|**Resilient Sparse Array Radar with the Aid of Deep Learning**|Aya Mostafa Ahmed et.al.|[2306.12285](http://arxiv.org/abs/2306.12285)|null|
 |**2023-06-21**|**Combining multi-spectral data with statistical and deep-learning models for improved exoplanet detection in direct imaging at high contrast**|Olivier Flasseur et.al.|[2306.12266](http://arxiv.org/abs/2306.12266)|null|
