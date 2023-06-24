@@ -1654,15 +1654,15 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-22**|**Evading Forensic Classifiers with Attribute-Conditioned Adversarial Faces**|Fahad Shamshad et.al.|[2306.13091](http://arxiv.org/abs/2306.13091)|**[link](https://github.com/koushiksrivats/face_attribute_attack)**|
-|**2023-06-22**|**PromptIR: Prompting for All-in-One Blind Image Restoration**|Vaishnav Potlapalli et.al.|[2306.13090](http://arxiv.org/abs/2306.13090)|null|
+|**2023-06-22**|**PromptIR: Prompting for All-in-One Blind Image Restoration**|Vaishnav Potlapalli et.al.|[2306.13090](http://arxiv.org/abs/2306.13090)|**[link](https://github.com/va1shn9v/promptir)**|
 |**2023-06-22**|**Named entity recognition in resumes**|Ege Kesim et.al.|[2306.13062](http://arxiv.org/abs/2306.13062)|null|
 |**2023-06-22**|**Toward Automated Detection of Microbleeds with Anatomical Scale Localization: A Complete Clinical Diagnosis Support Using Deep Learning**|Jun-Ho Kim et.al.|[2306.13020](http://arxiv.org/abs/2306.13020)|null|
 |**2023-06-22**|**Can a single image processing algorithm work equally well across all phases of DCE-MRI?**|Adam G. Tattersall et.al.|[2306.12988](http://arxiv.org/abs/2306.12988)|null|
-|**2023-06-22**|**Feature Mixing for Writer Retrieval and Identification on Papyri Fragments**|Marco Peer et.al.|[2306.12939](http://arxiv.org/abs/2306.12939)|null|
+|**2023-06-22**|**Feature Mixing for Writer Retrieval and Identification on Papyri Fragments**|Marco Peer et.al.|[2306.12939](http://arxiv.org/abs/2306.12939)|**[link](https://github.com/marco-peer/hip23)**|
 |**2023-06-22**|**Multi-Objective Hull Form Optimization with CAD Engine-based Deep Learning Physics for 3D Flow Prediction**|Jocelyn Ahmed Mazari et.al.|[2306.12915](http://arxiv.org/abs/2306.12915)|null|
 |**2023-06-22**|**Implicit spoken language diarization**|Jagabandhu Mishra et.al.|[2306.12913](http://arxiv.org/abs/2306.12913)|null|
 |**2023-06-22**|**Natural Language Processing in Electronic Health Records in Relation to Healthcare Decision-making: A Systematic Review**|Elias Hossain et.al.|[2306.12834](http://arxiv.org/abs/2306.12834)|null|
-|**2023-06-22**|**StrainNet: Predicting crystal structure elastic properties using SE(3)-equivariant graph neural networks**|Teerachote Pakornchote et.al.|[2306.12818](http://arxiv.org/abs/2306.12818)|null|
+|**2023-06-22**|**StrainNet: Predicting crystal structure elastic properties using SE(3)-equivariant graph neural networks**|Teerachote Pakornchote et.al.|[2306.12818](http://arxiv.org/abs/2306.12818)|**[link](https://github.com/trachote/predict_elastic_tensor)**|
 |**2023-06-21**|**$\mathbf{\mathbb{E}^{FWI}}$ : Multi-parameter Benchmark Datasets for Elastic Full Waveform Inversion of Geophysical Properties**|Shihang Feng et.al.|[2306.12386](http://arxiv.org/abs/2306.12386)|null|
 |**2023-06-21**|**M-VAAL: Multimodal Variational Adversarial Active Learning for Downstream Medical Image Analysis Tasks**|Bidur Khanal et.al.|[2306.12376](http://arxiv.org/abs/2306.12376)|**[link](https://github.com/bidur-khanal/mvaal-medical-images)**|
 |**2023-06-21**|**PriorBand: Practical Hyperparameter Optimization in the Age of Deep Learning**|Neeratyoy Mallik et.al.|[2306.12370](http://arxiv.org/abs/2306.12370)|**[link](https://github.com/automl/mf-prior-exp)**|
