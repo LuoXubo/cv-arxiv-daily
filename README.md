@@ -521,6 +521,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-23**|**Catching Image Retrieval Generalization**|Maksim Zhdanov et.al.|[2306.13357](http://arxiv.org/abs/2306.13357)|null|
 |**2023-06-22**|**Deep Metric Learning with Soft Orthogonal Proxies**|Farshad Saberi-Movahed et.al.|[2306.13055](http://arxiv.org/abs/2306.13055)|null|
 |**2023-06-22**|**What to Learn: Features, Image Transformations, or Both?**|Yuxuan Chen et.al.|[2306.13040](http://arxiv.org/abs/2306.13040)|null|
 |**2023-06-22**|**Critical-Reflective Human-AI Collaboration: Exploring Computational Tools for Art Historical Image Retrieval**|Katrin Glinka et.al.|[2306.12843](http://arxiv.org/abs/2306.12843)|null|
@@ -1122,6 +1123,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-23**|**LightGlue: Local Feature Matching at Light Speed**|Philipp Lindenberger et.al.|[2306.13643](http://arxiv.org/abs/2306.13643)|**[link](https://github.com/cvg/lightglue)**|
 |**2023-06-19**|**Graph Self-Supervised Learning for Endoscopic Image Matching**|Manel Farhat et.al.|[2306.11141](http://arxiv.org/abs/2306.11141)|**[link](https://github.com/abenhamadou/graph-self-supervised-learning-for-endoscopic-image-matching)**|
 |**2023-06-09**|**Leaving the Lines Behind: Vision-Based Crop Row Exit for Agricultural Robot Navigation**|Rajitha de Silva et.al.|[2306.05869](http://arxiv.org/abs/2306.05869)|null|
 |**2023-06-07**|**A2B: Anchor to Barycentric Coordinate for Robust Correspondence**|Weiyue Zhao et.al.|[2306.02760](http://arxiv.org/abs/2306.02760)|null|
@@ -1674,6 +1676,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-23**|**Autoencoders for Real-Time SUEP Detection**|Simranjit Singh Chhibra et.al.|[2306.13595](http://arxiv.org/abs/2306.13595)|null|
+|**2023-06-23**|**NetBooster: Empowering Tiny Deep Learning By Standing on the Shoulders of Deep Giants**|Zhongzhi Yu et.al.|[2306.13586](http://arxiv.org/abs/2306.13586)|null|
+|**2023-06-23**|**A Semi-Paired Approach For Label-to-Image Translation**|George Eskandar et.al.|[2306.13585](http://arxiv.org/abs/2306.13585)|null|
+|**2023-06-23**|**Scaling MLPs: A Tale of Inductive Bias**|Gregor Bachmann et.al.|[2306.13575](http://arxiv.org/abs/2306.13575)|**[link](https://github.com/gregorbachmann/scaling_mlps)**|
+|**2023-06-23**|**Estimating Residential Solar Potential Using Aerial Data**|Ross Goroshin et.al.|[2306.13564](http://arxiv.org/abs/2306.13564)|null|
+|**2023-06-23**|**Torsion Graph Neural Networks**|Cong Shen et.al.|[2306.13541](http://arxiv.org/abs/2306.13541)|**[link](https://github.com/cs-bio/torgnn)**|
+|**2023-06-23**|**Limitations of Out-of-Distribution Detection in 3D Medical Image Segmentation**|Anton Vasiliuk et.al.|[2306.13528](http://arxiv.org/abs/2306.13528)|null|
+|**2023-06-23**|**Retrieval of Boost Invariant Symbolic Observables via Feature Importance**|Jose M Munoz et.al.|[2306.13496](http://arxiv.org/abs/2306.13496)|null|
+|**2023-06-23**|**A Graph Neural Network Approach for Temporal Mesh Blending and Correspondence**|Aalok Gangopadhyay et.al.|[2306.13452](http://arxiv.org/abs/2306.13452)|null|
+|**2023-06-23**|**Dermoscopic Dark Corner Artifacts Removal: Friend or Foe?**|Samuel William Pewton et.al.|[2306.13446](http://arxiv.org/abs/2306.13446)|null|
 |**2023-06-22**|**Evading Forensic Classifiers with Attribute-Conditioned Adversarial Faces**|Fahad Shamshad et.al.|[2306.13091](http://arxiv.org/abs/2306.13091)|**[link](https://github.com/koushiksrivats/face_attribute_attack)**|
 |**2023-06-22**|**PromptIR: Prompting for All-in-One Blind Image Restoration**|Vaishnav Potlapalli et.al.|[2306.13090](http://arxiv.org/abs/2306.13090)|**[link](https://github.com/va1shn9v/promptir)**|
 |**2023-06-22**|**Named entity recognition in resumes**|Ege Kesim et.al.|[2306.13062](http://arxiv.org/abs/2306.13062)|null|
