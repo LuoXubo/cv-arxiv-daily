@@ -508,6 +508,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-26**|**Hierarchical Matching and Reasoning for Multi-Query Image Retrieval**|Zhong Ji et.al.|[2306.14460](http://arxiv.org/abs/2306.14460)|null|
+|**2023-06-25**|**Enhancing Dynamic Image Advertising with Vision-Language Pre-training**|Zhoufutu Wen et.al.|[2306.14112](http://arxiv.org/abs/2306.14112)|null|
 |**2023-06-23**|**Catching Image Retrieval Generalization**|Maksim Zhdanov et.al.|[2306.13357](http://arxiv.org/abs/2306.13357)|null|
 |**2023-06-22**|**Deep Metric Learning with Soft Orthogonal Proxies**|Farshad Saberi-Movahed et.al.|[2306.13055](http://arxiv.org/abs/2306.13055)|null|
 |**2023-06-22**|**What to Learn: Features, Image Transformations, or Both?**|Yuxuan Chen et.al.|[2306.13040](http://arxiv.org/abs/2306.13040)|null|
@@ -1106,6 +1108,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-25**|**Enhancing Dynamic Image Advertising with Vision-Language Pre-training**|Zhoufutu Wen et.al.|[2306.14112](http://arxiv.org/abs/2306.14112)|null|
 |**2023-06-23**|**LightGlue: Local Feature Matching at Light Speed**|Philipp Lindenberger et.al.|[2306.13643](http://arxiv.org/abs/2306.13643)|**[link](https://github.com/cvg/lightglue)**|
 |**2023-06-19**|**Graph Self-Supervised Learning for Endoscopic Image Matching**|Manel Farhat et.al.|[2306.11141](http://arxiv.org/abs/2306.11141)|**[link](https://github.com/abenhamadou/graph-self-supervised-learning-for-endoscopic-image-matching)**|
 |**2023-06-09**|**Leaving the Lines Behind: Vision-Based Crop Row Exit for Agricultural Robot Navigation**|Rajitha de Silva et.al.|[2306.05869](http://arxiv.org/abs/2306.05869)|null|
@@ -1655,6 +1658,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-26**|**Metapopulation Graph Neural Networks: Deep Metapopulation Epidemic Modeling with Human Mobility**|Qi Cao et.al.|[2306.14857](http://arxiv.org/abs/2306.14857)|null|
+|**2023-06-26**|**Segmentation of Industrial Burner Flames: A Comparative Study from Traditional Image Processing to Machine and Deep Learning**|Steven Landgraf et.al.|[2306.14789](http://arxiv.org/abs/2306.14789)|null|
+|**2023-06-26**|**Data-driven plasma modelling: Surrogate collisional radiative models of fluorocarbon plasmas from deep generative autoencoders**|Gregory A. Daly et.al.|[2306.14785](http://arxiv.org/abs/2306.14785)|null|
+|**2023-06-26**|**Unifying the design space of truss metamaterials by generative modeling**|Li Zheng et.al.|[2306.14773](http://arxiv.org/abs/2306.14773)|null|
+|**2023-06-26**|**Uncovering Political Hate Speech During Indian Election Campaign: A New Low-Resource Dataset and Baselines**|Farhan Ahmad Jafri et.al.|[2306.14764](http://arxiv.org/abs/2306.14764)|**[link](https://github.com/farhan-jafri/indian-election)**|
+|**2023-06-26**|**The Deep Arbitrary Polynomial Chaos Neural Network or how Deep Artificial Neural Networks could benefit from Data-Driven Homogeneous Chaos Theory**|Sergey Oladyshkin et.al.|[2306.14753](http://arxiv.org/abs/2306.14753)|null|
+|**2023-06-26**|**Deep Predictive Learning : Motion Learning Concept inspired by Cognitive Robotics**|Kanata Suzuki et.al.|[2306.14714](http://arxiv.org/abs/2306.14714)|null|
+|**2023-06-26**|**GSMorph: Gradient Surgery for cine-MRI Cardiac Deformable Registration**|Haoran Dou et.al.|[2306.14687](http://arxiv.org/abs/2306.14687)|null|
+|**2023-06-26**|**Multi-View Attention Learning for Residual Disease Prediction of Ovarian Cancer**|Xiangneng Gao et.al.|[2306.14646](http://arxiv.org/abs/2306.14646)|null|
+|**2023-06-26**|**The race to robustness: exploiting fragile models for urban camouflage and the imperative for machine learning security**|Harriet Farlow et.al.|[2306.14609](http://arxiv.org/abs/2306.14609)|null|
 |**2023-06-26**|**Autoencoders for Real-Time SUEP Detection**|Simranjit Singh Chhibra et.al.|[2306.13595](http://arxiv.org/abs/2306.13595)|null|
 |**2023-06-23**|**NetBooster: Empowering Tiny Deep Learning By Standing on the Shoulders of Deep Giants**|Zhongzhi Yu et.al.|[2306.13586](http://arxiv.org/abs/2306.13586)|null|
 |**2023-06-26**|**A Semi-Paired Approach For Label-to-Image Translation**|George Eskandar et.al.|[2306.13585](http://arxiv.org/abs/2306.13585)|null|
