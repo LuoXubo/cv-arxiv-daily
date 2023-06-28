@@ -521,6 +521,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-27**|**Dental CLAIRES: Contrastive LAnguage Image REtrieval Search for Dental Research**|Tanjida Kabir et.al.|[2306.15651](http://arxiv.org/abs/2306.15651)|null|
+|**2023-06-27**|**Mean Field Theory in Deep Metric Learning**|Takuya Furusawa et.al.|[2306.15368](http://arxiv.org/abs/2306.15368)|null|
 |**2023-06-26**|**Hierarchical Matching and Reasoning for Multi-Query Image Retrieval**|Zhong Ji et.al.|[2306.14460](http://arxiv.org/abs/2306.14460)|null|
 |**2023-06-25**|**Enhancing Dynamic Image Advertising with Vision-Language Pre-training**|Zhoufutu Wen et.al.|[2306.14112](http://arxiv.org/abs/2306.14112)|null|
 |**2023-06-23**|**Catching Image Retrieval Generalization**|Maksim Zhdanov et.al.|[2306.13357](http://arxiv.org/abs/2306.13357)|null|
@@ -976,6 +978,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-27**|**Detector-Free Structure from Motion**|Xingyi He et.al.|[2306.15669](http://arxiv.org/abs/2306.15669)|null|
+|**2023-06-26**|**CLERA: A Unified Model for Joint Cognitive Load and Eye Region Analysis in the Wild**|Li Ding et.al.|[2306.15073](http://arxiv.org/abs/2306.15073)|null|
 |**2023-06-12**|**Topology Repairing of Disconnected Pulmonary Airways and Vessels: Baselines and a Dataset**|Ziqiao Weng et.al.|[2306.07089](http://arxiv.org/abs/2306.07089)|null|
 |**2023-06-07**|**Learning Probabilistic Coordinate Fields for Robust Correspondences**|Weiyue Zhao et.al.|[2306.04231](http://arxiv.org/abs/2306.04231)|null|
 |**2023-06-03**|**LDEB -- Label Digitization with Emotion Binarization and Machine Learning for Emotion Recognition in Conversational Dialogues**|Amitabha Dey et.al.|[2306.02193](http://arxiv.org/abs/2306.02193)|null|
@@ -1125,6 +1129,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-27**|**Detector-Free Structure from Motion**|Xingyi He et.al.|[2306.15669](http://arxiv.org/abs/2306.15669)|null|
+|**2023-06-27**|**PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**|Jianyuan Wang et.al.|[2306.15667](http://arxiv.org/abs/2306.15667)|null|
 |**2023-06-25**|**Enhancing Dynamic Image Advertising with Vision-Language Pre-training**|Zhoufutu Wen et.al.|[2306.14112](http://arxiv.org/abs/2306.14112)|null|
 |**2023-06-23**|**LightGlue: Local Feature Matching at Light Speed**|Philipp Lindenberger et.al.|[2306.13643](http://arxiv.org/abs/2306.13643)|**[link](https://github.com/cvg/lightglue)**|
 |**2023-06-19**|**Graph Self-Supervised Learning for Endoscopic Image Matching**|Manel Farhat et.al.|[2306.11141](http://arxiv.org/abs/2306.11141)|**[link](https://github.com/abenhamadou/graph-self-supervised-learning-for-endoscopic-image-matching)**|
@@ -1275,6 +1281,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-27**|**Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction**|Qing Wu et.al.|[2306.15203](http://arxiv.org/abs/2306.15203)|null|
 |**2023-06-22**|**Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields**|Ori Gordon et.al.|[2306.12760](http://arxiv.org/abs/2306.12760)|null|
 |**2023-06-21**|**Local 3D Editing via 3D Distillation of CLIP Knowledge**|Junha Hyung et.al.|[2306.12570](http://arxiv.org/abs/2306.12570)|null|
 |**2023-06-21**|**Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase**|Qiuyu Wang et.al.|[2306.12423](http://arxiv.org/abs/2306.12423)|**[link](https://github.com/qiuyu96/carver)**|
@@ -1679,6 +1686,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-27**|**SparseOptimizer: Sparsify Language Models through Moreau-Yosida Regularization and Accelerate through Compiler Co-design**|Fu-Ming Guo et.al.|[2306.15656](http://arxiv.org/abs/2306.15656)|null|
+|**2023-06-27**|**Rethinking Cross-Entropy Loss for Stereo Matching Networks**|Peng Xu et.al.|[2306.15612](http://arxiv.org/abs/2306.15612)|null|
+|**2023-06-27**|**Deep Normalizing Flows for State Estimation**|Harrison Delecki et.al.|[2306.15605](http://arxiv.org/abs/2306.15605)|null|
+|**2023-06-27**|**See Through the Fog: Curriculum Learning with Progressive Occlusion in Medical Imaging**|Pradeep Singh et.al.|[2306.15574](http://arxiv.org/abs/2306.15574)|null|
+|**2023-06-27**|**A Survey on Deep Learning Hardware Accelerators for Heterogeneous HPC Platforms**|Cristina Silvano et.al.|[2306.15552](http://arxiv.org/abs/2306.15552)|null|
+|**2023-06-27**|**SCAN: Semantic Communication with Adaptive Channel Feedback**|Guangyi Zhang et.al.|[2306.15534](http://arxiv.org/abs/2306.15534)|null|
+|**2023-06-27**|**Fast and Automatic 3D Modeling of Antenna Structure Using CNN-LSTM Network for Efficient Data Generation**|Zhaohui Wei et.al.|[2306.15530](http://arxiv.org/abs/2306.15530)|null|
+|**2023-06-27**|**PASNet: Polynomial Architecture Search Framework for Two-party Computation-based Secure Neural Network Deployment**|Hongwu Peng et.al.|[2306.15513](http://arxiv.org/abs/2306.15513)|null|
+|**2023-06-27**|**Cooperation or Competition: Avoiding Player Domination for Multi-Target Robustness via Adaptive Budgets**|Yimu Wang et.al.|[2306.15482](http://arxiv.org/abs/2306.15482)|null|
+|**2023-06-27**|**Irregular Change Detection in Sparse Bi-Temporal Point Clouds using Learned Place Recognition Descriptors and Point-to-Voxel Comparison**|Nikolaos Stathoulopoulos et.al.|[2306.15416](http://arxiv.org/abs/2306.15416)|null|
 |**2023-06-27**|**Metapopulation Graph Neural Networks: Deep Metapopulation Epidemic Modeling with Human Mobility**|Qi Cao et.al.|[2306.14857](http://arxiv.org/abs/2306.14857)|null|
 |**2023-06-26**|**Segmentation of Industrial Burner Flames: A Comparative Study from Traditional Image Processing to Machine and Deep Learning**|Steven Landgraf et.al.|[2306.14789](http://arxiv.org/abs/2306.14789)|null|
 |**2023-06-26**|**Data-driven plasma modelling: Surrogate collisional radiative models of fluorocarbon plasmas from deep generative autoencoders**|Gregory A. Daly et.al.|[2306.14785](http://arxiv.org/abs/2306.14785)|null|
