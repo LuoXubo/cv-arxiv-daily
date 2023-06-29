@@ -1686,6 +1686,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-28**|**On Practical Aspects of Aggregation Defenses against Data Poisoning Attacks**|Wenxiao Wang et.al.|[2306.16415](http://arxiv.org/abs/2306.16415)|null|
+|**2023-06-28**|**MultiZoo & MultiBench: A Standardized Toolkit for Multimodal Deep Learning**|Paul Pu Liang et.al.|[2306.16413](http://arxiv.org/abs/2306.16413)|**[link](https://github.com/pliang279/MultiBench)**|
+|**2023-06-28**|**DoseDiff: Distance-aware Diffusion Model for Dose Prediction in Radiotherapy**|Yiwen Zhang et.al.|[2306.16324](http://arxiv.org/abs/2306.16324)|null|
+|**2023-06-28**|**Geometric Regularity with Robot Intrinsic Symmetry in Reinforcement Learning**|Shengchao Yan et.al.|[2306.16316](http://arxiv.org/abs/2306.16316)|null|
+|**2023-06-28**|**Neuromelanin-MRI using 2D GRE and deep learning: considerations for improving the visualization of substantia nigra and locus coeruleus**|Samy Abo Seada et.al.|[2306.16315](http://arxiv.org/abs/2306.16315)|null|
+|**2023-06-28**|**Characterizing Deep Learning Package Supply Chains in PyPI: Domains, Clusters, and Disengagement**|Kai Gao et.al.|[2306.16307](http://arxiv.org/abs/2306.16307)|null|
+|**2023-06-28**|**Point2Point : A Framework for Efficient Deep Learning on Hilbert sorted Point Clouds with applications in Spatio-Temporal Occupancy Prediction**|Athrva Atul Pandhare et.al.|[2306.16306](http://arxiv.org/abs/2306.16306)|null|
+|**2023-06-28**|**Generalizing Surgical Instruments Segmentation to Unseen Domains with One-to-Many Synthesis**|An Wang et.al.|[2306.16285](http://arxiv.org/abs/2306.16285)|**[link](https://github.com/lofrienger/onetomany_toolsynseg)**|
+|**2023-06-28**|**Deep Unfolded Simulated Bifurcation for Massive MIMO Signal Detection**|Satoshi Takabe et.al.|[2306.16264](http://arxiv.org/abs/2306.16264)|null|
+|**2023-06-28**|**SE-PQA: Personalized Community Question Answering**|Pranav Kasela et.al.|[2306.16261](http://arxiv.org/abs/2306.16261)|null|
 |**2023-06-27**|**SparseOptimizer: Sparsify Language Models through Moreau-Yosida Regularization and Accelerate through Compiler Co-design**|Fu-Ming Guo et.al.|[2306.15656](http://arxiv.org/abs/2306.15656)|null|
 |**2023-06-27**|**Rethinking Cross-Entropy Loss for Stereo Matching Networks**|Peng Xu et.al.|[2306.15612](http://arxiv.org/abs/2306.15612)|null|
 |**2023-06-27**|**Deep Normalizing Flows for State Estimation**|Harrison Delecki et.al.|[2306.15605](http://arxiv.org/abs/2306.15605)|null|
