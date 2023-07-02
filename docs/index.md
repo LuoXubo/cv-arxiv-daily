@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.01
+## Updated on 2023.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1667,7 +1667,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-29**|**Ducho: A Unified Framework for the Extraction of Multimodal Features in Recommendation**|Daniele Malitesta et.al.|[2306.17125](http://arxiv.org/abs/2306.17125)|**[link](https://github.com/sisinflab/ducho)**|
-|**2023-06-29**|**Synthetic Demographic Data Generation for Card Fraud Detection Using GANs**|Shuo Wang et.al.|[2306.17109](http://arxiv.org/abs/2306.17109)|null|
+|**2023-06-29**|**Synthetic Demographic Data Generation for Card Fraud Detection Using GANs**|Shuo Wang et.al.|[2306.17109](http://arxiv.org/abs/2306.17109)|**[link](https://github.com/mountstonne/dggan)**|
 |**2023-06-29**|**ManimML: Communicating Machine Learning Architectures with Animation**|Alec Helbling et.al.|[2306.17108](http://arxiv.org/abs/2306.17108)|**[link](https://github.com/helblazer811/manimml)**|
 |**2023-06-29**|**Deep Denoising Prior-Based Spectral Estimation for Phaseless Synthetic Aperture Radar**|Samia Kazemi et.al.|[2306.17096](http://arxiv.org/abs/2306.17096)|null|
 |**2023-06-29**|**Concept-Oriented Deep Learning with Large Language Models**|Daniel T. Chang et.al.|[2306.17089](http://arxiv.org/abs/2306.17089)|null|
