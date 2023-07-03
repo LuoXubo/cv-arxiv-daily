@@ -508,6 +508,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-30**|**DisPlacing Objects: Improving Dynamic Vehicle Detection via Visual Place Recognition under Adverse Conditions**|Stephen Hausler et.al.|[2306.17536](http://arxiv.org/abs/2306.17536)|null|
+|**2023-06-30**|**Locking On: Leveraging Dynamic Vehicle-Imposed Motion Constraints to Improve Visual Localization**|Stephen Hausler et.al.|[2306.17529](http://arxiv.org/abs/2306.17529)|null|
 |**2023-06-27**|**Dental CLAIRES: Contrastive LAnguage Image REtrieval Search for Dental Research**|Tanjida Kabir et.al.|[2306.15651](http://arxiv.org/abs/2306.15651)|null|
 |**2023-06-27**|**Mean Field Theory in Deep Metric Learning**|Takuya Furusawa et.al.|[2306.15368](http://arxiv.org/abs/2306.15368)|null|
 |**2023-06-26**|**Hierarchical Matching and Reasoning for Multi-Query Image Retrieval**|Zhong Ji et.al.|[2306.14460](http://arxiv.org/abs/2306.14460)|null|
@@ -1262,6 +1264,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-30**|**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**|Seunghyeon Seo et.al.|[2306.17723](http://arxiv.org/abs/2306.17723)|null|
+|**2023-06-30**|**Sphere2Vec: A General-Purpose Location Representation Learning over a Spherical Surface for Large-Scale Geospatial Predictions**|Gengchen Mai et.al.|[2306.17624](http://arxiv.org/abs/2306.17624)|null|
 |**2023-06-28**|**Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering**|Chuanyue Shen et.al.|[2306.16541](http://arxiv.org/abs/2306.16541)|null|
 |**2023-06-27**|**Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction**|Qing Wu et.al.|[2306.15203](http://arxiv.org/abs/2306.15203)|null|
 |**2023-06-22**|**Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields**|Ori Gordon et.al.|[2306.12760](http://arxiv.org/abs/2306.12760)|null|
@@ -1666,6 +1670,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-30**|**Vision Through the Veil: Differential Privacy in Federated Learning for Medical Image Classification**|Kishore Babu Nampalle et.al.|[2306.17794](http://arxiv.org/abs/2306.17794)|null|
+|**2023-06-30**|**The Shaped Transformer: Attention Models in the Infinite Depth-and-Width Limit**|Lorenzo Noci et.al.|[2306.17759](http://arxiv.org/abs/2306.17759)|null|
+|**2023-06-30**|**An Integrated FPGA Accelerator for Deep Learning-based 2D/3D Path Planning**|Keisuke Sugiura et.al.|[2306.17625](http://arxiv.org/abs/2306.17625)|null|
+|**2023-06-30**|**Comparing Algorithm Selection Approaches on Black-Box Optimization Problems**|Ana Kostovska et.al.|[2306.17585](http://arxiv.org/abs/2306.17585)|null|
+|**2023-06-30**|**Mass and tidal parameter extraction from gravitational waves of binary neutron stars mergers using deep learning**|Shriya Soma et.al.|[2306.17488](http://arxiv.org/abs/2306.17488)|null|
+|**2023-06-30**|**Multigrid-Augmented Deep Learning for the Helmholtz Equation: Better Scalability with Compact Implicit Layers**|Bar Lerer et.al.|[2306.17486](http://arxiv.org/abs/2306.17486)|null|
+|**2023-06-30**|**Beyond-Voice: Towards Continuous 3D Hand Pose Tracking on Commercial Home Assistant Devices**|Yin Li et.al.|[2306.17477](http://arxiv.org/abs/2306.17477)|null|
+|**2023-06-30**|**Manga109Dialog A Large-scale Dialogue Dataset for Comics Speaker Detection**|Yingxuan Li et.al.|[2306.17469](http://arxiv.org/abs/2306.17469)|null|
+|**2023-06-30**|**Color Learning for Image Compression**|Srivatsa Prativadibhayankaram et.al.|[2306.17460](http://arxiv.org/abs/2306.17460)|null|
+|**2023-06-30**|**Defense against Adversarial Cloud Attack on Remote Sensing Salient Object Detection**|Huiming Sun et.al.|[2306.17431](http://arxiv.org/abs/2306.17431)|null|
 |**2023-06-29**|**Ducho: A Unified Framework for the Extraction of Multimodal Features in Recommendation**|Daniele Malitesta et.al.|[2306.17125](http://arxiv.org/abs/2306.17125)|**[link](https://github.com/sisinflab/ducho)**|
 |**2023-06-29**|**Synthetic Demographic Data Generation for Card Fraud Detection Using GANs**|Shuo Wang et.al.|[2306.17109](http://arxiv.org/abs/2306.17109)|**[link](https://github.com/mountstonne/dggan)**|
 |**2023-06-29**|**ManimML: Communicating Machine Learning Architectures with Animation**|Alec Helbling et.al.|[2306.17108](http://arxiv.org/abs/2306.17108)|**[link](https://github.com/helblazer811/manimml)**|
