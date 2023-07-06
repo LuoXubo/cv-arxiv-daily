@@ -521,6 +521,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-04**|**Unsupervised Quality Prediction for Improved Single-Frame and Weighted Sequential Visual Place Recognition**|Helen Carson et.al.|[2307.01464](http://arxiv.org/abs/2307.01464)|null|
+|**2023-07-04**|**Learning Feature Matching via Matchable Keypoint-Assisted Graph Neural Network**|Zizhuo Li et.al.|[2307.01447](http://arxiv.org/abs/2307.01447)|null|
 |**2023-07-03**|**Cross-modal Place Recognition in Image Databases using Event-based Sensors**|Xiang Ji et.al.|[2307.01047](http://arxiv.org/abs/2307.01047)|null|
 |**2023-06-30**|**DisPlacing Objects: Improving Dynamic Vehicle Detection via Visual Place Recognition under Adverse Conditions**|Stephen Hausler et.al.|[2306.17536](http://arxiv.org/abs/2306.17536)|null|
 |**2023-06-30**|**Locking On: Leveraging Dynamic Vehicle-Imposed Motion Constraints to Improve Visual Localization**|Stephen Hausler et.al.|[2306.17529](http://arxiv.org/abs/2306.17529)|null|
@@ -1694,6 +1696,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-05**|**Deep Speech Synthesis from MRI-Based Articulatory Representations**|Peter Wu et.al.|[2307.02471](http://arxiv.org/abs/2307.02471)|null|
+|**2023-07-05**|**Large-scale Detection of Marine Debris in Coastal Areas with Sentinel-2**|Marc Rußwurm et.al.|[2307.02465](http://arxiv.org/abs/2307.02465)|**[link](https://github.com/marccoru/marinedebrisdetector)**|
+|**2023-07-05**|**Transgressing the boundaries: towards a rigorous understanding of deep learning and its (non-)robustness**|Carsten Hartmann et.al.|[2307.02454](http://arxiv.org/abs/2307.02454)|null|
+|**2023-07-05**|**LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion**|Long Bai et.al.|[2307.02452](http://arxiv.org/abs/2307.02452)|**[link](https://github.com/longbai1006/llcaps)**|
+|**2023-07-05**|**On Deep Learning Classification of Digitally Modulated Signals Using Raw I/Q Data**|John A. Snoap et.al.|[2307.02450](http://arxiv.org/abs/2307.02450)|null|
+|**2023-07-05**|**RADiff: Controllable Diffusion Models for Radio Astronomical Maps Generation**|Renato Sortino et.al.|[2307.02392](http://arxiv.org/abs/2307.02392)|null|
+|**2023-07-05**|**GAFAR: Graph-Attention Feature-Augmentation for Registration A Fast and Light-weight Point Set Registration Algorithm**|Ludwig Mohr et.al.|[2307.02339](http://arxiv.org/abs/2307.02339)|**[link](https://github.com/mordecaimalignatius/gafar)**|
+|**2023-07-05**|**Equivariant graph neural network interatomic potential for Green-Kubo thermal conductivity in phase change materials**|Sung-Ho Lee et.al.|[2307.02327](http://arxiv.org/abs/2307.02327)|null|
+|**2023-07-05**|**Deep Contract Design via Discontinuous Piecewise Affine Neural Networks**|Tonghan Wang et.al.|[2307.02318](http://arxiv.org/abs/2307.02318)|null|
+|**2023-07-05**|**Improving Address Matching using Siamese Transformer Networks**|André V. Duarte et.al.|[2307.02300](http://arxiv.org/abs/2307.02300)|**[link](https://github.com/avduarte333/adress-matching)**|
 |**2023-07-03**|**Improved sampling via learned diffusions**|Lorenz Richter et.al.|[2307.01198](http://arxiv.org/abs/2307.01198)|null|
 |**2023-07-03**|**Neural Hilbert Ladders: Multi-Layer Neural Networks in Function Space**|Zhengdao Chen et.al.|[2307.01177](http://arxiv.org/abs/2307.01177)|null|
 |**2023-07-03**|**Cross-modality Attention Adapter: A Glioma Segmentation Fine-tuning Method for SAM Using Multimodal Brain MR Images**|Xiaoyu Shi et.al.|[2307.01124](http://arxiv.org/abs/2307.01124)|null|
