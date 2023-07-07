@@ -1696,6 +1696,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-06**|**Can Domain Adaptation Improve Accuracy and Fairness of Skin Lesion Classification?**|Janet Wang et.al.|[2307.03157](http://arxiv.org/abs/2307.03157)|null|
+|**2023-07-06**|**Hybrid Knowledge-Data Driven Channel Semantic Acquisition and Beamforming for Cell-Free Massive MIMO**|Zhen Gao et.al.|[2307.03070](http://arxiv.org/abs/2307.03070)|null|
+|**2023-07-06**|**DeepOnto: A Python Package for Ontology Engineering with Deep Learning**|Yuan He et.al.|[2307.03067](http://arxiv.org/abs/2307.03067)|**[link](https://github.com/KRR-Oxford/DeepOnto)**|
+|**2023-07-06**|**Multi-source imagery fusion using deep learning in a cloud computing platform**|Carlos Theran et.al.|[2307.03054](http://arxiv.org/abs/2307.03054)|null|
+|**2023-07-06**|**Self-supervised learning via inter-modal reconstruction and feature projection networks for label-efficient 3D-to-2D segmentation**|José Morano et.al.|[2307.03008](http://arxiv.org/abs/2307.03008)|null|
+|**2023-07-06**|**Transfer Learning for the Efficient Detection of COVID-19 from Smartphone Audio Data**|Mattia Giovanni Campana et.al.|[2307.02975](http://arxiv.org/abs/2307.02975)|**[link](https://github.com/mattiacampana/transfer-learning-covid-19)**|
+|**2023-07-06**|**Parametric 3D Convolutional Autoencoder for the Prediction of Flow Fields in a Bed Configuration of Hot Particles**|Ali Mjalled et.al.|[2307.02960](http://arxiv.org/abs/2307.02960)|null|
+|**2023-07-06**|**A Real-time Human Pose Estimation Approach for Optimal Sensor Placement in Sensor-based Human Activity Recognition**|Orhan Konak et.al.|[2307.02906](http://arxiv.org/abs/2307.02906)|null|
+|**2023-07-06**|**High-speed photon correlation monitoring of amplified quantum noise by chaos using deep-learning balanced homodyne detection**|Yanqiang Guo et.al.|[2307.02868](http://arxiv.org/abs/2307.02868)|null|
+|**2023-07-06**|**Revisiting Computer-Aided Tuberculosis Diagnosis**|Yun Liu et.al.|[2307.02848](http://arxiv.org/abs/2307.02848)|null|
 |**2023-07-05**|**Deep Speech Synthesis from MRI-Based Articulatory Representations**|Peter Wu et.al.|[2307.02471](http://arxiv.org/abs/2307.02471)|null|
 |**2023-07-05**|**Large-scale Detection of Marine Debris in Coastal Areas with Sentinel-2**|Marc Rußwurm et.al.|[2307.02465](http://arxiv.org/abs/2307.02465)|**[link](https://github.com/marccoru/marinedebrisdetector)**|
 |**2023-07-05**|**Transgressing the boundaries: towards a rigorous understanding of deep learning and its (non-)robustness**|Carsten Hartmann et.al.|[2307.02454](http://arxiv.org/abs/2307.02454)|null|
