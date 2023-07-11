@@ -508,6 +508,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-10**|**Efficient Match Pair Retrieval for Large-scale UAV Images via Graph Indexed Global Descriptor**|San Jiang et.al.|[2307.04520](http://arxiv.org/abs/2307.04520)|null|
+|**2023-07-10**|**RaPlace: Place Recognition for Imaging Radar using Radon Transform and Mutable Threshold**|Hyesu Jang et.al.|[2307.04321](http://arxiv.org/abs/2307.04321)|null|
+|**2023-07-08**|**Calibration-Aware Margin Loss: Pushing the Accuracy-Calibration Consistency Pareto Frontier for Deep Metric Learning**|Qin Zhang et.al.|[2307.04047](http://arxiv.org/abs/2307.04047)|null|
 |**2023-07-04**|**Unsupervised Quality Prediction for Improved Single-Frame and Weighted Sequential Visual Place Recognition**|Helen Carson et.al.|[2307.01464](http://arxiv.org/abs/2307.01464)|null|
 |**2023-07-04**|**Learning Feature Matching via Matchable Keypoint-Assisted Graph Neural Network**|Zizhuo Li et.al.|[2307.01447](http://arxiv.org/abs/2307.01447)|null|
 |**2023-07-03**|**Cross-modal Place Recognition in Image Databases using Event-based Sensors**|Xiang Ji et.al.|[2307.01047](http://arxiv.org/abs/2307.01047)|null|
@@ -1677,6 +1680,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-10**|**Quark/Gluon Discrimination and Top Tagging with Dual Attention Transformer**|Minxuan He et.al.|[2307.04723](http://arxiv.org/abs/2307.04723)|null|
+|**2023-07-10**|**On the curvature of the loss landscape**|Alison Pouplin et.al.|[2307.04719](http://arxiv.org/abs/2307.04719)|null|
+|**2023-07-10**|**DeePTB: A deep learning-based tight-binding approach with $ab$ $initio$ accuracy**|Qiangqiang Gu et.al.|[2307.04638](http://arxiv.org/abs/2307.04638)|null|
+|**2023-07-10**|**An End-To-End Analysis of Deep Learning-Based Remaining Useful Life Algorithms for Satefy-Critical 5G-Enabled IIoT Networks**|Lorenzo Mario Amorosa et.al.|[2307.04632](http://arxiv.org/abs/2307.04632)|null|
+|**2023-07-10**|**Timbre transfer using image-to-image denoising diffusion models**|Luca Comanducci et.al.|[2307.04586](http://arxiv.org/abs/2307.04586)|null|
+|**2023-07-10**|**Unraveling the Age Estimation Puzzle: Comparative Analysis of Deep Learning Approaches for Facial Age Estimation**|Jakub Paplham et.al.|[2307.04570](http://arxiv.org/abs/2307.04570)|null|
+|**2023-07-10**|**Interpreting and generalizing deep learning in physics-based problems with functional linear models**|Amirhossein Arzani et.al.|[2307.04569](http://arxiv.org/abs/2307.04569)|null|
+|**2023-07-10**|**Learning Large Margin Sparse Embeddings for Open Set Medical Diagnosis**|Mingyuan Liu et.al.|[2307.04541](http://arxiv.org/abs/2307.04541)|null|
+|**2023-07-10**|**Cluster-Induced Mask Transformers for Effective Opportunistic Gastric Cancer Screening on Non-contrast CT Scans**|Mingze Yuan et.al.|[2307.04525](http://arxiv.org/abs/2307.04525)|null|
+|**2023-07-10**|**Study on the Correlation between Objective Evaluations and Subjective Speech Quality and Intelligibility**|Hsin-Tien Chiang et.al.|[2307.04517](http://arxiv.org/abs/2307.04517)|null|
 |**2023-07-07**|**Differentiable Turbulence**|Varun Shankar et.al.|[2307.03683](http://arxiv.org/abs/2307.03683)|null|
 |**2023-07-07**|**Unsupervised Segmentation of Fetal Brain MRI using Deep Learning Cascaded Registration**|Valentin Comte et.al.|[2307.03579](http://arxiv.org/abs/2307.03579)|null|
 |**2023-07-07**|**Multimodal Deep Learning for Personalized Renal Cell Carcinoma Prognosis: Integrating CT Imaging and Clinical Data**|Maryamalsadat Mahootiha et.al.|[2307.03575](http://arxiv.org/abs/2307.03575)|null|
