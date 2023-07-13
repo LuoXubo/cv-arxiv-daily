@@ -1140,6 +1140,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-09**|**Augmenters at SemEval-2023 Task 1: Enhancing CLIP in Handling Compositionality and Ambiguity for Zero-Shot Visual WSD through Prompt Augmentation and Text-To-Image Diffusion**|Jie S. Li et.al.|[2307.05564](http://arxiv.org/abs/2307.05564)|null|
 |**2023-07-11**|**ResMatch: Residual Attention Learning for Local Feature Matching**|Yuxin Deng et.al.|[2307.05180](http://arxiv.org/abs/2307.05180)|null|
 |**2023-07-11**|**TIAM -- A Metric for Evaluating Alignment in Text-to-Image Generation**|Paul Grimal et.al.|[2307.05134](http://arxiv.org/abs/2307.05134)|**[link](https://github.com/grimalpaul/tiam)**|
 |**2023-07-02**|**TopicFM+: Boosting Accuracy and Efficiency of Topic-Assisted Feature Matching**|Khang Truong Giang et.al.|[2307.00485](http://arxiv.org/abs/2307.00485)|**[link](https://github.com/truongkhang/topicfm)**|
@@ -1706,6 +1707,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-12**|**Deep Learning of Crystalline Defects from TEM images: A Solution for the Problem of "Never Enough Training Data"**|Kishan Govind et.al.|[2307.06322](http://arxiv.org/abs/2307.06322)|null|
+|**2023-07-12**|**Feature Embeddings from Large-Scale Acoustic Bird Classifiers Enable Few-Shot Transfer Learning**|Burooj Ghani et.al.|[2307.06292](http://arxiv.org/abs/2307.06292)|null|
+|**2023-07-12**|**Towards a privacy-preserving distributed cloud service for preprocessing very large medical images**|Yuandou Wang et.al.|[2307.06266](http://arxiv.org/abs/2307.06266)|null|
+|**2023-07-12**|**Reconstructing Spatiotemporal Data with C-VAEs**|Tiago F. R. Ribeiro et.al.|[2307.06243](http://arxiv.org/abs/2307.06243)|**[link](https://github.com/ciic-c-t-polytechnic-of-leiria/reconstr_cvae_paper)**|
+|**2023-07-12**|**Ashaar: Automatic Analysis and Generation of Arabic Poetry Using Deep Learning Approaches**|Zaid Alyafeai et.al.|[2307.06218](http://arxiv.org/abs/2307.06218)|**[link](https://github.com/arbml/ashaar)**|
+|**2023-07-12**|**Local Conditional Neural Fields for Versatile and Generalizable Large-Scale Reconstructions in Computational Imaging**|Hao Wang et.al.|[2307.06207](http://arxiv.org/abs/2307.06207)|null|
+|**2023-07-12**|**Deep learning for dynamic graphs: models and benchmarks**|Alessio Gravina et.al.|[2307.06104](http://arxiv.org/abs/2307.06104)|null|
+|**2023-07-12**|**Online Laplace Model Selection Revisited**|Jihao Andreas Lin et.al.|[2307.06093](http://arxiv.org/abs/2307.06093)|null|
+|**2023-07-12**|**Can Large Language Models Aid in Annotating Speech Emotional Data? Uncovering New Frontiers**|Siddique Latif et.al.|[2307.06090](http://arxiv.org/abs/2307.06090)|null|
+|**2023-07-12**|**Non-Ideal Program-Time Conservation in Charge Trap Flash for Deep Learning**|Shalini Shrivastava et.al.|[2307.06088](http://arxiv.org/abs/2307.06088)|null|
 |**2023-07-11**|**Improving the Security of Smartwatch Payment with Deep Learning**|George Webber et.al.|[2307.05437](http://arxiv.org/abs/2307.05437)|null|
 |**2023-07-11**|**3D detection of roof sections from a single satellite image and application to LOD2-building reconstruction**|Johann Lussange et.al.|[2307.05409](http://arxiv.org/abs/2307.05409)|null|
 |**2023-07-11**|**Predicting small molecules solubilities on endpoint devices using deep ensemble neural networks**|Mayk Caldas Ramos et.al.|[2307.05318](http://arxiv.org/abs/2307.05318)|**[link](https://github.com/ur-whitelab/mol.dev)**|
