@@ -1309,7 +1309,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-07-18**|**Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis**|Jiahe Li et.al.|[2307.09323](http://arxiv.org/abs/2307.09323)|null|
+|**2023-07-18**|**Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis**|Jiahe Li et.al.|[2307.09323](http://arxiv.org/abs/2307.09323)|**[link](https://github.com/fictionarry/er-nerf)**|
 |**2023-07-16**|**Cross-Ray Neural Radiance Fields for Novel-view Synthesis from Unconstrained Image Collections**|Yifan Yang et.al.|[2307.08093](http://arxiv.org/abs/2307.08093)|**[link](https://github.com/yifyang993/cr-nerf-pytorch)**|
 |**2023-07-15**|**Improving NeRF with Height Data for Utilization of GIS Data**|Hinata Aoki et.al.|[2307.07729](http://arxiv.org/abs/2307.07729)|null|
 |**2023-07-11**|**SAR-NeRF: Neural Radiance Fields for Synthetic Aperture Radar Multi-View Representation**|Zhengxin Lei et.al.|[2307.05087](http://arxiv.org/abs/2307.05087)|null|
@@ -1731,7 +1731,7 @@
 |**2023-07-18**|**Radar-STDA: A High-Performance Spatial-Temporal Denoising Autoencoder for Interference Mitigation of FMCW Radars**|Lulu Liu et.al.|[2307.09063](http://arxiv.org/abs/2307.09063)|null|
 |**2023-07-18**|**Extreme heatwave sampling and prediction with analog Markov chain and comparisons with deep learning**|George Miloshevich et.al.|[2307.09060](http://arxiv.org/abs/2307.09060)|null|
 |**2023-07-18**|**Towards a Neural Era in Dialogue Management for Collaboration: A Literature Survey**|Amogh Mannekote et.al.|[2307.09021](http://arxiv.org/abs/2307.09021)|null|
-|**2023-07-18**|**Frequency-mixed Single-source Domain Generalization for Medical Image Segmentation**|Heng Li et.al.|[2307.09005](http://arxiv.org/abs/2307.09005)|null|
+|**2023-07-18**|**Frequency-mixed Single-source Domain Generalization for Medical Image Segmentation**|Heng Li et.al.|[2307.09005](http://arxiv.org/abs/2307.09005)|**[link](https://github.com/liamheng/non-iid_medical_image_segmentation)**|
 |**2023-07-18**|**TractCloud: Registration-free tractography parcellation with a novel local-global streamline point cloud representation**|Tengfei Xue et.al.|[2307.09000](http://arxiv.org/abs/2307.09000)|null|
 |**2023-07-17**|**SEMI-DiffusionInst: A Diffusion Model Based Approach for Semiconductor Defect Classification and Segmentation**|Vic De Ridder et.al.|[2307.08693](http://arxiv.org/abs/2307.08693)|null|
 |**2023-07-17**|**A newcomer's guide to deep learning for inverse design in nano-photonics**|Abdourahman Khaireh-Walieh et.al.|[2307.08618](http://arxiv.org/abs/2307.08618)|null|
