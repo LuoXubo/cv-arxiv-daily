@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.19
+## Updated on 2023.07.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -511,11 +511,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-18**|**Jean-Luc Picard at Touché 2023: Comparing Image Generation, Stance Detection and Feature Matching for Image Retrieval for Arguments**|Max Moebius et.al.|[2307.09172](http://arxiv.org/abs/2307.09172)|null|
 |**2023-07-18**|**3D-SeqMOS: A Novel Sequential 3D Moving Object Segmentation in Autonomous Driving**|Qipeng Li et.al.|[2307.09044](http://arxiv.org/abs/2307.09044)|null|
-|**2023-07-17**|**Similarity Min-Max: Zero-Shot Day-Night Domain Adaptation**|Rundong Luo et.al.|[2307.08779](http://arxiv.org/abs/2307.08779)|null|
+|**2023-07-19**|**Similarity Min-Max: Zero-Shot Day-Night Domain Adaptation**|Rundong Luo et.al.|[2307.08779](http://arxiv.org/abs/2307.08779)|null|
 |**2023-07-17**|**Divide&Classify: Fine-Grained Classification for City-Wide Visual Place Recognition**|Gabriele Trivigno et.al.|[2307.08417](http://arxiv.org/abs/2307.08417)|null|
 |**2023-07-17**|**Bridging the Gap: Multi-Level Cross-Modality Joint Alignment for Visible-Infrared Person Re-Identification**|Tengfei Liang et.al.|[2307.08316](http://arxiv.org/abs/2307.08316)|null|
 |**2023-07-17**|**NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM**|Lizhou Liao et.al.|[2307.08221](http://arxiv.org/abs/2307.08221)|**[link](https://github.com/SlamCabbage/NDTMC)**|
-|**2023-07-16**|**Boosting 3-DoF Ground-to-Satellite Camera Localization Accuracy via Geometry-Guided Cross-View Transformer**|Yujiao Shi et.al.|[2307.08015](http://arxiv.org/abs/2307.08015)|null|
+|**2023-07-19**|**Boosting 3-DoF Ground-to-Satellite Camera Localization Accuracy via Geometry-Guided Cross-View Transformer**|Yujiao Shi et.al.|[2307.08015](http://arxiv.org/abs/2307.08015)|null|
 |**2023-07-10**|**Phoneme-retrieval; voice recognition; vowels recognition**|Brunello Tirozzi et.al.|[2307.07407](http://arxiv.org/abs/2307.07407)|null|
 |**2023-07-14**|**Risk Controlled Image Retrieval**|Kaiwen Cai et.al.|[2307.07336](http://arxiv.org/abs/2307.07336)|null|
 |**2023-07-11**|**ResMatch: Residual Attention Learning for Local Feature Matching**|Yuxin Deng et.al.|[2307.05180](http://arxiv.org/abs/2307.05180)|**[link](https://github.com/acuooooo/resmatch)**|
@@ -1705,7 +1705,7 @@ layout: default
 |**2023-07-18**|**Deep Neural Aggregation for Recommending Items to Group of Users**|Jorge Dueñas-Lerín et.al.|[2307.09447](http://arxiv.org/abs/2307.09447)|null|
 |**2023-07-18**|**Towards Sustainable Deep Learning for Multi-Label Classification on NILM**|Anže Pirnat et.al.|[2307.09244](http://arxiv.org/abs/2307.09244)|null|
 |**2023-07-18**|**A Survey on Open-Vocabulary Detection and Segmentation: Past, Present, and Future**|Chaoyang Zhu et.al.|[2307.09220](http://arxiv.org/abs/2307.09220)|null|
-|**2023-07-18**|**Intrinsic ferroelectric switching in two dimensions**|Liyi Bai et.al.|[2307.09211](http://arxiv.org/abs/2307.09211)|null|
+|**2023-07-19**|**Intrinsic ferroelectric switching in two dimensions**|Liyi Bai et.al.|[2307.09211](http://arxiv.org/abs/2307.09211)|null|
 |**2023-07-18**|**Towards Trustworthy Dataset Distillation**|Shijie Ma et.al.|[2307.09165](http://arxiv.org/abs/2307.09165)|null|
 |**2023-07-18**|**Radar-STDA: A High-Performance Spatial-Temporal Denoising Autoencoder for Interference Mitigation of FMCW Radars**|Lulu Liu et.al.|[2307.09063](http://arxiv.org/abs/2307.09063)|null|
 |**2023-07-18**|**Extreme heatwave sampling and prediction with analog Markov chain and comparisons with deep learning**|George Miloshevich et.al.|[2307.09060](http://arxiv.org/abs/2307.09060)|null|
