@@ -523,6 +523,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-21**|**SACReg: Scene-Agnostic Coordinate Regression for Visual Localization**|Jerome Revaud et.al.|[2307.11702](http://arxiv.org/abs/2307.11702)|null|
 |**2023-07-19**|**Lazy Visual Localization via Motion Averaging**|Siyan Dong et.al.|[2307.09981](http://arxiv.org/abs/2307.09981)|null|
 |**2023-07-19**|**Quantum Optics based Algorithm for Measuring the Similarity between Images**|Vivek Mehta et.al.|[2307.09789](http://arxiv.org/abs/2307.09789)|null|
 |**2023-07-18**|**Jean-Luc Picard at Touché 2023: Comparing Image Generation, Stance Detection and Feature Matching for Image Retrieval for Arguments**|Max Moebius et.al.|[2307.09172](http://arxiv.org/abs/2307.09172)|null|
@@ -1315,6 +1316,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-21**|**CopyRNeRF: Protecting the CopyRight of Neural Radiance Fields**|Ziyuan Luo et.al.|[2307.11526](http://arxiv.org/abs/2307.11526)|null|
+|**2023-07-21**|**FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields**|Sungwon Hwang et.al.|[2307.11418](http://arxiv.org/abs/2307.11418)|null|
+|**2023-07-21**|**Tri-MipRF: Tri-Mip Representation for Efficient Anti-Aliasing Neural Radiance Fields**|Wenbo Hu et.al.|[2307.11335](http://arxiv.org/abs/2307.11335)|null|
 |**2023-07-20**|**Urban Radiance Field Representation with Deformable Neural Mesh Primitives**|Fan Lu et.al.|[2307.10776](http://arxiv.org/abs/2307.10776)|null|
 |**2023-07-20**|**Lighting up NeRF via Unsupervised Decomposition and Enhancement**|Haoyuan Wang et.al.|[2307.10664](http://arxiv.org/abs/2307.10664)|**[link](https://github.com/onpix/LLNeRF)**|
 |**2023-07-19**|**An Improved NeuMIP with Better Accuracy**|Bowen Xue et.al.|[2307.10135](http://arxiv.org/abs/2307.10135)|null|
@@ -1734,6 +1738,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-21**|**Deep Learning Hyperspectral Pansharpening on large scale PRISMA dataset**|Simone Zini et.al.|[2307.11666](http://arxiv.org/abs/2307.11666)|null|
+|**2023-07-21**|**OxfordTVG-HIC: Can Machine Make Humorous Captions from Images?**|Runjia Li et.al.|[2307.11636](http://arxiv.org/abs/2307.11636)|null|
+|**2023-07-21**|**Scalable Multi-agent Skill Discovery based on Kronecker Graphs**|Jiayu Chen et.al.|[2307.11629](http://arxiv.org/abs/2307.11629)|null|
+|**2023-07-21**|**Cascaded multitask U-Net using topological loss for vessel segmentation and centerline extraction**|Pierre Rougé et.al.|[2307.11603](http://arxiv.org/abs/2307.11603)|null|
+|**2023-07-21**|**Transferability of Convolutional Neural Networks in Stationary Learning Tasks**|Damian Owerko et.al.|[2307.11588](http://arxiv.org/abs/2307.11588)|**[link](https://github.com/damowerko/mtt)**|
+|**2023-07-21**|**CortexMorph: fast cortical thickness estimation via diffeomorphic registration using VoxelMorph**|Richard McKinley et.al.|[2307.11567](http://arxiv.org/abs/2307.11567)|null|
+|**2023-07-21**|**Feature Map Testing for Deep Neural Networks**|Dong Huang et.al.|[2307.11563](http://arxiv.org/abs/2307.11563)|null|
+|**2023-07-21**|**Physics-Aware Semi-Supervised Underwater Image Enhancement**|Hao Qi et.al.|[2307.11470](http://arxiv.org/abs/2307.11470)|null|
+|**2023-07-21**|**A Deep Learning Approach for Overall Survival Analysis with Missing Values**|Camillo Maria Caruso et.al.|[2307.11465](http://arxiv.org/abs/2307.11465)|null|
+|**2023-07-21**|**Batching for Green AI -- An Exploratory Study on Inference**|Tim Yarally et.al.|[2307.11434](http://arxiv.org/abs/2307.11434)|null|
 |**2023-07-20**|**Driving Policy Prediction based on Deep Learning Models**|Fuxiao Liu et.al.|[2307.11058](http://arxiv.org/abs/2307.11058)|null|
 |**2023-07-20**|**Multi-objective point cloud autoencoders for explainable myocardial infarction prediction**|Marcel Beetz et.al.|[2307.11017](http://arxiv.org/abs/2307.11017)|null|
 |**2023-07-20**|**Neuron Sensitivity Guided Test Case Selection for Deep Learning Testing**|Dong Huang et.al.|[2307.11011](http://arxiv.org/abs/2307.11011)|**[link](https://github.com/ase2023paper/nss)**|
