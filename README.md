@@ -1156,6 +1156,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-22**|**CryptoMask : Privacy-preserving Face Recognition**|Jianli Bai et.al.|[2307.12010](http://arxiv.org/abs/2307.12010)|null|
+|**2023-07-22**|**A Stronger Stitching Algorithm for Fisheye Images based on Deblurring and Registration**|Jing Hao et.al.|[2307.11997](http://arxiv.org/abs/2307.11997)|null|
 |**2023-07-21**|**Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data**|Sahar Almahfouz Nasser et.al.|[2307.10698](http://arxiv.org/abs/2307.10698)|**[link](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina)**|
 |**2023-07-18**|**Balancing Privacy and Progress in Artificial Intelligence: Anonymization in Histopathology for Biomedical Research and Education**|Neel Kanwal et.al.|[2307.09426](http://arxiv.org/abs/2307.09426)|null|
 |**2023-07-22**|**Unsupervised Deep Graph Matching Based on Cycle Consistency**|Siddharth Tourani et.al.|[2307.08930](http://arxiv.org/abs/2307.08930)|null|
@@ -1316,6 +1318,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-24**|**Dyn-E: Local Appearance Editing of Dynamic Neural Radiance Fields**|Shangzhan Zhang et.al.|[2307.12909](http://arxiv.org/abs/2307.12909)|null|
+|**2023-07-24**|**CarPatch: A Synthetic Benchmark for Radiance Field Evaluation on Vehicle Components**|Davide Di Nucci et.al.|[2307.12718](http://arxiv.org/abs/2307.12718)|null|
+|**2023-07-23**|**TransHuman: A Transformer-based Human Representation for Generalizable Neural Human Rendering**|Xiao Pan et.al.|[2307.12291](http://arxiv.org/abs/2307.12291)|null|
 |**2023-07-21**|**CopyRNeRF: Protecting the CopyRight of Neural Radiance Fields**|Ziyuan Luo et.al.|[2307.11526](http://arxiv.org/abs/2307.11526)|null|
 |**2023-07-21**|**FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields**|Sungwon Hwang et.al.|[2307.11418](http://arxiv.org/abs/2307.11418)|null|
 |**2023-07-21**|**Tri-MipRF: Tri-Mip Representation for Efficient Anti-Aliasing Neural Radiance Fields**|Wenbo Hu et.al.|[2307.11335](http://arxiv.org/abs/2307.11335)|null|
@@ -1738,6 +1743,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-24**|**An Isometric Stochastic Optimizer**|Jacob Jackson et.al.|[2307.12979](http://arxiv.org/abs/2307.12979)|null|
+|**2023-07-24**|**Volcanic ash delimitation using Artificial Intelligence based on Pix2Pix**|Christian Carrillo et.al.|[2307.12970](http://arxiv.org/abs/2307.12970)|null|
+|**2023-07-24**|**Rule By Example: Harnessing Logical Rules for Explainable Hate Speech Detection**|Christopher Clarke et.al.|[2307.12935](http://arxiv.org/abs/2307.12935)|**[link](https://github.com/chrisisking/rule-by-example)**|
+|**2023-07-24**|**Hierarchical Skeleton Meta-Prototype Contrastive Learning with Hard Skeleton Mining for Unsupervised Person Re-Identification**|Haocong Rao et.al.|[2307.12917](http://arxiv.org/abs/2307.12917)|**[link](https://github.com/kali-hac/hi-mpc)**|
+|**2023-07-24**|**Towards a Visual-Language Foundation Model for Computational Pathology**|Ming Y. Lu et.al.|[2307.12914](http://arxiv.org/abs/2307.12914)|null|
+|**2023-07-24**|**End-to-End Deep Transfer Learning for Calibration-free Motor Imagery Brain Computer Interfaces**|Maryam Alimardani et.al.|[2307.12827](http://arxiv.org/abs/2307.12827)|null|
+|**2023-07-24**|**Comprehending Semantic Types in JSON Data with Graph Neural Networks**|Shuang Wei et.al.|[2307.12807](http://arxiv.org/abs/2307.12807)|null|
+|**2023-07-24**|**Concept-based explainability for an EEG transformer model**|Anders Gjølbye Madsen et.al.|[2307.12745](http://arxiv.org/abs/2307.12745)|**[link](https://github.com/andersgmadsen/tcav-bendr)**|
+|**2023-07-24**|**Bayesian Based Unrolling for Reconstruction and Super-resolution of Single-Photon Lidar Systems**|Abderrahim Halimi et.al.|[2307.12700](http://arxiv.org/abs/2307.12700)|null|
+|**2023-07-24**|**A general Temperature-Guided Language model to engineer enhanced Stability and Activity in Proteins**|Pan Tan et.al.|[2307.12682](http://arxiv.org/abs/2307.12682)|null|
 |**2023-07-21**|**Deep Learning Hyperspectral Pansharpening on large scale PRISMA dataset**|Simone Zini et.al.|[2307.11666](http://arxiv.org/abs/2307.11666)|null|
 |**2023-07-21**|**OxfordTVG-HIC: Can Machine Make Humorous Captions from Images?**|Runjia Li et.al.|[2307.11636](http://arxiv.org/abs/2307.11636)|null|
 |**2023-07-21**|**Scalable Multi-agent Skill Discovery based on Kronecker Graphs**|Jiayu Chen et.al.|[2307.11629](http://arxiv.org/abs/2307.11629)|null|
