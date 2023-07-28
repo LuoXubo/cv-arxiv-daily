@@ -1304,6 +1304,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-27**|**MARS: An Instance-aware, Modular and Realistic Simulator for Autonomous Driving**|Zirui Wu et.al.|[2307.15058](http://arxiv.org/abs/2307.15058)|null|
+|**2023-07-27**|**NeRF-Det: Learning Geometry-Aware Volumetric Representation for Multi-View 3D Object Detection**|Chenfeng Xu et.al.|[2307.14620](http://arxiv.org/abs/2307.14620)|null|
 |**2023-07-26**|**Points-to-3D: Bridging the Gap between Sparse Points and Shape-Controllable Text-to-3D Generation**|Chaohui Yu et.al.|[2307.13908](http://arxiv.org/abs/2307.13908)|null|
 |**2023-07-24**|**Dyn-E: Local Appearance Editing of Dynamic Neural Radiance Fields**|Shangzhan Zhang et.al.|[2307.12909](http://arxiv.org/abs/2307.12909)|null|
 |**2023-07-24**|**CarPatch: A Synthetic Benchmark for Radiance Field Evaluation on Vehicle Components**|Davide Di Nucci et.al.|[2307.12718](http://arxiv.org/abs/2307.12718)|null|
@@ -1728,6 +1730,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-27**|**Incrementally-Computable Neural Networks: Efficient Inference for Dynamic Inputs**|Or Sharir et.al.|[2307.14988](http://arxiv.org/abs/2307.14988)|null|
+|**2023-07-27**|**Practical Implementation of RIS-Aided Spectrum Sensing: A Deep Learning-Based Solution**|Sefa Kayraklik et.al.|[2307.14985](http://arxiv.org/abs/2307.14985)|null|
+|**2023-07-27**|**Graph-based Polyphonic Multitrack Music Generation**|Emanuele Cosenza et.al.|[2307.14928](http://arxiv.org/abs/2307.14928)|**[link](https://github.com/emanuelecosenza/polyphemus)**|
+|**2023-07-27**|**Simulated analogues II: a new methodology for non-parametric matching of models to observations**|Rami Al-Belmpeisi et.al.|[2307.14924](http://arxiv.org/abs/2307.14924)|null|
+|**2023-07-27**|**Benchmarking Performance of Deep Learning Model for Material Segmentation on Two HPC Systems**|Warren R. Williams et.al.|[2307.14921](http://arxiv.org/abs/2307.14921)|null|
+|**2023-07-27**|**Weakly Supervised AI for Efficient Analysis of 3D Pathology Samples**|Andrew H. Song et.al.|[2307.14907](http://arxiv.org/abs/2307.14907)|**[link](https://github.com/mahmoodlab/mamba)**|
+|**2023-07-27**|**A full-resolution training framework for Sentinel-2 image fusion**|Matteo Ciotola et.al.|[2307.14864](http://arxiv.org/abs/2307.14864)|null|
+|**2023-07-27**|**Comparative Evaluation of Digital and Analog Chest Radiographs to Identify Tuberculosis using Deep Learning Model**|Subhankar Chattoraj et.al.|[2307.14859](http://arxiv.org/abs/2307.14859)|null|
+|**2023-07-27**|**Parameter inference for coalescing massive black hole binaries using deep learning**|Wen-Hong Ruan et.al.|[2307.14844](http://arxiv.org/abs/2307.14844)|null|
+|**2023-07-27**|**Observation of high-energy neutrinos from the Galactic plane**|Stephen Sclafani et.al.|[2307.14842](http://arxiv.org/abs/2307.14842)|null|
 |**2023-07-26**|**TabR: Unlocking the Power of Retrieval-Augmented Tabular Deep Learning**|Yury Gorishniy et.al.|[2307.14338](http://arxiv.org/abs/2307.14338)|**[link](https://github.com/yandex-research/tabular-dl-tabr)**|
 |**2023-07-26**|**Sparse Double Descent in Vision Transformers: real or phantom threat?**|Victor Quétu et.al.|[2307.14253](http://arxiv.org/abs/2307.14253)|**[link](https://github.com/vgcq/sdd_vit)**|
 |**2023-07-26**|**Neural-based Cross-modal Search and Retrieval of Artwork**|Yan Gong et.al.|[2307.14244](http://arxiv.org/abs/2307.14244)|null|
