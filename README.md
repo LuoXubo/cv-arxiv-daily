@@ -524,6 +524,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-28**|**D2S: Representing local descriptors and global scene coordinates for camera relocalization**|Bach-Thuan Bui et.al.|[2307.15250](http://arxiv.org/abs/2307.15250)|null|
 |**2023-07-26**|**Neural-based Cross-modal Search and Retrieval of Artwork**|Yan Gong et.al.|[2307.14244](http://arxiv.org/abs/2307.14244)|null|
 |**2023-07-26**|**Boon: A Neural Search Engine for Cross-Modal Information Retrieval**|Yan Gong et.al.|[2307.14240](http://arxiv.org/abs/2307.14240)|null|
 |**2023-07-25**|**Conditional Cross Attention Network for Multi-Space Embedding without Entanglement in Only a SINGLE Network**|Chull Hwan Song et.al.|[2307.13254](http://arxiv.org/abs/2307.13254)|null|
@@ -1161,6 +1162,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-28**|**Cross-Modal Concept Learning and Inference for Vision-Language Models**|Yi Zhang et.al.|[2307.15460](http://arxiv.org/abs/2307.15460)|null|
 |**2023-07-22**|**CryptoMask : Privacy-preserving Face Recognition**|Jianli Bai et.al.|[2307.12010](http://arxiv.org/abs/2307.12010)|null|
 |**2023-07-22**|**A Stronger Stitching Algorithm for Fisheye Images based on Deblurring and Registration**|Jing Hao et.al.|[2307.11997](http://arxiv.org/abs/2307.11997)|null|
 |**2023-07-21**|**Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data**|Sahar Almahfouz Nasser et.al.|[2307.10698](http://arxiv.org/abs/2307.10698)|**[link](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina)**|
@@ -1323,6 +1325,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-28**|**Dynamic PlenOctree for Adaptive Sampling Refinement in Explicit NeRF**|Haotian Bai et.al.|[2307.15333](http://arxiv.org/abs/2307.15333)|null|
+|**2023-07-27**|**Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Fields**|Xiangyu Wang et.al.|[2307.15131](http://arxiv.org/abs/2307.15131)|**[link](https://github.com/windingwind/seal-3d)**|
 |**2023-07-27**|**MARS: An Instance-aware, Modular and Realistic Simulator for Autonomous Driving**|Zirui Wu et.al.|[2307.15058](http://arxiv.org/abs/2307.15058)|null|
 |**2023-07-27**|**NeRF-Det: Learning Geometry-Aware Volumetric Representation for Multi-View 3D Object Detection**|Chenfeng Xu et.al.|[2307.14620](http://arxiv.org/abs/2307.14620)|**[link](https://github.com/facebookresearch/nerf-det)**|
 |**2023-07-26**|**Points-to-3D: Bridging the Gap between Sparse Points and Shape-Controllable Text-to-3D Generation**|Chaohui Yu et.al.|[2307.13908](http://arxiv.org/abs/2307.13908)|null|
@@ -1751,6 +1755,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-28**|**PatchMixer: Rethinking network design to boost generalization for 3D point cloud understanding**|Davide Boscaini et.al.|[2307.15692](http://arxiv.org/abs/2307.15692)|null|
+|**2023-07-28**|**Multi-layer Aggregation as a key to feature-based OOD detection**|Benjamin Lambert et.al.|[2307.15647](http://arxiv.org/abs/2307.15647)|null|
+|**2023-07-28**|**Scale-aware Test-time Click Adaptation for Pulmonary Nodule and Mass Segmentation**|Zhihao Li et.al.|[2307.15645](http://arxiv.org/abs/2307.15645)|**[link](https://github.com/splinterli/sattca)**|
+|**2023-07-28**|**A Survey on Deep Learning in Medical Image Registration: New Technologies, Uncertainty, Evaluation Metrics, and Beyond**|Junyu Chen et.al.|[2307.15615](http://arxiv.org/abs/2307.15615)|null|
+|**2023-07-28**|**All-for-One and One-For-All: Deep learning-based feature fusion for Synthetic Speech Detection**|Daniele Mari et.al.|[2307.15555](http://arxiv.org/abs/2307.15555)|null|
+|**2023-07-28**|**Few-shot Image Classification based on Gradual Machine Learning**|Na Chen et.al.|[2307.15524](http://arxiv.org/abs/2307.15524)|null|
+|**2023-07-28**|**ERCPMP: An Endoscopic Image and Video Dataset for Colorectal Polyps Morphology and Pathology**|Mojgan Forootan et.al.|[2307.15444](http://arxiv.org/abs/2307.15444)|null|
+|**2023-07-28**|**RAWIW: RAW Image Watermarking Robust to ISP Pipeline**|Kang Fu et.al.|[2307.15443](http://arxiv.org/abs/2307.15443)|null|
+|**2023-07-28**|**Predicting pedestrian trajectories at different densities: A multi-criteria empirical analysis**|Raphael Korbmacher et.al.|[2307.15442](http://arxiv.org/abs/2307.15442)|null|
+|**2023-07-28**|**Deep Learning Pipeline for Automated Visual Moth Monitoring: Insect Localization and Species Classification**|Dimitri Korsch et.al.|[2307.15427](http://arxiv.org/abs/2307.15427)|null|
 |**2023-07-27**|**Incrementally-Computable Neural Networks: Efficient Inference for Dynamic Inputs**|Or Sharir et.al.|[2307.14988](http://arxiv.org/abs/2307.14988)|null|
 |**2023-07-27**|**Practical Implementation of RIS-Aided Spectrum Sensing: A Deep Learning-Based Solution**|Sefa Kayraklik et.al.|[2307.14985](http://arxiv.org/abs/2307.14985)|null|
 |**2023-07-27**|**Graph-based Polyphonic Multitrack Music Generation**|Emanuele Cosenza et.al.|[2307.14928](http://arxiv.org/abs/2307.14928)|**[link](https://github.com/emanuelecosenza/polyphemus)**|
