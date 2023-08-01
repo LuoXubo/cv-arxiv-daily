@@ -511,6 +511,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-31**|**Guiding Image Captioning Models Toward More Specific Captions**|Simon Kornblith et.al.|[2307.16686](http://arxiv.org/abs/2307.16686)|null|
+|**2023-07-31**|**Bridging the Gap: Exploring the Capabilities of Bridge-Architectures for Complex Visual Reasoning Tasks**|Kousik Rajesh et.al.|[2307.16395](http://arxiv.org/abs/2307.16395)|null|
 |**2023-07-28**|**D2S: Representing local descriptors and global scene coordinates for camera relocalization**|Bach-Thuan Bui et.al.|[2307.15250](http://arxiv.org/abs/2307.15250)|null|
 |**2023-07-26**|**Neural-based Cross-modal Search and Retrieval of Artwork**|Yan Gong et.al.|[2307.14244](http://arxiv.org/abs/2307.14244)|null|
 |**2023-07-26**|**Boon: A Neural Search Engine for Cross-Modal Information Retrieval**|Yan Gong et.al.|[2307.14240](http://arxiv.org/abs/2307.14240)|null|
@@ -992,6 +994,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-29**|**Transformer on Shuttlecock Flying Direction Prediction for Hit-frame Detection**|Yu-Hang Chien et.al.|[2307.16000](http://arxiv.org/abs/2307.16000)|**[link](https://github.com/arthur900530/Transformer-on-Shuttlecock-Flying-Direction-Prediction-for-Hit-frame-Detection)**|
 |**2023-07-25**|**Mini-PointNetPlus: a local feature descriptor in deep learning model for 3d environment perception**|Chuanyu Luo et.al.|[2307.13300](http://arxiv.org/abs/2307.13300)|null|
 |**2023-07-21**|**Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data**|Sahar Almahfouz Nasser et.al.|[2307.10698](http://arxiv.org/abs/2307.10698)|**[link](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina)**|
 |**2023-07-19**|**SAMConvex: Fast Discrete Optimization for CT Registration using Self-supervised Anatomical Embedding and Correlation Pyramid**|Zi Li et.al.|[2307.09727](http://arxiv.org/abs/2307.09727)|null|
@@ -1734,6 +1737,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-31**|**MetaCAM: Ensemble-Based Class Activation Map**|Emily Kaczmarek et.al.|[2307.16863](http://arxiv.org/abs/2307.16863)|null|
+|**2023-07-31**|**Random Sub-Samples Generation for Self-Supervised Real Image Denoising**|Yizhong Pan et.al.|[2307.16825](http://arxiv.org/abs/2307.16825)|**[link](https://github.com/p1y2z3/sdap)**|
+|**2023-07-31**|**Lossless Transformations and Excess Risk Bounds in Statistical Inference**|László Györfi et.al.|[2307.16735](http://arxiv.org/abs/2307.16735)|null|
+|**2023-07-31**|**Painting baryons onto N-body simulations of galaxy clusters with image-to-image deep learning**|Urmila Chadayammuri et.al.|[2307.16733](http://arxiv.org/abs/2307.16733)|null|
+|**2023-07-31**|**An Empirical Study on Log-based Anomaly Detection Using Machine Learning**|Shan Ali et.al.|[2307.16714](http://arxiv.org/abs/2307.16714)|null|
+|**2023-07-31**|**Deep Learning Meets Adaptive Filtering: A Stein's Unbiased Risk Estimator Approach**|Zahra Esmaeilbeig et.al.|[2307.16708](http://arxiv.org/abs/2307.16708)|null|
+|**2023-07-31**|**Conditioning Generative Latent Optimization to solve Imaging Inverse Problems**|Thomas Braure et.al.|[2307.16670](http://arxiv.org/abs/2307.16670)|null|
+|**2023-07-31**|**Proactive Resource Request for Disaster Response: A Deep Learning-based Optimization Model**|Hongzhe Zhang et.al.|[2307.16661](http://arxiv.org/abs/2307.16661)|null|
+|**2023-07-31**|**UDAMA: Unsupervised Domain Adaptation through Multi-discriminator Adversarial Training with Noisy Labels Improves Cardio-fitness Prediction**|Yu Wu et.al.|[2307.16651](http://arxiv.org/abs/2307.16651)|null|
+|**2023-07-31**|**VacancySBERT: the approach for representation of titles and skills for semantic similarity search in the recruitment domain**|Maiia Bocharova et.al.|[2307.16638](http://arxiv.org/abs/2307.16638)|**[link](https://github.com/maiiabocharova/vacancysbert)**|
 |**2023-07-28**|**PatchMixer: Rethinking network design to boost generalization for 3D point cloud understanding**|Davide Boscaini et.al.|[2307.15692](http://arxiv.org/abs/2307.15692)|null|
 |**2023-07-28**|**Multi-layer Aggregation as a key to feature-based OOD detection**|Benjamin Lambert et.al.|[2307.15647](http://arxiv.org/abs/2307.15647)|null|
 |**2023-07-28**|**Scale-aware Test-time Click Adaptation for Pulmonary Nodule and Mass Segmentation**|Zhihao Li et.al.|[2307.15645](http://arxiv.org/abs/2307.15645)|**[link](https://github.com/splinterli/sattca)**|
