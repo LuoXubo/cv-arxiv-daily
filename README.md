@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-02**|**A Small Form Factor Aerial Research Vehicle for Pick-and-Place Tasks with Onboard Real-Time Object Detection and Visual Odometry**|Cora A. Dimmig et.al.|[2308.01398](http://arxiv.org/abs/2308.01398)|null|
 |**2023-08-02**|**Stereo Visual Odometry with Deep Learning-Based Point and Line Feature Matching using an Attention Graph Neural Network**|Shenbagaraj Kannapiran et.al.|[2308.01125](http://arxiv.org/abs/2308.01125)|null|
 |**2023-08-02**|**Preliminary Design of the Dragonfly Navigation Filter**|Ben Schilling et.al.|[2307.13513](http://arxiv.org/abs/2307.13513)|null|
 |**2023-07-19**|**Optimizing the extended Fourier Mellin Transformation Algorithm**|Wenqing Jiang et.al.|[2307.10015](http://arxiv.org/abs/2307.10015)|**[link](https://github.com/star-center/o-efmt)**|
@@ -525,6 +526,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-03**|**Similar image retrieval using Autoencoder. I. Automatic morphology classification of galaxies**|Eunsuk Seo et.al.|[2308.01871](http://arxiv.org/abs/2308.01871)|null|
 |**2023-08-01**|**AnyLoc: Towards Universal Visual Place Recognition**|Nikhil Keetha et.al.|[2308.00688](http://arxiv.org/abs/2308.00688)|**[link](https://github.com/AnyLoc/AnyLoc)**|
 |**2023-07-31**|**Guiding Image Captioning Models Toward More Specific Captions**|Simon Kornblith et.al.|[2307.16686](http://arxiv.org/abs/2307.16686)|null|
 |**2023-07-31**|**Bridging the Gap: Exploring the Capabilities of Bridge-Architectures for Complex Visual Reasoning Tasks**|Kousik Rajesh et.al.|[2307.16395](http://arxiv.org/abs/2307.16395)|null|
@@ -1764,6 +1766,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-03**|**Tag Prediction of Competitive Programming Problems using Deep Learning Techniques**|Taha Lokat et.al.|[2308.01863](http://arxiv.org/abs/2308.01863)|null|
+|**2023-08-03**|**Sim-to-Real Vision-depth Fusion CNNs for Robust Pose Estimation Aboard Autonomous Nano-quadcopter**|Luca Crupi et.al.|[2308.01833](http://arxiv.org/abs/2308.01833)|null|
+|**2023-08-03**|**Deep Neural Networks Fused with Textures for Image Classification**|Asish Bera et.al.|[2308.01813](http://arxiv.org/abs/2308.01813)|null|
+|**2023-08-03**|**An End-to-end Food Portion Estimation Framework Based on Shape Reconstruction from Monocular Image**|Zeman Shao et.al.|[2308.01810](http://arxiv.org/abs/2308.01810)|null|
+|**2023-08-03**|**Deep Learning-based Prediction of Stress and Strain Maps in Arterial Walls for Improved Cardiovascular Risk Assessment**|Yasin Shokrollahi1 et.al.|[2308.01771](http://arxiv.org/abs/2308.01771)|null|
+|**2023-08-03**|**NuInsSeg: A Fully Annotated Dataset for Nuclei Instance Segmentation in H&E-Stained Histological Images**|Amirreza Mahbod et.al.|[2308.01760](http://arxiv.org/abs/2308.01760)|**[link](https://github.com/masih4/nuinsseg)**|
+|**2023-08-03**|**Weakly Supervised 3D Instance Segmentation without Instance-level Annotations**|Shichao Dong et.al.|[2308.01721](http://arxiv.org/abs/2308.01721)|null|
+|**2023-08-03**|**ReIDTrack: Multi-Object Track and Segmentation Without Motion**|Kaer Huang et.al.|[2308.01622](http://arxiv.org/abs/2308.01622)|null|
+|**2023-08-03**|**A Novel Convolutional Neural Network Architecture with a Continuous Symmetry**|Yao Liu et.al.|[2308.01621](http://arxiv.org/abs/2308.01621)|null|
+|**2023-08-03**|**A Survey on Deep Learning-based Spatio-temporal Action Detection**|Peng Wang et.al.|[2308.01618](http://arxiv.org/abs/2308.01618)|null|
 |**2023-08-02**|**A Hybrid Approach To Real-Time Multi-Object Tracking**|Vincenzo Mariano Scarrica et.al.|[2308.01248](http://arxiv.org/abs/2308.01248)|null|
 |**2023-08-02**|**LSF-IDM: Lightweight Deep Learning Models for Automotive Intrusion Detection Model Based on Semantic Fusion**|Pengzhou Cheng et.al.|[2308.01237](http://arxiv.org/abs/2308.01237)|null|
 |**2023-08-02**|**Calibration in Deep Learning: A Survey of the State-of-the-Art**|Cheng Wang et.al.|[2308.01222](http://arxiv.org/abs/2308.01222)|null|
