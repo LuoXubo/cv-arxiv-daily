@@ -513,6 +513,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-08**|**Unifying Two-Stream Encoders with Transformers for Cross-Modal Retrieval**|Yi Bin et.al.|[2308.04343](http://arxiv.org/abs/2308.04343)|**[link](https://github.com/luminosityx/hat)**|
+|**2023-08-08**|**Coarse-to-Fine: Learning Compact Discriminative Representation for Single-Stage Image Retrieval**|Yunquan Zhu et.al.|[2308.04008](http://arxiv.org/abs/2308.04008)|**[link](https://github.com/bassyess/cfcd)**|
 |**2023-08-05**|**A Comprehensive Analysis of Real-World Image Captioning and Scene Identification**|Sai Suprabhanu Nallapaneni et.al.|[2308.02833](http://arxiv.org/abs/2308.02833)|null|
 |**2023-08-03**|**Similar image retrieval using Autoencoder. I. Automatic morphology classification of galaxies**|Eunsuk Seo et.al.|[2308.01871](http://arxiv.org/abs/2308.01871)|null|
 |**2023-08-01**|**AnyLoc: Towards Universal Visual Place Recognition**|Nikhil Keetha et.al.|[2308.00688](http://arxiv.org/abs/2308.00688)|**[link](https://github.com/AnyLoc/AnyLoc)**|
@@ -1315,6 +1317,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-08**|**Digging into Depth Priors for Outdoor Neural Radiance Fields**|Chen Wang et.al.|[2308.04413](http://arxiv.org/abs/2308.04413)|null|
 |**2023-08-07**|**Mirror-NeRF: Learning Neural Radiance Fields for Mirrors with Whitted-Style Ray Tracing**|Junyi Zeng et.al.|[2308.03280](http://arxiv.org/abs/2308.03280)|null|
 |**2023-08-05**|**Where and How: Mitigating Confusion in Neural Radiance Fields from Sparse Inputs**|Yanqi Bao et.al.|[2308.02908](http://arxiv.org/abs/2308.02908)|**[link](https://github.com/bbbbby-99/wah-nerf)**|
 |**2023-08-05**|**Learning Unified Decompositional and Compositional NeRF for Editable Novel View Synthesis**|Yuxin Wang et.al.|[2308.02840](http://arxiv.org/abs/2308.02840)|null|
@@ -1751,6 +1754,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-08**|**A Deep-Learning Method Using Auto-encoder and Generative Adversarial Network for Anomaly Detection on Ancient Stone Stele Surfaces**|Yikun Liu et.al.|[2308.04426](http://arxiv.org/abs/2308.04426)|null|
+|**2023-08-08**|**Person Re-Identification without Identification via Event Anonymization**|Shafiq Ahmad et.al.|[2308.04402](http://arxiv.org/abs/2308.04402)|null|
+|**2023-08-08**|**Data Augmentation-Based Unsupervised Domain Adaptation In Medical Imaging**|Sebastian Nørgaard Llambias et.al.|[2308.04395](http://arxiv.org/abs/2308.04395)|null|
+|**2023-08-08**|**Learning Unbiased Image Segmentation: A Case Study with Plain Knee Radiographs**|Nickolas Littlefield et.al.|[2308.04356](http://arxiv.org/abs/2308.04356)|null|
+|**2023-08-08**|**Towards an AI to Win Ghana's National Science and Maths Quiz**|George Boateng et.al.|[2308.04333](http://arxiv.org/abs/2308.04333)|**[link](https://github.com/nsmq-ai/nsmqai)**|
+|**2023-08-08**|**Deep Learning-Based Knowledge Injection for Metaphor Detection: A Comprehensive Review**|Cheng Yang et.al.|[2308.04306](http://arxiv.org/abs/2308.04306)|null|
+|**2023-08-08**|**The Model Inversion Eavesdropping Attack in Semantic Communication Systems**|Yuhao Chen et.al.|[2308.04304](http://arxiv.org/abs/2308.04304)|null|
+|**2023-08-08**|**Vehicle Motion Forecasting using Prior Information and Semantic-assisted Occupancy Grid Maps**|Rabbia Asghar et.al.|[2308.04303](http://arxiv.org/abs/2308.04303)|null|
+|**2023-08-08**|**Auditory Attention Decoding with Task-Related Multi-View Contrastive Learning**|Xiaoyu Chen et.al.|[2308.04244](http://arxiv.org/abs/2308.04244)|null|
+|**2023-08-08**|**AutoPCF: Efficient Product Carbon Footprint Accounting with Large Language Models**|Zhu Deng et.al.|[2308.04241](http://arxiv.org/abs/2308.04241)|null|
 |**2023-08-07**|**Automated Real Time Delineation of Supraclavicular Brachial Plexus in Neck Ultrasonography Videos: A Deep Learning Approach**|Abhay Tyagi et.al.|[2308.03717](http://arxiv.org/abs/2308.03717)|null|
 |**2023-08-07**|**DeRisk: An Effective Deep Learning Framework for Credit Risk Prediction over Real-World Financial Data**|Yancheng Liang et.al.|[2308.03704](http://arxiv.org/abs/2308.03704)|null|
 |**2023-08-07**|**Video-based Person Re-identification with Long Short-Term Representation Learning**|Xuehu Liu et.al.|[2308.03703](http://arxiv.org/abs/2308.03703)|null|
