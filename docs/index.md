@@ -1321,6 +1321,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-11**|**Focused Specific Objects NeRF**|Yuesong Li et.al.|[2308.05970](http://arxiv.org/abs/2308.05970)|null|
+|**2023-08-11**|**VERF: Runtime Monitoring of Pose Estimation with Neural Radiance Fields**|Dominic Maggio et.al.|[2308.05939](http://arxiv.org/abs/2308.05939)|null|
 |**2023-08-09**|**WaveNeRF: Wavelet-based Generalizable Neural Radiance Fields**|Muyu Xu et.al.|[2308.04826](http://arxiv.org/abs/2308.04826)|null|
 |**2023-08-09**|**A General Implicit Framework for Fast NeRF Composition and Rendering**|Xinyu Gao et.al.|[2308.04669](http://arxiv.org/abs/2308.04669)|null|
 |**2023-08-08**|**Digging into Depth Priors for Outdoor Neural Radiance Fields**|Chen Wang et.al.|[2308.04413](http://arxiv.org/abs/2308.04413)|null|
@@ -1760,6 +1762,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-11**|**Automated Sizing and Training of Efficient Deep Autoencoders using Second Order Algorithms**|Kanishka Tyagi et.al.|[2308.06221](http://arxiv.org/abs/2308.06221)|null|
+|**2023-08-11**|**Hybrid-Supervised Deep Learning for Domain Transfer 3D Protoacoustic Image Reconstruction**|Yankun Lang et.al.|[2308.06194](http://arxiv.org/abs/2308.06194)|null|
+|**2023-08-11**|**Uncertainty Quantification for Image-based Traffic Prediction across Cities**|Alexander Timans et.al.|[2308.06129](http://arxiv.org/abs/2308.06129)|**[link](https://github.com/alextimans/traffic4cast-uncertainty)**|
+|**2023-08-11**|**A Self-supervised SAR Image Despeckling Strategy Based on Parameter-sharing Convolutional Neural Networks**|Liang Chen et.al.|[2308.05975](http://arxiv.org/abs/2308.05975)|null|
+|**2023-08-11**|**Learned Point Cloud Compression for Classification**|Mateen Ulhaq et.al.|[2308.05959](http://arxiv.org/abs/2308.05959)|**[link](https://github.com/multimedialabsfu/learned-point-cloud-compression-for-classification)**|
+|**2023-08-11**|**Comparing the quality of neural network uncertainty estimates for classification problems**|Daniel Ries et.al.|[2308.05903](http://arxiv.org/abs/2308.05903)|null|
+|**2023-08-10**|**Aphid Cluster Recognition and Detection in the Wild Using Deep Learning Models**|Tianxiao Zhang et.al.|[2308.05881](http://arxiv.org/abs/2308.05881)|null|
+|**2023-08-10**|**The Multi-modality Cell Segmentation Challenge: Towards Universal Solutions**|Jun Ma et.al.|[2308.05864](http://arxiv.org/abs/2308.05864)|null|
+|**2023-08-10**|**End-to-End Optimization of JPEG-Based Deep Learning Process for Image Classification**|Siyu Qi et.al.|[2308.05840](http://arxiv.org/abs/2308.05840)|null|
+|**2023-08-10**|**Exploring the Efficacy of Statistical and Deep Learning Methods for Large Spatial Datasets: A Case Study**|Arnab Hazra et.al.|[2308.05812](http://arxiv.org/abs/2308.05812)|null|
 |**2023-08-10**|**Rethinking Integration of Prediction and Planning in Deep Learning-Based Automated Driving Systems: A Review**|Steffen Hagedorn et.al.|[2308.05731](http://arxiv.org/abs/2308.05731)|null|
 |**2023-08-10**|**Optimizing Performance of Feedforward and Convolutional Neural Networks through Dynamic Activation Functions**|Chinmay Rane et.al.|[2308.05724](http://arxiv.org/abs/2308.05724)|null|
 |**2023-08-10**|**Exploring Deep Learning Approaches to Predict Person and Vehicle Trips: An Analysis of NHTS Data**|Kojo Adu-Gyamfi et.al.|[2308.05665](http://arxiv.org/abs/2308.05665)|null|
