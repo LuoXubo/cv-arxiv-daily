@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-12**|**4DRVO-Net: Deep 4D Radar-Visual Odometry Using Multi-Modal and Multi-Scale Adaptive Fusion**|Guirong Zhuo et.al.|[2308.06573](http://arxiv.org/abs/2308.06573)|null|
 |**2023-08-10**|**Mono-hydra: Real-time 3D scene graph construction from monocular camera input with IMU**|U. V. B. L. Udugama et.al.|[2308.05515](http://arxiv.org/abs/2308.05515)|null|
 |**2023-08-02**|**A Small Form Factor Aerial Research Vehicle for Pick-and-Place Tasks with Onboard Real-Time Object Detection and Visual Odometry**|Cora A. Dimmig et.al.|[2308.01398](http://arxiv.org/abs/2308.01398)|null|
 |**2023-08-02**|**Stereo Visual Odometry with Deep Learning-Based Point and Line Feature Matching using an Attention Graph Neural Network**|Shenbagaraj Kannapiran et.al.|[2308.01125](http://arxiv.org/abs/2308.01125)|null|
@@ -514,6 +515,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-14**|**Global Features are All You Need for Image Retrieval and Reranking**|Shihao Shao et.al.|[2308.06954](http://arxiv.org/abs/2308.06954)|**[link](https://github.com/shihaoshao-gh/superglobal)**|
+|**2023-08-14**|**MixBCT: Towards Self-Adapting Backward-Compatible Training**|Yu Liang et.al.|[2308.06948](http://arxiv.org/abs/2308.06948)|**[link](https://github.com/yuleung/mixbct)**|
 |**2023-08-10**|**KS-APR: Keyframe Selection for Robust Absolute Pose Regression**|Changkun Liu et.al.|[2308.05459](http://arxiv.org/abs/2308.05459)|null|
 |**2023-08-09**|**AspectMMKG: A Multi-modal Knowledge Graph with Aspect-aware Entities**|Jingdan Zhang et.al.|[2308.04992](http://arxiv.org/abs/2308.04992)|**[link](https://github.com/thezjd/aspectmmkg)**|
 |**2023-08-08**|**Unifying Two-Stream Encoders with Transformers for Cross-Modal Retrieval**|Yi Bin et.al.|[2308.04343](http://arxiv.org/abs/2308.04343)|**[link](https://github.com/luminosityx/hat)**|
@@ -1004,6 +1007,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-14**|**DELO: Deep Evidential LiDAR Odometry using Partial Optimal Transport**|Sk Aziz Ali et.al.|[2308.07153](http://arxiv.org/abs/2308.07153)|null|
 |**2023-08-14**|**2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds**|Minhao Li et.al.|[2308.05667](http://arxiv.org/abs/2308.05667)|null|
 |**2023-08-02**|**Automated Hit-frame Detection for Badminton Match Analysis**|Yu-Hang Chien et.al.|[2307.16000](http://arxiv.org/abs/2307.16000)|**[link](https://github.com/arthur900530/Transformer-on-Shuttlecock-Flying-Direction-Prediction-for-Hit-frame-Detection)**|
 |**2023-07-25**|**Mini-PointNetPlus: a local feature descriptor in deep learning model for 3d environment perception**|Chuanyu Luo et.al.|[2307.13300](http://arxiv.org/abs/2307.13300)|null|
@@ -1321,6 +1325,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-14**|**Neural radiance fields in the industrial and robotics domain: applications, research opportunities and use cases**|Eugen Šlapak et.al.|[2308.07118](http://arxiv.org/abs/2308.07118)|**[link](https://github.com/maftej/iisnerf)**|
+|**2023-08-14**|**S3IM: Stochastic Structural SIMilarity and Its Unreasonable Effectiveness for Neural Fields**|Zeke Xie et.al.|[2308.07032](http://arxiv.org/abs/2308.07032)|null|
 |**2023-08-11**|**Focused Specific Objects NeRF**|Yuesong Li et.al.|[2308.05970](http://arxiv.org/abs/2308.05970)|null|
 |**2023-08-11**|**VERF: Runtime Monitoring of Pose Estimation with Neural Radiance Fields**|Dominic Maggio et.al.|[2308.05939](http://arxiv.org/abs/2308.05939)|null|
 |**2023-08-09**|**WaveNeRF: Wavelet-based Generalizable Neural Radiance Fields**|Muyu Xu et.al.|[2308.04826](http://arxiv.org/abs/2308.04826)|null|
@@ -1762,6 +1768,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-14**|**Cross-Attribute Matrix Factorization Model with Shared User Embedding**|Wen Liang et.al.|[2308.07284](http://arxiv.org/abs/2308.07284)|null|
+|**2023-08-14**|**Diving with Penguins: Detecting Penguins and their Prey in Animal-borne Underwater Videos via Deep Learning**|Kejia Zhang et.al.|[2308.07267](http://arxiv.org/abs/2308.07267)|null|
+|**2023-08-14**|**Large-kernel Attention for Efficient and Robust Brain Lesion Segmentation**|Liam Chalcroft et.al.|[2308.07251](http://arxiv.org/abs/2308.07251)|**[link](https://github.com/liamchalcroft/mdunet)**|
+|**2023-08-14**|**Automated Ensemble-Based Segmentation of Adult Brain Tumors: A Novel Approach Using the BraTS AFRICA Challenge Data**|Chiranjeewee Prasad Koirala et.al.|[2308.07214](http://arxiv.org/abs/2308.07214)|null|
+|**2023-08-14**|**Automated Ensemble-Based Segmentation of Pediatric Brain Tumors: A Novel Approach Using the CBTN-CONNECT-ASNR-MICCAI BraTS-PEDs 2023 Challenge Data**|Shashidhar Reddy Javaji et.al.|[2308.07212](http://arxiv.org/abs/2308.07212)|null|
+|**2023-08-14**|**SEMI-CenterNet: A Machine Learning Facilitated Approach for Semiconductor Defect Inspection**|Vic De Ridder et.al.|[2308.07180](http://arxiv.org/abs/2308.07180)|null|
+|**2023-08-14**|**PitchNet: A Fully Convolutional Neural Network for Pitch Estimation**|Jeremy Cochoy et.al.|[2308.07170](http://arxiv.org/abs/2308.07170)|null|
+|**2023-08-14**|**DELO: Deep Evidential LiDAR Odometry using Partial Optimal Transport**|Sk Aziz Ali et.al.|[2308.07153](http://arxiv.org/abs/2308.07153)|null|
+|**2023-08-14**|**Pairing interacting protein sequences using masked language modeling**|Umberto Lupo et.al.|[2308.07136](http://arxiv.org/abs/2308.07136)|null|
+|**2023-08-14**|**On the Importance of Spatial Relations for Few-shot Action Recognition**|Yilun Zhang et.al.|[2308.07119](http://arxiv.org/abs/2308.07119)|null|
 |**2023-08-11**|**Automated Sizing and Training of Efficient Deep Autoencoders using Second Order Algorithms**|Kanishka Tyagi et.al.|[2308.06221](http://arxiv.org/abs/2308.06221)|null|
 |**2023-08-11**|**Hybrid-Supervised Deep Learning for Domain Transfer 3D Protoacoustic Image Reconstruction**|Yankun Lang et.al.|[2308.06194](http://arxiv.org/abs/2308.06194)|null|
 |**2023-08-11**|**Uncertainty Quantification for Image-based Traffic Prediction across Cities**|Alexander Timans et.al.|[2308.06129](http://arxiv.org/abs/2308.06129)|**[link](https://github.com/alextimans/traffic4cast-uncertainty)**|
