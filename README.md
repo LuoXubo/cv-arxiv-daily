@@ -1022,6 +1022,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-15**|**CoDeF: Content Deformation Fields for Temporally Consistent Video Processing**|Hao Ouyang et.al.|[2308.07926](http://arxiv.org/abs/2308.07926)|**[link](https://github.com/qiuyu96/codef)**|
+|**2023-08-15**|**ChartDETR: A Multi-shape Detection Network for Visual Chart Recognition**|Wenyuan Xue et.al.|[2308.07743](http://arxiv.org/abs/2308.07743)|null|
 |**2023-08-14**|**DELO: Deep Evidential LiDAR Odometry using Partial Optimal Transport**|Sk Aziz Ali et.al.|[2308.07153](http://arxiv.org/abs/2308.07153)|null|
 |**2023-08-14**|**2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds**|Minhao Li et.al.|[2308.05667](http://arxiv.org/abs/2308.05667)|null|
 |**2023-08-02**|**Automated Hit-frame Detection for Badminton Match Analysis**|Yu-Hang Chien et.al.|[2307.16000](http://arxiv.org/abs/2307.16000)|**[link](https://github.com/arthur900530/Transformer-on-Shuttlecock-Flying-Direction-Prediction-for-Hit-frame-Detection)**|
@@ -1789,6 +1791,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-15**|**Domain-Adaptive Device Fingerprints for Network Access Authentication Through Multifractal Dimension Representation**|Benjamin Johnson et.al.|[2308.07925](http://arxiv.org/abs/2308.07925)|null|
+|**2023-08-15**|**The Regular Expression Inference Challenge**|Mojtaba Valizadeh et.al.|[2308.07899](http://arxiv.org/abs/2308.07899)|null|
+|**2023-08-15**|**The Challenge of Fetal Cardiac MRI Reconstruction Using Deep Learning**|Denis Prokopenko et.al.|[2308.07885](http://arxiv.org/abs/2308.07885)|null|
+|**2023-08-15**|**SEDA: Self-Ensembling ViT with Defensive Distillation and Adversarial Training for robust Chest X-rays Classification**|Raza Imam et.al.|[2308.07874](http://arxiv.org/abs/2308.07874)|**[link](https://github.com/razaimam45/seda)**|
+|**2023-08-15**|**Cerberus: A Deep Learning Hybrid Model for Lithium-Ion Battery Aging Estimation and Prediction Based on Relaxation Voltage Curves**|Yue Xiang et.al.|[2308.07824](http://arxiv.org/abs/2308.07824)|null|
+|**2023-08-15**|**An Interpretable Machine Learning Model with Deep Learning-based Imaging Biomarkers for Diagnosis of Alzheimer's Disease**|Wenjie Kang et.al.|[2308.07778](http://arxiv.org/abs/2308.07778)|null|
+|**2023-08-15**|**Preliminary investigation of the short-term in situ performance of an automatic masker selection system**|Bhan Lam et.al.|[2308.07767](http://arxiv.org/abs/2308.07767)|null|
+|**2023-08-15**|**Dynamic Embedding Size Search with Minimum Regret for Streaming Recommender System**|Bowei He et.al.|[2308.07760](http://arxiv.org/abs/2308.07760)|null|
+|**2023-08-15**|**Formally-Sharp DAgger for MCTS: Lower-Latency Monte Carlo Tree Search using Data Aggregation with Formal Methods**|Debraj Chakraborty et.al.|[2308.07738](http://arxiv.org/abs/2308.07738)|null|
+|**2023-08-15**|**A Review of Adversarial Attacks in Computer Vision**|Yutong Zhang et.al.|[2308.07673](http://arxiv.org/abs/2308.07673)|null|
 |**2023-08-14**|**Cross-Attribute Matrix Factorization Model with Shared User Embedding**|Wen Liang et.al.|[2308.07284](http://arxiv.org/abs/2308.07284)|null|
 |**2023-08-14**|**Diving with Penguins: Detecting Penguins and their Prey in Animal-borne Underwater Videos via Deep Learning**|Kejia Zhang et.al.|[2308.07267](http://arxiv.org/abs/2308.07267)|null|
 |**2023-08-14**|**Large-kernel Attention for Efficient and Robust Brain Lesion Segmentation**|Liam Chalcroft et.al.|[2308.07251](http://arxiv.org/abs/2308.07251)|**[link](https://github.com/liamchalcroft/mdunet)**|
