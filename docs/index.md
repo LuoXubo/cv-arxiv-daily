@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.17
+## Updated on 2023.08.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1778,7 +1778,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-16**|**Deployment and Analysis of Instance Segmentation Algorithm for In-field Grade Estimation of Sweetpotatoes**|Hoang M. Nguyen et.al.|[2308.08534](http://arxiv.org/abs/2308.08534)|null|
 |**2023-08-16**|**Self-Supervised Online Camera Calibration for Automated Driving and Parking Applications**|Ciarán Hogan et.al.|[2308.08495](http://arxiv.org/abs/2308.08495)|null|
-|**2023-08-16**|**An Expert's Guide to Training Physics-informed Neural Networks**|Sifan Wang et.al.|[2308.08468](http://arxiv.org/abs/2308.08468)|null|
+|**2023-08-16**|**An Expert's Guide to Training Physics-informed Neural Networks**|Sifan Wang et.al.|[2308.08468](http://arxiv.org/abs/2308.08468)|**[link](https://github.com/predictiveintelligencelab/jaxpi)**|
 |**2023-08-16**|**Hierarchical Uncertainty Estimation for Medical Image Segmentation Networks**|Xinyu Bai et.al.|[2308.08465](http://arxiv.org/abs/2308.08465)|null|
 |**2023-08-16**|**Detection of Binary Black Hole Mergers from the Signal-to-Noise Ratio Time Series Using Deep Learning**|Damon Beveridge et.al.|[2308.08429](http://arxiv.org/abs/2308.08429)|null|
 |**2023-08-16**|**DeepContrast: Deep Tissue Contrast Enhancement using Synthetic Data Degradations and OOD Model Predictions**|Nuno Pimpão Martins et.al.|[2308.08365](http://arxiv.org/abs/2308.08365)|null|
