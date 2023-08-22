@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-19**|**Enhancing State Estimation in Robots: A Data-Driven Approach with Differentiable Ensemble Kalman Filters**|Xiao Liu et.al.|[2308.09870](http://arxiv.org/abs/2308.09870)|null|
 |**2023-08-12**|**4DRVO-Net: Deep 4D Radar-Visual Odometry Using Multi-Modal and Multi-Scale Adaptive Fusion**|Guirong Zhuo et.al.|[2308.06573](http://arxiv.org/abs/2308.06573)|null|
 |**2023-08-10**|**Mono-hydra: Real-time 3D scene graph construction from monocular camera input with IMU**|U. V. B. L. Udugama et.al.|[2308.05515](http://arxiv.org/abs/2308.05515)|null|
 |**2023-08-02**|**A Small Form Factor Aerial Research Vehicle for Pick-and-Place Tasks with Onboard Real-Time Object Detection and Visual Odometry**|Cora A. Dimmig et.al.|[2308.01398](http://arxiv.org/abs/2308.01398)|null|
@@ -515,6 +516,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-21**|**EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition**|Gabriele Berton et.al.|[2308.10832](http://arxiv.org/abs/2308.10832)|**[link](https://github.com/gmberton/eigenplaces)**|
+|**2023-08-20**|**FashionNTM: Multi-turn Fashion Image Retrieval via Cascaded Memory**|Anwesan Pal et.al.|[2308.10170](http://arxiv.org/abs/2308.10170)|null|
 |**2023-08-18**|**3D Model-free Visual localization System from Essential Matrix under Local Planar Motion**|Yanmei Jiao et.al.|[2308.09566](http://arxiv.org/abs/2308.09566)|null|
 |**2023-08-17**|**FashionLOGO: Prompting Multimodal Large Language Models for Fashion Logo Embeddings**|Yulin Su et.al.|[2308.09012](http://arxiv.org/abs/2308.09012)|**[link](https://github.com/valley-vl/fashionlogo)**|
 |**2023-08-16**|**Integrating Visual and Semantic Similarity Using Hierarchies for Image Retrieval**|Aishwarya Venkataramanan et.al.|[2308.08431](http://arxiv.org/abs/2308.08431)|**[link](https://github.com/vaishwarya96/hierarchy-image-retrieval)**|
@@ -1011,6 +1014,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-20**|**Neural Interactive Keypoint Detection**|Jie Yang et.al.|[2308.10174](http://arxiv.org/abs/2308.10174)|null|
+|**2023-08-19**|**ClothesNet: An Information-Rich 3D Garment Model Repository with Simulated Clothes Environment**|Bingyang Zhou et.al.|[2308.09987](http://arxiv.org/abs/2308.09987)|null|
 |**2023-08-16**|**DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching**|Johan Edstedt et.al.|[2308.08479](http://arxiv.org/abs/2308.08479)|**[link](https://github.com/parskatt/dedode)**|
 |**2023-08-15**|**CoDeF: Content Deformation Fields for Temporally Consistent Video Processing**|Hao Ouyang et.al.|[2308.07926](http://arxiv.org/abs/2308.07926)|**[link](https://github.com/qiuyu96/codef)**|
 |**2023-08-15**|**ChartDETR: A Multi-shape Detection Network for Visual Chart Recognition**|Wenyuan Xue et.al.|[2308.07743](http://arxiv.org/abs/2308.07743)|null|
@@ -1170,7 +1175,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-19**|**Scene-Aware Feature Matching**|Xiaoyong Lu et.al.|[2308.09949](http://arxiv.org/abs/2308.09949)|null|
 |**2023-08-16**|**DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching**|Johan Edstedt et.al.|[2308.08479](http://arxiv.org/abs/2308.08479)|**[link](https://github.com/parskatt/dedode)**|
+|**2023-08-19**|**Global Features are All You Need for Image Retrieval and Reranking**|Shihao Shao et.al.|[2308.06954](http://arxiv.org/abs/2308.06954)|**[link](https://github.com/shihaoshao-gh/superglobal)**|
 |**2023-08-02**|**ZRIGF: An Innovative Multimodal Framework for Zero-Resource Image-Grounded Dialogue Generation**|Bo Zhang et.al.|[2308.00400](http://arxiv.org/abs/2308.00400)|**[link](https://github.com/zhangbo-nlp/zrigf)**|
 |**2023-07-28**|**Cross-Modal Concept Learning and Inference for Vision-Language Models**|Yi Zhang et.al.|[2307.15460](http://arxiv.org/abs/2307.15460)|null|
 |**2023-07-22**|**CryptoMask : Privacy-preserving Face Recognition**|Jianli Bai et.al.|[2307.12010](http://arxiv.org/abs/2307.12010)|null|
@@ -1333,6 +1340,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-21**|**CamP: Camera Preconditioning for Neural Radiance Fields**|Keunhong Park et.al.|[2308.10902](http://arxiv.org/abs/2308.10902)|null|
+|**2023-08-20**|**Strata-NeRF : Neural Radiance Fields for Stratified Scenes**|Ankit Dhiman et.al.|[2308.10337](http://arxiv.org/abs/2308.10337)|null|
+|**2023-08-19**|**HollowNeRF: Pruning Hashgrid-Based NeRFs with Trainable Collision Mitigation**|Xiufeng Xie et.al.|[2308.10122](http://arxiv.org/abs/2308.10122)|null|
+|**2023-08-19**|**AltNeRF: Learning Robust Neural Radiance Field via Alternating Depth-Pose Optimization**|Kun Wang et.al.|[2308.10001](http://arxiv.org/abs/2308.10001)|null|
+|**2023-08-19**|**Semantic-Human: Neural Rendering of Humans from Monocular Video with Human Parsing**|Jie Zhang et.al.|[2308.09894](http://arxiv.org/abs/2308.09894)|null|
 |**2023-08-18**|**MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection**|Junkai Xu et.al.|[2308.09421](http://arxiv.org/abs/2308.09421)|**[link](https://github.com/cskkxjk/mononerd)**|
 |**2023-08-18**|**DReg-NeRF: Deep Registration for Neural Radiance Fields**|Yu Chen et.al.|[2308.09386](http://arxiv.org/abs/2308.09386)|**[link](https://github.com/aibluefisher/dreg-nerf)**|
 |**2023-08-17**|**Watch Your Steps: Local Image and Scene Editing by Text Instructions**|Ashkan Mirzaei et.al.|[2308.08947](http://arxiv.org/abs/2308.08947)|null|
@@ -1781,6 +1793,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-21**|**Learning in Dynamic Systems and Its Application to Adaptive PID Control**|Omar Makke et.al.|[2308.10851](http://arxiv.org/abs/2308.10851)|null|
+|**2023-08-21**|**Dense Error Map Estimation for MRI-Ultrasound Registration in Brain Tumor Surgery Using Swin UNETR**|Soorena Salari et.al.|[2308.10784](http://arxiv.org/abs/2308.10784)|null|
+|**2023-08-21**|**Semi-blind-trace algorithm for self-supervised attenuation of trace-wise coherent noise**|Mohammad Mahdi Abedi et.al.|[2308.10772](http://arxiv.org/abs/2308.10772)|null|
+|**2023-08-21**|**EALink: An Efficient and Accurate Pre-trained Framework for Issue-Commit Link Recovery**|Chenyuan Zhang et.al.|[2308.10759](http://arxiv.org/abs/2308.10759)|null|
+|**2023-08-21**|**To Whom are You Talking? A Deep Learning Model to Endow Social Robots with Addressee Estimation Skills**|Carlo Mazzola et.al.|[2308.10757](http://arxiv.org/abs/2308.10757)|null|
+|**2023-08-21**|**We Don't Need No Adam, All We Need Is EVE: On The Variance of Dual Learning Rate And Beyond**|Afshin Khadangi et.al.|[2308.10740](http://arxiv.org/abs/2308.10740)|**[link](https://github.com/akhadangi/EVE)**|
+|**2023-08-21**|**Test-time augmentation-based active learning and self-training for label-efficient segmentation**|Bella Specktor-Fadida et.al.|[2308.10727](http://arxiv.org/abs/2308.10727)|null|
+|**2023-08-21**|**Visual Crowd Analysis: Open Research Problems**|Muhammad Asif Khan et.al.|[2308.10677](http://arxiv.org/abs/2308.10677)|null|
+|**2023-08-21**|**Ultrafast and Ultralight Network-Based Intelligent System for Real-time Diagnosis of Ear diseases in Any Devices**|Yubiao Yue et.al.|[2308.10610](http://arxiv.org/abs/2308.10610)|null|
+|**2023-08-21**|**RADIANCE: Radio-Frequency Adversarial Deep-learning Inference for Automated Network Coverage Estimation**|Sopan Sarkar et.al.|[2308.10584](http://arxiv.org/abs/2308.10584)|null|
 |**2023-08-18**|**Towards Large-scale 3D Representation Learning with Multi-dataset Point Prompt Training**|Xiaoyang Wu et.al.|[2308.09718](http://arxiv.org/abs/2308.09718)|**[link](https://github.com/Pointcept/Pointcept)**|
 |**2023-08-18**|**A Lightweight Transformer for Faster and Robust EBSD Data Collection**|Harry Dong et.al.|[2308.09693](http://arxiv.org/abs/2308.09693)|**[link](https://github.com/hdong920/ebsd_slice_recovery)**|
 |**2023-08-18**|**Variational optimization of the amplitude of neural-network quantum many-body ground states**|Jia-Qi Wang et.al.|[2308.09664](http://arxiv.org/abs/2308.09664)|null|
