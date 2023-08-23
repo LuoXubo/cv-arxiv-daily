@@ -516,6 +516,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-22**|**Composed Image Retrieval using Contrastive Learning and Task-oriented CLIP-based Features**|Alberto Baldrati et.al.|[2308.11485](http://arxiv.org/abs/2308.11485)|**[link](https://github.com/ABaldrati/CLIP4Cir)**|
+|**2023-08-22**|**GrowCLIP: Data-aware Automatic Model Growing for Large-scale Contrastive Language-Image Pre-training**|Xinchi Deng et.al.|[2308.11331](http://arxiv.org/abs/2308.11331)|null|
+|**2023-08-22**|**LDP-Feat: Image Features with Local Differential Privacy**|Francesco Pittaluga et.al.|[2308.11223](http://arxiv.org/abs/2308.11223)|null|
 |**2023-08-21**|**EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition**|Gabriele Berton et.al.|[2308.10832](http://arxiv.org/abs/2308.10832)|**[link](https://github.com/gmberton/eigenplaces)**|
 |**2023-08-20**|**FashionNTM: Multi-turn Fashion Image Retrieval via Cascaded Memory**|Anwesan Pal et.al.|[2308.10170](http://arxiv.org/abs/2308.10170)|null|
 |**2023-08-18**|**3D Model-free Visual localization System from Essential Matrix under Local Planar Motion**|Yanmei Jiao et.al.|[2308.09566](http://arxiv.org/abs/2308.09566)|null|
@@ -1014,6 +1017,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-22**|**LDP-Feat: Image Features with Local Differential Privacy**|Francesco Pittaluga et.al.|[2308.11223](http://arxiv.org/abs/2308.11223)|null|
 |**2023-08-20**|**Neural Interactive Keypoint Detection**|Jie Yang et.al.|[2308.10174](http://arxiv.org/abs/2308.10174)|null|
 |**2023-08-19**|**ClothesNet: An Information-Rich 3D Garment Model Repository with Simulated Clothes Environment**|Bingyang Zhou et.al.|[2308.09987](http://arxiv.org/abs/2308.09987)|null|
 |**2023-08-16**|**DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching**|Johan Edstedt et.al.|[2308.08479](http://arxiv.org/abs/2308.08479)|**[link](https://github.com/parskatt/dedode)**|
@@ -1340,6 +1344,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-22**|**Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views**|Wentian Qu et.al.|[2308.11198](http://arxiv.org/abs/2308.11198)|null|
+|**2023-08-22**|**Efficient View Synthesis with Neural Radiance Distribution Field**|Yushuang Wu et.al.|[2308.11130](http://arxiv.org/abs/2308.11130)|null|
 |**2023-08-21**|**CamP: Camera Preconditioning for Neural Radiance Fields**|Keunhong Park et.al.|[2308.10902](http://arxiv.org/abs/2308.10902)|null|
 |**2023-08-20**|**Strata-NeRF : Neural Radiance Fields for Stratified Scenes**|Ankit Dhiman et.al.|[2308.10337](http://arxiv.org/abs/2308.10337)|null|
 |**2023-08-19**|**HollowNeRF: Pruning Hashgrid-Based NeRFs with Trainable Collision Mitigation**|Xiufeng Xie et.al.|[2308.10122](http://arxiv.org/abs/2308.10122)|null|
@@ -1793,6 +1799,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-22**|**Semantic Multi-Resolution Communications**|Matin Mortaheb et.al.|[2308.11604](http://arxiv.org/abs/2308.11604)|null|
+|**2023-08-22**|**Vision-Based Intelligent Robot Grasping Using Sparse Neural Network**|Priya Shukla et.al.|[2308.11590](http://arxiv.org/abs/2308.11590)|null|
+|**2023-08-22**|**Multi-level Neural Networks for Accurate Solutions of Boundary-Value Problems**|Ziad Aldirany et.al.|[2308.11503](http://arxiv.org/abs/2308.11503)|null|
+|**2023-08-22**|**Deep learning-based denoising streamed from mobile phones improves speech-in-noise understanding for hearing aid users**|Peter Udo Diehl et.al.|[2308.11456](http://arxiv.org/abs/2308.11456)|null|
+|**2023-08-22**|**Towards Discriminative Representations with Contrastive Instances for Real-Time UAV Tracking**|Dan Zeng et.al.|[2308.11450](http://arxiv.org/abs/2308.11450)|null|
+|**2023-08-22**|**SAIPy: A Python Package for single station Earthquake Monitoring using Deep Learning**|Wei Li et.al.|[2308.11428](http://arxiv.org/abs/2308.11428)|null|
+|**2023-08-22**|**Non-Redundant Combination of Hand-Crafted and Deep Learning Radiomics: Application to the Early Detection of Pancreatic Cancer**|Rebeca Vétil et.al.|[2308.11389](http://arxiv.org/abs/2308.11389)|null|
+|**2023-08-22**|**DeepBurning-MixQ: An Open Source Mixed-Precision Neural Network Accelerator Design Framework for FPGAs**|Erjing Luo et.al.|[2308.11334](http://arxiv.org/abs/2308.11334)|null|
+|**2023-08-22**|**Octopus: A Heterogeneous In-network Computing Accelerator Enabling Deep Learning for network**|Dong Wen et.al.|[2308.11312](http://arxiv.org/abs/2308.11312)|null|
+|**2023-08-22**|**BHSD: A 3D Multi-Class Brain Hemorrhage Segmentation Dataset**|Biao Wu et.al.|[2308.11298](http://arxiv.org/abs/2308.11298)|null|
 |**2023-08-21**|**Learning in Dynamic Systems and Its Application to Adaptive PID Control**|Omar Makke et.al.|[2308.10851](http://arxiv.org/abs/2308.10851)|null|
 |**2023-08-21**|**Dense Error Map Estimation for MRI-Ultrasound Registration in Brain Tumor Surgery Using Swin UNETR**|Soorena Salari et.al.|[2308.10784](http://arxiv.org/abs/2308.10784)|null|
 |**2023-08-21**|**Semi-blind-trace algorithm for self-supervised attenuation of trace-wise coherent noise**|Mohammad Mahdi Abedi et.al.|[2308.10772](http://arxiv.org/abs/2308.10772)|null|
