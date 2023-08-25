@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.24
+## Updated on 2023.08.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1806,7 +1806,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-23**|**FECoM: A Step towards Fine-Grained Energy Measurement for Deep Learning**|Saurabhsingh Rajput et.al.|[2308.12264](http://arxiv.org/abs/2308.12264)|null|
-|**2023-08-23**|**System Identification Using the Signed Cumulative Distribution Transform In Structural Health Monitoring Applications**|Abu Hasnat Mohammad Rubaiyat et.al.|[2308.12259](http://arxiv.org/abs/2308.12259)|null|
+|**2023-08-23**|**System Identification Using the Signed Cumulative Distribution Transform In Structural Health Monitoring Applications**|Abu Hasnat Mohammad Rubaiyat et.al.|[2308.12259](http://arxiv.org/abs/2308.12259)|**[link](https://github.com/rohdelab/PyTransKit)**|
 |**2023-08-23**|**Multi-Objective Optimization for Sparse Deep Neural Network Training**|S. S. Hotegni et.al.|[2308.12243](http://arxiv.org/abs/2308.12243)|**[link](https://github.com/salomonhotegni/mdmtn)**|
 |**2023-08-23**|**Hierarchical Beam Alignment for Millimeter-Wave Communication Systems: A Deep Learning Approach**|Junyi Yang et.al.|[2308.12198](http://arxiv.org/abs/2308.12198)|null|
 |**2023-08-23**|**Self-Supervised Knowledge-Driven Deep Learning for 3D Magnetic Inversion**|Yinshuo Li et.al.|[2308.12193](http://arxiv.org/abs/2308.12193)|null|
