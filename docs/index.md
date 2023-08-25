@@ -516,6 +516,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities**|Jinze Bai et.al.|[2308.12966](http://arxiv.org/abs/2308.12966)|**[link](https://github.com/qwenlm/qwen-vl)**|
 |**2023-08-23**|**Progressive Feature Mining and External Knowledge-Assisted Text-Pedestrian Image Retrieval**|Huafeng Li et.al.|[2308.11994](http://arxiv.org/abs/2308.11994)|null|
 |**2023-08-23**|**OFVL-MS: Once for Visual Localization across Multiple Indoor Scenes**|Tao Xie et.al.|[2308.11928](http://arxiv.org/abs/2308.11928)|**[link](https://github.com/mooncake199809/ufvl-net)**|
 |**2023-08-22**|**Composed Image Retrieval using Contrastive Learning and Task-oriented CLIP-based Features**|Alberto Baldrati et.al.|[2308.11485](http://arxiv.org/abs/2308.11485)|**[link](https://github.com/ABaldrati/CLIP4Cir)**|
@@ -1019,6 +1020,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**VNI-Net: Vector Neurons-based Rotation-Invariant Descriptor for LiDAR Place Recognition**|Gengxuan Tian et.al.|[2308.12870](http://arxiv.org/abs/2308.12870)|null|
 |**2023-08-22**|**LDP-Feat: Image Features with Local Differential Privacy**|Francesco Pittaluga et.al.|[2308.11223](http://arxiv.org/abs/2308.11223)|null|
 |**2023-08-20**|**Neural Interactive Keypoint Detection**|Jie Yang et.al.|[2308.10174](http://arxiv.org/abs/2308.10174)|**[link](https://github.com/idea-research/click-pose)**|
 |**2023-08-19**|**ClothesNet: An Information-Rich 3D Garment Model Repository with Simulated Clothes Environment**|Bingyang Zhou et.al.|[2308.09987](http://arxiv.org/abs/2308.09987)|null|
@@ -1346,6 +1348,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**NOVA: NOvel View Augmentation for Neural Composition of Dynamic Objects**|Dakshit Agrawal et.al.|[2308.12560](http://arxiv.org/abs/2308.12560)|**[link](https://github.com/dakshitagrawal/nova)**|
 |**2023-08-23**|**Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields**|Hyeonseop Song et.al.|[2308.11974](http://arxiv.org/abs/2308.11974)|null|
 |**2023-08-23**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951](http://arxiv.org/abs/2308.11951)|null|
 |**2023-08-22**|**Enhancing NeRF akin to Enhancing LLMs: Generalizable NeRF Transformer with Mixture-of-View-Experts**|Wenyan Cong et.al.|[2308.11793](http://arxiv.org/abs/2308.11793)|null|
@@ -1805,6 +1808,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**Learning Only On Boundaries: a Physics-Informed Neural operator for Solving Parametric Partial Differential Equations in Complex Geometries**|Zhiwei Fang et.al.|[2308.12939](http://arxiv.org/abs/2308.12939)|null|
+|**2023-08-24**|**Panoptic-Depth Color Map for Combination of Depth and Image Segmentation**|Jia-Quan Yu et.al.|[2308.12937](http://arxiv.org/abs/2308.12937)|null|
+|**2023-08-24**|**Evaluating the Vulnerabilities in ML systems in terms of adversarial attacks**|John Harshith et.al.|[2308.12918](http://arxiv.org/abs/2308.12918)|null|
+|**2023-08-24**|**Unified Data Management and Comprehensive Performance Evaluation for Urban Spatial-Temporal Prediction [Experiment, Analysis & Benchmark]**|Jiawei Jiang et.al.|[2308.12899](http://arxiv.org/abs/2308.12899)|**[link](https://github.com/libcity/bigscity-libcity)**|
+|**2023-08-24**|**IPA: Inference Pipeline Adaptation to Achieve High Accuracy and Cost-Efficiency**|Saeid Ghafouri et.al.|[2308.12871](http://arxiv.org/abs/2308.12871)|null|
+|**2023-08-24**|**VNI-Net: Vector Neurons-based Rotation-Invariant Descriptor for LiDAR Place Recognition**|Gengxuan Tian et.al.|[2308.12870](http://arxiv.org/abs/2308.12870)|null|
+|**2023-08-24**|**Probabilistic load forecasting with Reservoir Computing**|Michele Guerra et.al.|[2308.12844](http://arxiv.org/abs/2308.12844)|null|
+|**2023-08-24**|**FaceTouch: Detecting hand-to-face touch with supervised contrastive learning to assist in tracing infectious disease**|Mohamed R. Ibrahim et.al.|[2308.12840](http://arxiv.org/abs/2308.12840)|null|
+|**2023-08-24**|**Short Run Transit Route Planning Decision Support System Using a Deep Learning-Based Weighted Graph**|Nadav Shalit et.al.|[2308.12828](http://arxiv.org/abs/2308.12828)|null|
+|**2023-08-24**|**Achromatic imaging systems with flat lenses enabled by deep learning**|Roy Maman et.al.|[2308.12776](http://arxiv.org/abs/2308.12776)|null|
 |**2023-08-23**|**FECoM: A Step towards Fine-Grained Energy Measurement for Deep Learning**|Saurabhsingh Rajput et.al.|[2308.12264](http://arxiv.org/abs/2308.12264)|null|
 |**2023-08-23**|**System Identification Using the Signed Cumulative Distribution Transform In Structural Health Monitoring Applications**|Abu Hasnat Mohammad Rubaiyat et.al.|[2308.12259](http://arxiv.org/abs/2308.12259)|**[link](https://github.com/rohdelab/PyTransKit)**|
 |**2023-08-23**|**Multi-Objective Optimization for Sparse Deep Neural Network Training**|S. S. Hotegni et.al.|[2308.12243](http://arxiv.org/abs/2308.12243)|**[link](https://github.com/salomonhotegni/mdmtn)**|
