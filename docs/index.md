@@ -1808,6 +1808,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-25**|**A2Q: Accumulator-Aware Quantization with Guaranteed Overflow Avoidance**|Ian Colbert et.al.|[2308.13504](http://arxiv.org/abs/2308.13504)|null|
+|**2023-08-25**|**Escaping the Sample Trap: Fast and Accurate Epistemic Uncertainty Estimation with Pairwise-Distance Estimators**|Lucas Berry et.al.|[2308.13498](http://arxiv.org/abs/2308.13498)|null|
+|**2023-08-25**|**Ultrafast-and-Ultralight ConvNet-Based Intelligent Monitoring System for Diagnosing Early-Stage Mpox Anytime and Anywhere**|Yubiao Yue et.al.|[2308.13492](http://arxiv.org/abs/2308.13492)|null|
+|**2023-08-25**|**Learning to Intervene on Concept Bottlenecks**|David Steinmann et.al.|[2308.13453](http://arxiv.org/abs/2308.13453)|null|
+|**2023-08-25**|**Mesh-Wise Prediction of Demographic Composition from Satellite Images Using Multi-Head Convolutional Neural Network**|Yuta Sato et.al.|[2308.13441](http://arxiv.org/abs/2308.13441)|null|
+|**2023-08-25**|**QKSAN: A Quantum Kernel Self-Attention Network**|Ren-Xin Zhao et.al.|[2308.13422](http://arxiv.org/abs/2308.13422)|null|
+|**2023-08-25**|**An investigation into the impact of deep learning model choice on sex and race bias in cardiac MR segmentation**|Tiarna Lee et.al.|[2308.13415](http://arxiv.org/abs/2308.13415)|null|
+|**2023-08-25**|**Harvard Glaucoma Detection and Progression: A Multimodal Multitask Dataset and Generalization-Reinforced Semi-Supervised Learning**|Yan Luo et.al.|[2308.13411](http://arxiv.org/abs/2308.13411)|null|
+|**2023-08-25**|**Enhanced Mortality Prediction In Patients With Subarachnoid Haemorrhage Using A Deep Learning Model Based On The Initial CT Scan**|Sergio Garcia-Garcia et.al.|[2308.13373](http://arxiv.org/abs/2308.13373)|null|
+|**2023-08-25**|**EOG Artifact Removal from Single and Multi-channel EEG Recordings through the combination of Long Short-Term Memory Networks and Independent Component Analysis**|Behrad TaghiBeyglou et.al.|[2308.13371](http://arxiv.org/abs/2308.13371)|null|
 |**2023-08-24**|**Learning Only On Boundaries: a Physics-Informed Neural operator for Solving Parametric Partial Differential Equations in Complex Geometries**|Zhiwei Fang et.al.|[2308.12939](http://arxiv.org/abs/2308.12939)|null|
 |**2023-08-24**|**Panoptic-Depth Color Map for Combination of Depth and Image Segmentation**|Jia-Quan Yu et.al.|[2308.12937](http://arxiv.org/abs/2308.12937)|null|
 |**2023-08-24**|**Evaluating the Vulnerabilities in ML systems in terms of adversarial attacks**|John Harshith et.al.|[2308.12918](http://arxiv.org/abs/2308.12918)|null|
