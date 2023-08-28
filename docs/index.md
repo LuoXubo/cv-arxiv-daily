@@ -1366,7 +1366,7 @@ layout: default
 |**2023-08-21**|**Ref-DVGO: Reflection-Aware Direct Voxel Grid Optimization for an Improved Quality-Efficiency Trade-Off in Reflective Scene Reconstruction**|Georgios Kouros et.al.|[2308.08530](http://arxiv.org/abs/2308.08530)|**[link](https://github.com/gkouros/ref-dvgo)**|
 |**2023-08-16**|**SceNeRFlow: Time-Consistent Reconstruction of General Dynamic Scenes**|Edith Tretschk et.al.|[2308.08258](http://arxiv.org/abs/2308.08258)|null|
 |**2023-08-16**|**Neural radiance fields in the industrial and robotics domain: applications, research opportunities and use cases**|Eugen Šlapak et.al.|[2308.07118](http://arxiv.org/abs/2308.07118)|**[link](https://github.com/maftej/iisnerf)**|
-|**2023-08-14**|**S3IM: Stochastic Structural SIMilarity and Its Unreasonable Effectiveness for Neural Fields**|Zeke Xie et.al.|[2308.07032](http://arxiv.org/abs/2308.07032)|null|
+|**2023-08-14**|**S3IM: Stochastic Structural SIMilarity and Its Unreasonable Effectiveness for Neural Fields**|Zeke Xie et.al.|[2308.07032](http://arxiv.org/abs/2308.07032)|**[link](https://github.com/madaoer/s3im_nerf)**|
 |**2023-08-11**|**Focused Specific Objects NeRF**|Yuesong Li et.al.|[2308.05970](http://arxiv.org/abs/2308.05970)|null|
 |**2023-08-11**|**VERF: Runtime Monitoring of Pose Estimation with Neural Radiance Fields**|Dominic Maggio et.al.|[2308.05939](http://arxiv.org/abs/2308.05939)|null|
 |**2023-08-09**|**WaveNeRF: Wavelet-based Generalizable Neural Radiance Fields**|Muyu Xu et.al.|[2308.04826](http://arxiv.org/abs/2308.04826)|null|
@@ -1495,7 +1495,7 @@ layout: default
 |**2023-04-20**|**Learning Neural Duplex Radiance Fields for Real-Time View Synthesis**|Ziyu Wan et.al.|[2304.10537](http://arxiv.org/abs/2304.10537)|null|
 |**2023-04-21**|**Nerfbusters: Removing Ghostly Artifacts from Casually Captured NeRFs**|Frederik Warburg et.al.|[2304.10532](http://arxiv.org/abs/2304.10532)|**[link](https://github.com/ethanweber/nerfbusters)**|
 |**2023-04-20**|**ReLight My NeRF: A Dataset for Novel View Synthesis and Relighting of Real World Objects**|Marco Toschi et.al.|[2304.10448](http://arxiv.org/abs/2304.10448)|null|
-|**2023-04-20**|**LiDAR-NeRF: Novel LiDAR View Synthesis via Neural Radiance Fields**|Tang Tao et.al.|[2304.10406](http://arxiv.org/abs/2304.10406)|null|
+|**2023-04-20**|**LiDAR-NeRF: Novel LiDAR View Synthesis via Neural Radiance Fields**|Tang Tao et.al.|[2304.10406](http://arxiv.org/abs/2304.10406)|**[link](https://github.com/tangtaogo/lidar-nerf)**|
 |**2023-04-20**|**Revisiting Implicit Neural Representations in Low-Level Vision**|Wentian Xu et.al.|[2304.10250](http://arxiv.org/abs/2304.10250)|**[link](https://github.com/wentxul/linr)**|
 |**2023-04-20**|**Multiscale Representation for Real-Time Anti-Aliasing Neural Rendering**|Dongting Hu et.al.|[2304.10075](http://arxiv.org/abs/2304.10075)|null|
 |**2023-04-20**|**Neural Radiance Fields: Past, Present, and Future**|Ansh Mittal et.al.|[2304.10050](http://arxiv.org/abs/2304.10050)|null|
@@ -1679,7 +1679,7 @@ layout: default
 |**2022-12-06**|**D-TensoRF: Tensorial Radiance Fields for Dynamic Scenes**|Hankyu Jang et.al.|[2212.02375](http://arxiv.org/abs/2212.02375)|null|
 |**2022-12-07**|**GARF:Geometry-Aware Generalized Neural Radiance Field**|Yue Shi et.al.|[2212.02280](http://arxiv.org/abs/2212.02280)|null|
 |**2022-12-05**|**INGeo: Accelerating Instant Neural Scene Reconstruction with Noisy Geometry Priors**|Chaojian Li et.al.|[2212.01959](http://arxiv.org/abs/2212.01959)|null|
-|**2022-12-03**|**MaRF: Representing Mars as Neural Radiance Fields**|Lorenzo Giusti et.al.|[2212.01672](http://arxiv.org/abs/2212.01672)|null|
+|**2022-12-03**|**MaRF: Representing Mars as Neural Radiance Fields**|Lorenzo Giusti et.al.|[2212.01672](http://arxiv.org/abs/2212.01672)|**[link](https://github.com/lrnzgiusti/marf)**|
 |**2022-12-03**|**StegaNeRF: Embedding Invisible Information within Neural Radiance Fields**|Chenxin Li et.al.|[2212.01602](http://arxiv.org/abs/2212.01602)|null|
 |**2022-12-02**|**RT-NeRF: Real-Time On-Device Neural Radiance Fields Towards Immersive AR/VR Rendering**|Chaojian Li et.al.|[2212.01120](http://arxiv.org/abs/2212.01120)|null|
 |**2022-12-02**|**3D-TOGO: Towards Text-Guided Cross-Category 3D Object Generation**|Zutao Jiang et.al.|[2212.01103](http://arxiv.org/abs/2212.01103)|null|
@@ -1827,7 +1827,7 @@ layout: default
 |**2023-08-23**|**Tumor-Centered Patching for Enhanced Medical Image Segmentation**|Mutyyba Asghar et.al.|[2308.12168](http://arxiv.org/abs/2308.12168)|null|
 |**2023-08-23**|**A Probabilistic Fluctuation based Membership Inference Attack for Generative Models**|Wenjie Fu et.al.|[2308.12143](http://arxiv.org/abs/2308.12143)|null|
 |**2023-08-23**|**Aparecium: Revealing Secrets from Physical Photographs**|Zhe Lei et.al.|[2308.12141](http://arxiv.org/abs/2308.12141)|null|
-|**2023-08-23**|**An Open-Source ML-Based Full-Stack Optimization Framework for Machine Learning Accelerators**|Hadi Esmaeilzadeh et.al.|[2308.12120](http://arxiv.org/abs/2308.12120)|null|
+|**2023-08-23**|**An Open-Source ML-Based Full-Stack Optimization Framework for Machine Learning Accelerators**|Hadi Esmaeilzadeh et.al.|[2308.12120](http://arxiv.org/abs/2308.12120)|**[link](https://github.com/verigood-ml/public)**|
 |**2023-08-22**|**Semantic Multi-Resolution Communications**|Matin Mortaheb et.al.|[2308.11604](http://arxiv.org/abs/2308.11604)|null|
 |**2023-08-22**|**Vision-Based Intelligent Robot Grasping Using Sparse Neural Network**|Priya Shukla et.al.|[2308.11590](http://arxiv.org/abs/2308.11590)|null|
 |**2023-08-22**|**Multi-level Neural Networks for Accurate Solutions of Boundary-Value Problems**|Ziad Aldirany et.al.|[2308.11503](http://arxiv.org/abs/2308.11503)|null|
@@ -1835,13 +1835,13 @@ layout: default
 |**2023-08-22**|**Towards Discriminative Representations with Contrastive Instances for Real-Time UAV Tracking**|Dan Zeng et.al.|[2308.11450](http://arxiv.org/abs/2308.11450)|null|
 |**2023-08-22**|**SAIPy: A Python Package for single station Earthquake Monitoring using Deep Learning**|Wei Li et.al.|[2308.11428](http://arxiv.org/abs/2308.11428)|null|
 |**2023-08-22**|**Non-Redundant Combination of Hand-Crafted and Deep Learning Radiomics: Application to the Early Detection of Pancreatic Cancer**|Rebeca Vétil et.al.|[2308.11389](http://arxiv.org/abs/2308.11389)|null|
-|**2023-08-22**|**DeepBurning-MixQ: An Open Source Mixed-Precision Neural Network Accelerator Design Framework for FPGAs**|Erjing Luo et.al.|[2308.11334](http://arxiv.org/abs/2308.11334)|null|
+|**2023-08-22**|**DeepBurning-MixQ: An Open Source Mixed-Precision Neural Network Accelerator Design Framework for FPGAs**|Erjing Luo et.al.|[2308.11334](http://arxiv.org/abs/2308.11334)|**[link](https://github.com/fffasttime/anypackingnet)**|
 |**2023-08-22**|**Octopus: A Heterogeneous In-network Computing Accelerator Enabling Deep Learning for network**|Dong Wen et.al.|[2308.11312](http://arxiv.org/abs/2308.11312)|null|
 |**2023-08-23**|**BHSD: A 3D Multi-Class Brain Hemorrhage Segmentation Dataset**|Biao Wu et.al.|[2308.11298](http://arxiv.org/abs/2308.11298)|null|
 |**2023-08-21**|**Learning in Dynamic Systems and Its Application to Adaptive PID Control**|Omar Makke et.al.|[2308.10851](http://arxiv.org/abs/2308.10851)|null|
 |**2023-08-21**|**Dense Error Map Estimation for MRI-Ultrasound Registration in Brain Tumor Surgery Using Swin UNETR**|Soorena Salari et.al.|[2308.10784](http://arxiv.org/abs/2308.10784)|null|
-|**2023-08-21**|**Semi-blind-trace algorithm for self-supervised attenuation of trace-wise coherent noise**|Mohammad Mahdi Abedi et.al.|[2308.10772](http://arxiv.org/abs/2308.10772)|null|
-|**2023-08-21**|**EALink: An Efficient and Accurate Pre-trained Framework for Issue-Commit Link Recovery**|Chenyuan Zhang et.al.|[2308.10759](http://arxiv.org/abs/2308.10759)|null|
+|**2023-08-21**|**Semi-blind-trace algorithm for self-supervised attenuation of trace-wise coherent noise**|Mohammad Mahdi Abedi et.al.|[2308.10772](http://arxiv.org/abs/2308.10772)|**[link](https://github.com/mahdiabedi/semi-blind-trace-deep-learning)**|
+|**2023-08-21**|**EALink: An Efficient and Accurate Pre-trained Framework for Issue-Commit Link Recovery**|Chenyuan Zhang et.al.|[2308.10759](http://arxiv.org/abs/2308.10759)|**[link](https://github.com/kdegroup/ealink)**|
 |**2023-08-21**|**To Whom are You Talking? A Deep Learning Model to Endow Social Robots with Addressee Estimation Skills**|Carlo Mazzola et.al.|[2308.10757](http://arxiv.org/abs/2308.10757)|null|
 |**2023-08-21**|**We Don't Need No Adam, All We Need Is EVE: On The Variance of Dual Learning Rate And Beyond**|Afshin Khadangi et.al.|[2308.10740](http://arxiv.org/abs/2308.10740)|**[link](https://github.com/akhadangi/EVE)**|
 |**2023-08-21**|**Test-time augmentation-based active learning and self-training for label-efficient segmentation**|Bella Specktor-Fadida et.al.|[2308.10727](http://arxiv.org/abs/2308.10727)|null|
@@ -1853,7 +1853,7 @@ layout: default
 |**2023-08-18**|**Variational optimization of the amplitude of neural-network quantum many-body ground states**|Jia-Qi Wang et.al.|[2308.09664](http://arxiv.org/abs/2308.09664)|null|
 |**2023-08-18**|**A deep learning approach for the 3D reconstruction of dust density and temperature in star-forming regions**|Victor F. Ksoll et.al.|[2308.09657](http://arxiv.org/abs/2308.09657)|null|
 |**2023-08-18**|**Robust Uncertainty Quantification using Conformalised Monte Carlo Prediction**|Daniel Bethell et.al.|[2308.09647](http://arxiv.org/abs/2308.09647)|**[link](https://github.com/team-daniel/mc-cp)**|
-|**2023-08-18**|**Investigation of Architectures and Receptive Fields for Appearance-based Gaze Estimation**|Yunhan Wang et.al.|[2308.09593](http://arxiv.org/abs/2308.09593)|null|
+|**2023-08-18**|**Investigation of Architectures and Receptive Fields for Appearance-based Gaze Estimation**|Yunhan Wang et.al.|[2308.09593](http://arxiv.org/abs/2308.09593)|**[link](https://github.com/yunhanwang1105/GazeTech)**|
 |**2023-08-18**|**Normalization Is All You Need: Understanding Layer-Normalized Federated Learning under Extreme Label Shift**|Guojun Zhang et.al.|[2308.09565](http://arxiv.org/abs/2308.09565)|null|
 |**2023-08-18**|**Angle-Delay Profile-Based and Timestamp-Aided Dissimilarity Metrics for Channel Charting**|Phillip Stephan et.al.|[2308.09539](http://arxiv.org/abs/2308.09539)|null|
 |**2023-08-18**|**Uncertainty-based quality assurance of carotid artery wall segmentation in black-blood MRI**|Elina Thibeau-Sutre et.al.|[2308.09538](http://arxiv.org/abs/2308.09538)|**[link](https://github.com/miagrouput/carotid-segmentation)**|
@@ -2141,7 +2141,7 @@ layout: default
 |**2023-07-07**|**Differentiable Turbulence**|Varun Shankar et.al.|[2307.03683](http://arxiv.org/abs/2307.03683)|null|
 |**2023-07-07**|**Unsupervised Segmentation of Fetal Brain MRI using Deep Learning Cascaded Registration**|Valentin Comte et.al.|[2307.03579](http://arxiv.org/abs/2307.03579)|**[link](https://github.com/valbcn/casreg)**|
 |**2023-07-07**|**Multimodal Deep Learning for Personalized Renal Cell Carcinoma Prognosis: Integrating CT Imaging and Clinical Data**|Maryamalsadat Mahootiha et.al.|[2307.03575](http://arxiv.org/abs/2307.03575)|null|
-|**2023-07-07**|**VariGrad: A Novel Feature Vector Architecture for Geometric Deep Learning on Unregistered Data**|Emmanuel Hartman et.al.|[2307.03553](http://arxiv.org/abs/2307.03553)|null|
+|**2023-07-07**|**VariGrad: A Novel Feature Vector Architecture for Geometric Deep Learning on Unregistered Data**|Emmanuel Hartman et.al.|[2307.03553](http://arxiv.org/abs/2307.03553)|**[link](https://github.com/emmanuel-hartman/pytorch_varigrad)**|
 |**2023-07-07**|**Tranfer Learning of Semantic Segmentation Methods for Identifying Buried Archaeological Structures on LiDAR Data**|Paolo Soleni et.al.|[2307.03512](http://arxiv.org/abs/2307.03512)|null|
 |**2023-07-07**|**DEFT: Exploiting Gradient Norm Difference between Model Layers for Scalable Gradient Sparsification**|Daegun Yoon et.al.|[2307.03500](http://arxiv.org/abs/2307.03500)|**[link](https://github.com/kljp/deft)**|
 |**2023-07-07**|**Freezing of Gait Prediction From Accelerometer Data Using a Simple 1D-Convolutional Neural Network -- 8th Place Solution for Kaggle's Parkinson's Freezing of Gait Prediction Competition**|Jan Brederecke et.al.|[2307.03475](http://arxiv.org/abs/2307.03475)|**[link](https://github.com/janbrederecke/fog)**|
@@ -2261,7 +2261,7 @@ layout: default
 |**2023-06-20**|**SkyGPT: Probabilistic Short-term Solar Forecasting Using Synthetic Sky Videos from Physics-constrained VideoGPT**|Yuhao Nie et.al.|[2306.11682](http://arxiv.org/abs/2306.11682)|null|
 |**2023-06-20**|**A Survey on Automated Software Vulnerability Detection Using Machine Learning and Deep Learning**|Nima Shiri Harzevili et.al.|[2306.11673](http://arxiv.org/abs/2306.11673)|null|
 |**2023-06-20**|**Deep Learning Methods for Retinal Blood Vessel Segmentation: Evaluation on Images with Retinopathy of Prematurity**|Gorana Gojić et.al.|[2306.11576](http://arxiv.org/abs/2306.11576)|null|
-|**2023-06-20**|**MILD: Modeling the Instance Learning Dynamics for Learning with Noisy Labels**|Chuanyang Hu et.al.|[2306.11560](http://arxiv.org/abs/2306.11560)|null|
+|**2023-06-20**|**MILD: Modeling the Instance Learning Dynamics for Learning with Noisy Labels**|Chuanyang Hu et.al.|[2306.11560](http://arxiv.org/abs/2306.11560)|**[link](https://github.com/hcyang-null/mild)**|
 |**2023-06-20**|**Improving visual image reconstruction from human brain activity using latent diffusion models via multiple decoded inputs**|Yu Takagi et.al.|[2306.11536](http://arxiv.org/abs/2306.11536)|**[link](https://github.com/yu-takagi/stablediffusionreconstruction)**|
 |**2023-06-20**|**Self-learning Monte Carlo with equivariant Transformer**|Yuki Nagai et.al.|[2306.11527](http://arxiv.org/abs/2306.11527)|null|
 |**2023-06-20**|**Implicit neural representation with physics-informed neural networks for the reconstruction of the early part of room impulse responses**|Mirco Pezzoli et.al.|[2306.11509](http://arxiv.org/abs/2306.11509)|null|
@@ -2476,7 +2476,7 @@ layout: default
 |**2023-05-18**|**Unsupervised Pansharpening via Low-rank Diffusion Model**|Xiangyu Rui et.al.|[2305.10925](http://arxiv.org/abs/2305.10925)|**[link](https://github.com/xyrui/plrdiff)**|
 |**2023-05-18**|**Domain Adaptive Sim-to-Real Segmentation of Oropharyngeal Organs**|Guankun Wang et.al.|[2305.10883](http://arxiv.org/abs/2305.10883)|**[link](https://github.com/gkw0010/eisost-sim2real-dataset-release)**|
 |**2023-05-18**|**How Deep Learning Sees the World: A Survey on Adversarial Attacks & Defenses**|Joana C. Costa et.al.|[2305.10862](http://arxiv.org/abs/2305.10862)|null|
-|**2023-05-18**|**Towards an Accurate and Secure Detector against Adversarial Perturbations**|Chao Wang et.al.|[2305.10856](http://arxiv.org/abs/2305.10856)|null|
+|**2023-05-18**|**Towards an Accurate and Secure Detector against Adversarial Perturbations**|Chao Wang et.al.|[2305.10856](http://arxiv.org/abs/2305.10856)|**[link](https://github.com/chaowang1016/asd)**|
 |**2023-05-18**|**3D Registration with Maximal Cliques**|Xiyu Zhang et.al.|[2305.10854](http://arxiv.org/abs/2305.10854)|**[link](https://github.com/zhangxy0517/3d-registration-with-maximal-cliques)**|
 |**2023-05-17**|**Online data-driven changepoint detection for high-dimensional dynamical systems**|Sen Lin et.al.|[2305.10423](http://arxiv.org/abs/2305.10423)|null|
 |**2023-05-17**|**End-To-End Latent Variational Diffusion Models for Inverse Problems in High Energy Physics**|Alexander Shmakov et.al.|[2305.10399](http://arxiv.org/abs/2305.10399)|null|
@@ -2529,7 +2529,7 @@ layout: default
 |**2023-05-11**|**Investigating the generative dynamics of energy-based neural networks**|Lorenzo Tausani et.al.|[2305.06745](http://arxiv.org/abs/2305.06745)|null|
 |**2023-05-11**|**Deep Learning for Retrospective Motion Correction in MRI: A Comprehensive Review**|Veronika Spieker et.al.|[2305.06739](http://arxiv.org/abs/2305.06739)|null|
 |**2023-05-10**|**NervePool: A Simplicial Pooling Layer**|Sarah McGuire et.al.|[2305.06315](http://arxiv.org/abs/2305.06315)|null|
-|**2023-05-11**|**Embedded Feature Similarity Optimization with Specific Parameter Initialization for 2D/3D Registration**|Minheng Chen et.al.|[2305.06252](http://arxiv.org/abs/2305.06252)|null|
+|**2023-05-11**|**Embedded Feature Similarity Optimization with Specific Parameter Initialization for 2D/3D Registration**|Minheng Chen et.al.|[2305.06252](http://arxiv.org/abs/2305.06252)|**[link](https://github.com/m1nhengchen/sopi)**|
 |**2023-05-10**|**Rethinking the Value of Labels for Instance-Dependent Label Noise Learning**|Hanwen Deng et.al.|[2305.06247](http://arxiv.org/abs/2305.06247)|null|
 |**2023-05-10**|**Explainable Knowledge Distillation for On-device Chest X-Ray Classification**|Chakkrit Termritthikun et.al.|[2305.06244](http://arxiv.org/abs/2305.06244)|null|
 |**2023-05-10**|**When ChatGPT for Computer Vision Will Come? From 2D to 3D**|Chenghao Li et.al.|[2305.06133](http://arxiv.org/abs/2305.06133)|null|
