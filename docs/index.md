@@ -517,6 +517,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-28**|**Extending Cross-Modal Retrieval with Interactive Learning to Improve Image Retrieval Performance in Forensics**|Nils Böhne et.al.|[2308.14786](http://arxiv.org/abs/2308.14786)|null|
 |**2023-08-28**|**CoVR: Learning Composed Video Retrieval from Web Video Captions**|Lucas Ventura et.al.|[2308.14746](http://arxiv.org/abs/2308.14746)|**[link](https://github.com/lucas-ventura/CoVR)**|
 |**2023-08-27**|**Deep Learning for Visual Localization and Mapping: A Survey**|Changhao Chen et.al.|[2308.14039](http://arxiv.org/abs/2308.14039)|null|
 |**2023-08-26**|**Learning Efficient Representations for Image-Based Patent Retrieval**|Hongsong Wang et.al.|[2308.13749](http://arxiv.org/abs/2308.13749)|null|
@@ -1025,6 +1026,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-29**|**A lightweight 3D dense facial landmark estimation model from position map data**|Shubhajit Basak et.al.|[2308.15170](http://arxiv.org/abs/2308.15170)|null|
 |**2023-08-27**|**Automatic coarse co-registration of point clouds from diverse scan geometries: a test of detectors and descriptors**|Francesco Pirotti et.al.|[2308.14047](http://arxiv.org/abs/2308.14047)|null|
 |**2023-08-24**|**VNI-Net: Vector Neurons-based Rotation-Invariant Descriptor for LiDAR Place Recognition**|Gengxuan Tian et.al.|[2308.12870](http://arxiv.org/abs/2308.12870)|null|
 |**2023-08-22**|**LDP-Feat: Image Features with Local Differential Privacy**|Francesco Pittaluga et.al.|[2308.11223](http://arxiv.org/abs/2308.11223)|null|
@@ -1189,6 +1191,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-29**|**TKwinFormer: Top k Window Attention in Vision Transformers for Feature Matching**|Yun Liao et.al.|[2308.15144](http://arxiv.org/abs/2308.15144)|null|
 |**2023-08-27**|**LDL: Line Distance Functions for Panoramic Localization**|Junho Kim et.al.|[2308.13989](http://arxiv.org/abs/2308.13989)|null|
 |**2023-08-22**|**Scene-Aware Feature Matching**|Xiaoyong Lu et.al.|[2308.09949](http://arxiv.org/abs/2308.09949)|null|
 |**2023-08-16**|**DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching**|Johan Edstedt et.al.|[2308.08479](http://arxiv.org/abs/2308.08479)|**[link](https://github.com/parskatt/dedode)**|
@@ -1355,6 +1358,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-29**|**Pose-Free Neural Radiance Fields via Implicit Pose Regularization**|Jiahui Zhang et.al.|[2308.15049](http://arxiv.org/abs/2308.15049)|null|
+|**2023-08-28**|**CLNeRF: Continual Learning Meets NeRF**|Zhipeng Cai et.al.|[2308.14816](http://arxiv.org/abs/2308.14816)|**[link](https://github.com/intellabs/clnerf)**|
 |**2023-08-26**|**InsertNeRF: Instilling Generalizability into NeRF with HyperNet Modules**|Yanqi Bao et.al.|[2308.13897](http://arxiv.org/abs/2308.13897)|**[link](https://github.com/bbbbby-99/insertnerf)**|
 |**2023-08-24**|**NOVA: NOvel View Augmentation for Neural Composition of Dynamic Objects**|Dakshit Agrawal et.al.|[2308.12560](http://arxiv.org/abs/2308.12560)|**[link](https://github.com/dakshitagrawal/nova)**|
 |**2023-08-23**|**Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields**|Hyeonseop Song et.al.|[2308.11974](http://arxiv.org/abs/2308.11974)|null|
@@ -1816,6 +1821,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-29**|**Input margins can predict generalization too**|Coenraad Mouton et.al.|[2308.15466](http://arxiv.org/abs/2308.15466)|null|
+|**2023-08-29**|**A Comparative Study of Loss Functions: Traffic Predictions in Regular and Congestion Scenarios**|Yangxinyu Xie et.al.|[2308.15464](http://arxiv.org/abs/2308.15464)|**[link](https://github.com/xieyangxinyu/a-comparative-study-of-loss-functions-traffic-predictions-in-regular-and-congestion-scenarios)**|
+|**2023-08-29**|**From SMOTE to Mixup for Deep Imbalanced Classification**|Wei-Chao Cheng et.al.|[2308.15457](http://arxiv.org/abs/2308.15457)|**[link](https://github.com/ntucllab/imbalanced-dl)**|
+|**2023-08-29**|**PEM: Representing Binary Program Semantics for Similarity Analysis via a Probabilistic Execution Model**|Xiangzhe Xu et.al.|[2308.15449](http://arxiv.org/abs/2308.15449)|null|
+|**2023-08-29**|**Vulgar Remarks Detection in Chittagonian Dialect of Bangla**|Tanjim Mahmud et.al.|[2308.15448](http://arxiv.org/abs/2308.15448)|null|
+|**2023-08-29**|**WrappingNet: Mesh Autoencoder via Deep Sphere Deformation**|Eric Lei et.al.|[2308.15413](http://arxiv.org/abs/2308.15413)|null|
+|**2023-08-29**|**Bornil: An open-source sign language data crowdsourcing platform for AI enabled dialect-agnostic communication**|Shahriar Elahi Dhruvo et.al.|[2308.15402](http://arxiv.org/abs/2308.15402)|null|
+|**2023-08-29**|**On-Device Learning with Binary Neural Networks**|Lorenzo Vorabbi et.al.|[2308.15308](http://arxiv.org/abs/2308.15308)|null|
+|**2023-08-29**|**Towards quantitative precision for ECG analysis: Leveraging state space models, self-supervision and patient metadata**|Temesgen Mehari et.al.|[2308.15291](http://arxiv.org/abs/2308.15291)|**[link](https://github.com/tmehari/ssm_ecg)**|
+|**2023-08-29**|**ARTxAI: Explainable Artificial Intelligence Curates Deep Representation Learning for Artistic Images using Fuzzy Techniques**|Javier Fumanal-Idocin et.al.|[2308.15284](http://arxiv.org/abs/2308.15284)|null|
 |**2023-08-28**|**RESTORE: Graph Embedding Assessment Through Reconstruction**|Hong Yung Yip et.al.|[2308.14659](http://arxiv.org/abs/2308.14659)|null|
 |**2023-08-28**|**DeepHealthNet: Adolescent Obesity Prediction System Based on a Deep Learning Framework**|Ji-Hoon Jeong et.al.|[2308.14657](http://arxiv.org/abs/2308.14657)|null|
 |**2023-08-28**|**Comparing AutoML and Deep Learning Methods for Condition Monitoring using Realistic Validation Scenarios**|Payman Goodarzi et.al.|[2308.14632](http://arxiv.org/abs/2308.14632)|null|
