@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.29
+## Updated on 2023.08.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1820,7 +1820,7 @@ layout: default
 |**2023-08-28**|**DeepHealthNet: Adolescent Obesity Prediction System Based on a Deep Learning Framework**|Ji-Hoon Jeong et.al.|[2308.14657](http://arxiv.org/abs/2308.14657)|null|
 |**2023-08-28**|**Comparing AutoML and Deep Learning Methods for Condition Monitoring using Realistic Validation Scenarios**|Payman Goodarzi et.al.|[2308.14632](http://arxiv.org/abs/2308.14632)|null|
 |**2023-08-28**|**VesselShot: Few-shot learning for cerebral blood vessel segmentation**|Mumu Aktar et.al.|[2308.14626](http://arxiv.org/abs/2308.14626)|null|
-|**2023-08-28**|**Compositional Semantic Mix for Domain Adaptation in Point Cloud Segmentation**|Cristiano Saltori et.al.|[2308.14619](http://arxiv.org/abs/2308.14619)|**[link](https://github.com/saltoricristiano/cosmix-uda)**|
+|**2023-08-29**|**Compositional Semantic Mix for Domain Adaptation in Point Cloud Segmentation**|Cristiano Saltori et.al.|[2308.14619](http://arxiv.org/abs/2308.14619)|**[link](https://github.com/saltoricristiano/cosmix-uda)**|
 |**2023-08-28**|**A Generalization of Continuous Relaxation in Structured Pruning**|Brad Larson et.al.|[2308.14605](http://arxiv.org/abs/2308.14605)|null|
 |**2023-08-28**|**LatentDR: Improving Model Generalization Through Sample-Aware Latent Degradation and Restoration**|Ran Liu et.al.|[2308.14596](http://arxiv.org/abs/2308.14596)|null|
 |**2023-08-28**|**SAAN: Similarity-aware attention flow network for change detection with VHR remote sensing images**|Haonan Guo et.al.|[2308.14570](http://arxiv.org/abs/2308.14570)|null|
