@@ -517,6 +517,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-31**|**Learning with Multi-modal Gradient Attention for Explainable Composed Image Retrieval**|Prateksha Udhayanan et.al.|[2308.16649](http://arxiv.org/abs/2308.16649)|null|
 |**2023-08-28**|**Extending Cross-Modal Retrieval with Interactive Learning to Improve Image Retrieval Performance in Forensics**|Nils Böhne et.al.|[2308.14786](http://arxiv.org/abs/2308.14786)|null|
 |**2023-08-28**|**CoVR: Learning Composed Video Retrieval from Web Video Captions**|Lucas Ventura et.al.|[2308.14746](http://arxiv.org/abs/2308.14746)|**[link](https://github.com/lucas-ventura/CoVR)**|
 |**2023-08-27**|**Deep Learning for Visual Localization and Mapping: A Survey**|Changhao Chen et.al.|[2308.14039](http://arxiv.org/abs/2308.14039)|null|
@@ -1026,6 +1027,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-31**|**SportsSloMo: A New Benchmark and Baselines for Human-centric Video Frame Interpolation**|Jiaben Chen et.al.|[2308.16876](http://arxiv.org/abs/2308.16876)|null|
 |**2023-08-30**|**Learning Structure-from-Motion with Graph Attention Networks**|Lucas Brynte et.al.|[2308.15984](http://arxiv.org/abs/2308.15984)|null|
 |**2023-08-29**|**A lightweight 3D dense facial landmark estimation model from position map data**|Shubhajit Basak et.al.|[2308.15170](http://arxiv.org/abs/2308.15170)|null|
 |**2023-08-27**|**Automatic coarse co-registration of point clouds from diverse scan geometries: a test of detectors and descriptors**|Francesco Pirotti et.al.|[2308.14047](http://arxiv.org/abs/2308.14047)|null|
@@ -1360,6 +1362,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-31**|**GHuNeRF: Generalizable Human NeRF from a Monocular Video**|Chen Li et.al.|[2308.16576](http://arxiv.org/abs/2308.16576)|null|
 |**2023-08-30**|**From Pixels to Portraits: A Comprehensive Survey of Talking Head Generation Techniques and Applications**|Shreyank N Gowda et.al.|[2308.16041](http://arxiv.org/abs/2308.16041)|null|
 |**2023-08-30**|**Drone-NeRF: Efficient NeRF Based 3D Scene Reconstruction for Large-Scale Drone Survey**|Zhihao Jia et.al.|[2308.15733](http://arxiv.org/abs/2308.15733)|null|
 |**2023-08-29**|**Efficient Ray Sampling for Radiance Fields Reconstruction**|Shilei Sun et.al.|[2308.15547](http://arxiv.org/abs/2308.15547)|null|
@@ -1826,6 +1829,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-31**|**Diffusion Models for Interferometric Satellite Aperture Radar**|Alexandre Tuel et.al.|[2308.16847](http://arxiv.org/abs/2308.16847)|null|
+|**2023-08-31**|**StratMed: Relevance Stratification for Low-resource Medication Recommendation**|Xiang Li et.al.|[2308.16781](http://arxiv.org/abs/2308.16781)|null|
+|**2023-08-31**|**Efficacy of Neural Prediction-Based NAS for Zero-Shot NAS Paradigm**|Minh Le et.al.|[2308.16775](http://arxiv.org/abs/2308.16775)|**[link](https://github.com/minh1409/dft-npzs-nas)**|
+|**2023-08-31**|**Unsupervised CT Metal Artifact Reduction by Plugging Diffusion Priors in Dual Domains**|Xuan Liu et.al.|[2308.16742](http://arxiv.org/abs/2308.16742)|**[link](https://github.com/deepxuan/dudodp-mar)**|
+|**2023-08-31**|**US-SFNet: A Spatial-Frequency Domain-based Multi-branch Network for Cervical Lymph Node Lesions Diagnoses in Ultrasound Images**|Yubiao Yue et.al.|[2308.16738](http://arxiv.org/abs/2308.16738)|null|
+|**2023-08-31**|**Proof of Deep Learning: Approaches, Challenges, and Future Directions**|Mahmoud Salhab et.al.|[2308.16730](http://arxiv.org/abs/2308.16730)|null|
+|**2023-08-31**|**Terrain Diffusion Network: Climatic-Aware Terrain Generation with Geological Sketch Guidance**|Zexin Hu et.al.|[2308.16725](http://arxiv.org/abs/2308.16725)|null|
+|**2023-08-31**|**Accurate Prediction of Antibody Function and Structure Using Bio-Inspired Antibody Language Model**|Hongtai Jing et.al.|[2308.16713](http://arxiv.org/abs/2308.16713)|null|
+|**2023-08-31**|**Exploring the Polarization of Axially Symmetric Supernovae with Unsupervised Deep Learning**|J. R. Maund et.al.|[2308.16686](http://arxiv.org/abs/2308.16686)|null|
+|**2023-08-31**|**Dynamic nsNet2: Efficient Deep Noise Suppression with Early Exiting**|Riccardo Miccini et.al.|[2308.16678](http://arxiv.org/abs/2308.16678)|null|
 |**2023-08-30**|**General Purpose Audio Effect Removal**|Matthew Rice et.al.|[2308.16177](http://arxiv.org/abs/2308.16177)|null|
 |**2023-08-31**|**MedShapeNet -- A Large-Scale Dataset of 3D Medical Shapes for Computer Vision**|Jianning Li et.al.|[2308.16139](http://arxiv.org/abs/2308.16139)|**[link](https://github.com/jianningli/medshapenet-feedback)**|
 |**2023-08-30**|**Advanced Deep Regression Models for Forecasting Time Series Oil Production**|Siavash Hosseini et.al.|[2308.16105](http://arxiv.org/abs/2308.16105)|null|
