@@ -1371,6 +1371,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields**|Lily Goli et.al.|[2309.03185](http://arxiv.org/abs/2309.03185)|null|
+|**2023-09-06**|**ResFields: Residual Neural Fields for Spatiotemporal Signals**|Marko Mihajlovic et.al.|[2309.03160](http://arxiv.org/abs/2309.03160)|null|
 |**2023-09-06**|**Instant Continual Learning of Neural Radiance Fields**|Ryan Po et.al.|[2309.01811](http://arxiv.org/abs/2309.01811)|null|
 |**2023-09-04**|**Adv3D: Generating 3D Adversarial Examples in Driving Scenarios with NeRF**|Leheng Li et.al.|[2309.01351](http://arxiv.org/abs/2309.01351)|null|
 |**2023-09-01**|**SparseSat-NeRF: Dense Depth Supervised Neural Radiance Fields for Sparse Satellite Images**|Lulin Zhang et.al.|[2309.00277](http://arxiv.org/abs/2309.00277)|**[link](https://github.com/lulinzhang/sps-nerf)**|
@@ -1842,6 +1844,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**Real-Time Non-Invasive Imaging and Detection of Spreading Depolarizations through EEG: An Ultra-Light Explainable Deep Learning Approach**|Yinzhe Wu et.al.|[2309.03147](http://arxiv.org/abs/2309.03147)|null|
+|**2023-09-06**|**The Secrets of Non-Blind Poisson Deconvolution**|Abhiram Gnanasambandam et.al.|[2309.03105](http://arxiv.org/abs/2309.03105)|null|
+|**2023-09-06**|**Learning Active Subspaces for Effective and Scalable Uncertainty Quantification in Deep Neural Networks**|Sanket Jantre et.al.|[2309.03061](http://arxiv.org/abs/2309.03061)|null|
+|**2023-09-06**|**Uncertainty Quantification in Deep Learning Based Kalman Filters**|Yehonatan Dahan et.al.|[2309.03058](http://arxiv.org/abs/2309.03058)|null|
+|**2023-09-06**|**Adaptive Growth: Real-time CNN Layer Expansion**|Yunjie Zhu et.al.|[2309.03049](http://arxiv.org/abs/2309.03049)|null|
+|**2023-09-06**|**Deep Learning for Polycystic Kidney Disease: Utilizing Neural Networks for Accurate and Early Detection through Gene Expression Analysis**|Kapil Panda et.al.|[2309.03033](http://arxiv.org/abs/2309.03033)|null|
+|**2023-09-06**|**Continual Evidential Deep Learning for Out-of-Distribution Detection**|Eduardo Aguilar et.al.|[2309.02995](http://arxiv.org/abs/2309.02995)|null|
+|**2023-09-06**|**The Case for Asymmetric Systolic Array Floorplanning**|C. Peltekis et.al.|[2309.02969](http://arxiv.org/abs/2309.02969)|null|
+|**2023-09-06**|**M3D-NCA: Robust 3D Segmentation with Built-in Quality Control**|John Kalkhof et.al.|[2309.02954](http://arxiv.org/abs/2309.02954)|null|
+|**2023-09-06**|**GroupEnc: encoder with group loss for global structure preservation**|David Novak et.al.|[2309.02917](http://arxiv.org/abs/2309.02917)|null|
 |**2023-09-05**|**GO-SLAM: Global Optimization for Consistent 3D Instant Reconstruction**|Youmin Zhang et.al.|[2309.02436](http://arxiv.org/abs/2309.02436)|null|
 |**2023-09-05**|**Tensorization: Creating and Utilising Multidimensional Datasets for Multiway Analysis and Tensorised Deep Neural Networks -- Python Tutorial and Survey**|Manal Helal et.al.|[2309.02428](http://arxiv.org/abs/2309.02428)|**[link](https://github.com/mhelal/TensorsPyBook)**|
 |**2023-09-05**|**Maximum Mean Discrepancy Meets Neural Networks: The Radon-Kolmogorov-Smirnov Test**|Seunghoon Paik et.al.|[2309.02422](http://arxiv.org/abs/2309.02422)|null|
