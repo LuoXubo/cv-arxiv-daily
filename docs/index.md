@@ -1033,6 +1033,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-07**|**InstructDiffusion: A Generalist Modeling Interface for Vision Tasks**|Zigang Geng et.al.|[2309.03895](http://arxiv.org/abs/2309.03895)|null|
 |**2023-09-04**|**SKoPe3D: A Synthetic Dataset for Vehicle Keypoint Perception in 3D from Traffic Monitoring Cameras**|Himanshu Pahadia et.al.|[2309.01324](http://arxiv.org/abs/2309.01324)|null|
 |**2023-09-01**|**Improving the matching of deformable objects by learning to detect keypoints**|Felipe Cadar et.al.|[2309.00434](http://arxiv.org/abs/2309.00434)|null|
 |**2023-08-31**|**SportsSloMo: A New Benchmark and Baselines for Human-centric Video Frame Interpolation**|Jiaben Chen et.al.|[2308.16876](http://arxiv.org/abs/2308.16876)|null|
@@ -1371,8 +1372,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-07**|**Text2Control3D: Controllable 3D Avatar Generation in Neural Radiance Fields using Geometry-Guided Text-to-Image Diffusion Model**|Sungwon Hwang et.al.|[2309.03550](http://arxiv.org/abs/2309.03550)|null|
 |**2023-09-06**|**Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields**|Lily Goli et.al.|[2309.03185](http://arxiv.org/abs/2309.03185)|null|
-|**2023-09-06**|**ResFields: Residual Neural Fields for Spatiotemporal Signals**|Marko Mihajlovic et.al.|[2309.03160](http://arxiv.org/abs/2309.03160)|null|
+|**2023-09-06**|**ResFields: Residual Neural Fields for Spatiotemporal Signals**|Marko Mihajlovic et.al.|[2309.03160](http://arxiv.org/abs/2309.03160)|**[link](https://github.com/markomih/ResFields)**|
 |**2023-09-06**|**Instant Continual Learning of Neural Radiance Fields**|Ryan Po et.al.|[2309.01811](http://arxiv.org/abs/2309.01811)|null|
 |**2023-09-04**|**Adv3D: Generating 3D Adversarial Examples in Driving Scenarios with NeRF**|Leheng Li et.al.|[2309.01351](http://arxiv.org/abs/2309.01351)|null|
 |**2023-09-01**|**SparseSat-NeRF: Dense Depth Supervised Neural Radiance Fields for Sparse Satellite Images**|Lulin Zhang et.al.|[2309.00277](http://arxiv.org/abs/2309.00277)|**[link](https://github.com/lulinzhang/sps-nerf)**|
@@ -1844,6 +1846,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-07**|**A-Eval: A Benchmark for Cross-Dataset Evaluation of Abdominal Multi-Organ Segmentation**|Ziyan Huang et.al.|[2309.03906](http://arxiv.org/abs/2309.03906)|null|
+|**2023-09-07**|**Learning Continuous Exposure Value Representations for Single-Image HDR Reconstruction**|Su-Kai Chen et.al.|[2309.03900](http://arxiv.org/abs/2309.03900)|null|
+|**2023-09-07**|**DiffusionEngine: Diffusion Model is Scalable Data Engine for Object Detection**|Manlin Zhang et.al.|[2309.03893](http://arxiv.org/abs/2309.03893)|null|
+|**2023-09-07**|**Text-to-feature diffusion for audio-visual few-shot learning**|Otniel-Bogdan Mercea et.al.|[2309.03869](http://arxiv.org/abs/2309.03869)|null|
+|**2023-09-07**|**CenTime: Event-Conditional Modelling of Censoring in Survival Analysis**|Ahmed H. Shahin et.al.|[2309.03851](http://arxiv.org/abs/2309.03851)|**[link](https://github.com/ahmedhshahin/CenTime)**|
+|**2023-09-07**|**Cross-Task Attention Network: Improving Multi-Task Learning for Medical Imaging Applications**|Sangwook Kim et.al.|[2309.03837](http://arxiv.org/abs/2309.03837)|null|
+|**2023-09-07**|**Training Acceleration of Low-Rank Decomposed Networks using Sequential Freezing and Rank Quantization**|Habib Hajimolahoseini et.al.|[2309.03824](http://arxiv.org/abs/2309.03824)|null|
+|**2023-09-07**|**Pareto Frontiers in Neural Feature Learning: Data, Compute, Width, and Luck**|Benjamin L. Edelman et.al.|[2309.03800](http://arxiv.org/abs/2309.03800)|null|
+|**2023-09-07**|**FisheyePP4AV: A privacy-preserving method for autonomous vehicles on fisheye camera images**|Linh Trinh et.al.|[2309.03799](http://arxiv.org/abs/2309.03799)|null|
+|**2023-09-07**|**Adversarially Robust Deep Learning with Optimal-Transport-Regularized Divergences**|Jeremiah Birrell et.al.|[2309.03791](http://arxiv.org/abs/2309.03791)|null|
 |**2023-09-06**|**Real-Time Non-Invasive Imaging and Detection of Spreading Depolarizations through EEG: An Ultra-Light Explainable Deep Learning Approach**|Yinzhe Wu et.al.|[2309.03147](http://arxiv.org/abs/2309.03147)|null|
 |**2023-09-06**|**The Secrets of Non-Blind Poisson Deconvolution**|Abhiram Gnanasambandam et.al.|[2309.03105](http://arxiv.org/abs/2309.03105)|null|
 |**2023-09-06**|**Learning Active Subspaces for Effective and Scalable Uncertainty Quantification in Deep Neural Networks**|Sanket Jantre et.al.|[2309.03061](http://arxiv.org/abs/2309.03061)|null|
