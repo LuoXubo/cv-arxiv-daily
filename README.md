@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-08**|**Robot Localization and Mapping Final Report -- Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry**|Akankshya Kar et.al.|[2309.04147](http://arxiv.org/abs/2309.04147)|null|
 |**2023-09-04**|**EMR-MSF: Self-Supervised Recurrent Monocular Scene Flow Exploiting Ego-Motion Rigidity**|Zijie Jiang et.al.|[2309.01296](http://arxiv.org/abs/2309.01296)|null|
 |**2023-08-27**|**Deep Learning for Visual Localization and Mapping: A Survey**|Changhao Chen et.al.|[2308.14039](http://arxiv.org/abs/2308.14039)|null|
 |**2023-08-19**|**Enhancing State Estimation in Robots: A Data-Driven Approach with Differentiable Ensemble Kalman Filters**|Xiao Liu et.al.|[2308.09870](http://arxiv.org/abs/2308.09870)|**[link](https://github.com/ir-lab/denkf)**|
@@ -531,6 +532,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-08**|**Representation Synthesis by Probabilistic Many-Valued Logic Operation in Self-Supervised Learning**|Hiroki Nakamura et.al.|[2309.04148](http://arxiv.org/abs/2309.04148)|null|
 |**2023-09-05**|**Magnetic Navigation using Attitude-Invariant Magnetic Field Information for Loop Closure Detection**|Natalia Pavlasek et.al.|[2309.02394](http://arxiv.org/abs/2309.02394)|null|
 |**2023-09-05**|**Dual Relation Alignment for Composed Image Retrieval**|Xintong Jiang et.al.|[2309.02169](http://arxiv.org/abs/2309.02169)|null|
 |**2023-09-04**|**NLLB-CLIP -- train performant multilingual image retrieval model on a budget**|Alexander Visheratin et.al.|[2309.01859](http://arxiv.org/abs/2309.01859)|null|
@@ -1391,6 +1393,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-08**|**DeformToon3D: Deformable 3D Toonification from Neural Radiance Fields**|Junzhe Zhang et.al.|[2309.04410](http://arxiv.org/abs/2309.04410)|null|
+|**2023-09-07**|**SimpleNeRF: Regularizing Sparse Input Neural Radiance Fields with Simpler Solutions**|Nagabhushan Somraj et.al.|[2309.03955](http://arxiv.org/abs/2309.03955)|null|
+|**2023-09-07**|**BluNF: Blueprint Neural Field**|Robin Courant et.al.|[2309.03933](http://arxiv.org/abs/2309.03933)|null|
 |**2023-09-07**|**Text2Control3D: Controllable 3D Avatar Generation in Neural Radiance Fields using Geometry-Guided Text-to-Image Diffusion Model**|Sungwon Hwang et.al.|[2309.03550](http://arxiv.org/abs/2309.03550)|null|
 |**2023-09-06**|**Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields**|Lily Goli et.al.|[2309.03185](http://arxiv.org/abs/2309.03185)|null|
 |**2023-09-06**|**ResFields: Residual Neural Fields for Spatiotemporal Signals**|Marko Mihajlovic et.al.|[2309.03160](http://arxiv.org/abs/2309.03160)|**[link](https://github.com/markomih/ResFields)**|
@@ -1867,6 +1872,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-08**|**Physics-Informed Neural Networks for an optimal counterdiabatic quantum computation**|Antonio Ferrer-Sánchez et.al.|[2309.04434](http://arxiv.org/abs/2309.04434)|null|
+|**2023-09-08**|**Robust Representation Learning for Privacy-Preserving Machine Learning: A Multi-Objective Autoencoder Approach**|Sofiane Ouaari et.al.|[2309.04427](http://arxiv.org/abs/2309.04427)|null|
+|**2023-09-08**|**Parallel and Limited Data Voice Conversion Using Stochastic Variational Deep Kernel Learning**|Mohamadreza Jafaryani et.al.|[2309.04420](http://arxiv.org/abs/2309.04420)|null|
+|**2023-09-08**|**Generalization Bounds: Perspectives from Information Theory and PAC-Bayes**|Fredrik Hellström et.al.|[2309.04381](http://arxiv.org/abs/2309.04381)|null|
+|**2023-09-08**|**Active Learning for Classifying 2D Grid-Based Level Completability**|Mahsa Bazzaz et.al.|[2309.04367](http://arxiv.org/abs/2309.04367)|null|
+|**2023-09-08**|**Leveraging Model Fusion for Improved License Plate Recognition**|Rayson Laroca et.al.|[2309.04331](http://arxiv.org/abs/2309.04331)|null|
+|**2023-09-08**|**Navigating Out-of-Distribution Electricity Load Forecasting during COVID-19: A Continual Learning Approach Leveraging Human Mobility**|Arian Prabowo et.al.|[2309.04296](http://arxiv.org/abs/2309.04296)|null|
+|**2023-09-08**|**How Can We Tame the Long-Tail of Chest X-ray Datasets?**|Arsh Verma et.al.|[2309.04293](http://arxiv.org/abs/2309.04293)|null|
+|**2023-09-08**|**Long-Range Correlation Supervision for Land-Cover Classification from Remote Sensing Images**|Dawen Yu et.al.|[2309.04225](http://arxiv.org/abs/2309.04225)|null|
+|**2023-09-08**|**PRISTA-Net: Deep Iterative Shrinkage Thresholding Network for Coded Diffraction Patterns Phase Retrieval**|Aoxu Liu et.al.|[2309.04171](http://arxiv.org/abs/2309.04171)|null|
 |**2023-09-07**|**A-Eval: A Benchmark for Cross-Dataset Evaluation of Abdominal Multi-Organ Segmentation**|Ziyan Huang et.al.|[2309.03906](http://arxiv.org/abs/2309.03906)|**[link](https://github.com/uni-medical/a-eval)**|
 |**2023-09-07**|**Learning Continuous Exposure Value Representations for Single-Image HDR Reconstruction**|Su-Kai Chen et.al.|[2309.03900](http://arxiv.org/abs/2309.03900)|null|
 |**2023-09-07**|**DiffusionEngine: Diffusion Model is Scalable Data Engine for Object Detection**|Manlin Zhang et.al.|[2309.03893](http://arxiv.org/abs/2309.03893)|null|
