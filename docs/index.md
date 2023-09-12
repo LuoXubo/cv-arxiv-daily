@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.11
+## Updated on 2023.09.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1855,12 +1855,12 @@ layout: default
 |**2023-09-08**|**Robust Representation Learning for Privacy-Preserving Machine Learning: A Multi-Objective Autoencoder Approach**|Sofiane Ouaari et.al.|[2309.04427](http://arxiv.org/abs/2309.04427)|null|
 |**2023-09-08**|**Parallel and Limited Data Voice Conversion Using Stochastic Variational Deep Kernel Learning**|Mohamadreza Jafaryani et.al.|[2309.04420](http://arxiv.org/abs/2309.04420)|null|
 |**2023-09-08**|**Generalization Bounds: Perspectives from Information Theory and PAC-Bayes**|Fredrik Hellström et.al.|[2309.04381](http://arxiv.org/abs/2309.04381)|null|
-|**2023-09-08**|**Active Learning for Classifying 2D Grid-Based Level Completability**|Mahsa Bazzaz et.al.|[2309.04367](http://arxiv.org/abs/2309.04367)|null|
+|**2023-09-08**|**Active Learning for Classifying 2D Grid-Based Level Completability**|Mahsa Bazzaz et.al.|[2309.04367](http://arxiv.org/abs/2309.04367)|**[link](https://github.com/mahsabazzaz/level-completabilty-x-active-learning)**|
 |**2023-09-08**|**Leveraging Model Fusion for Improved License Plate Recognition**|Rayson Laroca et.al.|[2309.04331](http://arxiv.org/abs/2309.04331)|null|
 |**2023-09-08**|**Navigating Out-of-Distribution Electricity Load Forecasting during COVID-19: A Continual Learning Approach Leveraging Human Mobility**|Arian Prabowo et.al.|[2309.04296](http://arxiv.org/abs/2309.04296)|null|
 |**2023-09-08**|**How Can We Tame the Long-Tail of Chest X-ray Datasets?**|Arsh Verma et.al.|[2309.04293](http://arxiv.org/abs/2309.04293)|null|
 |**2023-09-08**|**Long-Range Correlation Supervision for Land-Cover Classification from Remote Sensing Images**|Dawen Yu et.al.|[2309.04225](http://arxiv.org/abs/2309.04225)|null|
-|**2023-09-08**|**PRISTA-Net: Deep Iterative Shrinkage Thresholding Network for Coded Diffraction Patterns Phase Retrieval**|Aoxu Liu et.al.|[2309.04171](http://arxiv.org/abs/2309.04171)|null|
+|**2023-09-08**|**PRISTA-Net: Deep Iterative Shrinkage Thresholding Network for Coded Diffraction Patterns Phase Retrieval**|Aoxu Liu et.al.|[2309.04171](http://arxiv.org/abs/2309.04171)|**[link](https://github.com/liuaxou/prista-net)**|
 |**2023-09-07**|**A-Eval: A Benchmark for Cross-Dataset Evaluation of Abdominal Multi-Organ Segmentation**|Ziyan Huang et.al.|[2309.03906](http://arxiv.org/abs/2309.03906)|**[link](https://github.com/uni-medical/a-eval)**|
 |**2023-09-07**|**Learning Continuous Exposure Value Representations for Single-Image HDR Reconstruction**|Su-Kai Chen et.al.|[2309.03900](http://arxiv.org/abs/2309.03900)|null|
 |**2023-09-07**|**DiffusionEngine: Diffusion Model is Scalable Data Engine for Object Detection**|Manlin Zhang et.al.|[2309.03893](http://arxiv.org/abs/2309.03893)|null|
