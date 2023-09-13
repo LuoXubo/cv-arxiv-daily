@@ -1379,6 +1379,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-12**|**Federated Learning for Large-Scale Scene Modeling with Neural Radiance Fields**|Teppei Suzuki et.al.|[2309.06030](http://arxiv.org/abs/2309.06030)|null|
 |**2023-09-11**|**PAg-NeRF: Towards fast and efficient end-to-end panoptic 3D representations for agricultural robotics**|Claus Smitt et.al.|[2309.05339](http://arxiv.org/abs/2309.05339)|null|
 |**2023-09-10**|**Text-driven Editing of 3D Scenes without Retraining**|Shuangkang Fang et.al.|[2309.04917](http://arxiv.org/abs/2309.04917)|null|
 |**2023-09-09**|**Mirror-Aware Neural Humans**|Daniel Ajisafe et.al.|[2309.04750](http://arxiv.org/abs/2309.04750)|null|
@@ -1860,6 +1861,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-12**|**Grounded Language Acquisition From Object and Action Imagery**|James Robert Kubricht et.al.|[2309.06335](http://arxiv.org/abs/2309.06335)|null|
+|**2023-09-12**|**Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models**|Yong Lin et.al.|[2309.06256](http://arxiv.org/abs/2309.06256)|null|
+|**2023-09-12**|**PreciseBugCollector: Extensible, Executable and Precise Bug-fix Collection**|Ye He et.al.|[2309.06229](http://arxiv.org/abs/2309.06229)|null|
+|**2023-09-12**|**Unveiling Signle-Bit-Flip Attacks on DNN Executables**|Yanzuo Chen et.al.|[2309.06223](http://arxiv.org/abs/2309.06223)|null|
+|**2023-09-12**|**360 $^\circ$ from a Single Camera: A Few-Shot Approach for LiDAR Segmentation**|Laurenz Reichardt et.al.|[2309.06197](http://arxiv.org/abs/2309.06197)|null|
+|**2023-09-12**|**A 3M-Hybrid Model for the Restoration of Unique Giant Murals: A Case Study on the Murals of Yongle Palace**|Jing Yang et.al.|[2309.06194](http://arxiv.org/abs/2309.06194)|null|
+|**2023-09-12**|**Computer Vision Pipeline for Automated Antarctic Krill Analysis**|Mazvydas Gudelis et.al.|[2309.06188](http://arxiv.org/abs/2309.06188)|null|
+|**2023-09-12**|**Robust-MBDL: A Robust Multi-branch Deep Learning Based Model for Remaining Useful Life Prediction and Operational Condition Identification of Rotating Machines**|Khoa Tran et.al.|[2309.06157](http://arxiv.org/abs/2309.06157)|null|
+|**2023-09-12**|**Improving Generalization Capability of Deep Learning-Based Nuclei Instance Segmentation by Non-deterministic Train Time and Deterministic Test Time Stain Normalization**|Amirreza Mahbod et.al.|[2309.06143](http://arxiv.org/abs/2309.06143)|null|
+|**2023-09-12**|**SynVox2: Towards a privacy-friendly VoxCeleb2 dataset**|Xiaoxiao Miao et.al.|[2309.06141](http://arxiv.org/abs/2309.06141)|null|
 |**2023-09-11**|**A Novel Supervised Deep Learning Solution to Detect Distributed Denial of Service (DDoS) attacks on Edge Systems using Convolutional Neural Networks (CNN)**|Vedanth Ramanathan et.al.|[2309.05646](http://arxiv.org/abs/2309.05646)|null|
 |**2023-09-11**|**Distance-Aware eXplanation Based Learning**|Misgina Tsighe Hagos et.al.|[2309.05548](http://arxiv.org/abs/2309.05548)|**[link](https://github.com/msgun/xbl-d)**|
 |**2023-09-11**|**Stream-based Active Learning by Exploiting Temporal Properties in Perception with Temporal Predicted Loss**|Sebastian Schmidt et.al.|[2309.05517](http://arxiv.org/abs/2309.05517)|null|
