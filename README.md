@@ -534,6 +534,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-15**|**Optimization of Rank Losses for Image Retrieval**|Elias Ramzi et.al.|[2309.08250](http://arxiv.org/abs/2309.08250)|**[link](https://github.com/cvdfoundation/google-landmark)**|
+|**2023-09-13**|**Prompting Segmentation with Sound is Generalizable Audio-Visual Source Localizer**|Yaoting Wang et.al.|[2309.07929](http://arxiv.org/abs/2309.07929)|null|
 |**2023-09-14**|**EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization**|Minjung Kim et.al.|[2309.07471](http://arxiv.org/abs/2309.07471)|**[link](https://github.com/minnjung/ep2p-loc)**|
 |**2023-09-13**|**RadarLCD: Learnable Radar-based Loop Closure Detection Pipeline**|Mirko Usuelli et.al.|[2309.07094](http://arxiv.org/abs/2309.07094)|null|
 |**2023-09-11**|**Towards Content-based Pixel Retrieval in Revisited Oxford and Paris**|Guoyuan An et.al.|[2309.05438](http://arxiv.org/abs/2309.05438)|**[link](https://github.com/anguoyuan/pixel_retrieval-segmented_instance_retrieval)**|
@@ -1402,6 +1404,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-15**|**Robust e-NeRF: NeRF from Sparse & Noisy Events under Non-Uniform Motion**|Weng Fei Low et.al.|[2309.08596](http://arxiv.org/abs/2309.08596)|**[link](https://github.com/wengflow/robust-e-nerf)**|
+|**2023-09-14**|**Gradient based Grasp Pose Optimization on a NeRF that Approximates Grasp Success**|Gergely Sóti et.al.|[2309.08040](http://arxiv.org/abs/2309.08040)|null|
 |**2023-09-14**|**MC-NeRF: Muti-Camera Neural Radiance Fields for Muti-Camera Image Acquisition Systems**|Yu Gao et.al.|[2309.07846](http://arxiv.org/abs/2309.07846)|null|
 |**2023-09-14**|**DT-NeRF: Decomposed Triplane-Hash Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis**|Yaoyu Su et.al.|[2309.07752](http://arxiv.org/abs/2309.07752)|null|
 |**2023-09-14**|**CoRF : Colorizing Radiance Fields using Knowledge Distillation**|Ankit Dhiman et.al.|[2309.07668](http://arxiv.org/abs/2309.07668)|null|
@@ -1891,6 +1895,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-15**|**Closing the Loop on Runtime Monitors with Fallback-Safe MPC**|Rohan Sinha et.al.|[2309.08603](http://arxiv.org/abs/2309.08603)|null|
+|**2023-09-15**|**HINT: Healthy Influential-Noise based Training to Defend against Data Poisoning Attacks**|Minh-Hao Van et.al.|[2309.08549](http://arxiv.org/abs/2309.08549)|null|
+|**2023-09-15**|**Efficient and robust Sensor Placement in Complex Environments**|Lukas Taus et.al.|[2309.08545](http://arxiv.org/abs/2309.08545)|null|
+|**2023-09-15**|**Deep-learning-powered data analysis in plankton ecology**|Harshith Bachimanchi et.al.|[2309.08500](http://arxiv.org/abs/2309.08500)|**[link](https://github.com/softmatterlab/deep-learning-in-plankton-ecology)**|
+|**2023-09-15**|**XFedHunter: An Explainable Federated Learning Framework for Advanced Persistent Threat Detection in SDN**|Huynh Thai Thi et.al.|[2309.08485](http://arxiv.org/abs/2309.08485)|null|
+|**2023-09-15**|**3D Arterial Segmentation via Single 2D Projections and Depth Supervision in Contrast-Enhanced CT Images**|Alina F. Dima et.al.|[2309.08481](http://arxiv.org/abs/2309.08481)|**[link](https://github.com/alinafdima/3dseg-mip-depth)**|
+|**2023-09-15**|**VulnSense: Efficient Vulnerability Detection in Ethereum Smart Contracts by Multimodal Learning with Graph Neural Network and Language Model**|Phan The Duy et.al.|[2309.08474](http://arxiv.org/abs/2309.08474)|null|
+|**2023-09-15**|**TreeLearn: A Comprehensive Deep Learning Method for Segmenting Individual Trees from Forest Point Clouds**|Jonathan Henrich et.al.|[2309.08471](http://arxiv.org/abs/2309.08471)|**[link](https://github.com/ecker-lab/treelearn)**|
+|**2023-09-15**|**Toward responsible face datasets: modeling the distribution of a disentangled latent space for sampling face images from demographic groups**|Parsa Rahimi et.al.|[2309.08442](http://arxiv.org/abs/2309.08442)|null|
+|**2023-09-15**|**Channel Estimation in Underdetermined Systems Utilizing Variational Autoencoders**|Michael Baur et.al.|[2309.08411](http://arxiv.org/abs/2309.08411)|null|
 |**2023-09-14**|**MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning**|Haozhe Zhao et.al.|[2309.07915](http://arxiv.org/abs/2309.07915)|**[link](https://github.com/haozhezhao/mic)**|
 |**2023-09-14**|**An Observationally Driven Multifield Approach for Probing the Circum-Galactic Medium with Convolutional Neural Networks**|Naomi Gluck et.al.|[2309.07912](http://arxiv.org/abs/2309.07912)|null|
 |**2023-09-14**|**Improving physics-informed DeepONets with hard constraints**|Rüdiger Brecht et.al.|[2309.07899](http://arxiv.org/abs/2309.07899)|null|
