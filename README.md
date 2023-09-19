@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947](http://arxiv.org/abs/2309.09947)|null|
 |**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408](http://arxiv.org/abs/2309.07408)|null|
 |**2023-09-11**|**Evaluating Visual Odometry Methods for Autonomous Driving in Rain**|Yu Xiang Tan et.al.|[2309.05249](http://arxiv.org/abs/2309.05249)|null|
 |**2023-09-08**|**Robot Localization and Mapping Final Report -- Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry**|Akankshya Kar et.al.|[2309.04147](http://arxiv.org/abs/2309.04147)|null|
@@ -534,6 +535,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-18**|**DynaPix SLAM: A Pixel-Based Dynamic SLAM Approach**|Chenghao Xu et.al.|[2309.09879](http://arxiv.org/abs/2309.09879)|null|
+|**2023-09-18**|**Decompose Semantic Shifts for Composed Image Retrieval**|Xingyu Yang et.al.|[2309.09531](http://arxiv.org/abs/2309.09531)|null|
+|**2023-09-16**|**Efficient Object Rearrangement via Multi-view Fusion**|Dehao Huang et.al.|[2309.08994](http://arxiv.org/abs/2309.08994)|null|
+|**2023-09-16**|**DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF**|Mert Asim Karaoglu et.al.|[2309.08927](http://arxiv.org/abs/2309.08927)|null|
+|**2023-09-16**|**Outram: One-shot Global Localization via Triangulated Scene Graph and Global Outlier Pruning**|Pengyu Yin et.al.|[2309.08914](http://arxiv.org/abs/2309.08914)|null|
+|**2023-09-15**|**Active Learning for Fine-Grained Sketch-Based Image Retrieval**|Himanshu Thakur et.al.|[2309.08743](http://arxiv.org/abs/2309.08743)|null|
 |**2023-09-15**|**Optimization of Rank Losses for Image Retrieval**|Elias Ramzi et.al.|[2309.08250](http://arxiv.org/abs/2309.08250)|**[link](https://github.com/cvdfoundation/google-landmark)**|
 |**2023-09-18**|**Prompting Segmentation with Sound is Generalizable Audio-Visual Source Localizer**|Yaoting Wang et.al.|[2309.07929](http://arxiv.org/abs/2309.07929)|null|
 |**2023-09-14**|**EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization**|Minjung Kim et.al.|[2309.07471](http://arxiv.org/abs/2309.07471)|**[link](https://github.com/minnjung/ep2p-loc)**|
@@ -1057,6 +1064,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-18**|**RIDE: Self-Supervised Learning of Rotation-Equivariant Keypoint Detection and Invariant Description for Endoscopy**|Mert Asim Karaoglu et.al.|[2309.09563](http://arxiv.org/abs/2309.09563)|null|
+|**2023-09-17**|**CryoAlign: feature-based method for global and local 3D alignment of EM density maps**|Bintao He et.al.|[2309.09217](http://arxiv.org/abs/2309.09217)|null|
 |**2023-09-14**|**EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization**|Minjung Kim et.al.|[2309.07471](http://arxiv.org/abs/2309.07471)|**[link](https://github.com/minnjung/ep2p-loc)**|
 |**2023-09-09**|**Mirror-Aware Neural Humans**|Daniel Ajisafe et.al.|[2309.04750](http://arxiv.org/abs/2309.04750)|null|
 |**2023-09-07**|**InstructDiffusion: A Generalist Modeling Interface for Vision Tasks**|Zigang Geng et.al.|[2309.03895](http://arxiv.org/abs/2309.03895)|null|
@@ -1231,6 +1240,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-17**|**a critical analysis of internal reliability for uncertainty quantification of dense image matching in multi-view stereo**|Debao Huang et.al.|[2309.09379](http://arxiv.org/abs/2309.09379)|null|
 |**2023-09-11**|**Towards Content-based Pixel Retrieval in Revisited Oxford and Paris**|Guoyuan An et.al.|[2309.05438](http://arxiv.org/abs/2309.05438)|**[link](https://github.com/anguoyuan/pixel_retrieval-segmented_instance_retrieval)**|
 |**2023-09-09**|**Neural Semantic Surface Maps**|Luca Morreale et.al.|[2309.04836](http://arxiv.org/abs/2309.04836)|null|
 |**2023-09-05**|**Doppelgangers: Learning to Disambiguate Images of Similar Structures**|Ruojin Cai et.al.|[2309.02420](http://arxiv.org/abs/2309.02420)|**[link](https://github.com/RuojinCai/Doppelgangers)**|
@@ -1404,6 +1414,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-18**|**RenderOcc: Vision-Centric 3D Occupancy Prediction with 2D Rendering Supervision**|Mingjie Pan et.al.|[2309.09502](http://arxiv.org/abs/2309.09502)|null|
+|**2023-09-17**|**NeRF-VINS: A Real-time Neural Radiance Field Map-based Visual-Inertial Navigation System**|Saimouli Katragadda et.al.|[2309.09295](http://arxiv.org/abs/2309.09295)|null|
+|**2023-09-16**|**DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF**|Mert Asim Karaoglu et.al.|[2309.08927](http://arxiv.org/abs/2309.08927)|null|
 |**2023-09-15**|**Robust e-NeRF: NeRF from Sparse & Noisy Events under Non-Uniform Motion**|Weng Fei Low et.al.|[2309.08596](http://arxiv.org/abs/2309.08596)|**[link](https://github.com/wengflow/robust-e-nerf)**|
 |**2023-09-14**|**Gradient based Grasp Pose Optimization on a NeRF that Approximates Grasp Success**|Gergely Sóti et.al.|[2309.08040](http://arxiv.org/abs/2309.08040)|null|
 |**2023-09-14**|**MC-NeRF: Muti-Camera Neural Radiance Fields for Muti-Camera Image Acquisition Systems**|Yu Gao et.al.|[2309.07846](http://arxiv.org/abs/2309.07846)|null|
@@ -1895,6 +1908,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-18**|**Generating and Imputing Tabular Data via Diffusion and Flow-based Gradient-Boosted Trees**|Alexia Jolicoeur-Martineau et.al.|[2309.09968](http://arxiv.org/abs/2309.09968)|null|
+|**2023-09-18**|**vSHARP: variable Splitting Half-quadratic ADMM algorithm for Reconstruction of inverse-Problems**|George Yiasemis et.al.|[2309.09954](http://arxiv.org/abs/2309.09954)|null|
+|**2023-09-18**|**Learning to Generate Lumped Hydrological Models**|Yang Yang et.al.|[2309.09904](http://arxiv.org/abs/2309.09904)|null|
+|**2023-09-18**|**PseudoCal: Towards Initialisation-Free Deep Learning-Based Camera-LiDAR Self-Calibration**|Mathieu Cocheteux et.al.|[2309.09855](http://arxiv.org/abs/2309.09855)|null|
+|**2023-09-18**|**Hypr: A comprehensive study for ASR hypothesis revising with a reference corpus**|Yi-Wei Wang et.al.|[2309.09838](http://arxiv.org/abs/2309.09838)|null|
+|**2023-09-18**|**Application of Novel PACS-based Informatics Platform to Identify Imaging Based Predictors of CDKN2A Allelic Status in Glioblastomas**|Niklas Tillmanns et.al.|[2309.09816](http://arxiv.org/abs/2309.09816)|null|
+|**2023-09-18**|**MAD: Meta Adversarial Defense Benchmark**|X. Peng et.al.|[2309.09776](http://arxiv.org/abs/2309.09776)|null|
+|**2023-09-18**|**Semantically Redundant Training Data Removal and Deep Model Classification Performance: A Study with Chest X-rays**|Sivaramakrishnan Rajaraman et.al.|[2309.09773](http://arxiv.org/abs/2309.09773)|null|
+|**2023-09-18**|**Application-driven Validation of Posteriors in Inverse Problems**|Tim J. Adler et.al.|[2309.09764](http://arxiv.org/abs/2309.09764)|null|
+|**2023-09-18**|**Privileged to Predicted: Towards Sensorimotor Reinforcement Learning for Urban Driving**|Ege Onat Özsüer et.al.|[2309.09756](http://arxiv.org/abs/2309.09756)|null|
 |**2023-09-18**|**Closing the Loop on Runtime Monitors with Fallback-Safe MPC**|Rohan Sinha et.al.|[2309.08603](http://arxiv.org/abs/2309.08603)|null|
 |**2023-09-15**|**HINT: Healthy Influential-Noise based Training to Defend against Data Poisoning Attacks**|Minh-Hao Van et.al.|[2309.08549](http://arxiv.org/abs/2309.08549)|null|
 |**2023-09-15**|**Efficient and robust Sensor Placement in Complex Environments**|Lukas Taus et.al.|[2309.08545](http://arxiv.org/abs/2309.08545)|null|
