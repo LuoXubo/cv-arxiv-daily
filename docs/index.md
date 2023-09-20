@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.19
+## Updated on 2023.09.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1891,7 +1891,7 @@ layout: default
 |**2023-09-18**|**vSHARP: variable Splitting Half-quadratic ADMM algorithm for Reconstruction of inverse-Problems**|George Yiasemis et.al.|[2309.09954](http://arxiv.org/abs/2309.09954)|null|
 |**2023-09-18**|**Learning to Generate Lumped Hydrological Models**|Yang Yang et.al.|[2309.09904](http://arxiv.org/abs/2309.09904)|null|
 |**2023-09-18**|**PseudoCal: Towards Initialisation-Free Deep Learning-Based Camera-LiDAR Self-Calibration**|Mathieu Cocheteux et.al.|[2309.09855](http://arxiv.org/abs/2309.09855)|null|
-|**2023-09-18**|**Hypr: A comprehensive study for ASR hypothesis revising with a reference corpus**|Yi-Wei Wang et.al.|[2309.09838](http://arxiv.org/abs/2309.09838)|null|
+|**2023-09-19**|**HypR: A comprehensive study for ASR hypothesis revising with a reference corpus**|Yi-Wei Wang et.al.|[2309.09838](http://arxiv.org/abs/2309.09838)|null|
 |**2023-09-18**|**Application of Novel PACS-based Informatics Platform to Identify Imaging Based Predictors of CDKN2A Allelic Status in Glioblastomas**|Niklas Tillmanns et.al.|[2309.09816](http://arxiv.org/abs/2309.09816)|null|
 |**2023-09-18**|**MAD: Meta Adversarial Defense Benchmark**|X. Peng et.al.|[2309.09776](http://arxiv.org/abs/2309.09776)|null|
 |**2023-09-18**|**Semantically Redundant Training Data Removal and Deep Model Classification Performance: A Study with Chest X-rays**|Sivaramakrishnan Rajaraman et.al.|[2309.09773](http://arxiv.org/abs/2309.09773)|null|
