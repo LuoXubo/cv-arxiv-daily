@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.20
+## Updated on 2023.09.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1894,12 +1894,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-19**|**AI Foundation Models for Weather and Climate: Applications, Design, and Implementation**|S. Karthik Mukkavilli et.al.|[2309.10808](http://arxiv.org/abs/2309.10808)|null|
+|**2023-09-20**|**AI Foundation Models for Weather and Climate: Applications, Design, and Implementation**|S. Karthik Mukkavilli et.al.|[2309.10808](http://arxiv.org/abs/2309.10808)|null|
 |**2023-09-19**|**Machine Learning-Driven Burrowing with a Snake-Like Robot**|Sean Even et.al.|[2309.10802](http://arxiv.org/abs/2309.10802)|null|
 |**2023-09-19**|**ResEMGNet: A Lightweight Residual Deep Learning Architecture for Neuromuscular Disorder Detection from Raw EMG Signals**|Minhajur Rahman et.al.|[2309.10756](http://arxiv.org/abs/2309.10756)|null|
 |**2023-09-19**|**PAMS: Platform for Artificial Market Simulations**|Masanori Hirano et.al.|[2309.10729](http://arxiv.org/abs/2309.10729)|**[link](https://github.com/masanorihirano/pams)**|
 |**2023-09-19**|**Self-Supervised Super-Resolution Approach for Isotropic Reconstruction of 3D Electron Microscopy Images from Anisotropic Acquisition**|Mohammad Khateri et.al.|[2309.10646](http://arxiv.org/abs/2309.10646)|null|
-|**2023-09-19**|**Towards Energy-Aware Federated Traffic Prediction for Cellular Networks**|Vasileios Perifanis et.al.|[2309.10645](http://arxiv.org/abs/2309.10645)|null|
+|**2023-09-19**|**Towards Energy-Aware Federated Traffic Prediction for Cellular Networks**|Vasileios Perifanis et.al.|[2309.10645](http://arxiv.org/abs/2309.10645)|**[link](https://github.com/vperifan/federated-time-series-forecasting)**|
 |**2023-09-19**|**Robin: A Novel Method to Produce Robust Interpreters for Deep Learning-Based Code Classifiers**|Zhen Li et.al.|[2309.10644](http://arxiv.org/abs/2309.10644)|null|
 |**2023-09-19**|**Geometric structure of Deep Learning networks and construction of global ${\mathcal L}^2$ minimizers**|Thomas Chen et.al.|[2309.10639](http://arxiv.org/abs/2309.10639)|null|
 |**2023-09-19**|**Exploring the Influence of Information Entropy Change in Learning Systems**|Xiaowei Yu et.al.|[2309.10625](http://arxiv.org/abs/2309.10625)|null|
