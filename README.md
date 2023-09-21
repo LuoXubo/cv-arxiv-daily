@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-20**|**Conformalized Multimodal Uncertainty Regression and Reasoning**|Domenico Parente et.al.|[2309.11018](http://arxiv.org/abs/2309.11018)|null|
+|**2023-09-20**|**OCC-VO: Dense Mapping via 3D Occupancy-Based Visual Odometry for Autonomous Driving**|Heng Li et.al.|[2309.11011](http://arxiv.org/abs/2309.11011)|null|
 |**2023-09-19**|**LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation**|Haizhou Zhang et.al.|[2309.10436](http://arxiv.org/abs/2309.10436)|null|
 |**2023-09-19**|**Dive Deeper into Rectifying Homography for Stereo Camera Online Self-Calibration**|Hongbo Zhao et.al.|[2309.10314](http://arxiv.org/abs/2309.10314)|null|
 |**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947](http://arxiv.org/abs/2309.09947)|null|
@@ -537,6 +539,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-20**|**2D-3D Pose Tracking with Multi-View Constraints**|Huai Yu et.al.|[2309.11335](http://arxiv.org/abs/2309.11335)|null|
 |**2023-09-19**|**VPRTempo: A Fast Temporally Encoded Spiking Neural Network for Visual Place Recognition**|Adam D. Hines et.al.|[2309.10225](http://arxiv.org/abs/2309.10225)|**[link](https://github.com/QVPR/VPRTempo)**|
 |**2023-09-18**|**DynaPix SLAM: A Pixel-Based Dynamic SLAM Approach**|Chenghao Xu et.al.|[2309.09879](http://arxiv.org/abs/2309.09879)|null|
 |**2023-09-18**|**Decompose Semantic Shifts for Composed Image Retrieval**|Xingyu Yang et.al.|[2309.09531](http://arxiv.org/abs/2309.09531)|null|
@@ -1418,6 +1421,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-20**|**Controllable Dynamic Appearance for Neural 3D Portraits**|ShahRukh Athar et.al.|[2309.11009](http://arxiv.org/abs/2309.11009)|null|
+|**2023-09-20**|**Spiking NeRF: Making Bio-inspired Neural Networks See through the Real World**|Xingting Yao et.al.|[2309.10987](http://arxiv.org/abs/2309.10987)|null|
 |**2023-09-19**|**Locally Stylized Neural Radiance Fields**|Hong-Wing Pang et.al.|[2309.10684](http://arxiv.org/abs/2309.10684)|null|
 |**2023-09-19**|**Steganography for Neural Radiance Fields by Backdooring**|Weina Dong et.al.|[2309.10503](http://arxiv.org/abs/2309.10503)|null|
 |**2023-09-18**|**Instant Photorealistic Style Transfer: A Lightweight and Adaptive Approach**|Rong Liu et.al.|[2309.10011](http://arxiv.org/abs/2309.10011)|null|
@@ -1915,6 +1920,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-20**|**Budget-Aware Pruning: Handling Multiple Domains with Less Parameters**|Samuel Felipe dos Santos et.al.|[2309.11464](http://arxiv.org/abs/2309.11464)|null|
+|**2023-09-20**|**Using deep learning to construct stochastic local search SAT solvers with performance bounds**|Maximilian Kramer et.al.|[2309.11452](http://arxiv.org/abs/2309.11452)|null|
+|**2023-09-20**|**Weight Averaging Improves Knowledge Distillation under Domain Shift**|Valeriy Berezovskiy et.al.|[2309.11446](http://arxiv.org/abs/2309.11446)|**[link](https://github.com/vorobeevich/distillation-in-dg)**|
+|**2023-09-20**|**A Systematic Review of Few-Shot Learning in Medical Imaging**|Eva Pachetti et.al.|[2309.11433](http://arxiv.org/abs/2309.11433)|null|
+|**2023-09-20**|**Galaxy Zoo DESI: Detailed Morphology Measurements for 8.7M Galaxies in the DESI Legacy Imaging Surveys**|Mike Walmsley et.al.|[2309.11425](http://arxiv.org/abs/2309.11425)|null|
+|**2023-09-20**|**CalibFPA: A Focal Plane Array Imaging System based on Online Deep-Learning Calibration**|Alper Güngör et.al.|[2309.11421](http://arxiv.org/abs/2309.11421)|null|
+|**2023-09-20**|**CNNs for JPEGs: A Study in Computational Cost**|Samuel Felipe dos Santos et.al.|[2309.11417](http://arxiv.org/abs/2309.11417)|null|
+|**2023-09-20**|**EDMP: Ensemble-of-costs-guided Diffusion for Motion Planning**|Kallol Saha et.al.|[2309.11414](http://arxiv.org/abs/2309.11414)|null|
+|**2023-09-20**|**Self-supervised learning unveils change in urban housing from street-level images**|Steven Stalder et.al.|[2309.11354](http://arxiv.org/abs/2309.11354)|null|
+|**2023-09-20**|**Constraining the spatial curvature of the local Universe with deep learning**|Liang Liu et.al.|[2309.11334](http://arxiv.org/abs/2309.11334)|null|
 |**2023-09-20**|**AI Foundation Models for Weather and Climate: Applications, Design, and Implementation**|S. Karthik Mukkavilli et.al.|[2309.10808](http://arxiv.org/abs/2309.10808)|null|
 |**2023-09-19**|**Machine Learning-Driven Burrowing with a Snake-Like Robot**|Sean Even et.al.|[2309.10802](http://arxiv.org/abs/2309.10802)|null|
 |**2023-09-19**|**ResEMGNet: A Lightweight Residual Deep Learning Architecture for Neuromuscular Disorder Detection from Raw EMG Signals**|Minhajur Rahman et.al.|[2309.10756](http://arxiv.org/abs/2309.10756)|null|
