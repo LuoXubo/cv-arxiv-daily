@@ -1423,6 +1423,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**NeRRF: 3D Reconstruction and View Synthesis for Transparent and Specular Objects with Neural Refractive-Reflective Fields**|Xiaoxue Chen et.al.|[2309.13039](http://arxiv.org/abs/2309.13039)|**[link](https://github.com/dawning77/nerrf)**|
 |**2023-09-21**|**ORTexME: Occlusion-Robust Human Shape and Pose via Temporal Average Texture and Mesh Encoding**|Yu Cheng et.al.|[2309.12183](http://arxiv.org/abs/2309.12183)|null|
 |**2023-09-21**|**NeuralLabeling: A versatile toolset for labeling vision datasets using Neural Radiance Fields**|Floris Erich et.al.|[2309.11966](http://arxiv.org/abs/2309.11966)|**[link](https://github.com/FlorisE/neural-labeling)**|
 |**2023-09-21**|**Fast Satellite Tensorial Radiance Field for Multi-date Satellite Imagery of Large Size**|Tongtong Zhang et.al.|[2309.11767](http://arxiv.org/abs/2309.11767)|null|
@@ -1929,6 +1930,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**Graph Neural Network for Stress Predictions in Stiffened Panels Under Uniform Loading**|Yuecheng Cai et.al.|[2309.13022](http://arxiv.org/abs/2309.13022)|null|
+|**2023-09-22**|**A Hybrid Deep Learning-based Approach for Optimal Genotype by Environment Selection**|Zahra Khalilzadeh et.al.|[2309.13021](http://arxiv.org/abs/2309.13021)|null|
+|**2023-09-22**|**Differential Evolution Algorithm Based Hyperparameter Selection of Gated Recurrent Unit for Electrical Load Forecasting**|Anuvab Sen et.al.|[2309.13019](http://arxiv.org/abs/2309.13019)|null|
+|**2023-09-22**|**Performance Analysis of UNet and Variants for Medical Image Segmentation**|Walid Ehab et.al.|[2309.13013](http://arxiv.org/abs/2309.13013)|null|
+|**2023-09-22**|**Point Cloud Network: An Order of Magnitude Improvement in Linear Layer Parameter Count**|Charles Hetterich et.al.|[2309.12996](http://arxiv.org/abs/2309.12996)|**[link](https://gitlab.com/chetterich/pcn-paper-and-materials)**|
+|**2023-09-22**|**Deep learning probability flows and entropy production rates in active matter**|Nicholas M. Boffi et.al.|[2309.12991](http://arxiv.org/abs/2309.12991)|null|
+|**2023-09-22**|**Probabilistic Classification of Infrared-selected targets for SPHEREx mission: In search of YSOs**|K. Lakshmipathaiah et.al.|[2309.12957](http://arxiv.org/abs/2309.12957)|null|
+|**2023-09-22**|**Unraveling Medium-Range Order and Melting Mechanism of ZIF-4 under High Temperature**|Zuhao Shi et.al.|[2309.12946](http://arxiv.org/abs/2309.12946)|null|
+|**2023-09-22**|**BayesDLL: Bayesian Deep Learning Library**|Minyoung Kim et.al.|[2309.12928](http://arxiv.org/abs/2309.12928)|**[link](https://github.com/minyoungkim21/bayesdll)**|
+|**2023-09-22**|**Estimation of redshift and associated uncertainty of Fermi/LAT extra-galactic sources with Deep Learning**|Sarvesh Gharat et.al.|[2309.12846](http://arxiv.org/abs/2309.12846)|null|
 |**2023-09-21**|**The Broad Impact of Feature Imitation: Neural Enhancements Across Financial, Speech, and Physiological Domains**|Reza Khanmohammadi et.al.|[2309.12279](http://arxiv.org/abs/2309.12279)|null|
 |**2023-09-21**|**Improving VTE Identification through Adaptive NLP Model Selection and Clinical Expert Rule-based Classifier from Radiology Reports**|Jamie Deng et.al.|[2309.12273](http://arxiv.org/abs/2309.12273)|null|
 |**2023-09-21**|**Enabling Quartile-based Estimated-Mean Gradient Aggregation As Baseline for Federated Image Classifications**|Yusen Wu et.al.|[2309.12267](http://arxiv.org/abs/2309.12267)|null|
