@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.03
+## Updated on 2023.10.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-28**|**XVO: Generalized Visual Odometry via Cross-Modal Self-Training**|Lei Lai et.al.|[2309.16772](http://arxiv.org/abs/2309.16772)|null|
+|**2023-10-02**|**XVO: Generalized Visual Odometry via Cross-Modal Self-Training**|Lei Lai et.al.|[2309.16772](http://arxiv.org/abs/2309.16772)|null|
 |**2023-09-26**|**ObVi-SLAM: Long-Term Object-Visual SLAM**|Amanda Adkins et.al.|[2309.15268](http://arxiv.org/abs/2309.15268)|null|
 |**2023-09-23**|**Tag-based Visual Odometry Estimation for Indoor UAVs Localization**|Massimiliano Bertoni et.al.|[2309.13311](http://arxiv.org/abs/2309.13311)|null|
 |**2023-09-22**|**Exposing the Unseen: Exposure Time Emulation for Offline Benchmarking of Vision Algorithms**|Olivier Gamache et.al.|[2309.13139](http://arxiv.org/abs/2309.13139)|**[link](https://github.com/norlab-ulaval/borealhdr)**|
@@ -1940,7 +1940,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-29**|**Toward Universal Speech Enhancement for Diverse Input Conditions**|Wangyou Zhang et.al.|[2309.17384](http://arxiv.org/abs/2309.17384)|null|
-|**2023-09-29**|**Inferring coupling strengths of mixed-mode oscillations in red-giant stars using deep learning**|Siddharth Dhanpal et.al.|[2309.17372](http://arxiv.org/abs/2309.17372)|null|
+|**2023-10-03**|**Inferring coupling strengths of mixed-mode oscillations in red-giant stars using deep learning**|Siddharth Dhanpal et.al.|[2309.17372](http://arxiv.org/abs/2309.17372)|null|
 |**2023-09-29**|**Development of a Deep Learning Method to Identify Acute Ischemic Stroke Lesions on Brain CT**|Alessandro Fontanella et.al.|[2309.17320](http://arxiv.org/abs/2309.17320)|null|
 |**2023-09-29**|**A Survey on Deep Learning Techniques for Action Anticipation**|Zeyun Zhong et.al.|[2309.17257](http://arxiv.org/abs/2309.17257)|null|
 |**2023-09-29**|**Data-driven localized waves and parameter discovery in the massive Thirring model via extended physics-informed neural networks with interface zones**|Junchao Chen et.al.|[2309.17240](http://arxiv.org/abs/2309.17240)|null|
