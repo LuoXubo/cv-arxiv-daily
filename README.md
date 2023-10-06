@@ -1445,6 +1445,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-05**|**Drag View: Generalizable Novel View Synthesis with Unposed Imagery**|Zhiwen Fan et.al.|[2310.03704](http://arxiv.org/abs/2310.03704)|null|
+|**2023-10-05**|**Targeted Adversarial Attacks on Generalizable Neural Radiance Fields**|Andras Horvath et.al.|[2310.03578](http://arxiv.org/abs/2310.03578)|null|
+|**2023-10-05**|**BID-NeRF: RGB-D image pose estimation with inverted Neural Radiance Fields**|Ágoston István Csehi et.al.|[2310.03563](http://arxiv.org/abs/2310.03563)|null|
+|**2023-10-04**|**Shielding the Unseen: Privacy Protection through Poisoning NeRF with Spatial Deformation**|Yihan Wu et.al.|[2310.03125](http://arxiv.org/abs/2310.03125)|null|
 |**2023-10-04**|**T $^3$ Bench: Benchmarking Current Progress in Text-to-3D Generation**|Yuze He et.al.|[2310.02977](http://arxiv.org/abs/2310.02977)|null|
 |**2023-10-04**|**ED-NeRF: Efficient Text-Guided Editing of 3D Scene using Latent Space NeRF**|Jangho Park et.al.|[2310.02712](http://arxiv.org/abs/2310.02712)|null|
 |**2023-10-04**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687](http://arxiv.org/abs/2310.02687)|null|
@@ -1976,6 +1980,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-05**|**Certification of Deep Learning Models for Medical Image Segmentation**|Othmane Laousy et.al.|[2310.03664](http://arxiv.org/abs/2310.03664)|null|
+|**2023-10-05**|**Autoregressive Coefficients based Intelligent Protection of Transmission Lines Connected to Type-3 Wind Farms**|Pallav Kumar Bera et.al.|[2310.03663](http://arxiv.org/abs/2310.03663)|null|
+|**2023-10-05**|**Visual inspection for illicit items in X-ray images using Deep Learning**|Ioannis Mademlis et.al.|[2310.03658](http://arxiv.org/abs/2310.03658)|null|
+|**2023-10-05**|**Multispectral Imaging with Fresnel Lens**|Khen Cohen et.al.|[2310.03625](http://arxiv.org/abs/2310.03625)|null|
+|**2023-10-05**|**PeaTMOSS: Mining Pre-Trained Models in Open-Source Software**|Wenxin Jiang et.al.|[2310.03620](http://arxiv.org/abs/2310.03620)|**[link](https://github.com/purduedualitylab/peatmoss-demos)**|
+|**2023-10-05**|**GENER: A Parallel Layer Deep Learning Network To Detect Gene-Gene Interactions From Gene Expression Data**|Ahmed Fakhry Elnaggar et.al.|[2310.03611](http://arxiv.org/abs/2310.03611)|**[link](https://github.com/ahmedfakhry47/gener)**|
+|**2023-10-05**|**How Good Are Synthetic Medical Images? An Empirical Study with Lung Ultrasound**|Menghan Yu et.al.|[2310.03608](http://arxiv.org/abs/2310.03608)|**[link](https://github.com/global-health-labs/us-dcgan)**|
+|**2023-10-05**|**TimeGPT-1**|Azul Garza et.al.|[2310.03589](http://arxiv.org/abs/2310.03589)|null|
+|**2023-10-05**|**Plug-and-Play Posterior Sampling under Mismatched Measurement and Prior Models**|Marien Renaud et.al.|[2310.03546](http://arxiv.org/abs/2310.03546)|**[link](https://github.com/marien-renaud/pnp_ula_posterior_law_sensivity)**|
+|**2023-10-05**|**Towards Unified Deep Image Deraining: A Survey and A New Benchmark**|Xiang Chen et.al.|[2310.03535](http://arxiv.org/abs/2310.03535)|null|
 |**2023-10-04**|**Soft Convex Quantization: Revisiting Vector Quantization with Convex Optimization**|Tanmay Gautam et.al.|[2310.03004](http://arxiv.org/abs/2310.03004)|null|
 |**2023-10-05**|**Co-modeling the Sequential and Graphical Routes for Peptide Representation Learning**|Zihan Liu et.al.|[2310.02964](http://arxiv.org/abs/2310.02964)|**[link](https://github.com/zihan-liu-00/repcon)**|
 |**2023-10-04**|**ELUQuant: Event-Level Uncertainty Quantification in Deep Inelastic Scattering**|Cristiano Fanelli et.al.|[2310.02913](http://arxiv.org/abs/2310.02913)|null|
