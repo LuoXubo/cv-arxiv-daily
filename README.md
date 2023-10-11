@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**l-dyno: framework to learn consistent visual features using robot's motion**|Kartikeya Singh et.al.|[2310.06249](http://arxiv.org/abs/2310.06249)|null|
 |**2023-10-08**|**XVO: Generalized Visual Odometry via Cross-Modal Self-Training**|Lei Lai et.al.|[2309.16772](http://arxiv.org/abs/2309.16772)|null|
 |**2023-09-26**|**ObVi-SLAM: Long-Term Object-Visual SLAM**|Amanda Adkins et.al.|[2309.15268](http://arxiv.org/abs/2309.15268)|null|
 |**2023-09-23**|**Tag-based Visual Odometry Estimation for Indoor UAVs Localization**|Massimiliano Bertoni et.al.|[2309.13311](http://arxiv.org/abs/2309.13311)|null|
@@ -543,6 +544,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**Efficient Retrieval of Images with Irregular Patterns using Morphological Image Analysis: Applications to Industrial and Healthcare datasets**|Jiajun Zhang et.al.|[2310.06566](http://arxiv.org/abs/2310.06566)|null|
+|**2023-10-10**|**Topological RANSAC for instance verification and retrieval without fine-tuning**|Guoyuan An et.al.|[2310.06486](http://arxiv.org/abs/2310.06486)|null|
+|**2023-10-10**|**3DS-SLAM: A 3D Object Detection based Semantic SLAM towards Dynamic Indoor Environments**|Ghanta Sai Krishna et.al.|[2310.06385](http://arxiv.org/abs/2310.06385)|null|
 |**2023-10-09**|**Collaborative Visual Place Recognition**|Yiming Li et.al.|[2310.05541](http://arxiv.org/abs/2310.05541)|null|
 |**2023-10-09**|**Sentence-level Prompts Benefit Composed Image Retrieval**|Yang Bai et.al.|[2310.05473](http://arxiv.org/abs/2310.05473)|**[link](https://github.com/chunmeifeng/sprc)**|
 |**2023-10-08**|**AANet: Aggregation and Alignment Network with Semi-hard Positive Sample Mining for Hierarchical Place Recognition**|Feng Lu et.al.|[2310.05184](http://arxiv.org/abs/2310.05184)|**[link](https://github.com/Lu-Feng/AANet)**|
@@ -1094,6 +1098,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**l-dyno: framework to learn consistent visual features using robot's motion**|Kartikeya Singh et.al.|[2310.06249](http://arxiv.org/abs/2310.06249)|null|
 |**2023-10-10**|**Language-driven Open-Vocabulary Keypoint Detection for Animal Body and Face**|Hao Zhang et.al.|[2310.05056](http://arxiv.org/abs/2310.05056)|null|
 |**2023-10-02**|**H-InDex: Visual Reinforcement Learning with Hand-Informed Representations for Dexterous Manipulation**|Yanjie Ze et.al.|[2310.01404](http://arxiv.org/abs/2310.01404)|**[link](https://github.com/YanjieZe/H-InDex)**|
 |**2023-10-04**|**Self-supervised Learning of Contextualized Local Visual Embeddings**|Thalles Santos Silva et.al.|[2310.00527](http://arxiv.org/abs/2310.00527)|**[link](https://github.com/sthalles/clove)**|
@@ -1453,6 +1458,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**High-Fidelity 3D Head Avatars Reconstruction through Spatially-Varying Expression Conditioned Neural Radiance Field**|Minghan Qin et.al.|[2310.06275](http://arxiv.org/abs/2310.06275)|null|
 |**2023-10-09**|**A Real-time Method for Inserting Virtual Objects into Neural Radiance Fields**|Keyang Ye et.al.|[2310.05837](http://arxiv.org/abs/2310.05837)|null|
 |**2023-10-09**|**Neural Impostor: Editing Neural Radiance Fields with Explicit Shape Manipulation**|Ruiyang Liu et.al.|[2310.05391](http://arxiv.org/abs/2310.05391)|null|
 |**2023-10-08**|**LocoNeRF: A NeRF-based Approach for Local Structure from Motion for Precise Localization**|Artem Nenashev et.al.|[2310.05134](http://arxiv.org/abs/2310.05134)|null|
@@ -1993,6 +1999,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**Correlated Noise Provably Beats Independent Noise for Differentially Private Learning**|Christopher A. Choquette-Choo et.al.|[2310.06771](http://arxiv.org/abs/2310.06771)|null|
+|**2023-10-10**|**FABind: Fast and Accurate Protein-Ligand Binding**|Qizhi Pei et.al.|[2310.06763](http://arxiv.org/abs/2310.06763)|**[link](https://github.com/qizhipei/fabind)**|
+|**2023-10-10**|**Growing ecosystem of deep learning methods for modeling protein $\unicode{x2013}$ protein interactions**|Julia R. Rogers et.al.|[2310.06725](http://arxiv.org/abs/2310.06725)|null|
+|**2023-10-10**|**S4Sleep: Elucidating the design space of deep-learning-based sleep stage classification models**|Tiezhi Wang et.al.|[2310.06715](http://arxiv.org/abs/2310.06715)|**[link](https://github.com/ai4healthuol/s4sleep)**|
+|**2023-10-10**|**Domain Generalization by Rejecting Extreme Augmentations**|Masih Aminbeidokhti et.al.|[2310.06670](http://arxiv.org/abs/2310.06670)|null|
+|**2023-10-10**|**A Survey on Intelligent Iterative Methods for Solving Sparse Linear Algebraic Equations**|Haifeng Zou et.al.|[2310.06630](http://arxiv.org/abs/2310.06630)|null|
+|**2023-10-10**|**EViT: An Eagle Vision Transformer with Bi-Fovea Self-Attention**|Yulong Shi et.al.|[2310.06629](http://arxiv.org/abs/2310.06629)|null|
+|**2023-10-10**|**Deep Cardiac MRI Reconstruction with ADMM**|George Yiasemis et.al.|[2310.06628](http://arxiv.org/abs/2310.06628)|null|
+|**2023-10-10**|**Pi-DUAL: Using Privileged Information to Distinguish Clean from Noisy Labels**|Ke Wang et.al.|[2310.06600](http://arxiv.org/abs/2310.06600)|null|
+|**2023-10-10**|**Deep Learning reconstruction with uncertainty estimation for $γ$ photon interaction in fast scintillator detectors**|Geoffrey Daniel et.al.|[2310.06572](http://arxiv.org/abs/2310.06572)|null|
 |**2023-10-09**|**Deep Learning-Based Hurricane Resilient Co-planning of Transmission Lines, Battery Energy Storages and Wind Farms**|Mojtaba Moradi-Sepahvand et.al.|[2310.05814](http://arxiv.org/abs/2310.05814)|null|
 |**2023-10-09**|**Provably Convergent Data-Driven Convex-Nonconvex Regularization**|Zakhar Shumaylov et.al.|[2310.05812](http://arxiv.org/abs/2310.05812)|null|
 |**2023-10-09**|**Problem-Solving Guide: Predicting the Algorithm Tags and Difficulty for Competitive Programming Problems**|Juntae Kim et.al.|[2310.05791](http://arxiv.org/abs/2310.05791)|**[link](https://github.com/sronger/psg_predicting_algorithm_tags_and_difficulty)**|
