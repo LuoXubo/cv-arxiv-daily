@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.13
+## Updated on 2023.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1988,7 +1988,7 @@ layout: default
 |**2023-10-11**|**Deep Video Inpainting Guided by Audio-Visual Self-Supervision**|Kyuyeon Kim et.al.|[2310.07663](http://arxiv.org/abs/2310.07663)|null|
 |**2023-10-11**|**Hypercomplex Multimodal Emotion Recognition from EEG and Peripheral Physiological Signals**|Eleonora Lopez et.al.|[2310.07648](http://arxiv.org/abs/2310.07648)|null|
 |**2023-10-11**|**Attention-Map Augmentation for Hypercomplex Breast Cancer Classification**|Eleonora Lopez et.al.|[2310.07633](http://arxiv.org/abs/2310.07633)|null|
-|**2023-10-11**|**Differentiable Euler Characteristic Transforms for Shape Classification**|Ernst Roell et.al.|[2310.07630](http://arxiv.org/abs/2310.07630)|null|
+|**2023-10-11**|**Differentiable Euler Characteristic Transforms for Shape Classification**|Ernst Roell et.al.|[2310.07630](http://arxiv.org/abs/2310.07630)|**[link](https://github.com/aidos-lab/dect)**|
 |**2023-10-11**|**Unsupervised Learning of Sea Surface Height Interpolation from Multi-variate Simulated Satellite Observations**|Theo Archambault et.al.|[2310.07626](http://arxiv.org/abs/2310.07626)|null|
 |**2023-10-11**|**Dual Radar: A Multi-modal Dataset with Dual 4D Radar for Autononous Driving**|Xinyu Zhang et.al.|[2310.07602](http://arxiv.org/abs/2310.07602)|**[link](https://github.com/adept-thu/dual-radar)**|
 |**2023-10-11**|**Survey on Imbalanced Data, Representation Learning and SEP Forecasting**|Josias Moukpe et.al.|[2310.07598](http://arxiv.org/abs/2310.07598)|null|
