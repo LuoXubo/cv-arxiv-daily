@@ -2000,7 +2000,7 @@ layout: default
 |**2023-10-12**|**Long-Tailed Classification Based on Coarse-Grained Leading Forest and Multi-Center Loss**|Jinye Yang et.al.|[2310.08206](http://arxiv.org/abs/2310.08206)|**[link](https://github.com/jinyery/cognisance)**|
 |**2023-10-11**|**Pixel State Value Network for Combined Prediction and Planning in Interactive Environments**|Sascha Rosbach et.al.|[2310.07706](http://arxiv.org/abs/2310.07706)|null|
 |**2023-10-11**|**Discovery of Novel Reticular Materials for Carbon Dioxide Capture using GFlowNets**|Flaviu Cipcigan et.al.|[2310.07671](http://arxiv.org/abs/2310.07671)|null|
-|**2023-10-11**|**Deep Video Inpainting Guided by Audio-Visual Self-Supervision**|Kyuyeon Kim et.al.|[2310.07663](http://arxiv.org/abs/2310.07663)|null|
+|**2023-10-11**|**Deep Video Inpainting Guided by Audio-Visual Self-Supervision**|Kyuyeon Kim et.al.|[2310.07663](http://arxiv.org/abs/2310.07663)|**[link](https://github.com/kyuyeonpooh/Audio-Visual-Deep-Video-Inpainting)**|
 |**2023-10-11**|**Hypercomplex Multimodal Emotion Recognition from EEG and Peripheral Physiological Signals**|Eleonora Lopez et.al.|[2310.07648](http://arxiv.org/abs/2310.07648)|null|
 |**2023-10-11**|**Attention-Map Augmentation for Hypercomplex Breast Cancer Classification**|Eleonora Lopez et.al.|[2310.07633](http://arxiv.org/abs/2310.07633)|null|
 |**2023-10-11**|**Differentiable Euler Characteristic Transforms for Shape Classification**|Ernst Roell et.al.|[2310.07630](http://arxiv.org/abs/2310.07630)|**[link](https://github.com/aidos-lab/dect)**|
@@ -2145,7 +2145,7 @@ layout: default
 |**2023-09-20**|**Galaxy Zoo DESI: Detailed Morphology Measurements for 8.7M Galaxies in the DESI Legacy Imaging Surveys**|Mike Walmsley et.al.|[2309.11425](http://arxiv.org/abs/2309.11425)|**[link](https://github.com/mwalmsley/zoobot)**|
 |**2023-09-20**|**CalibFPA: A Focal Plane Array Imaging System based on Online Deep-Learning Calibration**|Alper Güngör et.al.|[2309.11421](http://arxiv.org/abs/2309.11421)|null|
 |**2023-09-20**|**CNNs for JPEGs: A Study in Computational Cost**|Samuel Felipe dos Santos et.al.|[2309.11417](http://arxiv.org/abs/2309.11417)|null|
-|**2023-09-20**|**EDMP: Ensemble-of-costs-guided Diffusion for Motion Planning**|Kallol Saha et.al.|[2309.11414](http://arxiv.org/abs/2309.11414)|null|
+|**2023-09-20**|**EDMP: Ensemble-of-costs-guided Diffusion for Motion Planning**|Kallol Saha et.al.|[2309.11414](http://arxiv.org/abs/2309.11414)|**[link](https://github.com/vishal-2000/EDMP)**|
 |**2023-09-21**|**Self-supervised learning unveils change in urban housing from street-level images**|Steven Stalder et.al.|[2309.11354](http://arxiv.org/abs/2309.11354)|**[link](https://gitlab.renkulab.io/deeplnafrica/Street2Vec)**|
 |**2023-09-20**|**Constraining the spatial curvature of the local Universe with deep learning**|Liang Liu et.al.|[2309.11334](http://arxiv.org/abs/2309.11334)|null|
 |**2023-09-20**|**AI Foundation Models for Weather and Climate: Applications, Design, and Implementation**|S. Karthik Mukkavilli et.al.|[2309.10808](http://arxiv.org/abs/2309.10808)|null|
@@ -2768,7 +2768,7 @@ layout: default
 |**2023-06-21**|**Combining multi-spectral data with statistical and deep-learning models for improved exoplanet detection in direct imaging at high contrast**|Olivier Flasseur et.al.|[2306.12266](http://arxiv.org/abs/2306.12266)|null|
 |**2023-06-21**|**Concurrent ischemic lesion age estimation and segmentation of CT brain using a Transformer-based network**|Adam Marcus et.al.|[2306.12242](http://arxiv.org/abs/2306.12242)|null|
 |**2023-06-21**|**Opening the Black Box: Analyzing Attention Weights and Hidden States in Pre-trained Language Models for Non-language Tasks**|Mohamad Ballout et.al.|[2306.12198](http://arxiv.org/abs/2306.12198)|**[link](https://github.com/balloutai/attention-analysis)**|
-|**2023-06-20**|**SkyGPT: Probabilistic Short-term Solar Forecasting Using Synthetic Sky Videos from Physics-constrained VideoGPT**|Yuhao Nie et.al.|[2306.11682](http://arxiv.org/abs/2306.11682)|null|
+|**2023-06-20**|**SkyGPT: Probabilistic Short-term Solar Forecasting Using Synthetic Sky Videos from Physics-constrained VideoGPT**|Yuhao Nie et.al.|[2306.11682](http://arxiv.org/abs/2306.11682)|**[link](https://github.com/yuhao-nie/stanford-solar-forecasting-dataset)**|
 |**2023-06-20**|**A Survey on Automated Software Vulnerability Detection Using Machine Learning and Deep Learning**|Nima Shiri Harzevili et.al.|[2306.11673](http://arxiv.org/abs/2306.11673)|null|
 |**2023-06-20**|**Deep Learning Methods for Retinal Blood Vessel Segmentation: Evaluation on Images with Retinopathy of Prematurity**|Gorana Gojić et.al.|[2306.11576](http://arxiv.org/abs/2306.11576)|null|
 |**2023-06-20**|**MILD: Modeling the Instance Learning Dynamics for Learning with Noisy Labels**|Chuanyang Hu et.al.|[2306.11560](http://arxiv.org/abs/2306.11560)|**[link](https://github.com/hcyang-null/mild)**|
