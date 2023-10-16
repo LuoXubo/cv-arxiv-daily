@@ -545,6 +545,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-13**|**Vision-by-Language for Training-Free Compositional Image Retrieval**|Shyamgopal Karthik et.al.|[2310.09291](http://arxiv.org/abs/2310.09291)|null|
 |**2023-10-12**|**Hyp-UML: Hyperbolic Image Retrieval with Uncertainty-aware Metric Learning**|Shiyang Yan et.al.|[2310.08390](http://arxiv.org/abs/2310.08390)|null|
 |**2023-10-12**|**Jointly Optimized Global-Local Visual Localization of UAVs**|Haoling Li et.al.|[2310.08082](http://arxiv.org/abs/2310.08082)|null|
 |**2023-10-10**|**Leveraging Neural Radiance Fields for Uncertainty-Aware Visual Localization**|Le Chen et.al.|[2310.06984](http://arxiv.org/abs/2310.06984)|null|
@@ -2009,6 +2010,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-13**|**Disentangled Latent Spaces Facilitate Data-Driven Auxiliary Learning**|Geri Skenderi et.al.|[2310.09278](http://arxiv.org/abs/2310.09278)|null|
+|**2023-10-13**|**It's an Alignment, Not a Trade-off: Revisiting Bias and Variance in Deep Models**|Lin Chen et.al.|[2310.09250](http://arxiv.org/abs/2310.09250)|null|
+|**2023-10-13**|**Precedent-Enhanced Legal Judgment Prediction with LLM and Domain-Model Collaboration**|Yiquan Wu et.al.|[2310.09241](http://arxiv.org/abs/2310.09241)|null|
+|**2023-10-13**|**Time CNN and Graph Convolution Network for Epileptic Spike Detection in MEG Data**|Pauline Mouches et.al.|[2310.09236](http://arxiv.org/abs/2310.09236)|null|
+|**2023-10-13**|**SiamAF: Learning Shared Information from ECG and PPG Signals for Robust Atrial Fibrillation Detection**|Zhicheng Guo et.al.|[2310.09203](http://arxiv.org/abs/2310.09203)|**[link](https://github.com/chengstark/siamaf)**|
+|**2023-10-13**|**Timestamp-supervised Wearable-based Activity Segmentation and Recognition with Contrastive Learning and Order-Preserving Optimal Transport**|Songpengcheng Xia et.al.|[2310.09114](http://arxiv.org/abs/2310.09114)|null|
+|**2023-10-13**|**Privacy-Preserving Encrypted Low-Dose CT Denoising**|Ziyuan Yang et.al.|[2310.09101](http://arxiv.org/abs/2310.09101)|null|
+|**2023-10-13**|**DNFS-VNE: Deep Neuro-Fuzzy System-Driven Virtual Network Embedding Algorithm**|Ailing Xiao et.al.|[2310.09078](http://arxiv.org/abs/2310.09078)|null|
+|**2023-10-13**|**Federated Meta-Learning for Few-Shot Fault Diagnosis with Representation Encoding**|Jixuan Cui et.al.|[2310.09002](http://arxiv.org/abs/2310.09002)|null|
+|**2023-10-13**|**Low-latency Speech Enhancement via Speech Token Generation**|Huaying Xue et.al.|[2310.08981](http://arxiv.org/abs/2310.08981)|null|
 |**2023-10-12**|**Image2PCI -- A Multitask Learning Framework for Estimating Pavement Condition Indices Directly from Images**|Neema Jakisa Owor et.al.|[2310.08538](http://arxiv.org/abs/2310.08538)|null|
 |**2023-10-12**|**XAI Benchmark for Visual Explanation**|Yifei Zhang et.al.|[2310.08537](http://arxiv.org/abs/2310.08537)|null|
 |**2023-10-12**|**How connectivity structure shapes rich and lazy learning in neural circuits**|Yuhan Helena Liu et.al.|[2310.08513](http://arxiv.org/abs/2310.08513)|null|
