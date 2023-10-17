@@ -545,6 +545,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-16**|**Autonomous Mapping and Navigation using Fiducial Markers and Pan-Tilt Camera for Assisting Indoor Mobility of Blind and Visually Impaired People**|Dharmateja Adapa et.al.|[2310.10290](http://arxiv.org/abs/2310.10290)|null|
+|**2023-10-16**|**EfficientOCR: An Extensible, Open-Source Package for Efficiently Digitizing World Knowledge**|Tom Bryan et.al.|[2310.10050](http://arxiv.org/abs/2310.10050)|null|
+|**2023-10-15**|**CAPro: Webly Supervised Learning with Cross-Modality Aligned Prototypes**|Yulei Qin et.al.|[2310.09761](http://arxiv.org/abs/2310.09761)|null|
+|**2023-10-13**|**Pairwise Similarity Learning is SimPLE**|Yandong Wen et.al.|[2310.09449](http://arxiv.org/abs/2310.09449)|null|
 |**2023-10-13**|**Vision-by-Language for Training-Free Compositional Image Retrieval**|Shyamgopal Karthik et.al.|[2310.09291](http://arxiv.org/abs/2310.09291)|null|
 |**2023-10-12**|**Hyp-UML: Hyperbolic Image Retrieval with Uncertainty-aware Metric Learning**|Shiyang Yan et.al.|[2310.08390](http://arxiv.org/abs/2310.08390)|null|
 |**2023-10-12**|**Jointly Optimized Global-Local Visual Localization of UAVs**|Haoling Li et.al.|[2310.08082](http://arxiv.org/abs/2310.08082)|null|
@@ -1465,6 +1469,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-16**|**TraM-NeRF: Tracing Mirror and Near-Perfect Specular Reflections through Neural Radiance Fields**|Leif Van Holland et.al.|[2310.10650](http://arxiv.org/abs/2310.10650)|null|
+|**2023-10-16**|**DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing**|Jia-Wei Liu et.al.|[2310.10624](http://arxiv.org/abs/2310.10624)|null|
+|**2023-10-16**|**Self-supervised Fetal MRI 3D Reconstruction Based on Radiation Diffusion Generation Model**|Junpeng Tan et.al.|[2310.10209](http://arxiv.org/abs/2310.10209)|null|
+|**2023-10-15**|**ProteusNeRF: Fast Lightweight NeRF Editing using 3D-Aware Image Context**|Binglun Wang et.al.|[2310.09965](http://arxiv.org/abs/2310.09965)|null|
+|**2023-10-15**|**Active Perception using Neural Radiance Fields**|Siming He et.al.|[2310.09892](http://arxiv.org/abs/2310.09892)|null|
+|**2023-10-15**|**CBARF: Cascaded Bundle-Adjusting Neural Radiance Fields from Imperfect Camera Poses**|Hongyu Fu et.al.|[2310.09776](http://arxiv.org/abs/2310.09776)|null|
 |**2023-10-11**|**Dynamic Appearance Particle Neural Radiance Field**|Ancheng Lin et.al.|[2310.07916](http://arxiv.org/abs/2310.07916)|null|
 |**2023-10-12**|**PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction**|Jia-Wang Bian et.al.|[2310.07449](http://arxiv.org/abs/2310.07449)|null|
 |**2023-10-11**|**rpcPRF: Generalizable MPI Neural Radiance Field for Satellite Camera**|Tongtong Zhang et.al.|[2310.07179](http://arxiv.org/abs/2310.07179)|null|
@@ -2010,6 +2020,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-16**|**A Computational Framework for Solving Wasserstein Lagrangian Flows**|Kirill Neklyudov et.al.|[2310.10649](http://arxiv.org/abs/2310.10649)|null|
+|**2023-10-16**|**TacticAI: an AI assistant for football tactics**|Zhe Wang et.al.|[2310.10553](http://arxiv.org/abs/2310.10553)|null|
+|**2023-10-16**|**Deep learning applied to EEG data with different montages using spatial attention**|Dung Truong et.al.|[2310.10550](http://arxiv.org/abs/2310.10550)|null|
+|**2023-10-16**|**Microscaling Data Formats for Deep Learning**|Bita Darvish Rouhani et.al.|[2310.10537](http://arxiv.org/abs/2310.10537)|null|
+|**2023-10-16**|**Few-Shot Learning Patterns in Financial Time-Series for Trend-Following Strategies**|Kieran Wood et.al.|[2310.10500](http://arxiv.org/abs/2310.10500)|null|
+|**2023-10-16**|**On the Transferability of Learning Models for Semantic Segmentation for Remote Sensing Data**|Rongjun Qin et.al.|[2310.10490](http://arxiv.org/abs/2310.10490)|null|
+|**2023-10-16**|**Combating Label Noise With A General Surrogate Model For Sample Selection**|Chao Liang et.al.|[2310.10463](http://arxiv.org/abs/2310.10463)|null|
+|**2023-10-16**|**Adaptive Neural Ranking Framework: Toward Maximized Business Goal for Cascade Ranking Systems**|Yunli Wang et.al.|[2310.10462](http://arxiv.org/abs/2310.10462)|null|
+|**2023-10-16**|**Model Selection of Anomaly Detectors in the Absence of Labeled Validation Data**|Clement Fung et.al.|[2310.10461](http://arxiv.org/abs/2310.10461)|null|
+|**2023-10-16**|**Einstein Telescope: binary black holes gravitational wave signals detection from three detectors combined data using deep learning**|Wathela Alhassan et.al.|[2310.10409](http://arxiv.org/abs/2310.10409)|null|
 |**2023-10-13**|**Disentangled Latent Spaces Facilitate Data-Driven Auxiliary Learning**|Geri Skenderi et.al.|[2310.09278](http://arxiv.org/abs/2310.09278)|null|
 |**2023-10-13**|**It's an Alignment, Not a Trade-off: Revisiting Bias and Variance in Deep Models**|Lin Chen et.al.|[2310.09250](http://arxiv.org/abs/2310.09250)|null|
 |**2023-10-13**|**Precedent-Enhanced Legal Judgment Prediction with LLM and Domain-Model Collaboration**|Yiquan Wu et.al.|[2310.09241](http://arxiv.org/abs/2310.09241)|null|
