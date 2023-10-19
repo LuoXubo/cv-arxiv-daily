@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.18
+## Updated on 2023.10.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-17**|**Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms**|Yanyan Li et.al.|[2310.10931](http://arxiv.org/abs/2310.10931)|**[link](https://github.com/yanyan-li/open-structure)**|
 |**2023-10-12**|**Jointly Optimized Global-Local Visual Localization of UAVs**|Haoling Li et.al.|[2310.08082](http://arxiv.org/abs/2310.08082)|null|
 |**2023-10-10**|**l-dyno: framework to learn consistent visual features using robot's motion**|Kartikeya Singh et.al.|[2310.06249](http://arxiv.org/abs/2310.06249)|null|
 |**2023-10-08**|**XVO: Generalized Visual Odometry via Cross-Modal Self-Training**|Lei Lai et.al.|[2309.16772](http://arxiv.org/abs/2309.16772)|null|
@@ -532,6 +533,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-17**|**Learning Comprehensive Representations with Richer Self for Text-to-Image Person Re-Identification**|Shuanglin Yan et.al.|[2310.11210](http://arxiv.org/abs/2310.11210)|null|
 |**2023-10-16**|**Autonomous Mapping and Navigation using Fiducial Markers and Pan-Tilt Camera for Assisting Indoor Mobility of Blind and Visually Impaired People**|Dharmateja Adapa et.al.|[2310.10290](http://arxiv.org/abs/2310.10290)|null|
 |**2023-10-16**|**EfficientOCR: An Extensible, Open-Source Package for Efficiently Digitizing World Knowledge**|Tom Bryan et.al.|[2310.10050](http://arxiv.org/abs/2310.10050)|null|
 |**2023-10-15**|**CAPro: Webly Supervised Learning with Cross-Modality Aligned Prototypes**|Yulei Qin et.al.|[2310.09761](http://arxiv.org/abs/2310.09761)|**[link](https://github.com/yuleiqin/capro)**|
@@ -1999,6 +2001,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-17**|**Butterfly Effects of SGD Noise: Error Amplification in Behavior Cloning and Autoregression**|Adam Block et.al.|[2310.11428](http://arxiv.org/abs/2310.11428)|null|
+|**2023-10-17**|**On Coherence-based Predictors for Dense Query Performance Prediction**|Maria Vlachou et.al.|[2310.11405](http://arxiv.org/abs/2310.11405)|null|
+|**2023-10-17**|**Neural Attention: Enhancing QKV Calculation in Self-Attention Mechanism with Neural Networks**|Muhan Zhang et.al.|[2310.11398](http://arxiv.org/abs/2310.11398)|**[link](https://github.com/ocislyjrti/neuralattention)**|
+|**2023-10-17**|**A voxel-level approach to brain age prediction: A method to assess regional brain aging**|Neha Gianchandani et.al.|[2310.11385](http://arxiv.org/abs/2310.11385)|**[link](https://github.com/nehagianchandani/voxel-level-brain-age-prediction)**|
+|**2023-10-17**|**High-Fidelity Noise Reduction with Differentiable Signal Processing**|Christian J. Steinmetz et.al.|[2310.11364](http://arxiv.org/abs/2310.11364)|null|
+|**2023-10-17**|**Deep learning segmentation of low-resolution images for prostate magnetic resonance-guided radiotherapy**|Samuel Fransson et.al.|[2310.11358](http://arxiv.org/abs/2310.11358)|null|
+|**2023-10-17**|**Contextualized Machine Learning**|Benjamin Lengerich et.al.|[2310.11340](http://arxiv.org/abs/2310.11340)|null|
+|**2023-10-17**|**Innovative Methods for Non-Destructive Inspection of Handwritten Documents**|Eleonora Breci et.al.|[2310.11217](http://arxiv.org/abs/2310.11217)|null|
+|**2023-10-17**|**MST-GAT: A Multimodal Spatial-Temporal Graph Attention Network for Time Series Anomaly Detection**|Chaoyue Ding et.al.|[2310.11169](http://arxiv.org/abs/2310.11169)|null|
+|**2023-10-17**|**Unsupervised Pre-Training Using Masked Autoencoders for ECG Analysis**|Guoxin Wang et.al.|[2310.11153](http://arxiv.org/abs/2310.11153)|null|
 |**2023-10-17**|**A Computational Framework for Solving Wasserstein Lagrangian Flows**|Kirill Neklyudov et.al.|[2310.10649](http://arxiv.org/abs/2310.10649)|**[link](https://github.com/necludov/wl-mechanics)**|
 |**2023-10-17**|**TacticAI: an AI assistant for football tactics**|Zhe Wang et.al.|[2310.10553](http://arxiv.org/abs/2310.10553)|null|
 |**2023-10-16**|**Deep learning applied to EEG data with different montages using spatial attention**|Dung Truong et.al.|[2310.10550](http://arxiv.org/abs/2310.10550)|null|

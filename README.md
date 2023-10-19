@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.18
+## Updated on 2023.10.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-17**|**Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms**|Yanyan Li et.al.|[2310.10931](http://arxiv.org/abs/2310.10931)|**[link](https://github.com/yanyan-li/open-structure)**|
 |**2023-10-12**|**Jointly Optimized Global-Local Visual Localization of UAVs**|Haoling Li et.al.|[2310.08082](http://arxiv.org/abs/2310.08082)|null|
 |**2023-10-10**|**l-dyno: framework to learn consistent visual features using robot's motion**|Kartikeya Singh et.al.|[2310.06249](http://arxiv.org/abs/2310.06249)|null|
 |**2023-10-08**|**XVO: Generalized Visual Odometry via Cross-Modal Self-Training**|Lei Lai et.al.|[2309.16772](http://arxiv.org/abs/2309.16772)|null|
@@ -443,7 +444,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231019>back to top</a>)</p>
 
 ## SFM
 
@@ -539,12 +540,13 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231019>back to top</a>)</p>
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-17**|**Learning Comprehensive Representations with Richer Self for Text-to-Image Person Re-Identification**|Shuanglin Yan et.al.|[2310.11210](http://arxiv.org/abs/2310.11210)|null|
 |**2023-10-16**|**Autonomous Mapping and Navigation using Fiducial Markers and Pan-Tilt Camera for Assisting Indoor Mobility of Blind and Visually Impaired People**|Dharmateja Adapa et.al.|[2310.10290](http://arxiv.org/abs/2310.10290)|null|
 |**2023-10-16**|**EfficientOCR: An Extensible, Open-Source Package for Efficiently Digitizing World Knowledge**|Tom Bryan et.al.|[2310.10050](http://arxiv.org/abs/2310.10050)|null|
 |**2023-10-15**|**CAPro: Webly Supervised Learning with Cross-Modality Aligned Prototypes**|Yulei Qin et.al.|[2310.09761](http://arxiv.org/abs/2310.09761)|**[link](https://github.com/yuleiqin/capro)**|
@@ -1102,7 +1104,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231019>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1285,7 +1287,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231019>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1463,7 +1465,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231019>back to top</a>)</p>
 
 ## NeRF
 
@@ -2014,12 +2016,22 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231019>back to top</a>)</p>
 
 ## Computer Vision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-17**|**Butterfly Effects of SGD Noise: Error Amplification in Behavior Cloning and Autoregression**|Adam Block et.al.|[2310.11428](http://arxiv.org/abs/2310.11428)|null|
+|**2023-10-17**|**On Coherence-based Predictors for Dense Query Performance Prediction**|Maria Vlachou et.al.|[2310.11405](http://arxiv.org/abs/2310.11405)|null|
+|**2023-10-17**|**Neural Attention: Enhancing QKV Calculation in Self-Attention Mechanism with Neural Networks**|Muhan Zhang et.al.|[2310.11398](http://arxiv.org/abs/2310.11398)|**[link](https://github.com/ocislyjrti/neuralattention)**|
+|**2023-10-17**|**A voxel-level approach to brain age prediction: A method to assess regional brain aging**|Neha Gianchandani et.al.|[2310.11385](http://arxiv.org/abs/2310.11385)|**[link](https://github.com/nehagianchandani/voxel-level-brain-age-prediction)**|
+|**2023-10-17**|**High-Fidelity Noise Reduction with Differentiable Signal Processing**|Christian J. Steinmetz et.al.|[2310.11364](http://arxiv.org/abs/2310.11364)|null|
+|**2023-10-17**|**Deep learning segmentation of low-resolution images for prostate magnetic resonance-guided radiotherapy**|Samuel Fransson et.al.|[2310.11358](http://arxiv.org/abs/2310.11358)|null|
+|**2023-10-17**|**Contextualized Machine Learning**|Benjamin Lengerich et.al.|[2310.11340](http://arxiv.org/abs/2310.11340)|null|
+|**2023-10-17**|**Innovative Methods for Non-Destructive Inspection of Handwritten Documents**|Eleonora Breci et.al.|[2310.11217](http://arxiv.org/abs/2310.11217)|null|
+|**2023-10-17**|**MST-GAT: A Multimodal Spatial-Temporal Graph Attention Network for Time Series Anomaly Detection**|Chaoyue Ding et.al.|[2310.11169](http://arxiv.org/abs/2310.11169)|null|
+|**2023-10-17**|**Unsupervised Pre-Training Using Masked Autoencoders for ECG Analysis**|Guoxin Wang et.al.|[2310.11153](http://arxiv.org/abs/2310.11153)|null|
 |**2023-10-17**|**A Computational Framework for Solving Wasserstein Lagrangian Flows**|Kirill Neklyudov et.al.|[2310.10649](http://arxiv.org/abs/2310.10649)|**[link](https://github.com/necludov/wl-mechanics)**|
 |**2023-10-17**|**TacticAI: an AI assistant for football tactics**|Zhe Wang et.al.|[2310.10553](http://arxiv.org/abs/2310.10553)|null|
 |**2023-10-16**|**Deep learning applied to EEG data with different montages using spatial attention**|Dung Truong et.al.|[2310.10550](http://arxiv.org/abs/2310.10550)|null|
@@ -3361,7 +3373,7 @@
 |**2023-04-04**|**Denoising Diffusion Probabilistic Models to Predict the Density of Molecular Clouds**|Duo Xu et.al.|[2304.01670](http://arxiv.org/abs/2304.01670)|null|
 |**2023-04-04**|**Re-thinking Model Inversion Attacks Against Deep Neural Networks**|Ngoc-Bao Nguyen et.al.|[2304.01669](http://arxiv.org/abs/2304.01669)|**[link](https://github.com/sutd-visual-computing-group/Re-thinking_MI)**|
 
-<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231019>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
