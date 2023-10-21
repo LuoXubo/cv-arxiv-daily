@@ -2027,7 +2027,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-19**|**Predicting a Protein's Stability under a Million Mutations**|Jeffrey Ouyang-Zhang et.al.|[2310.12979](http://arxiv.org/abs/2310.12979)|null|
+|**2023-10-19**|**Predicting a Protein's Stability under a Million Mutations**|Jeffrey Ouyang-Zhang et.al.|[2310.12979](http://arxiv.org/abs/2310.12979)|**[link](https://github.com/jozhang97/mutateeverything)**|
 |**2023-10-19**|**Does Your Model Think Like an Engineer? Explainable AI for Bearing Fault Detection with Deep Learning**|Thomas Decker et.al.|[2310.12967](http://arxiv.org/abs/2310.12967)|null|
 |**2023-10-19**|**EMIT-Diff: Enhancing Medical Image Segmentation via Text-Guided Diffusion Model**|Zheyuan Zhang et.al.|[2310.12868](http://arxiv.org/abs/2310.12868)|null|
 |**2023-10-19**|**Predicting Ovarian Cancer Treatment Response in Histopathology using Hierarchical Vision Transformers and Multiple Instance Learning**|Jack Breen et.al.|[2310.12866](http://arxiv.org/abs/2310.12866)|**[link](https://github.com/scjjb/hipt_abmil_atec23)**|
@@ -2035,7 +2035,7 @@
 |**2023-10-19**|**An effective theory of collective deep learning**|Lluís Arola-Fernández et.al.|[2310.12802](http://arxiv.org/abs/2310.12802)|null|
 |**2023-10-19**|**DT/MARS-CycleGAN: Improved Object Detection for MARS Phenotyping Robot**|David Liu et.al.|[2310.12787](http://arxiv.org/abs/2310.12787)|null|
 |**2023-10-19**|**Learn from the Past: A Proxy based Adversarial Defense Framework to Boost Robustness**|Yaohua Liu et.al.|[2310.12713](http://arxiv.org/abs/2310.12713)|null|
-|**2023-10-19**|**Neural networks for insurance pricing with frequency and severity data: a benchmark study from data preprocessing to technical tariff**|Freek Holvoet et.al.|[2310.12671](http://arxiv.org/abs/2310.12671)|null|
+|**2023-10-19**|**Neural networks for insurance pricing with frequency and severity data: a benchmark study from data preprocessing to technical tariff**|Freek Holvoet et.al.|[2310.12671](http://arxiv.org/abs/2310.12671)|**[link](https://github.com/freekholvoet/nnforfreqsevpricing)**|
 |**2023-10-19**|**Knowledge from Uncertainty in Evidential Deep Learning**|Cai Davies et.al.|[2310.12663](http://arxiv.org/abs/2310.12663)|null|
 |**2023-10-18**|**Fairer and More Accurate Tabular Models Through NAS**|Richeek Das et.al.|[2310.12145](http://arxiv.org/abs/2310.12145)|null|
 |**2023-10-18**|**On the latent dimension of deep autoencoders for reduced order modeling of PDEs parametrized by random fields**|Nicola Rares Franco et.al.|[2310.12095](http://arxiv.org/abs/2310.12095)|null|
