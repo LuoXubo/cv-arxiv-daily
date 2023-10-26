@@ -534,6 +534,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-25**|**FoundLoc: Vision-based Onboard Aerial Localization in the Wild**|Yao He et.al.|[2310.16299](http://arxiv.org/abs/2310.16299)|null|
 |**2023-10-24**|**Cross-view Self-localization from Synthesized Scene-graphs**|Ryogo Yamamoto et.al.|[2310.15504](http://arxiv.org/abs/2310.15504)|null|
 |**2023-10-23**|**Semantic-Aware Adversarial Training for Reliable Deep Hashing Retrieval**|Xu Yuan et.al.|[2310.14637](http://arxiv.org/abs/2310.14637)|**[link](https://github.com/xandery-geek/SAAT)**|
 |**2023-10-21**|**Large Language Models and Multimodal Retrieval for Visual Word Sense Disambiguation**|Anastasia Kritharoula et.al.|[2310.14025](http://arxiv.org/abs/2310.14025)|**[link](https://github.com/anastasiakrith/multimodal-retrieval-for-vwsd)**|
@@ -1465,6 +1466,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-25**|**LightSpeed: Light and Fast Neural Light Fields on Mobile Devices**|Aarush Gupta et.al.|[2310.16832](http://arxiv.org/abs/2310.16832)|null|
+|**2023-10-25**|**PERF: Panoramic Neural Radiance Field from a Single Panorama**|Guangcong Wang et.al.|[2310.16831](http://arxiv.org/abs/2310.16831)|null|
+|**2023-10-25**|**Open-NeRF: Towards Open Vocabulary NeRF Decomposition**|Hao Zhang et.al.|[2310.16383](http://arxiv.org/abs/2310.16383)|null|
+|**2023-10-25**|**UAV-Sim: NeRF-based Synthetic Data Generation for UAV-based Perception**|Christopher Maxey et.al.|[2310.16255](http://arxiv.org/abs/2310.16255)|null|
 |**2023-10-24**|**Cross-view Self-localization from Synthesized Scene-graphs**|Ryogo Yamamoto et.al.|[2310.15504](http://arxiv.org/abs/2310.15504)|null|
 |**2023-10-23**|**CAwa-NeRF: Instant Learning of Compression-Aware NeRF Features**|Omnia Mahmoud et.al.|[2310.14695](http://arxiv.org/abs/2310.14695)|null|
 |**2023-10-23**|**VQ-NeRF: Vector Quantization Enhances Implicit Neural Representations**|Yiying Yang et.al.|[2310.14487](http://arxiv.org/abs/2310.14487)|null|
@@ -2022,6 +2027,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-25**|**Learning Independent Program and Architecture Representations for Generalizable Performance Modeling**|Lingda Li et.al.|[2310.16792](http://arxiv.org/abs/2310.16792)|null|
+|**2023-10-25**|**The GOOSE Dataset for Perception in Unstructured Environments**|Peter Mortimer et.al.|[2310.16788](http://arxiv.org/abs/2310.16788)|null|
+|**2023-10-25**|**S $^3$ -TTA: Scale-Style Selection for Test-Time Augmentation in Biomedical Image Segmentation**|Kangxian Xie et.al.|[2310.16783](http://arxiv.org/abs/2310.16783)|null|
+|**2023-10-25**|**Metrically Scaled Monocular Depth Estimation through Sparse Priors for Underwater Robots**|Luca Ebner et.al.|[2310.16750](http://arxiv.org/abs/2310.16750)|**[link](https://github.com/ebnerluca/uw_depth)**|
+|**2023-10-25**|**Design Space Exploration of Sparsity-Aware Application-Specific Spiking Neural Network Accelerators**|Ilkin Aliyev. Kama Svoboda et.al.|[2310.16745](http://arxiv.org/abs/2310.16745)|null|
+|**2023-10-25**|**Stochastic Latent Transformer: Efficient Modelling of Stochastically Forced Zonal Jets**|Ira J. S. Shokar et.al.|[2310.16741](http://arxiv.org/abs/2310.16741)|**[link](https://github.com/ira-shokar/stochastic_latent_transformer)**|
+|**2023-10-25**|**Rebuild City Buildings from Off-Nadir Aerial Images with Offset-Building Model (OBM)**|Kai Li et.al.|[2310.16717](http://arxiv.org/abs/2310.16717)|null|
+|**2023-10-25**|**Interpretable time series neural representation for classification purposes**|Etienne Le Naour et.al.|[2310.16696](http://arxiv.org/abs/2310.16696)|null|
+|**2023-10-25**|**Deep Learning Techniques for Cervical Cancer Diagnosis based on Pathology and Colposcopy Images**|Hana Ahmadzadeh Sarhangi et.al.|[2310.16662](http://arxiv.org/abs/2310.16662)|null|
+|**2023-10-25**|**SpikingJelly: An open-source machine learning infrastructure platform for spike-based intelligence**|Wei Fang et.al.|[2310.16620](http://arxiv.org/abs/2310.16620)|**[link](https://github.com/fangwei123456/spikingjelly)**|
 |**2023-10-24**|**A Unified, Scalable Framework for Neural Population Decoding**|Mehdi Azabou et.al.|[2310.16046](http://arxiv.org/abs/2310.16046)|null|
 |**2023-10-24**|**ConvBKI: Real-Time Probabilistic Semantic Mapping Network with Quantifiable Uncertainty**|Joey Wilson et.al.|[2310.16020](http://arxiv.org/abs/2310.16020)|null|
 |**2023-10-24**|**Physically Explainable Deep Learning for Convective Initiation Nowcasting Using GOES-16 Satellite Observations**|Da Fan et.al.|[2310.16015](http://arxiv.org/abs/2310.16015)|null|
