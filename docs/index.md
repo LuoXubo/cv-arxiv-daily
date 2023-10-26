@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.25
+## Updated on 2023.10.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2028,7 +2028,7 @@ layout: default
 |**2023-10-24**|**Spatio-temporal reconstruction of drop impact dynamics by means of color-coded glare points and deep learning**|Maximilian Dreisbach et.al.|[2310.16009](http://arxiv.org/abs/2310.16009)|null|
 |**2023-10-24**|**Graph Deep Learning for Time Series Forecasting**|Andrea Cini et.al.|[2310.15978](http://arxiv.org/abs/2310.15978)|null|
 |**2023-10-24**|**Data-driven Traffic Simulation: A Comprehensive Review**|Di Chen et.al.|[2310.15975](http://arxiv.org/abs/2310.15975)|null|
-|**2023-10-24**|**Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles**|Xing Shen et.al.|[2310.15952](http://arxiv.org/abs/2310.15952)|null|
+|**2023-10-25**|**Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles**|Xing Shen et.al.|[2310.15952](http://arxiv.org/abs/2310.15952)|null|
 |**2023-10-24**|**Representation Learning with Large Language Models for Recommendation**|Xubin Ren et.al.|[2310.15950](http://arxiv.org/abs/2310.15950)|**[link](https://github.com/hkuds/rlmrec)**|
 |**2023-10-24**|**Blip-Up Blip-Down Circular EPI (BUDA-cEPI) for Distortion-Free dMRI with Rapid Unrolled Deep Learning Reconstruction**|Uten Yarach et.al.|[2310.15939](http://arxiv.org/abs/2310.15939)|null|
 |**2023-10-24**|**Mitigate Domain Shift by Primary-Auxiliary Objectives Association for Generalizing Person ReID**|Qilei Li et.al.|[2310.15913](http://arxiv.org/abs/2310.15913)|null|
