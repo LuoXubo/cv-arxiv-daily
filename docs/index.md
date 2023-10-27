@@ -1466,8 +1466,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-26**|**HyperFields: Towards Zero-Shot Generation of NeRFs from Text**|Sudarshan Babu et.al.|[2310.17075](http://arxiv.org/abs/2310.17075)|null|
+|**2023-10-25**|**4D-Editor: Interactive Object-level Editing in Dynamic Neural Radiance Fields via 4D Semantic Segmentation**|Dadong Jiang et.al.|[2310.16858](http://arxiv.org/abs/2310.16858)|null|
 |**2023-10-25**|**LightSpeed: Light and Fast Neural Light Fields on Mobile Devices**|Aarush Gupta et.al.|[2310.16832](http://arxiv.org/abs/2310.16832)|**[link](https://github.com/lightspeed-r2l/lightspeed)**|
-|**2023-10-25**|**PERF: Panoramic Neural Radiance Field from a Single Panorama**|Guangcong Wang et.al.|[2310.16831](http://arxiv.org/abs/2310.16831)|null|
+|**2023-10-25**|**PERF: Panoramic Neural Radiance Field from a Single Panorama**|Guangcong Wang et.al.|[2310.16831](http://arxiv.org/abs/2310.16831)|**[link](https://github.com/perf-project/PeRF)**|
 |**2023-10-25**|**Open-NeRF: Towards Open Vocabulary NeRF Decomposition**|Hao Zhang et.al.|[2310.16383](http://arxiv.org/abs/2310.16383)|null|
 |**2023-10-25**|**UAV-Sim: NeRF-based Synthetic Data Generation for UAV-based Perception**|Christopher Maxey et.al.|[2310.16255](http://arxiv.org/abs/2310.16255)|null|
 |**2023-10-24**|**Cross-view Self-localization from Synthesized Scene-graphs**|Ryogo Yamamoto et.al.|[2310.15504](http://arxiv.org/abs/2310.15504)|null|
@@ -2027,6 +2029,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-26**|**torchdistill Meets Hugging Face Libraries for Reproducible, Coding-Free Deep Learning Studies: A Case Study on NLP**|Yoshitomo Matsubara et.al.|[2310.17644](http://arxiv.org/abs/2310.17644)|**[link](https://github.com/yoshitomo-matsubara/torchdistill)**|
+|**2023-10-26**|**Drive Anywhere: Generalizable End-to-end Autonomous Driving with Multi-modal Foundation Models**|Tsun-Hsuan Wang et.al.|[2310.17642](http://arxiv.org/abs/2310.17642)|null|
+|**2023-10-26**|**Secure short-term load forecasting for smart grids with transformer-based federated learning**|Jonas Sievers et.al.|[2310.17477](http://arxiv.org/abs/2310.17477)|null|
+|**2023-10-26**|**Optimization dependent generalization bound for ReLU networks based on sensitivity in the tangent bundle**|Dániel Rácz et.al.|[2310.17378](http://arxiv.org/abs/2310.17378)|null|
+|**2023-10-26**|**A multi-artifact EEG denoising by frequency-based deep learning**|Matteo Gabardi et.al.|[2310.17335](http://arxiv.org/abs/2310.17335)|null|
+|**2023-10-26**|**Generalizing to Unseen Domains in Diabetic Retinopathy Classification**|Chamuditha Jayanga Galappaththige et.al.|[2310.17255](http://arxiv.org/abs/2310.17255)|**[link](https://github.com/chumsy0725/spsd-vit)**|
+|**2023-10-26**|**Three-dimensional Bone Image Synthesis with Generative Adversarial Networks**|Christoph Angermann et.al.|[2310.17216](http://arxiv.org/abs/2310.17216)|null|
+|**2023-10-26**|**Multi-level Gated Bayesian Recurrent Neural Network for State Estimation**|Shi Yan et.al.|[2310.17187](http://arxiv.org/abs/2310.17187)|null|
+|**2023-10-26**|**A Deep Learning Approach to Teeth Segmentation and Orientation from Panoramic X-rays**|Mrinal Kanti Dhar et.al.|[2310.17176](http://arxiv.org/abs/2310.17176)|**[link](https://github.com/mrinal054/instance_teeth_segmentation)**|
+|**2023-10-26**|**Technical Note: Feasibility of translating 3.0T-trained Deep-Learning Segmentation Models Out-of-the-Box on Low-Field MRI 0.55T Knee-MRI of Healthy Controls**|Rupsa Bhattacharjee et.al.|[2310.17152](http://arxiv.org/abs/2310.17152)|null|
 |**2023-10-25**|**Learning Independent Program and Architecture Representations for Generalizable Performance Modeling**|Lingda Li et.al.|[2310.16792](http://arxiv.org/abs/2310.16792)|null|
 |**2023-10-25**|**The GOOSE Dataset for Perception in Unstructured Environments**|Peter Mortimer et.al.|[2310.16788](http://arxiv.org/abs/2310.16788)|null|
 |**2023-10-25**|**S $^3$ -TTA: Scale-Style Selection for Test-Time Augmentation in Biomedical Image Segmentation**|Kangxian Xie et.al.|[2310.16783](http://arxiv.org/abs/2310.16783)|null|
