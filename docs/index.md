@@ -1131,7 +1131,7 @@ layout: default
 |**2023-08-15**|**CoDeF: Content Deformation Fields for Temporally Consistent Video Processing**|Hao Ouyang et.al.|[2308.07926](http://arxiv.org/abs/2308.07926)|**[link](https://github.com/qiuyu96/codef)**|
 |**2023-08-15**|**ChartDETR: A Multi-shape Detection Network for Visual Chart Recognition**|Wenyuan Xue et.al.|[2308.07743](http://arxiv.org/abs/2308.07743)|null|
 |**2023-08-14**|**DELO: Deep Evidential LiDAR Odometry using Partial Optimal Transport**|Sk Aziz Ali et.al.|[2308.07153](http://arxiv.org/abs/2308.07153)|null|
-|**2023-08-14**|**2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds**|Minhao Li et.al.|[2308.05667](http://arxiv.org/abs/2308.05667)|null|
+|**2023-08-14**|**2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds**|Minhao Li et.al.|[2308.05667](http://arxiv.org/abs/2308.05667)|**[link](https://github.com/minhaolee/2d3dmatr)**|
 |**2023-08-02**|**Automated Hit-frame Detection for Badminton Match Analysis**|Yu-Hang Chien et.al.|[2307.16000](http://arxiv.org/abs/2307.16000)|**[link](https://github.com/arthur900530/Automated-Hit-frame-Detection-for-Badminton-Match-Analysis)**|
 |**2023-07-25**|**Mini-PointNetPlus: a local feature descriptor in deep learning model for 3d environment perception**|Chuanyu Luo et.al.|[2307.13300](http://arxiv.org/abs/2307.13300)|null|
 |**2023-07-21**|**Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data**|Sahar Almahfouz Nasser et.al.|[2307.10698](http://arxiv.org/abs/2307.10698)|**[link](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina)**|
@@ -1484,7 +1484,7 @@ layout: default
 |**2023-10-16**|**DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing**|Jia-Wei Liu et.al.|[2310.10624](http://arxiv.org/abs/2310.10624)|null|
 |**2023-10-16**|**Self-supervised Fetal MRI 3D Reconstruction Based on Radiation Diffusion Generation Model**|Junpeng Tan et.al.|[2310.10209](http://arxiv.org/abs/2310.10209)|null|
 |**2023-10-15**|**ProteusNeRF: Fast Lightweight NeRF Editing using 3D-Aware Image Context**|Binglun Wang et.al.|[2310.09965](http://arxiv.org/abs/2310.09965)|null|
-|**2023-10-15**|**Active Perception using Neural Radiance Fields**|Siming He et.al.|[2310.09892](http://arxiv.org/abs/2310.09892)|null|
+|**2023-10-15**|**Active Perception using Neural Radiance Fields**|Siming He et.al.|[2310.09892](http://arxiv.org/abs/2310.09892)|**[link](https://github.com/grasp-lyrl/active-perception-using-neural-radiance-fields)**|
 |**2023-10-15**|**CBARF: Cascaded Bundle-Adjusting Neural Radiance Fields from Imperfect Camera Poses**|Hongyu Fu et.al.|[2310.09776](http://arxiv.org/abs/2310.09776)|null|
 |**2023-10-11**|**Dynamic Appearance Particle Neural Radiance Field**|Ancheng Lin et.al.|[2310.07916](http://arxiv.org/abs/2310.07916)|null|
 |**2023-10-12**|**PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction**|Jia-Wang Bian et.al.|[2310.07449](http://arxiv.org/abs/2310.07449)|null|
@@ -2043,7 +2043,7 @@ layout: default
 |**2023-10-25**|**The GOOSE Dataset for Perception in Unstructured Environments**|Peter Mortimer et.al.|[2310.16788](http://arxiv.org/abs/2310.16788)|null|
 |**2023-10-25**|**S $^3$ -TTA: Scale-Style Selection for Test-Time Augmentation in Biomedical Image Segmentation**|Kangxian Xie et.al.|[2310.16783](http://arxiv.org/abs/2310.16783)|null|
 |**2023-10-25**|**Metrically Scaled Monocular Depth Estimation through Sparse Priors for Underwater Robots**|Luca Ebner et.al.|[2310.16750](http://arxiv.org/abs/2310.16750)|**[link](https://github.com/ebnerluca/uw_depth)**|
-|**2023-10-25**|**Design Space Exploration of Sparsity-Aware Application-Specific Spiking Neural Network Accelerators**|Ilkin Aliyev. Kama Svoboda et.al.|[2310.16745](http://arxiv.org/abs/2310.16745)|null|
+|**2023-10-25**|**Design Space Exploration of Sparsity-Aware Application-Specific Spiking Neural Network Accelerators**|Ilkin Aliyev. Kama Svoboda et.al.|[2310.16745](http://arxiv.org/abs/2310.16745)|**[link](https://github.com/githubofaliyev/snn-dse)**|
 |**2023-10-25**|**Stochastic Latent Transformer: Efficient Modelling of Stochastically Forced Zonal Jets**|Ira J. S. Shokar et.al.|[2310.16741](http://arxiv.org/abs/2310.16741)|**[link](https://github.com/ira-shokar/stochastic_latent_transformer)**|
 |**2023-10-25**|**Rebuild City Buildings from Off-Nadir Aerial Images with Offset-Building Model (OBM)**|Kai Li et.al.|[2310.16717](http://arxiv.org/abs/2310.16717)|null|
 |**2023-10-25**|**Interpretable time series neural representation for classification purposes**|Etienne Le Naour et.al.|[2310.16696](http://arxiv.org/abs/2310.16696)|null|
@@ -2066,7 +2066,7 @@ layout: default
 |**2023-10-23**|**CalibrationPhys: Self-supervised Video-based Heart and Respiratory Rate Measurements by Calibrating Between Multiple Cameras**|Yusuke Akamatsu et.al.|[2310.15043](http://arxiv.org/abs/2310.15043)|null|
 |**2023-10-23**|**Manipulation Mask Generator: High-Quality Image Manipulation Mask Generation Method Based on Modified Total Variation Noise Reduction**|Xinyu Yang et.al.|[2310.15041](http://arxiv.org/abs/2310.15041)|null|
 |**2023-10-23**|**Leveraging Deep Learning for Abstractive Code Summarization of Unofficial Documentation**|AmirHossein Naghshzan et.al.|[2310.15015](http://arxiv.org/abs/2310.15015)|null|
-|**2023-10-23**|**Elemantra: An End-to-End Automated Framework Empowered with AI and IoT for Tackling Human-Elephant Conflict in Elephant-Range Countries**|Nuwan Sriyantha Bandara et.al.|[2310.15012](http://arxiv.org/abs/2310.15012)|null|
+|**2023-10-23**|**Elemantra: An End-to-End Automated Framework Empowered with AI and IoT for Tackling Human-Elephant Conflict in Elephant-Range Countries**|Nuwan Sriyantha Bandara et.al.|[2310.15012](http://arxiv.org/abs/2310.15012)|**[link](https://github.com/nuwansribandara/elemantra)**|
 |**2023-10-23**|**Neural Snowflakes: Universal Latent Graph Inference via Trainable Latent Geometries**|Haitz Sáez de Ocáriz Borde et.al.|[2310.15003](http://arxiv.org/abs/2310.15003)|null|
 |**2023-10-23**|**Adam through a Second-Order Lens**|Ross M. Clarke et.al.|[2310.14963](http://arxiv.org/abs/2310.14963)|**[link](https://github.com/rmclarke/adamthroughasecondorderlens)**|
 |**2023-10-20**|**Neural-Base Music Generation for Intelligence Duplication**|Jacob Galajda et.al.|[2310.13691](http://arxiv.org/abs/2310.13691)|null|
@@ -2077,8 +2077,8 @@ layout: default
 |**2023-10-20**|**RaceLens: A Machine Intelligence-Based Application for Racing Photo Analysis**|Andrei Boiarov et.al.|[2310.13515](http://arxiv.org/abs/2310.13515)|null|
 |**2023-10-20**|**Application of deep learning for livestock behaviour recognition: A systematic literature review**|Ali Rohan et.al.|[2310.13483](http://arxiv.org/abs/2310.13483)|null|
 |**2023-10-20**|**A review of individual tree crown detection and delineation from optical remote sensing images**|Juepeng Zheng et.al.|[2310.13481](http://arxiv.org/abs/2310.13481)|null|
-|**2023-10-20**|**Quadrotor Dead Recooking with Multiple Inertial Sensors**|Dror Hurwitz et.al.|[2310.13452](http://arxiv.org/abs/2310.13452)|null|
-|**2023-10-20**|**Music Augmentation and Denoising For Peak-Based Audio Fingerprinting**|Kamil Akesbi et.al.|[2310.13388](http://arxiv.org/abs/2310.13388)|null|
+|**2023-10-20**|**Quadrotor Dead Recooking with Multiple Inertial Sensors**|Dror Hurwitz et.al.|[2310.13452](http://arxiv.org/abs/2310.13452)|**[link](https://github.com/ansfl/quadrotor-dead-reckoning-with-multiple-inertial-sensors)**|
+|**2023-10-20**|**Music Augmentation and Denoising For Peak-Based Audio Fingerprinting**|Kamil Akesbi et.al.|[2310.13388](http://arxiv.org/abs/2310.13388)|**[link](https://github.com/deezer/musicFPaugment)**|
 |**2023-10-19**|**Predicting a Protein's Stability under a Million Mutations**|Jeffrey Ouyang-Zhang et.al.|[2310.12979](http://arxiv.org/abs/2310.12979)|**[link](https://github.com/jozhang97/mutateeverything)**|
 |**2023-10-19**|**Does Your Model Think Like an Engineer? Explainable AI for Bearing Fault Detection with Deep Learning**|Thomas Decker et.al.|[2310.12967](http://arxiv.org/abs/2310.12967)|null|
 |**2023-10-19**|**EMIT-Diff: Enhancing Medical Image Segmentation via Text-Guided Diffusion Model**|Zheyuan Zhang et.al.|[2310.12868](http://arxiv.org/abs/2310.12868)|null|
@@ -2093,7 +2093,7 @@ layout: default
 |**2023-10-18**|**On the latent dimension of deep autoencoders for reduced order modeling of PDEs parametrized by random fields**|Nicola Rares Franco et.al.|[2310.12095](http://arxiv.org/abs/2310.12095)|null|
 |**2023-10-18**|**HSTR-Net: Reference Based Video Super-resolution for Aerial Surveillance with Dual Cameras**|H. Umut Suluhan et.al.|[2310.12092](http://arxiv.org/abs/2310.12092)|null|
 |**2023-10-19**|**Transformers for scientific data: a pedagogical review for astronomers**|Dimitrios Tanoglidis et.al.|[2310.12069](http://arxiv.org/abs/2310.12069)|null|
-|**2023-10-18**|**On the use of Vision-Language models for Visual Sentiment Analysis: a study on CLIP**|Cristina Bustos et.al.|[2310.12062](http://arxiv.org/abs/2310.12062)|null|
+|**2023-10-18**|**On the use of Vision-Language models for Visual Sentiment Analysis: a study on CLIP**|Cristina Bustos et.al.|[2310.12062](http://arxiv.org/abs/2310.12062)|**[link](https://github.com/cristinabustos16/clip-e)**|
 |**2023-10-18**|**A Multi-Scale Decomposition MLP-Mixer for Time Series Analysis**|Shuhan Zhong et.al.|[2310.11959](http://arxiv.org/abs/2310.11959)|**[link](https://github.com/zshhans/msd-mixer)**|
 |**2023-10-18**|**Deep Learning Based Detection on RIS Assisted RSM and RSSK Techniques**|Onur Salan et.al.|[2310.11924](http://arxiv.org/abs/2310.11924)|null|
 |**2023-10-18**|**Multi-modal Medical Neurological Image Fusion using Wavelet Pooled Edge Preserving Autoencoder**|Manisha Das et.al.|[2310.11910](http://arxiv.org/abs/2310.11910)|null|
@@ -2155,7 +2155,7 @@ layout: default
 |**2023-10-10**|**S4Sleep: Elucidating the design space of deep-learning-based sleep stage classification models**|Tiezhi Wang et.al.|[2310.06715](http://arxiv.org/abs/2310.06715)|**[link](https://github.com/ai4healthuol/s4sleep)**|
 |**2023-10-10**|**Domain Generalization by Rejecting Extreme Augmentations**|Masih Aminbeidokhti et.al.|[2310.06670](http://arxiv.org/abs/2310.06670)|null|
 |**2023-10-10**|**A Survey on Intelligent Iterative Methods for Solving Sparse Linear Algebraic Equations**|Haifeng Zou et.al.|[2310.06630](http://arxiv.org/abs/2310.06630)|null|
-|**2023-10-10**|**EViT: An Eagle Vision Transformer with Bi-Fovea Self-Attention**|Yulong Shi et.al.|[2310.06629](http://arxiv.org/abs/2310.06629)|null|
+|**2023-10-10**|**EViT: An Eagle Vision Transformer with Bi-Fovea Self-Attention**|Yulong Shi et.al.|[2310.06629](http://arxiv.org/abs/2310.06629)|**[link](https://github.com/nkusyl/evit)**|
 |**2023-10-10**|**Deep Cardiac MRI Reconstruction with ADMM**|George Yiasemis et.al.|[2310.06628](http://arxiv.org/abs/2310.06628)|null|
 |**2023-10-10**|**Pi-DUAL: Using Privileged Information to Distinguish Clean from Noisy Labels**|Ke Wang et.al.|[2310.06600](http://arxiv.org/abs/2310.06600)|null|
 |**2023-10-10**|**Deep Learning reconstruction with uncertainty estimation for $γ$ photon interaction in fast scintillator detectors**|Geoffrey Daniel et.al.|[2310.06572](http://arxiv.org/abs/2310.06572)|null|
@@ -3048,7 +3048,7 @@ layout: default
 |**2023-05-30**|**TrueDeep: A systematic approach of crack detection with less data**|Ram Krishna Pandey et.al.|[2305.19088](http://arxiv.org/abs/2305.19088)|null|
 |**2023-05-30**|**Embedding Inequalities for Barron-type Spaces**|Lei Wu et.al.|[2305.19082](http://arxiv.org/abs/2305.19082)|null|
 |**2023-05-30**|**Multi-source adversarial transfer learning for ultrasound image segmentation with limited similarity**|Yifu Zhang et.al.|[2305.19069](http://arxiv.org/abs/2305.19069)|null|
-|**2023-05-30**|**Complex Query Answering on Eventuality Knowledge Graph with Implicit Logical Constraints**|Jiaxin Bai et.al.|[2305.19068](http://arxiv.org/abs/2305.19068)|null|
+|**2023-05-30**|**Complex Query Answering on Eventuality Knowledge Graph with Implicit Logical Constraints**|Jiaxin Bai et.al.|[2305.19068](http://arxiv.org/abs/2305.19068)|**[link](https://github.com/hkust-knowcomp/ceqa)**|
 |**2023-05-29**|**Contrastive Learning Based Recursive Dynamic Multi-Scale Network for Image Deraining**|Zhiying Jiang et.al.|[2305.18092](http://arxiv.org/abs/2305.18092)|null|
 |**2023-05-29**|**The mechanism underlying successful deep learning**|Yarden Tzach et.al.|[2305.18078](http://arxiv.org/abs/2305.18078)|null|
 |**2023-05-29**|**Vector-based Representation is the Key: A Study on Disentanglement and Compositional Generalization**|Tao Yang et.al.|[2305.18063](http://arxiv.org/abs/2305.18063)|null|
@@ -3298,7 +3298,7 @@ layout: default
 |**2023-04-25**|**On the Generalization of Learned Structured Representations**|Andrea Dittadi et.al.|[2304.13001](http://arxiv.org/abs/2304.13001)|null|
 |**2023-04-25**|**Quantifying the Effect of Image Similarity on Diabetic Foot Ulcer Classification**|Imran Chowdhury Dipto et.al.|[2304.12987](http://arxiv.org/abs/2304.12987)|null|
 |**2023-04-25**|**Advancing regulatory genomics with machine learning**|Laurent Bréhélin et.al.|[2304.12963](http://arxiv.org/abs/2304.12963)|null|
-|**2023-04-25**|**Causally-informed deep learning to improve climate models and projections**|Fernando Iglesias-Suarez et.al.|[2304.12952](http://arxiv.org/abs/2304.12952)|null|
+|**2023-04-25**|**Causally-informed deep learning to improve climate models and projections**|Fernando Iglesias-Suarez et.al.|[2304.12952](http://arxiv.org/abs/2304.12952)|**[link](https://github.com/eyringmlclimategroup/iglesias-suarez23jgr_CausalNNCAM)**|
 |**2023-04-24**|**Uni-QSAR: an Auto-ML Tool for Molecular Property Prediction**|Zhifeng Gao et.al.|[2304.12239](http://arxiv.org/abs/2304.12239)|null|
 |**2023-04-24**|**A Transfer Principle: Universal Approximators Between Metric Spaces From Euclidean Universal Approximators**|Anastasis Kratsios et.al.|[2304.12231](http://arxiv.org/abs/2304.12231)|null|
 |**2023-04-24**|**Mono Video-Based AI Corridor for Model-Free Detection of Collision-Relevant Obstacles**|Thomas Michalke et.al.|[2304.12219](http://arxiv.org/abs/2304.12219)|null|
