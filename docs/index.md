@@ -534,6 +534,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-27**|**LipSim: A Provably Robust Perceptual Similarity Metric**|Sara Ghazanfari et.al.|[2310.18274](http://arxiv.org/abs/2310.18274)|**[link](https://github.com/saraghazanfari/lipsim)**|
+|**2023-10-27**|**Split Covariance Intersection Filter Based Visual Localization With Accurate AprilTag Map For Warehouse Robot Navigation**|Susu Fang et.al.|[2310.17879](http://arxiv.org/abs/2310.17879)|null|
 |**2023-10-25**|**FoundLoc: Vision-based Onboard Aerial Localization in the Wild**|Yao He et.al.|[2310.16299](http://arxiv.org/abs/2310.16299)|null|
 |**2023-10-24**|**Cross-view Self-localization from Synthesized Scene-graphs**|Ryogo Yamamoto et.al.|[2310.15504](http://arxiv.org/abs/2310.15504)|null|
 |**2023-10-23**|**Semantic-Aware Adversarial Training for Reliable Deep Hashing Retrieval**|Xu Yuan et.al.|[2310.14637](http://arxiv.org/abs/2310.14637)|**[link](https://github.com/xandery-geek/SAAT)**|
@@ -1466,6 +1468,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-27**|**ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image**|Kyle Sargent et.al.|[2310.17994](http://arxiv.org/abs/2310.17994)|null|
+|**2023-10-27**|**Reconstructive Latent-Space Neural Radiance Fields for Efficient 3D Scene Representations**|Tristan Aumentado-Armstrong et.al.|[2310.17880](http://arxiv.org/abs/2310.17880)|null|
 |**2023-10-27**|**HyperFields: Towards Zero-Shot Generation of NeRFs from Text**|Sudarshan Babu et.al.|[2310.17075](http://arxiv.org/abs/2310.17075)|null|
 |**2023-10-25**|**4D-Editor: Interactive Object-level Editing in Dynamic Neural Radiance Fields via 4D Semantic Segmentation**|Dadong Jiang et.al.|[2310.16858](http://arxiv.org/abs/2310.16858)|null|
 |**2023-10-26**|**LightSpeed: Light and Fast Neural Light Fields on Mobile Devices**|Aarush Gupta et.al.|[2310.16832](http://arxiv.org/abs/2310.16832)|**[link](https://github.com/lightspeed-r2l/lightspeed)**|
@@ -2029,6 +2033,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-27**|**Interactive Motion Planning for Autonomous Vehicles with Joint Optimization**|Yuxiao Chen et.al.|[2310.18301](http://arxiv.org/abs/2310.18301)|null|
+|**2023-10-27**|**Navigating protein landscapes with a machine-learned transferable coarse-grained model**|Nicholas E. Charron et.al.|[2310.18278](http://arxiv.org/abs/2310.18278)|null|
+|**2023-10-27**|**MalFake: A Multimodal Fake News Identification for Malayalam using Recurrent Neural Networks and VGG-16**|Adhish S. Sujan et.al.|[2310.18263](http://arxiv.org/abs/2310.18263)|null|
+|**2023-10-27**|**Concepts and Paradigms for Neuromorphic Programming**|Steven Abreu et.al.|[2310.18260](http://arxiv.org/abs/2310.18260)|null|
+|**2023-10-27**|**A Self-Supervised Approach to Land Cover Segmentation**|Charles Moore et.al.|[2310.18251](http://arxiv.org/abs/2310.18251)|null|
+|**2023-10-27**|**Leveraging Machine Learning Models for Peptide-Protein Interaction Prediction**|Song Yin et.al.|[2310.18249](http://arxiv.org/abs/2310.18249)|null|
+|**2023-10-27**|**$α$ -Mutual Information: A Tunable Privacy Measure for Privacy Protection in Data Sharing**|MirHamed Jafarzadeh Asl et.al.|[2310.18241](http://arxiv.org/abs/2310.18241)|null|
+|**2023-10-27**|**Edge AI-Based Vein Detector for Efficient Venipuncture in the Antecubital Fossa**|Edwin Salcedo et.al.|[2310.18234](http://arxiv.org/abs/2310.18234)|null|
+|**2023-10-27**|**TBDLNet: a network for classifying multidrug-resistant and drug-sensitive tuberculosis**|Ziquan Zhu et.al.|[2310.18222](http://arxiv.org/abs/2310.18222)|null|
+|**2023-10-27**|**ArcheType: A Novel Framework for Open-Source Column Type Annotation using Large Language Models**|Benjamin Feuer et.al.|[2310.18208](http://arxiv.org/abs/2310.18208)|**[link](https://github.com/penfever/archetype)**|
 |**2023-10-26**|**torchdistill Meets Hugging Face Libraries for Reproducible, Coding-Free Deep Learning Studies: A Case Study on NLP**|Yoshitomo Matsubara et.al.|[2310.17644](http://arxiv.org/abs/2310.17644)|**[link](https://github.com/yoshitomo-matsubara/torchdistill)**|
 |**2023-10-26**|**Drive Anywhere: Generalizable End-to-end Autonomous Driving with Multi-modal Foundation Models**|Tsun-Hsuan Wang et.al.|[2310.17642](http://arxiv.org/abs/2310.17642)|null|
 |**2023-10-26**|**Secure short-term load forecasting for smart grids with transformer-based federated learning**|Jonas Sievers et.al.|[2310.17477](http://arxiv.org/abs/2310.17477)|null|
