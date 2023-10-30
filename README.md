@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.29
+## Updated on 2023.10.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -445,7 +445,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#Updated-on-20231029>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231030>back to top</a>)</p>
 
 ## SFM
 
@@ -541,7 +541,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#Updated-on-20231029>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231030>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -553,7 +553,7 @@
 |**2023-10-21**|**Large Language Models and Multimodal Retrieval for Visual Word Sense Disambiguation**|Anastasia Kritharoula et.al.|[2310.14025](http://arxiv.org/abs/2310.14025)|**[link](https://github.com/anastasiakrith/multimodal-retrieval-for-vwsd)**|
 |**2023-10-20**|**FMRT: Learning Accurate Feature Matching with Reconciliatory Transformer**|Xinyu Zhang et.al.|[2310.13605](http://arxiv.org/abs/2310.13605)|null|
 |**2023-10-20**|**CylinderTag: An Accurate and Flexible Marker for Cylinder-Shape Objects Pose Estimation Based on Projective Invariants**|Shaoan Wang et.al.|[2310.13320](http://arxiv.org/abs/2310.13320)|**[link](https://github.com/wsakobe/cylindertag)**|
-|**2023-10-19**|**Representation Learning via Consistent Assignment of Views over Random Partitions**|Thalles Silva et.al.|[2310.12692](http://arxiv.org/abs/2310.12692)|**[link](https://github.com/sthalles/carp)**|
+|**2023-10-27**|**Representation Learning via Consistent Assignment of Views over Random Partitions**|Thalles Silva et.al.|[2310.12692](http://arxiv.org/abs/2310.12692)|**[link](https://github.com/sthalles/carp)**|
 |**2023-10-18**|**Evaluating the Fairness of Discriminative Foundation Models in Computer Vision**|Junaid Ali et.al.|[2310.11867](http://arxiv.org/abs/2310.11867)|null|
 |**2023-10-17**|**Learning Comprehensive Representations with Richer Self for Text-to-Image Person Re-Identification**|Shuanglin Yan et.al.|[2310.11210](http://arxiv.org/abs/2310.11210)|null|
 |**2023-10-16**|**Autonomous Mapping and Navigation using Fiducial Markers and Pan-Tilt Camera for Assisting Indoor Mobility of Blind and Visually Impaired People**|Dharmateja Adapa et.al.|[2310.10290](http://arxiv.org/abs/2310.10290)|null|
@@ -1113,7 +1113,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#Updated-on-20231029>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231030>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1297,7 +1297,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#Updated-on-20231029>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231030>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1479,15 +1479,15 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#Updated-on-20231029>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231030>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-26**|**HyperFields: Towards Zero-Shot Generation of NeRFs from Text**|Sudarshan Babu et.al.|[2310.17075](http://arxiv.org/abs/2310.17075)|null|
+|**2023-10-27**|**HyperFields: Towards Zero-Shot Generation of NeRFs from Text**|Sudarshan Babu et.al.|[2310.17075](http://arxiv.org/abs/2310.17075)|null|
 |**2023-10-25**|**4D-Editor: Interactive Object-level Editing in Dynamic Neural Radiance Fields via 4D Semantic Segmentation**|Dadong Jiang et.al.|[2310.16858](http://arxiv.org/abs/2310.16858)|null|
-|**2023-10-25**|**LightSpeed: Light and Fast Neural Light Fields on Mobile Devices**|Aarush Gupta et.al.|[2310.16832](http://arxiv.org/abs/2310.16832)|**[link](https://github.com/lightspeed-r2l/lightspeed)**|
+|**2023-10-26**|**LightSpeed: Light and Fast Neural Light Fields on Mobile Devices**|Aarush Gupta et.al.|[2310.16832](http://arxiv.org/abs/2310.16832)|**[link](https://github.com/lightspeed-r2l/lightspeed)**|
 |**2023-10-25**|**PERF: Panoramic Neural Radiance Field from a Single Panorama**|Guangcong Wang et.al.|[2310.16831](http://arxiv.org/abs/2310.16831)|**[link](https://github.com/perf-project/PeRF)**|
 |**2023-10-25**|**Open-NeRF: Towards Open Vocabulary NeRF Decomposition**|Hao Zhang et.al.|[2310.16383](http://arxiv.org/abs/2310.16383)|null|
 |**2023-10-25**|**UAV-Sim: NeRF-based Synthetic Data Generation for UAV-based Perception**|Christopher Maxey et.al.|[2310.16255](http://arxiv.org/abs/2310.16255)|null|
@@ -2044,7 +2044,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#Updated-on-20231029>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231030>back to top</a>)</p>
 
 ## Computer Vision
 
@@ -2055,7 +2055,7 @@
 |**2023-10-26**|**Secure short-term load forecasting for smart grids with transformer-based federated learning**|Jonas Sievers et.al.|[2310.17477](http://arxiv.org/abs/2310.17477)|null|
 |**2023-10-26**|**Optimization dependent generalization bound for ReLU networks based on sensitivity in the tangent bundle**|Dániel Rácz et.al.|[2310.17378](http://arxiv.org/abs/2310.17378)|null|
 |**2023-10-26**|**A multi-artifact EEG denoising by frequency-based deep learning**|Matteo Gabardi et.al.|[2310.17335](http://arxiv.org/abs/2310.17335)|null|
-|**2023-10-26**|**Generalizing to Unseen Domains in Diabetic Retinopathy Classification**|Chamuditha Jayanga Galappaththige et.al.|[2310.17255](http://arxiv.org/abs/2310.17255)|**[link](https://github.com/chumsy0725/spsd-vit)**|
+|**2023-10-27**|**Generalizing to Unseen Domains in Diabetic Retinopathy Classification**|Chamuditha Jayanga Galappaththige et.al.|[2310.17255](http://arxiv.org/abs/2310.17255)|**[link](https://github.com/chumsy0725/spsd-vit)**|
 |**2023-10-26**|**Three-dimensional Bone Image Synthesis with Generative Adversarial Networks**|Christoph Angermann et.al.|[2310.17216](http://arxiv.org/abs/2310.17216)|null|
 |**2023-10-26**|**Multi-level Gated Bayesian Recurrent Neural Network for State Estimation**|Shi Yan et.al.|[2310.17187](http://arxiv.org/abs/2310.17187)|null|
 |**2023-10-26**|**A Deep Learning Approach to Teeth Segmentation and Orientation from Panoramic X-rays**|Mrinal Kanti Dhar et.al.|[2310.17176](http://arxiv.org/abs/2310.17176)|**[link](https://github.com/mrinal054/instance_teeth_segmentation)**|
@@ -3471,7 +3471,7 @@
 |**2023-04-04**|**Denoising Diffusion Probabilistic Models to Predict the Density of Molecular Clouds**|Duo Xu et.al.|[2304.01670](http://arxiv.org/abs/2304.01670)|null|
 |**2023-04-04**|**Re-thinking Model Inversion Attacks Against Deep Neural Networks**|Ngoc-Bao Nguyen et.al.|[2304.01669](http://arxiv.org/abs/2304.01669)|**[link](https://github.com/sutd-visual-computing-group/Re-thinking_MI)**|
 
-<p align=right>(<a href=#Updated-on-20231029>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231030>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
