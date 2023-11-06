@@ -1470,6 +1470,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-03**|**Estimating 3D Uncertainty Field: Quantifying Uncertainty for Neural Radiance Fields**|Jianxiong Shen et.al.|[2311.01815](http://arxiv.org/abs/2311.01815)|null|
+|**2023-11-03**|**PDF: Point Diffusion Implicit Function for Large-scale Scene Neural Representation**|Yuhan Ding et.al.|[2311.01773](http://arxiv.org/abs/2311.01773)|null|
+|**2023-11-03**|**Efficient Cloud Pipelines for Neural Radiance Fields**|Derek Jacoby et.al.|[2311.01659](http://arxiv.org/abs/2311.01659)|null|
 |**2023-11-02**|**Novel View Synthesis from a Single RGBD Image for Indoor Scenes**|Congrui Hetang et.al.|[2311.01065](http://arxiv.org/abs/2311.01065)|null|
 |**2023-10-31**|**FPO++: Efficient Encoding and Rendering of Dynamic Neural Radiance Fields by Analyzing and Enhancing Fourier PlenOctrees**|Saskia Rabich et.al.|[2310.20710](http://arxiv.org/abs/2310.20710)|null|
 |**2023-10-31**|**NeRF Revisited: Fixing Quadrature Instability in Volume Rendering**|Mikaela Angelina Uy et.al.|[2310.20685](http://arxiv.org/abs/2310.20685)|null|
@@ -2041,6 +2044,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-03**|**Investigation of Random Laser in the Machine Learning Approach**|Emanuel P. Santos et.al.|[2311.02004](http://arxiv.org/abs/2311.02004)|null|
+|**2023-11-03**|**A Structured Pruning Algorithm for Model-based Deep Learning**|Chicago Park et.al.|[2311.02003](http://arxiv.org/abs/2311.02003)|null|
+|**2023-11-03**|**Detection of keratoconus Diseases using deep Learning**|AKM Enzam-Ul Haque et.al.|[2311.01996](http://arxiv.org/abs/2311.01996)|null|
+|**2023-11-03**|**3-Dimensional residual neural architecture search for ultrasonic defect detection**|Shaun McKnight et.al.|[2311.01867](http://arxiv.org/abs/2311.01867)|null|
+|**2023-11-03**|**Neural SPDE solver for uncertainty quantification in high-dimensional space-time dynamics**|Maxime Beauchamp et.al.|[2311.01783](http://arxiv.org/abs/2311.01783)|null|
+|**2023-11-03**|**UP4LS: User Profile Constructed by Multiple Attributes for Enhancing Linguistic Steganalysis**|Yihao Wang et.al.|[2311.01775](http://arxiv.org/abs/2311.01775)|null|
+|**2023-11-03**|**TinyFormer: Efficient Transformer Design and Deployment on Tiny Devices**|Jianlei Yang et.al.|[2311.01759](http://arxiv.org/abs/2311.01759)|null|
+|**2023-11-03**|**Efficient Algorithms for Monte Carlo Particle Transport on AI Accelerator Hardware**|John Tramm et.al.|[2311.01739](http://arxiv.org/abs/2311.01739)|null|
+|**2023-11-03**|**A New Korean Text Classification Benchmark for Recognizing the Political Intents in Online Newspapers**|Beomjune Kim et.al.|[2311.01712](http://arxiv.org/abs/2311.01712)|**[link](https://github.com/kdavid2355/kopolitic-benchmark-dataset)**|
+|**2023-11-03**|**Medical Image Segmentation with Domain Adaptation: A Survey**|Yuemeng Li et.al.|[2311.01702](http://arxiv.org/abs/2311.01702)|**[link](https://github.com/cchen-cc/SIFA)**|
 |**2023-11-02**|**Deep Double Descent for Time Series Forecasting: Avoiding Undertrained Models**|Valentino Assandri et.al.|[2311.01442](http://arxiv.org/abs/2311.01442)|null|
 |**2023-11-02**|**Tailoring Mixup to Data using Kernel Warping functions**|Quentin Bouniot et.al.|[2311.01434](http://arxiv.org/abs/2311.01434)|**[link](https://github.com/ensta-u2is/torch-uncertainty)**|
 |**2023-11-02**|**Identifying Alzheimer Disease Dementia Levels Using Machine Learning Methods**|Md Gulzar Hussain et.al.|[2311.01428](http://arxiv.org/abs/2311.01428)|null|
