@@ -548,6 +548,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-08**|**Energy-efficient Wireless Image Retrieval for IoT Devices by Transmitting a TinyML Model**|Junya Shiraishi et.al.|[2311.04788](http://arxiv.org/abs/2311.04788)|null|
+|**2023-11-08**|**Training CLIP models on Data from Scientific Papers**|Calvin Metzger et.al.|[2311.04711](http://arxiv.org/abs/2311.04711)|**[link](https://github.com/nopperl/clip_arxiv_pmc)**|
 |**2023-11-07**|**DeepPatent2: A Large-Scale Benchmarking Corpus for Technical Drawing Understanding**|Kehinde Ajayi et.al.|[2311.04098](http://arxiv.org/abs/2311.04098)|null|
 |**2023-11-06**|**Long-Term Invariant Local Features via Implicit Cross-Domain Correspondences**|Zador Pataki et.al.|[2311.03345](http://arxiv.org/abs/2311.03345)|null|
 |**2023-11-06**|**FocusTune: Tuning Visual Localization through Focus-Guided Sampling**|Son Tung Nguyen et.al.|[2311.02872](http://arxiv.org/abs/2311.02872)|**[link](https://github.com/sontung/focus-tune)**|
@@ -1127,6 +1129,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-08**|**3D Pose Estimation of Tomato Peduncle Nodes using Deep Keypoint Detection and Point Cloud**|Jianchao Ci et.al.|[2311.04699](http://arxiv.org/abs/2311.04699)|null|
 |**2023-11-06**|**TAMPAR: Visual Tampering Detection for Parcel Logistics in Postal Supply Chains**|Alexander Naumann et.al.|[2311.03124](http://arxiv.org/abs/2311.03124)|null|
 |**2023-11-06**|**An invariant feature extraction for multi-modal images matching**|Chenzhong Gao et.al.|[2311.02842](http://arxiv.org/abs/2311.02842)|null|
 |**2023-10-20**|**Feature Selection and Hyperparameter Fine-tuning in Artificial Neural Networks for Wood Quality Classification**|Mateus Roder et.al.|[2310.13490](http://arxiv.org/abs/2310.13490)|null|
@@ -1496,6 +1499,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-08**|**LRM: Large Reconstruction Model for Single Image to 3D**|Yicong Hong et.al.|[2311.04400](http://arxiv.org/abs/2311.04400)|null|
+|**2023-11-07**|**ADFactory: Automated Data Factory for Optical Flow Tasks**|Han Ling et.al.|[2311.04246](http://arxiv.org/abs/2311.04246)|null|
 |**2023-11-07**|**High-fidelity 3D Reconstruction of Plants using Neural Radiance Field**|Kewei Hu et.al.|[2311.04154](http://arxiv.org/abs/2311.04154)|null|
 |**2023-11-07**|**Fast Sun-aligned Outdoor Scene Relighting based on TensoRF**|Yeonjin Chang et.al.|[2311.03965](http://arxiv.org/abs/2311.03965)|null|
 |**2023-11-08**|**UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**|Injae Kim et.al.|[2311.03784](http://arxiv.org/abs/2311.03784)|null|
@@ -2078,6 +2083,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-08**|**Anonymizing medical case-based explanations through disentanglement**|Helena Montenegro et.al.|[2311.04833](http://arxiv.org/abs/2311.04833)|null|
+|**2023-11-08**|**Domain Adaptive Object Detection via Balancing Between Self-Training and Adversarial Learning**|Muhammad Akhtar Munir et.al.|[2311.04815](http://arxiv.org/abs/2311.04815)|null|
+|**2023-11-08**|**Determination of toxic comments and unintended model bias minimization using Deep learning approach**|Md Azim Khan et.al.|[2311.04789](http://arxiv.org/abs/2311.04789)|null|
+|**2023-11-08**|**GCS-ICHNet: Assessment of Intracerebral Hemorrhage Prognosis using Self-Attention with Domain Knowledge Integration**|Xuhao Shan et.al.|[2311.04772](http://arxiv.org/abs/2311.04772)|**[link](https://github.com/Windbelll/Prognosis-analysis-of-cerebral-hemorrhage)**|
+|**2023-11-08**|**Vital Sign Forecasting for Sepsis Patients in ICUs**|Anubhav Bhatti et.al.|[2311.04770](http://arxiv.org/abs/2311.04770)|null|
+|**2023-11-08**|**An attention-based deep learning network for predicting Platinum resistance in ovarian cancer**|Haoming Zhuang et.al.|[2311.04769](http://arxiv.org/abs/2311.04769)|null|
+|**2023-11-08**|**The voraus-AD Dataset for Anomaly Detection in Robot Applications**|Jan Thieß Brockmann et.al.|[2311.04765](http://arxiv.org/abs/2311.04765)|null|
+|**2023-11-08**|**Euclidean, Projective, Conformal: Choosing a Geometric Algebra for Equivariant Transformers**|Pim de Haan et.al.|[2311.04744](http://arxiv.org/abs/2311.04744)|null|
+|**2023-11-08**|**Zeroth-order Asynchronous Learning with Bounded Delays with a Use-case in Resource Allocation in Communication Networks**|Pourya Behmandpoor et.al.|[2311.04604](http://arxiv.org/abs/2311.04604)|null|
+|**2023-11-08**|**A Deep Learning Based Resource Allocator for Communication Systems with Dynamic User Utility Demands**|Pourya Behmandpoor et.al.|[2311.04600](http://arxiv.org/abs/2311.04600)|null|
 |**2023-11-07**|**Deep Hashing via Householder Quantization**|Lucas R. Schwengber et.al.|[2311.04207](http://arxiv.org/abs/2311.04207)|null|
 |**2023-11-07**|**Quantization-aware Neural Architectural Search for Intrusion Detection**|Rabin Yu Acharya et.al.|[2311.04194](http://arxiv.org/abs/2311.04194)|null|
 |**2023-11-07**|**Non-Linear pricing with differential machine learning**|Pavel Goldin et.al.|[2311.04178](http://arxiv.org/abs/2311.04178)|null|
