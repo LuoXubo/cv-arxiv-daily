@@ -1316,6 +1316,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-08**|**Zero-shot Translation of Attention Patterns in VQA Models to Natural Language**|Leonard Salewski et.al.|[2311.05043](http://arxiv.org/abs/2311.05043)|**[link](https://github.com/explainableml/zs-a2t)**|
 |**2023-11-06**|**An invariant feature extraction for multi-modal images matching**|Chenzhong Gao et.al.|[2311.02842](http://arxiv.org/abs/2311.02842)|null|
 |**2023-10-23**|**RD-VIO: Robust Visual-Inertial Odometry for Mobile Augmented Reality in Dynamic Environments**|Jinyu Li et.al.|[2310.15072](http://arxiv.org/abs/2310.15072)|null|
 |**2023-10-23**|**Player Re-Identification Using Body Part Appearences**|Mahesh Bhosale et.al.|[2310.14469](http://arxiv.org/abs/2310.14469)|null|
@@ -1499,6 +1500,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-09**|**BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis**|Hao-Bin Duan et.al.|[2311.05521](http://arxiv.org/abs/2311.05521)|null|
+|**2023-11-09**|**Control3D: Towards Controllable Text-to-3D Generation**|Yang Chen et.al.|[2311.05461](http://arxiv.org/abs/2311.05461)|null|
 |**2023-11-08**|**LRM: Large Reconstruction Model for Single Image to 3D**|Yicong Hong et.al.|[2311.04400](http://arxiv.org/abs/2311.04400)|null|
 |**2023-11-07**|**ADFactory: Automated Data Factory for Optical Flow Tasks**|Han Ling et.al.|[2311.04246](http://arxiv.org/abs/2311.04246)|null|
 |**2023-11-07**|**High-fidelity 3D Reconstruction of Plants using Neural Radiance Field**|Kewei Hu et.al.|[2311.04154](http://arxiv.org/abs/2311.04154)|null|
@@ -2083,6 +2086,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-09**|**A Coefficient Makes SVRG Effective**|Yida Yin et.al.|[2311.05589](http://arxiv.org/abs/2311.05589)|**[link](https://github.com/davidyyd/alpha-svrg)**|
+|**2023-11-09**|**SigScatNet: A Siamese + Scattering based Deep Learning Approach for Signature Forgery Detection and Similarity Assessment**|Anmol Chokshi et.al.|[2311.05579](http://arxiv.org/abs/2311.05579)|null|
+|**2023-11-09**|**L-WaveBlock: A Novel Feature Extractor Leveraging Wavelets for Generative Adversarial Networks**|Mirat Shah et.al.|[2311.05548](http://arxiv.org/abs/2311.05548)|null|
+|**2023-11-09**|**A Deep Learning Method for Simultaneous Denoising and Missing Wedge Reconstruction in Cryogenic Electron Tomography**|Simon Wiedemann et.al.|[2311.05539](http://arxiv.org/abs/2311.05539)|**[link](https://github.com/mli-lab/deepdewedge)**|
+|**2023-11-09**|**meta4: semantically-aligned generation of metaphoric gestures using self-supervised text and speech representation**|Mireille Fares et.al.|[2311.05481](http://arxiv.org/abs/2311.05481)|**[link](https://github.com/mireillefares/meta4)**|
+|**2023-11-09**|**Retinal OCT Synthesis with Denoising Diffusion Probabilistic Models for Layer Segmentation**|Yuli Wu et.al.|[2311.05479](http://arxiv.org/abs/2311.05479)|null|
+|**2023-11-09**|**Using ResNet to Utilize 4-class T2-FLAIR Slice Classification Based on the Cholinergic Pathways Hyperintensities Scale for Pathological Aging**|Wei-Chun Kevin Tsai et.al.|[2311.05477](http://arxiv.org/abs/2311.05477)|null|
+|**2023-11-09**|**Core determinants of quality criteria for mhealth for hypertension: evidence from machine learning instruments**|Danielly de Paula et.al.|[2311.05434](http://arxiv.org/abs/2311.05434)|null|
+|**2023-11-09**|**Taxonomy for Resident Space Objects in LEO: A Deep Learning Approach**|Marta Guimarães et.al.|[2311.05430](http://arxiv.org/abs/2311.05430)|null|
+|**2023-11-09**|**Generalization in medical AI: a perspective on developing scalable models**|Joachim A. Behar et.al.|[2311.05418](http://arxiv.org/abs/2311.05418)|null|
 |**2023-11-08**|**Anonymizing medical case-based explanations through disentanglement**|Helena Montenegro et.al.|[2311.04833](http://arxiv.org/abs/2311.04833)|null|
 |**2023-11-08**|**Domain Adaptive Object Detection via Balancing Between Self-Training and Adversarial Learning**|Muhammad Akhtar Munir et.al.|[2311.04815](http://arxiv.org/abs/2311.04815)|null|
 |**2023-11-08**|**Determination of toxic comments and unintended model bias minimization using Deep learning approach**|Md Azim Khan et.al.|[2311.04789](http://arxiv.org/abs/2311.04789)|null|
