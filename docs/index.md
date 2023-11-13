@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-10**|**Dense Visual Odometry Using Genetic Algorithm**|Slimane Djema et.al.|[2311.06149](http://arxiv.org/abs/2311.06149)|null|
 |**2023-11-07**|**Inertial Guided Uncertainty Estimation of Feature Correspondence in Visual-Inertial Odometry/SLAM**|Seongwook Yoon et.al.|[2311.03722](http://arxiv.org/abs/2311.03722)|null|
 |**2023-10-23**|**Converting Depth Images and Point Clouds for Feature-based Pose Estimation**|Robert Lösch et.al.|[2310.14924](http://arxiv.org/abs/2310.14924)|**[link](https://github.com/rlsch/depth-conversions)**|
 |**2023-10-17**|**Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms**|Yanyan Li et.al.|[2310.10931](http://arxiv.org/abs/2310.10931)|**[link](https://github.com/yanyan-li/open-structure)**|
@@ -535,6 +536,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-10**|**Attributes Grouping and Mining Hashing for Fine-Grained Image Retrieval**|Xin Lu et.al.|[2311.06067](http://arxiv.org/abs/2311.06067)|null|
 |**2023-11-08**|**Energy-efficient Wireless Image Retrieval for IoT Devices by Transmitting a TinyML Model**|Junya Shiraishi et.al.|[2311.04788](http://arxiv.org/abs/2311.04788)|null|
 |**2023-11-08**|**Training CLIP models on Data from Scientific Papers**|Calvin Metzger et.al.|[2311.04711](http://arxiv.org/abs/2311.04711)|**[link](https://github.com/nopperl/clip_arxiv_pmc)**|
 |**2023-11-07**|**DeepPatent2: A Large-Scale Benchmarking Corpus for Technical Drawing Understanding**|Kehinde Ajayi et.al.|[2311.04098](http://arxiv.org/abs/2311.04098)|**[link](https://github.com/gofigure-lanl/figure-segmentation)**|
@@ -1481,6 +1483,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-10**|**Instant3D: Fast Text-to-3D with Sparse-View Generation and Large Reconstruction Model**|Jiahao Li et.al.|[2311.06214](http://arxiv.org/abs/2311.06214)|null|
+|**2023-11-10**|**A Neural Height-Map Approach for the Binocular Photometric Stereo Problem**|Fotios Logothetis et.al.|[2311.05958](http://arxiv.org/abs/2311.05958)|null|
 |**2023-11-09**|**BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis**|Hao-Bin Duan et.al.|[2311.05521](http://arxiv.org/abs/2311.05521)|null|
 |**2023-11-09**|**Control3D: Towards Controllable Text-to-3D Generation**|Yang Chen et.al.|[2311.05461](http://arxiv.org/abs/2311.05461)|null|
 |**2023-11-08**|**LRM: Large Reconstruction Model for Single Image to 3D**|Yicong Hong et.al.|[2311.04400](http://arxiv.org/abs/2311.04400)|null|
@@ -2065,6 +2069,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-10**|**Deep Learning meets Blockchain for Automated and Secure Access Control**|Asma Jodeiri Akbarfam et.al.|[2311.06236](http://arxiv.org/abs/2311.06236)|null|
+|**2023-11-10**|**EVORA: Deep Evidential Traversability Learning for Risk-Aware Off-Road Autonomy**|Xiaoyi Cai et.al.|[2311.06234](http://arxiv.org/abs/2311.06234)|null|
+|**2023-11-10**|**Harnessing Synthetic Datasets: The Role of Shape Bias in Deep Neural Network Generalization**|Elior Benarous et.al.|[2311.06224](http://arxiv.org/abs/2311.06224)|null|
+|**2023-11-10**|**Deep learning segmentation of fibrous cap in intravascular optical coherence tomography images**|Juhwan Lee et.al.|[2311.06202](http://arxiv.org/abs/2311.06202)|null|
+|**2023-11-10**|**Greedy PIG: Adaptive Integrated Gradients**|Kyriakos Axiotis et.al.|[2311.06192](http://arxiv.org/abs/2311.06192)|null|
+|**2023-11-10**|**An Automated Pipeline for Tumour-Infiltrating Lymphocyte Scoring in Breast Cancer**|Adam J Shephard et.al.|[2311.06185](http://arxiv.org/abs/2311.06185)|null|
+|**2023-11-10**|**Automatic Report Generation for Histopathology images using pre-trained Vision Transformers**|Saurav Sengupta et.al.|[2311.06176](http://arxiv.org/abs/2311.06176)|null|
+|**2023-11-10**|**Time Scale Network: A Shallow Neural Network For Time Series Data**|Trevor Meyer et.al.|[2311.06170](http://arxiv.org/abs/2311.06170)|null|
+|**2023-11-10**|**Deep Fast Vision: A Python Library for Accelerated Deep Transfer Learning Vision Prototyping**|Fabi Prezja et.al.|[2311.06169](http://arxiv.org/abs/2311.06169)|**[link](https://github.com/fabprezja/deep-fast-vision)**|
+|**2023-11-10**|**Federated Learning Across Decentralized and Unshared Archives for Remote Sensing Image Classification**|Barış Büyüktaş et.al.|[2311.06141](http://arxiv.org/abs/2311.06141)|null|
 |**2023-11-09**|**A Coefficient Makes SVRG Effective**|Yida Yin et.al.|[2311.05589](http://arxiv.org/abs/2311.05589)|**[link](https://github.com/davidyyd/alpha-svrg)**|
 |**2023-11-09**|**SigScatNet: A Siamese + Scattering based Deep Learning Approach for Signature Forgery Detection and Similarity Assessment**|Anmol Chokshi et.al.|[2311.05579](http://arxiv.org/abs/2311.05579)|null|
 |**2023-11-09**|**L-WaveBlock: A Novel Feature Extractor Leveraging Wavelets for Generative Adversarial Networks**|Mirat Shah et.al.|[2311.05548](http://arxiv.org/abs/2311.05548)|null|
