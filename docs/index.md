@@ -536,6 +536,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**VGSG: Vision-Guided Semantic-Group Network for Text-based Person Search**|Shuting He et.al.|[2311.07514](http://arxiv.org/abs/2311.07514)|null|
 |**2023-11-10**|**Attributes Grouping and Mining Hashing for Fine-Grained Image Retrieval**|Xin Lu et.al.|[2311.06067](http://arxiv.org/abs/2311.06067)|null|
 |**2023-11-08**|**Energy-efficient Wireless Image Retrieval for IoT Devices by Transmitting a TinyML Model**|Junya Shiraishi et.al.|[2311.04788](http://arxiv.org/abs/2311.04788)|null|
 |**2023-11-08**|**Training CLIP models on Data from Scientific Papers**|Calvin Metzger et.al.|[2311.04711](http://arxiv.org/abs/2311.04711)|**[link](https://github.com/nopperl/clip_arxiv_pmc)**|
@@ -1116,6 +1117,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**Processing and Segmentation of Human Teeth from 2D Images using Weakly Supervised Learning**|Tomáš Kunzo et.al.|[2311.07398](http://arxiv.org/abs/2311.07398)|null|
+|**2023-11-11**|**CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer**|Haoyu Ma et.al.|[2311.06443](http://arxiv.org/abs/2311.06443)|null|
 |**2023-11-08**|**3D Pose Estimation of Tomato Peduncle Nodes using Deep Keypoint Detection and Point Cloud**|Jianchao Ci et.al.|[2311.04699](http://arxiv.org/abs/2311.04699)|null|
 |**2023-11-06**|**TAMPAR: Visual Tampering Detection for Parcel Logistics in Postal Supply Chains**|Alexander Naumann et.al.|[2311.03124](http://arxiv.org/abs/2311.03124)|**[link](https://github.com/a-nau/tampar)**|
 |**2023-11-06**|**An invariant feature extraction for multi-modal images matching**|Chenzhong Gao et.al.|[2311.02842](http://arxiv.org/abs/2311.02842)|null|
@@ -1483,6 +1486,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**$L_0$-Sampler: An $L_{0}$ Model Guided Volume Sampling for NeRF**|Liangchen Li et.al.|[2311.07044](http://arxiv.org/abs/2311.07044)|null|
+|**2023-11-11**|**Aria-NeRF: Multimodal Egocentric View Synthesis**|Jiankai Sun et.al.|[2311.06455](http://arxiv.org/abs/2311.06455)|null|
 |**2023-11-10**|**Instant3D: Fast Text-to-3D with Sparse-View Generation and Large Reconstruction Model**|Jiahao Li et.al.|[2311.06214](http://arxiv.org/abs/2311.06214)|null|
 |**2023-11-10**|**A Neural Height-Map Approach for the Binocular Photometric Stereo Problem**|Fotios Logothetis et.al.|[2311.05958](http://arxiv.org/abs/2311.05958)|null|
 |**2023-11-09**|**BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis**|Hao-Bin Duan et.al.|[2311.05521](http://arxiv.org/abs/2311.05521)|null|
@@ -2069,6 +2074,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**Machine Learning For Beamline Steering**|Isaac Kante et.al.|[2311.07519](http://arxiv.org/abs/2311.07519)|null|
+|**2023-11-13**|**A Hypothesis on Good Practices for AI-based Systems for Financial Time Series Forecasting: Towards Domain-Driven XAI Methods**|Branka Hadji Misheva et.al.|[2311.07513](http://arxiv.org/abs/2311.07513)|null|
+|**2023-11-13**|**Supersampling of Data from Structured-light Scanner with Deep Learning**|Martin Melicherčík et.al.|[2311.07432](http://arxiv.org/abs/2311.07432)|null|
+|**2023-11-13**|**Three-dimensional granular flow simulation using graph neural network-based learned simulator**|Yongjin Choi et.al.|[2311.07416](http://arxiv.org/abs/2311.07416)|null|
+|**2023-11-13**|**Processing and Segmentation of Human Teeth from 2D Images using Weakly Supervised Learning**|Tomáš Kunzo et.al.|[2311.07398](http://arxiv.org/abs/2311.07398)|null|
+|**2023-11-13**|**Predicting Continuous Locomotion Modes via Multidimensional Feature Learning from sEMG**|Peiwen Fu et.al.|[2311.07395](http://arxiv.org/abs/2311.07395)|null|
+|**2023-11-13**|**arfpy: A python package for density estimation and generative modeling with adversarial random forests**|Kristin Blesch et.al.|[2311.07366](http://arxiv.org/abs/2311.07366)|**[link](https://github.com/bips-hb/arfpy)**|
+|**2023-11-13**|**Efficient bandwidth extension of musical signals using a differentiable harmonic plus noise mode**|Pierre-Amaury Grumiaux et.al.|[2311.07363](http://arxiv.org/abs/2311.07363)|null|
+|**2023-11-13**|**Fine-Tuning the Retrieval Mechanism for Tabular Deep Learning**|Felix den Breejen et.al.|[2311.07343](http://arxiv.org/abs/2311.07343)|null|
+|**2023-11-13**|**Connecting the Dots: Graph Neural Network Powered Ensemble and Classification of Medical Images**|Aryan Singh et.al.|[2311.07321](http://arxiv.org/abs/2311.07321)|**[link](https://github.com/aryan-at-ul/aics_2023_submission)**|
 |**2023-11-10**|**Deep Learning meets Blockchain for Automated and Secure Access Control**|Asma Jodeiri Akbarfam et.al.|[2311.06236](http://arxiv.org/abs/2311.06236)|null|
 |**2023-11-10**|**EVORA: Deep Evidential Traversability Learning for Risk-Aware Off-Road Autonomy**|Xiaoyi Cai et.al.|[2311.06234](http://arxiv.org/abs/2311.06234)|null|
 |**2023-11-10**|**Harnessing Synthetic Datasets: The Role of Shape Bias in Deep Neural Network Generalization**|Elior Benarous et.al.|[2311.06224](http://arxiv.org/abs/2311.06224)|null|
