@@ -549,6 +549,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-13**|**Pretrain like You Inference: Masked Tuning Improves Zero-Shot Composed Image Retrieval**|Junyang Chen et.al.|[2311.07622](http://arxiv.org/abs/2311.07622)|null|
 |**2023-11-13**|**VGSG: Vision-Guided Semantic-Group Network for Text-based Person Search**|Shuting He et.al.|[2311.07514](http://arxiv.org/abs/2311.07514)|null|
 |**2023-11-10**|**Attributes Grouping and Mining Hashing for Fine-Grained Image Retrieval**|Xin Lu et.al.|[2311.06067](http://arxiv.org/abs/2311.06067)|null|
 |**2023-11-08**|**Energy-efficient Wireless Image Retrieval for IoT Devices by Transmitting a TinyML Model**|Junya Shiraishi et.al.|[2311.04788](http://arxiv.org/abs/2311.04788)|null|
@@ -2095,6 +2096,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-14**|**Speeding Up Optimization-based Motion Planning through Deep Learning**|Johannes Tenhumberg et.al.|[2311.08345](http://arxiv.org/abs/2311.08345)|null|
+|**2023-11-14**|**Radio Galaxy Zoo: Leveraging latent space representations from variational autoencoder**|Sambatra Andrianomena et.al.|[2311.08331](http://arxiv.org/abs/2311.08331)|null|
+|**2023-11-14**|**Defining the boundaries: challenges and advances in identifying cells in microscopy images**|Nodar Gogoberidze et.al.|[2311.08269](http://arxiv.org/abs/2311.08269)|null|
+|**2023-11-14**|**MCMC to address model misspecification in Deep Learning classification of Radio Galaxies**|Devina Mohan et.al.|[2311.08243](http://arxiv.org/abs/2311.08243)|null|
+|**2023-11-14**|**Learning Physics-Inspired Regularization for Medical Image Registration with Hypernetworks**|Anna Reithmeir et.al.|[2311.08239](http://arxiv.org/abs/2311.08239)|**[link](https://github.com/annareithmeir/elastic-regularization-hypermorph)**|
+|**2023-11-14**|**Diffusion-based generation of Histopathological Whole Slide Images at a Gigapixel scale**|Robert Harb et.al.|[2311.08199](http://arxiv.org/abs/2311.08199)|null|
+|**2023-11-14**|**A deformation-based morphometry framework for disentangling Alzheimer's disease from normal aging using learned normal aging templates**|Jingru Fu et.al.|[2311.08176](http://arxiv.org/abs/2311.08176)|**[link](https://github.com/fjr9516/dbm_with_dl)**|
+|**2023-11-14**|**Neural Lattice Reduction: A Self-Supervised Geometric Deep Learning Approach**|Giovanni Luca Marchetti et.al.|[2311.08170](http://arxiv.org/abs/2311.08170)|null|
+|**2023-11-14**|**Cattle Identification Using Muzzle Images and Deep Learning Techniques**|G. N. Kimani et.al.|[2311.08148](http://arxiv.org/abs/2311.08148)|**[link](https://github.com/peter716/animal_biometrics_system)**|
+|**2023-11-14**|**Reimagining Speech: A Scoping Review of Deep Learning-Powered Voice Conversion**|Anders R. Bargum et.al.|[2311.08104](http://arxiv.org/abs/2311.08104)|null|
 |**2023-11-13**|**Machine Learning For Beamline Steering**|Isaac Kante et.al.|[2311.07519](http://arxiv.org/abs/2311.07519)|null|
 |**2023-11-13**|**A Hypothesis on Good Practices for AI-based Systems for Financial Time Series Forecasting: Towards Domain-Driven XAI Methods**|Branka Hadji Misheva et.al.|[2311.07513](http://arxiv.org/abs/2311.07513)|null|
 |**2023-11-13**|**Supersampling of Data from Structured-light Scanner with Deep Learning**|Martin Melicherčík et.al.|[2311.07432](http://arxiv.org/abs/2311.07432)|null|
