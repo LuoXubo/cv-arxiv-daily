@@ -1507,6 +1507,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-16**|**EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices**|Jingnan Gao et.al.|[2311.09806](http://arxiv.org/abs/2311.09806)|null|
+|**2023-11-16**|**Reconstructing Continuous Light Field From Single Coded Image**|Yuya Ishikawa et.al.|[2311.09646](http://arxiv.org/abs/2311.09646)|null|
 |**2023-11-15**|**Single-Image 3D Human Digitization with Shape-Guided Diffusion**|Badour AlBahar et.al.|[2311.09221](http://arxiv.org/abs/2311.09221)|null|
 |**2023-11-15**|**DMV3D: Denoising Multi-View Diffusion using 3D Large Reconstruction Model**|Yinghao Xu et.al.|[2311.09217](http://arxiv.org/abs/2311.09217)|null|
 |**2023-11-15**|**Spiking NeRF: Representing the Real-World Geometry by a Discontinuous Representation**|Zhanfeng Liao et.al.|[2311.09077](http://arxiv.org/abs/2311.09077)|null|
@@ -2100,6 +2102,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-16**|**Tabular Few-Shot Generalization Across Heterogeneous Feature Spaces**|Max Zhu et.al.|[2311.10051](http://arxiv.org/abs/2311.10051)|null|
+|**2023-11-16**|**Inherently Interpretable Time Series Classification via Multiple Instance Learning**|Joseph Early et.al.|[2311.10049](http://arxiv.org/abs/2311.10049)|**[link](https://github.com/jaearly/miltimeseriesclassification)**|
+|**2023-11-16**|**Interpretable Reinforcement Learning for Robotics and Continuous Control**|Rohan Paleja et.al.|[2311.10041](http://arxiv.org/abs/2311.10041)|null|
+|**2023-11-16**|**Polynomially Over-Parameterized Convolutional Neural Networks Contain Structured Strong Winning Lottery Tickets**|Arthur da Cunha et.al.|[2311.09858](http://arxiv.org/abs/2311.09858)|null|
+|**2023-11-16**|**SurvTimeSurvival: Survival Analysis On The Patient With Multiple Visits/Records**|Hung Le et.al.|[2311.09854](http://arxiv.org/abs/2311.09854)|null|
+|**2023-11-16**|**Semantic-Relay-Aided Text Transmission: Placement Optimization and Bandwidth Allocation**|Tianyu Liu et.al.|[2311.09850](http://arxiv.org/abs/2311.09850)|null|
+|**2023-11-16**|**Trustworthy Large Models in Vision: A Survey**|Ziyan Guo et.al.|[2311.09680](http://arxiv.org/abs/2311.09680)|null|
+|**2023-11-16**|**Zenkai -- Framework For Exploring Beyond Backpropagation**|Greg Short et.al.|[2311.09663](http://arxiv.org/abs/2311.09663)|**[link](https://github.com/short-greg/zenkai)**|
+|**2023-11-16**|**Weakly Supervised Anomaly Detection for Chest X-Ray Image**|Haoqi Ni et.al.|[2311.09642](http://arxiv.org/abs/2311.09642)|**[link](https://github.com/iamcuriosity/wscxr)**|
+|**2023-11-16**|**AI Recommendation System for Enhanced Customer Experience: A Novel Image-to-Text Method**|Mohamaed Foued Ayedi et.al.|[2311.09624](http://arxiv.org/abs/2311.09624)|null|
 |**2023-11-15**|**ExpM+NF: Differentially Private Machine Learning that Surpasses DPSGD**|Robert A. Bridges et.al.|[2311.09200](http://arxiv.org/abs/2311.09200)|null|
 |**2023-11-15**|**Enhancing AmBC Systems with Deep Learning for Joint Channel Estimation and Signal Detection**|S. Zargari et.al.|[2311.09172](http://arxiv.org/abs/2311.09172)|null|
 |**2023-11-15**|**Scalable and Effective Generative Information Retrieval**|Hansi Zeng et.al.|[2311.09134](http://arxiv.org/abs/2311.09134)|**[link](https://github.com/hansizeng/ripor)**|
