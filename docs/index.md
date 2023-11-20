@@ -1119,6 +1119,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**Video-based Sequential Bayesian Homography Estimation for Soccer Field Registration**|Paul J. Claasen et.al.|[2311.10361](http://arxiv.org/abs/2311.10361)|null|
 |**2023-11-13**|**Processing and Segmentation of Human Teeth from 2D Images using Weakly Supervised Learning**|Tomáš Kunzo et.al.|[2311.07398](http://arxiv.org/abs/2311.07398)|null|
 |**2023-11-11**|**CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer**|Haoyu Ma et.al.|[2311.06443](http://arxiv.org/abs/2311.06443)|null|
 |**2023-11-08**|**3D Pose Estimation of Tomato Peduncle Nodes using Deep Keypoint Detection and Point Cloud**|Jianchao Ci et.al.|[2311.04699](http://arxiv.org/abs/2311.04699)|null|
@@ -1488,6 +1489,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**Removing Adverse Volumetric Effects From Trained Neural Radiance Fields**|Andreas L. Teigen et.al.|[2311.10523](http://arxiv.org/abs/2311.10523)|null|
 |**2023-11-16**|**EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices**|Jingnan Gao et.al.|[2311.09806](http://arxiv.org/abs/2311.09806)|null|
 |**2023-11-16**|**Reconstructing Continuous Light Field From Single Coded Image**|Yuya Ishikawa et.al.|[2311.09646](http://arxiv.org/abs/2311.09646)|null|
 |**2023-11-15**|**Single-Image 3D Human Digitization with Shape-Guided Diffusion**|Badour AlBahar et.al.|[2311.09221](http://arxiv.org/abs/2311.09221)|null|
@@ -2081,6 +2083,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**Online Calibration of Deep Learning Sub-Models for Hybrid Numerical Modeling Systems**|Said Ouala et.al.|[2311.10665](http://arxiv.org/abs/2311.10665)|null|
+|**2023-11-17**|**Self-trained Panoptic Segmentation**|Shourya Verma et.al.|[2311.10648](http://arxiv.org/abs/2311.10648)|null|
+|**2023-11-17**|**Image-Domain Material Decomposition for Dual-energy CT using Unsupervised Learning with Data-fidelity Loss**|Junbo Peng et.al.|[2311.10641](http://arxiv.org/abs/2311.10641)|null|
+|**2023-11-17**|**Multi-delay arterial spin-labeled perfusion estimation with biophysics simulation and deep learning**|Renjiu Hu et.al.|[2311.10640](http://arxiv.org/abs/2311.10640)|null|
+|**2023-11-17**|**Hashing it Out: Predicting Unhealthy Conversations on Twitter**|Steven Leung et.al.|[2311.10596](http://arxiv.org/abs/2311.10596)|null|
+|**2023-11-17**|**End-to-end autoencoding architecture for the simultaneous generation of medical images and corresponding segmentation masks**|Aghiles Kebaili et.al.|[2311.10472](http://arxiv.org/abs/2311.10472)|null|
+|**2023-11-17**|**Retrieving positions of closely packed sub-wavelength nanoparticles from their diffraction patterns**|Benquan Wang et.al.|[2311.10441](http://arxiv.org/abs/2311.10441)|null|
+|**2023-11-17**|**Deep Residual CNN for Multi-Class Chest Infection Diagnosis**|Ryan Donghan Kwon et.al.|[2311.10430](http://arxiv.org/abs/2311.10430)|null|
+|**2023-11-17**|**Deep Learning based CNN Model for Classification and Detection of Individuals Wearing Face Mask**|R. Chinnaiyan et.al.|[2311.10408](http://arxiv.org/abs/2311.10408)|null|
+|**2023-11-17**|**Optimized Deep Learning Models for AUV Seabed Image Analysis**|Rajesh Sharma R et.al.|[2311.10399](http://arxiv.org/abs/2311.10399)|null|
 |**2023-11-16**|**Tabular Few-Shot Generalization Across Heterogeneous Feature Spaces**|Max Zhu et.al.|[2311.10051](http://arxiv.org/abs/2311.10051)|null|
 |**2023-11-16**|**Inherently Interpretable Time Series Classification via Multiple Instance Learning**|Joseph Early et.al.|[2311.10049](http://arxiv.org/abs/2311.10049)|**[link](https://github.com/jaearly/miltimeseriesclassification)**|
 |**2023-11-16**|**Interpretable Reinforcement Learning for Robotics and Continuous Control**|Rohan Paleja et.al.|[2311.10041](http://arxiv.org/abs/2311.10041)|**[link](https://github.com/core-robotics-lab/icct)**|
