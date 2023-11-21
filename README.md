@@ -549,6 +549,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-19**|**From Categories to Classifier: Name-Only Continual Learning by Exploring the Web**|Ameya Prabhu et.al.|[2311.11293](http://arxiv.org/abs/2311.11293)|null|
+|**2023-11-18**|**Lesion Search with Self-supervised Learning**|Kristin Qi et.al.|[2311.11014](http://arxiv.org/abs/2311.11014)|null|
 |**2023-11-15**|**Flow reconstruction and particle characterization from inertial Lagrangian tracks**|Ke Zhou et.al.|[2311.09076](http://arxiv.org/abs/2311.09076)|null|
 |**2023-11-15**|**Pretrain like Your Inference: Masked Tuning Improves Zero-Shot Composed Image Retrieval**|Junyang Chen et.al.|[2311.07622](http://arxiv.org/abs/2311.07622)|null|
 |**2023-11-13**|**VGSG: Vision-Guided Semantic-Group Network for Text-based Person Search**|Shuting He et.al.|[2311.07514](http://arxiv.org/abs/2311.07514)|null|
@@ -1134,6 +1136,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-20**|**CurriculumLoc: Enhancing Cross-Domain Geolocalization through Multi-Stage Refinement**|Boni Hu et.al.|[2311.11604](http://arxiv.org/abs/2311.11604)|**[link](https://github.com/npupilab/curriculumloc)**|
 |**2023-11-17**|**Video-based Sequential Bayesian Homography Estimation for Soccer Field Registration**|Paul J. Claasen et.al.|[2311.10361](http://arxiv.org/abs/2311.10361)|null|
 |**2023-11-13**|**Processing and Segmentation of Human Teeth from 2D Images using Weakly Supervised Learning**|Tomáš Kunzo et.al.|[2311.07398](http://arxiv.org/abs/2311.07398)|null|
 |**2023-11-11**|**CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer**|Haoyu Ma et.al.|[2311.06443](http://arxiv.org/abs/2311.06443)|null|
@@ -1508,6 +1511,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-20**|**GP-NeRF: Generalized Perception NeRF for Context-Aware 3D Scene Understanding**|Hao Li et.al.|[2311.11863](http://arxiv.org/abs/2311.11863)|null|
+|**2023-11-20**|**Entangled View-Epipolar Information Aggregation for Generalizable Neural Radiance Fields**|Zhiyuan Min et.al.|[2311.11845](http://arxiv.org/abs/2311.11845)|**[link](https://github.com/tatakai1/evenerf)**|
+|**2023-11-19**|**GaussianDiffusion: 3D Gaussian Splatting for Denoising Diffusion Probabilistic Models with Structured Noise**|Xinhai Li et.al.|[2311.11221](http://arxiv.org/abs/2311.11221)|null|
+|**2023-11-18**|**SNI-SLAM: Semantic Neural Implicit SLAM**|Siting Zhu et.al.|[2311.11016](http://arxiv.org/abs/2311.11016)|null|
+|**2023-11-18**|**Structure-Aware Sparse-View X-ray 3D Reconstruction**|Yuanhao Cai et.al.|[2311.10959](http://arxiv.org/abs/2311.10959)|null|
 |**2023-11-17**|**Removing Adverse Volumetric Effects From Trained Neural Radiance Fields**|Andreas L. Teigen et.al.|[2311.10523](http://arxiv.org/abs/2311.10523)|null|
 |**2023-11-18**|**EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices**|Jingnan Gao et.al.|[2311.09806](http://arxiv.org/abs/2311.09806)|null|
 |**2023-11-16**|**Reconstructing Continuous Light Field From Single Coded Image**|Yuya Ishikawa et.al.|[2311.09646](http://arxiv.org/abs/2311.09646)|null|
@@ -2104,6 +2112,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-20**|**BrainWash: A Poisoning Attack to Forget in Continual Learning**|Ali Abbasi et.al.|[2311.11995](http://arxiv.org/abs/2311.11995)|null|
+|**2023-11-20**|**Ovarian Cancer Data Analysis using Deep Learning: A Systematic Review from the Perspectives of Key Features of Data Analysis and AI Assurance**|Muta Tah Hira et.al.|[2311.11932](http://arxiv.org/abs/2311.11932)|null|
+|**2023-11-20**|**Deep Calibration of Market Simulations using Neural Density Estimators and Embedding Networks**|Namid R. Stillman et.al.|[2311.11913](http://arxiv.org/abs/2311.11913)|null|
+|**2023-11-20**|**Multimodal Characterization of Emotion within Multimedia Space**|Dayo Samuel Banjo et.al.|[2311.11892](http://arxiv.org/abs/2311.11892)|null|
+|**2023-11-20**|**Efficient Neural Networks for Tiny Machine Learning: A Comprehensive Review**|Minh Tri Lê et.al.|[2311.11883](http://arxiv.org/abs/2311.11883)|null|
+|**2023-11-20**|**Multi-Task Faces (MTF) Data Set: A Legally and Ethically Compliant Collection of Face Images for Various Classification Tasks**|Rami Haffar et.al.|[2311.11882](http://arxiv.org/abs/2311.11882)|**[link](https://github.com/ramihaf/mtf_data_set)**|
+|**2023-11-20**|**Generating Valid and Natural Adversarial Examples with Large Language Models**|Zimu Wang et.al.|[2311.11861](http://arxiv.org/abs/2311.11861)|null|
+|**2023-11-20**|**Deep learning complete intersection Calabi-Yau manifolds**|Harold Erbin et.al.|[2311.11847](http://arxiv.org/abs/2311.11847)|null|
+|**2023-11-20**|**Deepparse : An Extendable, and Fine-Tunable State-Of-The-Art Library for Parsing Multinational Street Addresses**|David Beauchemin et.al.|[2311.11846](http://arxiv.org/abs/2311.11846)|null|
+|**2023-11-20**|**Zero redundancy distributed learning with differential privacy**|Zhiqi Bu et.al.|[2311.11822](http://arxiv.org/abs/2311.11822)|null|
 |**2023-11-17**|**Online Calibration of Deep Learning Sub-Models for Hybrid Numerical Modeling Systems**|Said Ouala et.al.|[2311.10665](http://arxiv.org/abs/2311.10665)|null|
 |**2023-11-17**|**Self-trained Panoptic Segmentation**|Shourya Verma et.al.|[2311.10648](http://arxiv.org/abs/2311.10648)|null|
 |**2023-11-17**|**Image-Domain Material Decomposition for Dual-energy CT using Unsupervised Learning with Data-fidelity Loss**|Junbo Peng et.al.|[2311.10641](http://arxiv.org/abs/2311.10641)|null|
