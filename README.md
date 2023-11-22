@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-21**|**CoVOR-SLAM: Cooperative SLAM using Visual Odometry and Ranges for Multi-Robot Systems**|Young-Hee Lee et.al.|[2311.12580](http://arxiv.org/abs/2311.12580)|null|
 |**2023-11-10**|**Dense Visual Odometry Using Genetic Algorithm**|Slimane Djema et.al.|[2311.06149](http://arxiv.org/abs/2311.06149)|null|
 |**2023-11-07**|**Inertial Guided Uncertainty Estimation of Feature Correspondence in Visual-Inertial Odometry/SLAM**|Seongwook Yoon et.al.|[2311.03722](http://arxiv.org/abs/2311.03722)|null|
 |**2023-10-23**|**Converting Depth Images and Point Clouds for Feature-based Pose Estimation**|Robert Lösch et.al.|[2310.14924](http://arxiv.org/abs/2310.14924)|**[link](https://github.com/rlsch/depth-conversions)**|
@@ -549,6 +550,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-21**|**Towards Accurate Loop Closure Detection in Semantic SLAM with 3D Semantic Covisibility Graphs**|Zhentian Qian et.al.|[2311.12245](http://arxiv.org/abs/2311.12245)|null|
 |**2023-11-19**|**From Categories to Classifier: Name-Only Continual Learning by Exploring the Web**|Ameya Prabhu et.al.|[2311.11293](http://arxiv.org/abs/2311.11293)|null|
 |**2023-11-18**|**Lesion Search with Self-supervised Learning**|Kristin Qi et.al.|[2311.11014](http://arxiv.org/abs/2311.11014)|null|
 |**2023-11-15**|**Flow reconstruction and particle characterization from inertial Lagrangian tracks**|Ke Zhou et.al.|[2311.09076](http://arxiv.org/abs/2311.09076)|null|
@@ -1136,6 +1138,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-21**|**Instance-aware 3D Semantic Segmentation powered by Shape Generators and Classifiers**|Bo Sun et.al.|[2311.12291](http://arxiv.org/abs/2311.12291)|null|
 |**2023-11-20**|**CurriculumLoc: Enhancing Cross-Domain Geolocalization through Multi-Stage Refinement**|Boni Hu et.al.|[2311.11604](http://arxiv.org/abs/2311.11604)|**[link](https://github.com/npupilab/curriculumloc)**|
 |**2023-11-17**|**Video-based Sequential Bayesian Homography Estimation for Soccer Field Registration**|Paul J. Claasen et.al.|[2311.10361](http://arxiv.org/abs/2311.10361)|null|
 |**2023-11-13**|**Processing and Segmentation of Human Teeth from 2D Images using Weakly Supervised Learning**|Tomáš Kunzo et.al.|[2311.07398](http://arxiv.org/abs/2311.07398)|null|
@@ -1511,6 +1514,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-21**|**SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering**|Antoine Guédon et.al.|[2311.12775](http://arxiv.org/abs/2311.12775)|null|
+|**2023-11-21**|**Hyb-NeRF: A Multiresolution Hybrid Encoding for Neural Radiance Fields**|Yifan Wang et.al.|[2311.12490](http://arxiv.org/abs/2311.12490)|null|
+|**2023-11-18**|**Towards Function Space Mesh Watermarking: Protecting the Copyright of Signed Distance Fields**|Xingyu Zhu et.al.|[2311.12059](http://arxiv.org/abs/2311.12059)|null|
 |**2023-11-20**|**GP-NeRF: Generalized Perception NeRF for Context-Aware 3D Scene Understanding**|Hao Li et.al.|[2311.11863](http://arxiv.org/abs/2311.11863)|null|
 |**2023-11-20**|**Entangled View-Epipolar Information Aggregation for Generalizable Neural Radiance Fields**|Zhiyuan Min et.al.|[2311.11845](http://arxiv.org/abs/2311.11845)|**[link](https://github.com/tatakai1/evenerf)**|
 |**2023-11-19**|**GaussianDiffusion: 3D Gaussian Splatting for Denoising Diffusion Probabilistic Models with Structured Noise**|Xinhai Li et.al.|[2311.11221](http://arxiv.org/abs/2311.11221)|null|
@@ -2112,6 +2118,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-21**|**Learn to Augment Network Simulators Towards Digital Network Twins**|Yuru Zhang et.al.|[2311.12745](http://arxiv.org/abs/2311.12745)|null|
+|**2023-11-21**|**Image Transformation for IoT Time-Series Data: A Review**|Duygu Altunkaya et.al.|[2311.12742](http://arxiv.org/abs/2311.12742)|null|
+|**2023-11-21**|**On the Out-of-Distribution Coverage of Combining Split Conformal Prediction and Bayesian Deep Learning**|Paul Scemama et.al.|[2311.12688](http://arxiv.org/abs/2311.12688)|null|
+|**2023-11-21**|**ChessVision -- A Dataset for Logically Coherent Multi-label Classification**|Soumadeep Saha et.al.|[2311.12610](http://arxiv.org/abs/2311.12610)|**[link](https://github.com/espressovi/chessvisionchallenge)**|
+|**2023-11-21**|**TouchSDF: A DeepSDF Approach for 3D Shape Reconstruction using Vision-Based Tactile Sensing**|Mauro Comi et.al.|[2311.12602](http://arxiv.org/abs/2311.12602)|null|
+|**2023-11-21**|**Deep learning-based detection of morphological features associated with hypoxia in H&E breast cancer whole slide images**|Petru Manescu et.al.|[2311.12601](http://arxiv.org/abs/2311.12601)|null|
+|**2023-11-21**|**Machine-Guided Discovery of a Real-World Rogue Wave Model**|Dion Häfner et.al.|[2311.12579](http://arxiv.org/abs/2311.12579)|**[link](https://github.com/dionhaefner/rogue-wave-discovery)**|
+|**2023-11-21**|**GMISeg: General Medical Image Segmentation without Re-Training**|Jing Xu et.al.|[2311.12539](http://arxiv.org/abs/2311.12539)|null|
+|**2023-11-21**|**Neural Network Pruning by Gradient Descent**|Zhang Zhang et.al.|[2311.12526](http://arxiv.org/abs/2311.12526)|**[link](https://github.com/3riccc/neural_pruning)**|
+|**2023-11-21**|**LIP-RTVE: An Audiovisual Database for Continuous Spanish in the Wild**|David Gimeno-Gómez et.al.|[2311.12457](http://arxiv.org/abs/2311.12457)|**[link](https://github.com/david-gimeno/lip-rtve)**|
 |**2023-11-20**|**BrainWash: A Poisoning Attack to Forget in Continual Learning**|Ali Abbasi et.al.|[2311.11995](http://arxiv.org/abs/2311.11995)|null|
 |**2023-11-20**|**Ovarian Cancer Data Analysis using Deep Learning: A Systematic Review from the Perspectives of Key Features of Data Analysis and AI Assurance**|Muta Tah Hira et.al.|[2311.11932](http://arxiv.org/abs/2311.11932)|null|
 |**2023-11-20**|**Deep Calibration of Market Simulations using Neural Density Estimators and Embedding Networks**|Namid R. Stillman et.al.|[2311.11913](http://arxiv.org/abs/2311.11913)|null|
