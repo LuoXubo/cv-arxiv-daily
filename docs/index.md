@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.22
+## Updated on 2023.11.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2105,7 +2105,7 @@ layout: default
 |**2023-11-21**|**Deep learning-based detection of morphological features associated with hypoxia in H&E breast cancer whole slide images**|Petru Manescu et.al.|[2311.12601](http://arxiv.org/abs/2311.12601)|null|
 |**2023-11-21**|**Machine-Guided Discovery of a Real-World Rogue Wave Model**|Dion Häfner et.al.|[2311.12579](http://arxiv.org/abs/2311.12579)|**[link](https://github.com/dionhaefner/rogue-wave-discovery)**|
 |**2023-11-21**|**GMISeg: General Medical Image Segmentation without Re-Training**|Jing Xu et.al.|[2311.12539](http://arxiv.org/abs/2311.12539)|null|
-|**2023-11-21**|**Neural Network Pruning by Gradient Descent**|Zhang Zhang et.al.|[2311.12526](http://arxiv.org/abs/2311.12526)|**[link](https://github.com/3riccc/neural_pruning)**|
+|**2023-11-22**|**Neural Network Pruning by Gradient Descent**|Zhang Zhang et.al.|[2311.12526](http://arxiv.org/abs/2311.12526)|**[link](https://github.com/3riccc/neural_pruning)**|
 |**2023-11-21**|**LIP-RTVE: An Audiovisual Database for Continuous Spanish in the Wild**|David Gimeno-Gómez et.al.|[2311.12457](http://arxiv.org/abs/2311.12457)|**[link](https://github.com/david-gimeno/lip-rtve)**|
 |**2023-11-20**|**BrainWash: A Poisoning Attack to Forget in Continual Learning**|Ali Abbasi et.al.|[2311.11995](http://arxiv.org/abs/2311.11995)|null|
 |**2023-11-20**|**Ovarian Cancer Data Analysis using Deep Learning: A Systematic Review from the Perspectives of Key Features of Data Analysis and AI Assurance**|Muta Tah Hira et.al.|[2311.11932](http://arxiv.org/abs/2311.11932)|null|
