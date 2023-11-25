@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.24
+## Updated on 2023.11.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2107,8 +2107,8 @@ layout: default
 |**2023-11-22**|**A Survey of Serverless Machine Learning Model Inference**|Kamil Kojs et.al.|[2311.13587](http://arxiv.org/abs/2311.13587)|null|
 |**2023-11-22**|**Adaptive Sampling for Deep Learning via Efficient Nonparametric Proxies**|Shabnam Daghaghi et.al.|[2311.13583](http://arxiv.org/abs/2311.13583)|null|
 |**2023-11-22**|**Piecewise polynomial regression of tame functions via integer programming**|Jiri Nemecek et.al.|[2311.13544](http://arxiv.org/abs/2311.13544)|null|
-|**2023-11-22**|**Applying Dimensionality Reduction as Precursor to LSTM-CNN Models for Classifying Imagery and Motor Signals in ECoG-Based BCIs**|Soham Bafana et.al.|[2311.13507](http://arxiv.org/abs/2311.13507)|null|
-|**2023-11-22**|**Deep-learning-based acceleration of MRI for radiotherapy planning of pediatric patients with brain tumors**|Shahinur Alam et.al.|[2311.13485](http://arxiv.org/abs/2311.13485)|null|
+|**2023-11-22**|**Applying Dimensionality Reduction as Precursor to LSTM-CNN Models for Classifying Imagery and Motor Signals in ECoG-Based BCIs**|Soham Bafana et.al.|[2311.13507](http://arxiv.org/abs/2311.13507)|**[link](https://github.com/bafanas/dim-reduction-with-cnn-lstm)**|
+|**2023-11-22**|**Deep-learning-based acceleration of MRI for radiotherapy planning of pediatric patients with brain tumors**|Shahinur Alam et.al.|[2311.13485](http://arxiv.org/abs/2311.13485)|**[link](https://github.com/stjude/deepmrirec)**|
 |**2023-11-22**|**CompenHR: Efficient Full Compensation for High-resolution Projector**|Yuxi Wang et.al.|[2311.13409](http://arxiv.org/abs/2311.13409)|null|
 |**2023-11-22**|**MRGazer: Decoding Eye Gaze Points from Functional Magnetic Resonance Imaging in Individual Space**|Xiuwen Wu et.al.|[2311.13372](http://arxiv.org/abs/2311.13372)|null|
 |**2023-11-22**|**Learning principle and mathematical realization of the learning mechanism in the brain**|Taisuke Katayose et.al.|[2311.13341](http://arxiv.org/abs/2311.13341)|null|
