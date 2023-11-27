@@ -2159,7 +2159,7 @@
 |**2023-11-17**|**Self-trained Panoptic Segmentation**|Shourya Verma et.al.|[2311.10648](http://arxiv.org/abs/2311.10648)|null|
 |**2023-11-17**|**Image-Domain Material Decomposition for Dual-energy CT using Unsupervised Learning with Data-fidelity Loss**|Junbo Peng et.al.|[2311.10641](http://arxiv.org/abs/2311.10641)|null|
 |**2023-11-17**|**Multi-delay arterial spin-labeled perfusion estimation with biophysics simulation and deep learning**|Renjiu Hu et.al.|[2311.10640](http://arxiv.org/abs/2311.10640)|null|
-|**2023-11-17**|**Hashing it Out: Predicting Unhealthy Conversations on Twitter**|Steven Leung et.al.|[2311.10596](http://arxiv.org/abs/2311.10596)|null|
+|**2023-11-17**|**Hashing it Out: Predicting Unhealthy Conversations on Twitter**|Steven Leung et.al.|[2311.10596](http://arxiv.org/abs/2311.10596)|**[link](https://github.com/stevendleung/hashing-it-out)**|
 |**2023-11-17**|**End-to-end autoencoding architecture for the simultaneous generation of medical images and corresponding segmentation masks**|Aghiles Kebaili et.al.|[2311.10472](http://arxiv.org/abs/2311.10472)|null|
 |**2023-11-17**|**Retrieving positions of closely packed sub-wavelength nanoparticles from their diffraction patterns**|Benquan Wang et.al.|[2311.10441](http://arxiv.org/abs/2311.10441)|null|
 |**2023-11-17**|**Deep Residual CNN for Multi-Class Chest Infection Diagnosis**|Ryan Donghan Kwon et.al.|[2311.10430](http://arxiv.org/abs/2311.10430)|null|
@@ -2245,7 +2245,7 @@
 |**2023-11-07**|**CeCNN: Copula-enhanced convolutional neural networks in joint prediction of refraction error and axial length based on ultra-widefield fundus images**|Chong Zhong et.al.|[2311.03967](http://arxiv.org/abs/2311.03967)|null|
 |**2023-11-07**|**Elastic Information Bottleneck**|Yuyan Ni et.al.|[2311.03955](http://arxiv.org/abs/2311.03955)|null|
 |**2023-11-07**|**Analysis of NaN Divergence in Training Monocular Depth Estimation Model**|Bum Jun Kim et.al.|[2311.03938](http://arxiv.org/abs/2311.03938)|null|
-|**2023-11-06**|**FLOGA: A machine learning ready dataset, a benchmark and a novel deep learning model for burnt area mapping with Sentinel-2**|Maria Sdraka et.al.|[2311.03339](http://arxiv.org/abs/2311.03339)|null|
+|**2023-11-06**|**FLOGA: A machine learning ready dataset, a benchmark and a novel deep learning model for burnt area mapping with Sentinel-2**|Maria Sdraka et.al.|[2311.03339](http://arxiv.org/abs/2311.03339)|**[link](https://github.com/orion-ai-lab/floga)**|
 |**2023-11-06**|**From Coupled Oscillators to Graph Neural Networks: Reducing Over-smoothing via a Kuramoto Model-based Approach**|Tuan Nguyen et.al.|[2311.03260](http://arxiv.org/abs/2311.03260)|null|
 |**2023-11-06**|**Interpretable multiscale Machine Learning-Based Parameterizations of Convection for ICON**|Helge Heuer et.al.|[2311.03251](http://arxiv.org/abs/2311.03251)|null|
 |**2023-11-06**|**Navigating Scaling Laws: Accelerating Vision Transformer's Training via Adaptive Strategies**|Sotiris Anagnostidis et.al.|[2311.03233](http://arxiv.org/abs/2311.03233)|null|
