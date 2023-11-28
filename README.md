@@ -550,7 +550,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-11-23**|**AI-Generated Images Introduce Invisible Relevance Bias to Text-Image Retrieval**|Shicheng Xu et.al.|[2311.14084](http://arxiv.org/abs/2311.14084)|null|
+|**2023-11-27**|**Optimal Transport Aggregation for Visual Place Recognition**|Sergio Izquierdo et.al.|[2311.15937](http://arxiv.org/abs/2311.15937)|**[link](https://github.com/serizba/salad)**|
+|**2023-11-27**|**AI-Generated Images Introduce Invisible Relevance Bias to Text-Image Retrieval**|Shicheng Xu et.al.|[2311.14084](http://arxiv.org/abs/2311.14084)|null|
 |**2023-11-23**|**3D-MIR: A Benchmark and Empirical Study on 3D Medical Image Retrieval in Radiology**|Asma Ben Abacha et.al.|[2311.13752](http://arxiv.org/abs/2311.13752)|null|
 |**2023-11-22**|**Medical Image Retrieval Using Pretrained Embeddings**|Farnaz Khun Jush et.al.|[2311.13547](http://arxiv.org/abs/2311.13547)|null|
 |**2023-11-22**|**Applications of Spiking Neural Networks in Visual Place Recognition**|Somayeh Hussaini et.al.|[2311.13186](http://arxiv.org/abs/2311.13186)|**[link](https://github.com/qvpr/vprsnn)**|
@@ -1143,6 +1144,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-27**|**A manometric feature descriptor with linear-SVM to distinguish esophageal contraction vigor**|Jialin Liu et.al.|[2311.15609](http://arxiv.org/abs/2311.15609)|null|
 |**2023-11-21**|**Instance-aware 3D Semantic Segmentation powered by Shape Generators and Classifiers**|Bo Sun et.al.|[2311.12291](http://arxiv.org/abs/2311.12291)|null|
 |**2023-11-20**|**CurriculumLoc: Enhancing Cross-Domain Geolocalization through Multi-Stage Refinement**|Boni Hu et.al.|[2311.11604](http://arxiv.org/abs/2311.11604)|**[link](https://github.com/npupilab/curriculumloc)**|
 |**2023-11-17**|**Video-based Sequential Bayesian Homography Estimation for Soccer Field Registration**|Paul J. Claasen et.al.|[2311.10361](http://arxiv.org/abs/2311.10361)|null|
@@ -1519,6 +1521,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-27**|**Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling**|Zhe Li et.al.|[2311.16096](http://arxiv.org/abs/2311.16096)|**[link](https://github.com/lizhe00/animatablegaussians)**|
+|**2023-11-27**|**SOAC: Spatio-Temporal Overlap-Aware Multi-Sensor Calibration using Neural Radiance Fields**|Quentin Herau et.al.|[2311.15803](http://arxiv.org/abs/2311.15803)|null|
+|**2023-11-27**|**CaesarNeRF: Calibrated Semantic Representation for Few-shot Generalizable Neural Rendering**|Haidong Zhu et.al.|[2311.15510](http://arxiv.org/abs/2311.15510)|**[link](https://github.com/haidongz-usc/CaesarNeRF)**|
+|**2023-11-26**|**Efficient Encoding of Graphics Primitives with Simplex-based Structures**|Yibo Wen et.al.|[2311.15439](http://arxiv.org/abs/2311.15439)|null|
+|**2023-11-26**|**Obj-NeRF: Extract Object NeRFs from Multi-view Images**|Zhiyi Li et.al.|[2311.15291](http://arxiv.org/abs/2311.15291)|null|
+|**2023-11-26**|**NeuRAD: Neural Rendering for Autonomous Driving**|Adam Tonderski et.al.|[2311.15260](http://arxiv.org/abs/2311.15260)|**[link](https://github.com/georghess/neurad)**|
 |**2023-11-24**|**Animate124: Animating One Image to 4D Dynamic Scene**|Yuyang Zhao et.al.|[2311.14603](http://arxiv.org/abs/2311.14603)|null|
 |**2023-11-24**|**GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting**|Yiwen Chen et.al.|[2311.14521](http://arxiv.org/abs/2311.14521)|null|
 |**2023-11-23**|**ECRF: Entropy-Constrained Neural Radiance Fields Compression with Frequency Domain Optimization**|Soonbin Lee et.al.|[2311.14208](http://arxiv.org/abs/2311.14208)|null|
@@ -2134,6 +2142,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-27**|**Weakly-Supervised 3D Reconstruction of Clothed Humans via Normal Maps**|Jane Wu et.al.|[2311.16042](http://arxiv.org/abs/2311.16042)|null|
+|**2023-11-27**|**Deep Learning Voigt Profiles I. Single-Cloud Doublets**|Bryson Stemock et.al.|[2311.16029](http://arxiv.org/abs/2311.16029)|null|
+|**2023-11-27**|**Machine-to-Machine Transfer Function in Deep Learning-Based Quantitative Ultrasound**|Ufuk Soylu et.al.|[2311.16028](http://arxiv.org/abs/2311.16028)|null|
+|**2023-11-27**|**RIDE: Real-time Intrusion Detection via Explainable Machine Learning Implemented in a Memristor Hardware Architecture**|Jingdi Chen et.al.|[2311.16018](http://arxiv.org/abs/2311.16018)|null|
+|**2023-11-27**|**Automated Measurement of Vascular Calcification in Femoral Endarterectomy Patients Using Deep Learning**|Alireza Bagheri Rajeoni et.al.|[2311.16001](http://arxiv.org/abs/2311.16001)|**[link](https://github.com/pip-alireza/deepcalcscoring)**|
+|**2023-11-27**|**Auto-CsiNet: Scenario-customized Automatic Neural Network Architecture Generation for Massive MIMO CSI Feedback**|Xiangyi Li et.al.|[2311.15950](http://arxiv.org/abs/2311.15950)|null|
+|**2023-11-27**|**GloNets: Globally Connected Neural Networks**|Antonio Di Cecco et.al.|[2311.15947](http://arxiv.org/abs/2311.15947)|null|
+|**2023-11-27**|**Diagnosis driven Anomaly Detection for CPS**|Henrik S. Steude et.al.|[2311.15924](http://arxiv.org/abs/2311.15924)|null|
+|**2023-11-27**|**A precise symbolic emulator of the linear matter power spectrum**|Deaglan J. Bartlett et.al.|[2311.15865](http://arxiv.org/abs/2311.15865)|**[link](https://github.com/deaglanbartlett/symbolic_pofk)**|
+|**2023-11-27**|**JSSL: Joint Supervised and Self-supervised Learning for MRI Reconstruction**|George Yiasemis et.al.|[2311.15856](http://arxiv.org/abs/2311.15856)|null|
 |**2023-11-24**|**JetLOV: Enhancing Jet Tree Tagging through Neural Network Learning of Optimal LundNet Variables**|Mauricio A. Diaz et.al.|[2311.14654](http://arxiv.org/abs/2311.14654)|**[link](https://github.com/giorgiocerro/jetlov)**|
 |**2023-11-24**|**More is Better in Modern Machine Learning: when Infinite Overparameterization is Optimal and Overfitting is Obligatory**|James B. Simon et.al.|[2311.14646](http://arxiv.org/abs/2311.14646)|null|
 |**2023-11-24**|**Differentially Private SGD Without Clipping Bias: An Error-Feedback Approach**|Xinwei Zhang et.al.|[2311.14632](http://arxiv.org/abs/2311.14632)|null|
