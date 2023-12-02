@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.01
+## Updated on 2023.12.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2156,7 +2156,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-11-30**|**Is Underwater Image Enhancement All Object Detectors Need?**|Yudong Wang et.al.|[2311.18814](http://arxiv.org/abs/2311.18814)|**[link](https://github.com/bigwangyudong/lqit)**|
-|**2023-11-30**|**Distributed Global Structure-from-Motion with a Deep Front-End**|Ayush Baid et.al.|[2311.18801](http://arxiv.org/abs/2311.18801)|null|
+|**2023-11-30**|**Distributed Global Structure-from-Motion with a Deep Front-End**|Ayush Baid et.al.|[2311.18801](http://arxiv.org/abs/2311.18801)|**[link](https://github.com/borglab/gtsfm)**|
 |**2023-11-30**|**Steering Deep Feature Learning with Backward Aligned Feature Updates**|Lénaïc Chizat et.al.|[2311.18718](http://arxiv.org/abs/2311.18718)|**[link](https://github.com/lchizat/2023-bafu)**|
 |**2023-11-30**|**CrimeGAT: Leveraging Graph Attention Networks for Enhanced Predictive Policing in Criminal Networks**|Chen Yang et.al.|[2311.18641](http://arxiv.org/abs/2311.18641)|null|
 |**2023-11-30**|**The detection, extraction and parameter estimation of extreme-mass-ratio inspirals with deep learning**|Qianyun Yun et.al.|[2311.18640](http://arxiv.org/abs/2311.18640)|null|
