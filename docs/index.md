@@ -538,6 +538,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-01**|**Global Localization: Utilizing Relative Spatio-Temporal Geometric Constraints from Adjacent and Distant Cameras**|Mohammad Altillawi et.al.|[2312.00500](http://arxiv.org/abs/2312.00500)|null|
 |**2023-11-30**|**HKUST at SemEval-2023 Task 1: Visual Word Sense Disambiguation with Context Augmentation and Visual Assistance**|Zhuohao Yin et.al.|[2311.18273](http://arxiv.org/abs/2311.18273)|**[link](https://github.com/thomas-yin/semeval-2023-task1)**|
 |**2023-11-30**|**Label-efficient Training of Small Task-specific Models by Leveraging Vision Foundation Models**|Raviteja Vemulapalli et.al.|[2311.18237](http://arxiv.org/abs/2311.18237)|null|
 |**2023-11-29**|**Transformer-empowered Multi-modal Item Embedding for Enhanced Image Search in E-Commerce**|Chang Liu et.al.|[2311.17954](http://arxiv.org/abs/2311.17954)|null|
@@ -1136,6 +1137,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-01**|**Tracking Object Positions in Reinforcement Learning: A Metric for Keypoint Detection (extended version)**|Emma Cramer et.al.|[2312.00592](http://arxiv.org/abs/2312.00592)|null|
 |**2023-11-30**|**Utilizing Radiomic Feature Analysis For Automated MRI Keypoint Detection: Enhancing Graph Applications**|Sahar Almahfouz Nasser et.al.|[2311.18281](http://arxiv.org/abs/2311.18281)|null|
 |**2023-11-29**|**Back to 3D: Few-Shot 3D Keypoint Detection with Back-Projected 2D Features**|Thomas Wimmer et.al.|[2311.18113](http://arxiv.org/abs/2311.18113)|null|
 |**2023-11-28**|**Diffusion 3D Features (Diff3F): Decorating Untextured Shapes with Distilled Semantic Features**|Niladri Shekhar Dutt et.al.|[2311.17024](http://arxiv.org/abs/2311.17024)|null|
@@ -1516,6 +1518,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-01**|**Gaussian Grouping: Segment and Edit Anything in 3D Scenes**|Mingqiao Ye et.al.|[2312.00732](http://arxiv.org/abs/2312.00732)|**[link](https://github.com/lkeab/gaussian-grouping)**|
+|**2023-11-30**|**LucidDreaming: Controllable Object-Centric 3D Generation**|Zhaoning Wang et.al.|[2312.00588](http://arxiv.org/abs/2312.00588)|null|
+|**2023-12-01**|**FSGS: Real-Time Few-shot View Synthesis using Gaussian Splatting**|Zehao Zhu et.al.|[2312.00451](http://arxiv.org/abs/2312.00451)|null|
+|**2023-11-30**|**PyNeRF: Pyramidal Neural Radiance Fields**|Haithem Turki et.al.|[2312.00252](http://arxiv.org/abs/2312.00252)|null|
+|**2023-11-30**|**SparseGS: Real-Time 360° Sparse View Synthesis using Gaussian Splatting**|Haolin Xiong et.al.|[2312.00206](http://arxiv.org/abs/2312.00206)|null|
 |**2023-11-30**|**Contrastive Denoising Score for Text-guided Latent Diffusion Image Editing**|Hyelin Nam et.al.|[2311.18608](http://arxiv.org/abs/2311.18608)|null|
 |**2023-11-30**|**ZeST-NeRF: Using temporal aggregation for Zero-Shot Temporal NeRFs**|Violeta Menéndez González et.al.|[2311.18491](http://arxiv.org/abs/2311.18491)|null|
 |**2023-11-30**|**Anisotropic Neural Representation Learning for High-Quality Neural Rendering**|Y. Wang et.al.|[2311.18311](http://arxiv.org/abs/2311.18311)|null|
@@ -2155,6 +2162,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-01**|**Context Retrieval via Normalized Contextual Latent Interaction for Conversational Agent**|Junfeng Liu et.al.|[2312.00774](http://arxiv.org/abs/2312.00774)|null|
+|**2023-12-01**|**Mamba: Linear-Time Sequence Modeling with Selective State Spaces**|Albert Gu et.al.|[2312.00752](http://arxiv.org/abs/2312.00752)|null|
+|**2023-12-01**|**Computing Networks Enabled Semantic Communications**|Zhijin Qin et.al.|[2312.00740](http://arxiv.org/abs/2312.00740)|null|
+|**2023-12-01**|**Open-vocabulary object 6D pose estimation**|Jaime Corsetti et.al.|[2312.00690](http://arxiv.org/abs/2312.00690)|null|
+|**2023-12-01**|**Dual-Domain Multi-Contrast MRI Reconstruction with Synthesis-based Fusion Network**|Junwei Yang et.al.|[2312.00661](http://arxiv.org/abs/2312.00661)|null|
+|**2023-12-01**|**Simple Transferability Estimation for Regression Tasks**|Cuong N. Nguyen et.al.|[2312.00656](http://arxiv.org/abs/2312.00656)|**[link](https://github.com/cuongnn218/regression_transferability)**|
+|**2023-12-01**|**Forecasting Trends in Food Security: a Reservoir Computing Approach**|Joschka Herteux et.al.|[2312.00626](http://arxiv.org/abs/2312.00626)|null|
+|**2023-12-01**|**Investigating a domain adaptation approach for integrating different measurement instruments in a longitudinal clinical registry**|Maren Hackenberg et.al.|[2312.00616](http://arxiv.org/abs/2312.00616)|null|
+|**2023-12-01**|**BCN: Batch Channel Normalization for Image Classification**|Afifa Khaled et.al.|[2312.00596](http://arxiv.org/abs/2312.00596)|**[link](https://github.com/AfifaKhaled/Batch-Channel-Normalization)**|
+|**2023-12-01**|**Adaptive Parameter-Free Robust Learning using Latent Bernoulli Variables**|Aleksandr Karakulev et.al.|[2312.00585](http://arxiv.org/abs/2312.00585)|**[link](https://github.com/akarakulev/rlvi)**|
 |**2023-11-30**|**Is Underwater Image Enhancement All Object Detectors Need?**|Yudong Wang et.al.|[2311.18814](http://arxiv.org/abs/2311.18814)|**[link](https://github.com/bigwangyudong/lqit)**|
 |**2023-11-30**|**Distributed Global Structure-from-Motion with a Deep Front-End**|Ayush Baid et.al.|[2311.18801](http://arxiv.org/abs/2311.18801)|**[link](https://github.com/borglab/gtsfm)**|
 |**2023-11-30**|**Steering Deep Feature Learning with Backward Aligned Feature Updates**|Lénaïc Chizat et.al.|[2311.18718](http://arxiv.org/abs/2311.18718)|**[link](https://github.com/lchizat/2023-bafu)**|
