@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.03
+## Updated on 2023.12.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2162,7 +2162,7 @@ layout: default
 |**2023-11-30**|**The detection, extraction and parameter estimation of extreme-mass-ratio inspirals with deep learning**|Qianyun Yun et.al.|[2311.18640](http://arxiv.org/abs/2311.18640)|null|
 |**2023-11-30**|**Data-driven prediction of tool wear using Bayesian-regularized artificial neural networks**|Tam T. Truong et.al.|[2311.18620](http://arxiv.org/abs/2311.18620)|null|
 |**2023-11-30**|**ArthModel: Enhance Arithmetic Skills to Large Language Model**|Yingdi Guo et.al.|[2311.18609](http://arxiv.org/abs/2311.18609)|null|
-|**2023-11-30**|**Continuous 16-bit Training: Accelerating 32-bit Pre-Trained Neural Networks**|Juyoung Yun et.al.|[2311.18587](http://arxiv.org/abs/2311.18587)|null|
+|**2023-12-01**|**Continuous 16-bit Training: Accelerating 32-bit Pre-Trained Neural Networks**|Juyoung Yun et.al.|[2311.18587](http://arxiv.org/abs/2311.18587)|null|
 |**2023-11-30**|**Multi-scale Iterative Refinement towards Robust and Versatile Molecular Docking**|Jiaxian Yan et.al.|[2311.18574](http://arxiv.org/abs/2311.18574)|null|
 |**2023-11-30**|**Decentralized Deepfake Detection Network using Blockchain Technology**|Dipankar Sarkar et.al.|[2311.18545](http://arxiv.org/abs/2311.18545)|null|
 |**2023-11-29**|**Reconstruction of electromagnetic showers in calorimeters using Deep Learning**|Polina Simkina et.al.|[2311.17914](http://arxiv.org/abs/2311.17914)|null|
