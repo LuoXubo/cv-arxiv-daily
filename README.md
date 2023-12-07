@@ -1545,6 +1545,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-06**|**Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle**|Youtian Lin et.al.|[2312.03431](http://arxiv.org/abs/2312.03431)|null|
+|**2023-12-06**|**Artist-Friendly Relightable and Animatable Neural Heads**|Yingyan Xu et.al.|[2312.03420](http://arxiv.org/abs/2312.03420)|null|
+|**2023-12-06**|**Evaluating the point cloud of individual trees generated from images based on Neural Radiance fields (NeRF) method**|Hongyu Huang et.al.|[2312.03372](http://arxiv.org/abs/2312.03372)|null|
+|**2023-12-06**|**RING-NeRF: A Versatile Architecture based on Residual Implicit Neural Grids**|Doriand Petit et.al.|[2312.03357](http://arxiv.org/abs/2312.03357)|null|
+|**2023-12-06**|**SO-NeRF: Active View Planning for NeRF using Surrogate Objectives**|Keifer Lee et.al.|[2312.03266](http://arxiv.org/abs/2312.03266)|null|
+|**2023-12-06**|**Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields**|Shijie Zhou et.al.|[2312.03203](http://arxiv.org/abs/2312.03203)|null|
+|**2023-12-05**|**HybridNeRF: Efficient Neural Rendering via Adaptive Volumetric Surfaces**|Haithem Turki et.al.|[2312.03160](http://arxiv.org/abs/2312.03160)|null|
 |**2023-12-05**|**ReconFusion: 3D Reconstruction with Diffusion Priors**|Rundi Wu et.al.|[2312.02981](http://arxiv.org/abs/2312.02981)|null|
 |**2023-12-05**|**GauHuman: Articulated Gaussian Splatting from Monocular Human Videos**|Shoukang Hu et.al.|[2312.02973](http://arxiv.org/abs/2312.02973)|**[link](https://github.com/skhu101/gauhuman)**|
 |**2023-12-05**|**Alchemist: Parametric Control of Material Properties with Diffusion Models**|Prafull Sharma et.al.|[2312.02970](http://arxiv.org/abs/2312.02970)|null|
@@ -2205,6 +2212,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-06**|**Direct Exoplanet Detection Using Deep Convolutional Image Reconstruction (ConStruct): A New Algorithm for Post-Processing High-Contrast Images**|Trevor N. Wolf et.al.|[2312.03671](http://arxiv.org/abs/2312.03671)|null|
+|**2023-12-06**|**Interpretability Illusions in the Generalization of Simplified Models**|Dan Friedman et.al.|[2312.03656](http://arxiv.org/abs/2312.03656)|null|
+|**2023-12-06**|**Defense Against Adversarial Attacks using Convolutional Auto-Encoders**|Shreyasi Mandal et.al.|[2312.03520](http://arxiv.org/abs/2312.03520)|null|
+|**2023-12-06**|**Transfer learning for galaxy feature detection: Finding Giant Star-forming Clumps in low redshift galaxies using Faster R-CNN**|Jürgen Popp et.al.|[2312.03503](http://arxiv.org/abs/2312.03503)|null|
+|**2023-12-06**|**Synthesizing Physical Backdoor Datasets: An Automated Framework Leveraging Deep Generative Models**|Sze Jue Yang et.al.|[2312.03419](http://arxiv.org/abs/2312.03419)|null|
+|**2023-12-06**|**Approximating Solutions to the Knapsack Problem using the Lagrangian Dual Framework**|Mitchell Keegan et.al.|[2312.03413](http://arxiv.org/abs/2312.03413)|null|
+|**2023-12-06**|**Predicting Postoperative Intraocular Lens Dislocation in Cataract Surgery via Deep Learning**|Negin Ghamsarian et.al.|[2312.03401](http://arxiv.org/abs/2312.03401)|null|
+|**2023-12-06**|**Riemannian Complex Matrix Convolution Network for PolSAR Image Classification**|Junfei Shi et.al.|[2312.03378](http://arxiv.org/abs/2312.03378)|null|
+|**2023-12-06**|**Bottom-Up Instance Segmentation of Catheters for Chest X-Rays**|Francesca Boccardi et.al.|[2312.03368](http://arxiv.org/abs/2312.03368)|null|
+|**2023-12-06**|**Demand response for residential building heating: Effective Monte Carlo Tree Search control based on physics-informed neural networks**|Fabio Pavirani et.al.|[2312.03365](http://arxiv.org/abs/2312.03365)|null|
 |**2023-12-05**|**Choroidalyzer: An open-source, end-to-end pipeline for choroidal analysis in optical coherence tomography**|Justin Engelmann et.al.|[2312.02956](http://arxiv.org/abs/2312.02956)|null|
 |**2023-12-05**|**Deep Learning Segmentation of Spiral Arms and Bars**|Mike Walmsley et.al.|[2312.02908](http://arxiv.org/abs/2312.02908)|null|
 |**2023-12-05**|**Experimental Insights Towards Explainable and Interpretable Pedestrian Crossing Prediction**|Angie Nataly Melo et.al.|[2312.02872](http://arxiv.org/abs/2312.02872)|null|
