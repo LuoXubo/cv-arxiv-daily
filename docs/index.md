@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.10
+## Updated on 2023.12.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2201,13 +2201,13 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-07**|**Visual Geometry Grounded Deep Structure From Motion**|Jianyuan Wang et.al.|[2312.04563](http://arxiv.org/abs/2312.04563)|null|
-|**2023-12-07**|**Probabilistic volumetric speckle suppression in OCT using deep learning**|Bhaskara Rao Chintada et.al.|[2312.04460](http://arxiv.org/abs/2312.04460)|null|
+|**2023-12-07**|**Probabilistic volumetric speckle suppression in OCT using deep learning**|Bhaskara Rao Chintada et.al.|[2312.04460](http://arxiv.org/abs/2312.04460)|**[link](https://github.com/bhaskarachintada/dltnode)**|
 |**2023-12-07**|**Deep3DSketch: 3D modeling from Free-hand Sketches with View- and Structural-Aware Adversarial Training**|Tianrun Chen et.al.|[2312.04435](http://arxiv.org/abs/2312.04435)|null|
-|**2023-12-07**|**Semi-Supervised Active Learning for Semantic Segmentation in Unknown Environments Using Informative Path Planning**|Julius Rückin et.al.|[2312.04402](http://arxiv.org/abs/2312.04402)|**[link](https://github.com/dmar-bonn/ipp-ssl)**|
+|**2023-12-07**|**Semi-Supervised Active Learning for Semantic Segmentation in Unknown Environments Using Informative Path Planning**|Julius Rückin et.al.|[2312.04402](http://arxiv.org/abs/2312.04402)|null|
 |**2023-12-07**|**Intelligent Anomaly Detection for Lane Rendering Using Transformer with Self-Supervised Pre-Training and Customized Fine-Tuning**|Yongqi Dong et.al.|[2312.04398](http://arxiv.org/abs/2312.04398)|null|
 |**2023-12-07**|**Surrogate Modelling for Sea Ice Concentration using Lightweight Neural Ensemble**|Julia Borisova et.al.|[2312.04330](http://arxiv.org/abs/2312.04330)|null|
 |**2023-12-07**|**Learning to sample in Cartesian MRI**|Thomas Sanchez et.al.|[2312.04327](http://arxiv.org/abs/2312.04327)|null|
-|**2023-12-07**|**Fast simulation of airfoil flow field via deep neural network**|Kuijun Zuo et.al.|[2312.04289](http://arxiv.org/abs/2312.04289)|null|
+|**2023-12-07**|**Fast simulation of airfoil flow field via deep neural network**|Kuijun Zuo et.al.|[2312.04289](http://arxiv.org/abs/2312.04289)|**[link](https://github.com/zuokuijun/fu-cbam-net)**|
 |**2023-12-07**|**Fine-tune vision foundation model for crack segmentation in civil infrastructures**|Kang Ge et.al.|[2312.04233](http://arxiv.org/abs/2312.04233)|null|
 |**2023-12-07**|**Coherent energy and force uncertainty in deep learning force fields**|Peter Bjørn Jørgensen et.al.|[2312.04174](http://arxiv.org/abs/2312.04174)|null|
 |**2023-12-06**|**Direct Exoplanet Detection Using Deep Convolutional Image Reconstruction (ConStruct): A New Algorithm for Post-Processing High-Contrast Images**|Trevor N. Wolf et.al.|[2312.03671](http://arxiv.org/abs/2312.03671)|null|
