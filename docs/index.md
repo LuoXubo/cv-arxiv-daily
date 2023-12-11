@@ -540,7 +540,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-06**|**Lite-Mind: Towards Efficient and Versatile Brain Representation Network**|Zixuan Gong et.al.|[2312.03781](http://arxiv.org/abs/2312.03781)|null|
-|**2023-12-05**|**FreestyleRet: Retrieving Images from Style-Diversified Queries**|Hao Li et.al.|[2312.02428](http://arxiv.org/abs/2312.02428)|**[link](https://github.com/curisejia/freestyleret)**|
+|**2023-12-08**|**FreestyleRet: Retrieving Images from Style-Diversified Queries**|Hao Li et.al.|[2312.02428](http://arxiv.org/abs/2312.02428)|**[link](https://github.com/curisejia/freestyleret)**|
 |**2023-12-04**|**Implicit Learning of Scene Geometry from Poses for Global Localization**|Mohammad Altillawi et.al.|[2312.02029](http://arxiv.org/abs/2312.02029)|null|
 |**2023-12-04**|**Language-only Efficient Training of Zero-shot Composed Image Retrieval**|Geonmo Gu et.al.|[2312.01998](http://arxiv.org/abs/2312.01998)|**[link](https://github.com/navervision/lincir)**|
 |**2023-12-03**|**G2D: From Global to Dense Radiography Representation Learning via Vision-Language Pre-training**|Che Liu et.al.|[2312.01522](http://arxiv.org/abs/2312.01522)|null|
@@ -1528,6 +1528,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-08**|**TriHuman : A Real-time and Controllable Tri-plane Representation for Detailed Human Geometry and Appearance Synthesis**|Heming Zhu et.al.|[2312.05161](http://arxiv.org/abs/2312.05161)|null|
+|**2023-12-08**|**Learn to Optimize Denoising Scores for 3D Generation: A Unified and Improved Diffusion Prior on NeRF and 3D Gaussian Splatting**|Xiaofeng Yang et.al.|[2312.04820](http://arxiv.org/abs/2312.04820)|null|
+|**2023-12-08**|**Reality's Canvas, Language's Brush: Crafting 3D Avatars from Monocular Video**|Yuchen Rao et.al.|[2312.04784](http://arxiv.org/abs/2312.04784)|null|
 |**2023-12-07**|**MuRF: Multi-Baseline Radiance Fields**|Haofei Xu et.al.|[2312.04565](http://arxiv.org/abs/2312.04565)|**[link](https://github.com/autonomousvision/murf)**|
 |**2023-12-07**|**EAGLES: Efficient Accelerated 3D Gaussians with Lightweight EncodingS**|Sharath Girish et.al.|[2312.04564](http://arxiv.org/abs/2312.04564)|null|
 |**2023-12-07**|**Correspondences of the Third Kind: Camera Pose Estimation from Object Reflection**|Kohei Yamashita et.al.|[2312.04527](http://arxiv.org/abs/2312.04527)|null|
@@ -2200,6 +2203,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-08**|**TaskMet: Task-Driven Metric Learning for Model Learning**|Dishank Bansal et.al.|[2312.05250](http://arxiv.org/abs/2312.05250)|null|
+|**2023-12-08**|**Enhancing Facial Classification and Recognition using 3D Facial Models and Deep Learning**|Houting Li et.al.|[2312.05219](http://arxiv.org/abs/2312.05219)|null|
+|**2023-12-08**|**Embedding theory in ML toward real-time tracking of structural dynamics through hyperspectral datasets**|Jonathan D Hollenbach et.al.|[2312.05201](http://arxiv.org/abs/2312.05201)|null|
+|**2023-12-08**|**TENPLEX: Changing Resources of Deep Learning Jobs using Parallelizable Tensor Collections**|Marcel Wagenländer et.al.|[2312.05181](http://arxiv.org/abs/2312.05181)|null|
+|**2023-12-08**|**Detecting Atomic Scale Surface Defects in STM of TMDs with Ensemble Deep Learning**|Darian Smalley et.al.|[2312.05160](http://arxiv.org/abs/2312.05160)|null|
+|**2023-12-08**|**Deep Learning-Based Pilotless Spatial Multiplexing**|Dani Korpi et.al.|[2312.05158](http://arxiv.org/abs/2312.05158)|null|
+|**2023-12-08**|**I Can't Believe It's Not Better: In-air Movement For Alzheimer Handwriting Synthetic Generation**|Asma Bensalah et.al.|[2312.05086](http://arxiv.org/abs/2312.05086)|null|
+|**2023-12-08**|**A Distributed ADMM-based Deep Learning Approach for Thermal Control in Multi-Zone Buildings**|Vincent Taboga et.al.|[2312.05073](http://arxiv.org/abs/2312.05073)|null|
+|**2023-12-08**|**Application of deep learning to the estimation of normalization coefficients in diffusion-based covariance models**|Folke K Skrunes et.al.|[2312.05068](http://arxiv.org/abs/2312.05068)|null|
+|**2023-12-08**|**Deep Learning Enabled Semantic Communication Systems for Video Transmission**|Zhenguo Zhang et.al.|[2312.05062](http://arxiv.org/abs/2312.05062)|null|
 |**2023-12-07**|**Visual Geometry Grounded Deep Structure From Motion**|Jianyuan Wang et.al.|[2312.04563](http://arxiv.org/abs/2312.04563)|null|
 |**2023-12-07**|**Probabilistic volumetric speckle suppression in OCT using deep learning**|Bhaskara Rao Chintada et.al.|[2312.04460](http://arxiv.org/abs/2312.04460)|**[link](https://github.com/bhaskarachintada/dltnode)**|
 |**2023-12-07**|**Deep3DSketch: 3D modeling from Free-hand Sketches with View- and Structural-Aware Adversarial Training**|Tianrun Chen et.al.|[2312.04435](http://arxiv.org/abs/2312.04435)|null|
