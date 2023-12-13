@@ -540,6 +540,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-12**|**Collapse-Oriented Adversarial Training with Triplet Decoupling for Robust Image Retrieval**|Qiwei Tian et.al.|[2312.07364](http://arxiv.org/abs/2312.07364)|null|
+|**2023-12-12**|**Attacking the Loop: Adversarial Attacks on Graph-based Loop Closure Detection**|Jonathan J. Y. Kim et.al.|[2312.06991](http://arxiv.org/abs/2312.06991)|null|
 |**2023-12-11**|**Dynamic Weighted Combiner for Mixed-Modal Image Retrieval**|Fuxiang Huang et.al.|[2312.06179](http://arxiv.org/abs/2312.06179)|null|
 |**2023-12-06**|**Lite-Mind: Towards Efficient and Versatile Brain Representation Network**|Zixuan Gong et.al.|[2312.03781](http://arxiv.org/abs/2312.03781)|null|
 |**2023-12-08**|**FreestyleRet: Retrieving Images from Style-Diversified Queries**|Hao Li et.al.|[2312.02428](http://arxiv.org/abs/2312.02428)|**[link](https://github.com/curisejia/freestyleret)**|
@@ -1147,6 +1149,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-11**|**Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach**|Travis Driver et.al.|[2312.06865](http://arxiv.org/abs/2312.06865)|null|
 |**2023-12-01**|**Tracking Object Positions in Reinforcement Learning: A Metric for Keypoint Detection (extended version)**|Emma Cramer et.al.|[2312.00592](http://arxiv.org/abs/2312.00592)|null|
 |**2023-11-30**|**Utilizing Radiomic Feature Analysis For Automated MRI Keypoint Detection: Enhancing Graph Applications**|Sahar Almahfouz Nasser et.al.|[2311.18281](http://arxiv.org/abs/2311.18281)|null|
 |**2023-11-29**|**Back to 3D: Few-Shot 3D Keypoint Detection with Back-Projected 2D Features**|Thomas Wimmer et.al.|[2311.18113](http://arxiv.org/abs/2311.18113)|null|
@@ -1530,6 +1533,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-12**|**COLMAP-Free 3D Gaussian Splatting**|Yang Fu et.al.|[2312.07504](http://arxiv.org/abs/2312.07504)|null|
+|**2023-12-12**|**Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs**|Sunghwan Hong et.al.|[2312.07246](http://arxiv.org/abs/2312.07246)|null|
+|**2023-12-12**|**WaterHE-NeRF: Water-ray Tracing Neural Radiance Fields for Underwater Scene Reconstruction**|Jingchun Zhou et.al.|[2312.06946](http://arxiv.org/abs/2312.06946)|null|
+|**2023-12-10**|**TeTriRF: Temporal Tri-Plane Radiance Fields for Efficient Free-Viewpoint Video**|Minye Wu et.al.|[2312.06713](http://arxiv.org/abs/2312.06713)|null|
 |**2023-12-11**|**CorresNeRF: Image Correspondence Priors for Neural Radiance Fields**|Yixing Lao et.al.|[2312.06642](http://arxiv.org/abs/2312.06642)|**[link](https://github.com/yxlao/corres-nerf)**|
 |**2023-12-11**|**DreamControl: Control-Based Text-to-3D Generation with 3D Self-Prior**|Tianyu Huang et.al.|[2312.06439](http://arxiv.org/abs/2312.06439)|null|
 |**2023-12-10**|**NeVRF: Neural Video-based Radiance Fields for Long-duration Sequences**|Minye Wu et.al.|[2312.05855](http://arxiv.org/abs/2312.05855)|null|
@@ -2212,6 +2219,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-12**|**Empirical Validation of Conformal Prediction for Trustworthy Skin Lesions Classification**|Jamil Fayyad et.al.|[2312.07460](http://arxiv.org/abs/2312.07460)|null|
+|**2023-12-12**|**Dynamics Harmonic Analysis of Robotic Systems: Application in Data-Driven Koopman Modelling**|Daniel Ordoñez-Apraez et.al.|[2312.07457](http://arxiv.org/abs/2312.07457)|null|
+|**2023-12-12**|**Deep Internal Learning: Deep Learning from a Single Input**|Tom Tirer et.al.|[2312.07425](http://arxiv.org/abs/2312.07425)|null|
+|**2023-12-12**|**ScribblePrompt: Fast and Flexible Interactive Segmentation for Any Medical Image**|Hallee E. Wong et.al.|[2312.07381](http://arxiv.org/abs/2312.07381)|null|
+|**2023-12-12**|**Neural Differentiable Integral Control Barrier Functions for Unknown Nonlinear Systems with Input Constraints**|Vrushabh Zinage et.al.|[2312.07345](http://arxiv.org/abs/2312.07345)|null|
+|**2023-12-12**|**Neural Machine Translation of Clinical Text: An Empirical Investigation into Multilingual Pre-Trained Language Models and Transfer-Learning**|Lifeng Han et.al.|[2312.07250](http://arxiv.org/abs/2312.07250)|null|
+|**2023-12-12**|**Super-Resolution on Rotationally Scanned Photoacoustic Microscopy Images Incorporating Scanning Prior**|Kai Pan et.al.|[2312.07226](http://arxiv.org/abs/2312.07226)|**[link](https://github.com/11710615/pamsr)**|
+|**2023-12-12**|**Brain-inspired Computing Based on Machine Learning And Deep Learning:A Review**|Bihui Yu et.al.|[2312.07213](http://arxiv.org/abs/2312.07213)|**[link](https://github.com/ultracoolhub/brain-inspired-computing)**|
+|**2023-12-12**|**SeasFire as a Multivariate Earth System Datacube for Wildfire Dynamics**|Ilektra Karasante et.al.|[2312.07199](http://arxiv.org/abs/2312.07199)|**[link](https://github.com/seasfire/seasfire-datacube-paper)**|
+|**2023-12-12**|**Investigation into the Training Dynamics of Learned Optimizers**|Jan Sobotka et.al.|[2312.07174](http://arxiv.org/abs/2312.07174)|null|
 |**2023-12-11**|**Examining the Effect of Implementation Factors on Deep Learning Reproducibility**|Kevin Coakley et.al.|[2312.06633](http://arxiv.org/abs/2312.06633)|null|
 |**2023-12-11**|**Neural Text to Articulate Talk: Deep Text to Audiovisual Speech Synthesis achieving both Auditory and Photo-realism**|Georgios Milis et.al.|[2312.06613](http://arxiv.org/abs/2312.06613)|**[link](https://github.com/g-milis/NEUTART)**|
 |**2023-12-11**|**Information theory for model reduction in stochastic dynamical systems**|Matthew S. Schmitt et.al.|[2312.06608](http://arxiv.org/abs/2312.06608)|null|
