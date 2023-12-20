@@ -23,7 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-15**|**Deep Event Visual Odometry**|Simon Klenk et.al.|[2312.09800](http://arxiv.org/abs/2312.09800)|null|
+|**2023-12-15**|**Deep Event Visual Odometry**|Simon Klenk et.al.|[2312.09800](http://arxiv.org/abs/2312.09800)|**[link](https://github.com/tum-vision/devo)**|
 |**2023-12-10**|**SuperPrimitive: Scene Reconstruction at a Primitive Level**|Kirill Mazur et.al.|[2312.05889](http://arxiv.org/abs/2312.05889)|null|
 |**2023-12-04**|**iMatching: Imperative Correspondence Learning**|Zitong Zhan et.al.|[2312.02141](http://arxiv.org/abs/2312.02141)|null|
 |**2023-11-30**|**Event-based Visual Inertial Velometer**|Xiuyuan Lu et.al.|[2311.18189](http://arxiv.org/abs/2311.18189)|null|
@@ -554,6 +554,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-19**|**VQA4CIR: Boosting Composed Image Retrieval with Visual Question Answering**|Chun-Mei Feng et.al.|[2312.12273](http://arxiv.org/abs/2312.12273)|null|
+|**2023-12-18**|**Advancing Image Retrieval with Few-Shot Learning and Relevance Feedback**|Boaz Lerner et.al.|[2312.11078](http://arxiv.org/abs/2312.11078)|null|
 |**2023-12-17**|**PNeRFLoc: Visual Localization with Point-based Neural Radiance Fields**|Boming Zhao et.al.|[2312.10649](http://arxiv.org/abs/2312.10649)|null|
 |**2023-12-17**|**DistilVPR: Cross-Modal Knowledge Distillation for Visual Place Recognition**|Sijie Wang et.al.|[2312.10616](http://arxiv.org/abs/2312.10616)|**[link](https://github.com/sijieaaa/distilvpr)**|
 |**2023-12-16**|**Symmetrical Bidirectional Knowledge Alignment for Zero-Shot Sketch-Based Image Retrieval**|Decheng Liu et.al.|[2312.10320](http://arxiv.org/abs/2312.10320)|null|
@@ -1175,6 +1177,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-19**|**An effective image copy-move forgery detection using entropy image**|Zhaowei Lu et.al.|[2312.11793](http://arxiv.org/abs/2312.11793)|null|
 |**2023-12-11**|**VoxelKP: A Voxel-based Network Architecture for Human Keypoint Estimation in LiDAR Data**|Jian Shi et.al.|[2312.08871](http://arxiv.org/abs/2312.08871)|**[link](https://github.com/shijianjian/voxelkp)**|
 |**2023-12-11**|**Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach**|Travis Driver et.al.|[2312.06865](http://arxiv.org/abs/2312.06865)|null|
 |**2023-12-01**|**Tracking Object Positions in Reinforcement Learning: A Metric for Keypoint Detection (extended version)**|Emma Cramer et.al.|[2312.00592](http://arxiv.org/abs/2312.00592)|null|
@@ -1375,6 +1378,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-18**|**MatchDet: A Collaborative Framework for Image Matching and Object Detection**|Jinxiang Lai et.al.|[2312.10983](http://arxiv.org/abs/2312.10983)|null|
 |**2023-12-07**|**Visual Geometry Grounded Deep Structure From Motion**|Jianyuan Wang et.al.|[2312.04563](http://arxiv.org/abs/2312.04563)|null|
 |**2023-12-04**|**Steerers: A framework for rotation equivariant keypoint descriptors**|Georg Bökman et.al.|[2312.02152](http://arxiv.org/abs/2312.02152)|**[link](https://github.com/georg-bn/rotation-steerers)**|
 |**2023-11-30**|**DSeg: Direct Line Segments Detection**|Berger Cyrille et.al.|[2311.18344](http://arxiv.org/abs/2311.18344)|null|
@@ -1564,8 +1568,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-19**|**ZS-SRT: An Efficient Zero-Shot Super-Resolution Training Method for Neural Radiance Fields**|Xiang Feng et.al.|[2312.12122](http://arxiv.org/abs/2312.12122)|null|
+|**2023-12-19**|**LHManip: A Dataset for Long-Horizon Language-Grounded Manipulation Tasks in Cluttered Tabletop Environments**|Federico Ceola et.al.|[2312.12036](http://arxiv.org/abs/2312.12036)|**[link](https://github.com/fedeceola/lhmanip)**|
+|**2023-12-19**|**MixRT: Mixed Neural Representations For Real-Time NeRF Rendering**|Chaojian Li et.al.|[2312.11841](http://arxiv.org/abs/2312.11841)|null|
+|**2023-12-19**|**Text-Image Conditioned Diffusion for Consistent Text-to-3D Generation**|Yuze He et.al.|[2312.11774](http://arxiv.org/abs/2312.11774)|null|
+|**2023-12-15**|**FastSR-NeRF: Improving NeRF Efficiency on Consumer Devices with A Simple Super-Resolution Pipeline**|Chien-Yu Lin et.al.|[2312.11537](http://arxiv.org/abs/2312.11537)|null|
+|**2023-12-15**|**Customize-It-3D: High-Quality 3D Creation from A Single Image Using Subject-Specific Knowledge Prior**|Nan Huang et.al.|[2312.11535](http://arxiv.org/abs/2312.11535)|null|
+|**2023-12-18**|**GAvatar: Animatable 3D Gaussian Avatars with Implicit Mesh Learning**|Ye Yuan et.al.|[2312.11461](http://arxiv.org/abs/2312.11461)|null|
+|**2023-12-18**|**AE-NeRF: Audio Enhanced Neural Radiance Field for Few Shot Talking Head Synthesis**|Dongze Li et.al.|[2312.10921](http://arxiv.org/abs/2312.10921)|null|
 |**2023-12-17**|**PNeRFLoc: Visual Localization with Point-based Neural Radiance Fields**|Boming Zhao et.al.|[2312.10649](http://arxiv.org/abs/2312.10649)|null|
-|**2023-12-16**|**Learning Dense Correspondence for NeRF-Based Face Reenactment**|Songlin Yang et.al.|[2312.10422](http://arxiv.org/abs/2312.10422)|null|
+|**2023-12-19**|**Learning Dense Correspondence for NeRF-Based Face Reenactment**|Songlin Yang et.al.|[2312.10422](http://arxiv.org/abs/2312.10422)|null|
 |**2023-12-15**|**SlimmeRF: Slimmable Radiance Fields**|Shiran Yuan et.al.|[2312.10034](http://arxiv.org/abs/2312.10034)|**[link](https://github.com/shiran-yuan/slimmerf)**|
 |**2023-12-15**|**LAENeRF: Local Appearance Editing for Neural Radiance Fields**|Lukas Radl et.al.|[2312.09913](http://arxiv.org/abs/2312.09913)|null|
 |**2023-12-15**|**SLS4D: Sparse Latent Space for 4D Novel View Synthesis**|Qi-Yuan Feng et.al.|[2312.09743](http://arxiv.org/abs/2312.09743)|null|
@@ -2271,6 +2283,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-19**|**On real-time multi-stage speech enhancement systems**|Lingjun Meng et.al.|[2312.12415](http://arxiv.org/abs/2312.12415)|null|
+|**2023-12-19**|**First qualitative observations on deep learning vision model YOLO and DETR for automated driving in Austria**|Stefan Schoder et.al.|[2312.12314](http://arxiv.org/abs/2312.12314)|null|
+|**2023-12-19**|**Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation**|Junxiang Wang et.al.|[2312.12276](http://arxiv.org/abs/2312.12276)|null|
+|**2023-12-19**|**Teeth Localization and Lesion Segmentation in CBCT Images using SpatialConfiguration-Net and U-Net**|Arnela Hadzic et.al.|[2312.12189](http://arxiv.org/abs/2312.12189)|null|
+|**2023-12-19**|**Object Detection for Automated Coronary Artery Using Deep Learning**|Hadis Keshavarz et.al.|[2312.12135](http://arxiv.org/abs/2312.12135)|null|
+|**2023-12-19**|**Towards Learning-Based Gyrocompassing**|Daniel Engelsman et.al.|[2312.12121](http://arxiv.org/abs/2312.12121)|null|
+|**2023-12-19**|**Shaping Up SHAP: Enhancing Stability through Layer-Wise Neighbor Selection**|Gwladys Kelodjou et.al.|[2312.12115](http://arxiv.org/abs/2312.12115)|null|
+|**2023-12-19**|**LightGCNet: A Lightweight Geometric Constructive Neural Network for Data-Driven Soft sensors**|Jing Nan et.al.|[2312.12022](http://arxiv.org/abs/2312.12022)|null|
+|**2023-12-19**|**GroupMixNorm Layer for Learning Fair Models**|Anubha Pandey et.al.|[2312.11969](http://arxiv.org/abs/2312.11969)|null|
+|**2023-12-19**|**Traffic Load Prediction and Power Consumption Reduction for Multi-band Networks**|Ndolane Diouf et.al.|[2312.11958](http://arxiv.org/abs/2312.11958)|null|
 |**2023-12-18**|**Country-Scale Cropland Mapping in Data-Scarce Settings Using Deep Learning: A Case Study of Nigeria**|Joaquin Gajardo et.al.|[2312.10872](http://arxiv.org/abs/2312.10872)|null|
 |**2023-12-17**|**High-Fidelity Face Swapping with Style Blending**|Xinyu Yang et.al.|[2312.10843](http://arxiv.org/abs/2312.10843)|null|
 |**2023-12-17**|**Facial Emotion Recognition using CNN in PyTorch**|Deyuan Qu et.al.|[2312.10818](http://arxiv.org/abs/2312.10818)|null|
