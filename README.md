@@ -1225,7 +1225,7 @@
 |**2023-09-12**|**Improving the matching of deformable objects by learning to detect keypoints**|Felipe Cadar et.al.|[2309.00434](http://arxiv.org/abs/2309.00434)|**[link](https://github.com/verlab/learningtodetect_prl_2023)**|
 |**2023-08-31**|**SportsSloMo: A New Benchmark and Baselines for Human-centric Video Frame Interpolation**|Jiaben Chen et.al.|[2308.16876](http://arxiv.org/abs/2308.16876)|null|
 |**2023-08-30**|**Learning Structure-from-Motion with Graph Attention Networks**|Lucas Brynte et.al.|[2308.15984](http://arxiv.org/abs/2308.15984)|null|
-|**2023-08-29**|**A lightweight 3D dense facial landmark estimation model from position map data**|Shubhajit Basak et.al.|[2308.15170](http://arxiv.org/abs/2308.15170)|null|
+|**2023-08-29**|**A lightweight 3D dense facial landmark estimation model from position map data**|Shubhajit Basak et.al.|[2308.15170](http://arxiv.org/abs/2308.15170)|**[link](https://github.com/shubhajitbasak/dense3dfacelandmarks)**|
 |**2023-08-27**|**Automatic coarse co-registration of point clouds from diverse scan geometries: a test of detectors and descriptors**|Francesco Pirotti et.al.|[2308.14047](http://arxiv.org/abs/2308.14047)|null|
 |**2023-08-24**|**VNI-Net: Vector Neurons-based Rotation-Invariant Descriptor for LiDAR Place Recognition**|Gengxuan Tian et.al.|[2308.12870](http://arxiv.org/abs/2308.12870)|null|
 |**2023-08-22**|**LDP-Feat: Image Features with Local Differential Privacy**|Francesco Pittaluga et.al.|[2308.11223](http://arxiv.org/abs/2308.11223)|null|
@@ -2367,7 +2367,7 @@
 |**2023-12-19**|**Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation**|Junxiang Wang et.al.|[2312.12276](http://arxiv.org/abs/2312.12276)|null|
 |**2023-12-19**|**Teeth Localization and Lesion Segmentation in CBCT Images using SpatialConfiguration-Net and U-Net**|Arnela Hadzic et.al.|[2312.12189](http://arxiv.org/abs/2312.12189)|null|
 |**2023-12-19**|**Object Detection for Automated Coronary Artery Using Deep Learning**|Hadis Keshavarz et.al.|[2312.12135](http://arxiv.org/abs/2312.12135)|null|
-|**2023-12-19**|**Towards Learning-Based Gyrocompassing**|Daniel Engelsman et.al.|[2312.12121](http://arxiv.org/abs/2312.12121)|null|
+|**2023-12-19**|**Towards Learning-Based Gyrocompassing**|Daniel Engelsman et.al.|[2312.12121](http://arxiv.org/abs/2312.12121)|**[link](https://github.com/ansfl/learning-based-mems-gyrocompassing)**|
 |**2023-12-19**|**Shaping Up SHAP: Enhancing Stability through Layer-Wise Neighbor Selection**|Gwladys Kelodjou et.al.|[2312.12115](http://arxiv.org/abs/2312.12115)|null|
 |**2023-12-19**|**LightGCNet: A Lightweight Geometric Constructive Neural Network for Data-Driven Soft sensors**|Jing Nan et.al.|[2312.12022](http://arxiv.org/abs/2312.12022)|null|
 |**2023-12-19**|**GroupMixNorm Layer for Learning Fair Models**|Anubha Pandey et.al.|[2312.11969](http://arxiv.org/abs/2312.11969)|null|
@@ -3468,7 +3468,7 @@
 |**2023-07-12**|**Reconstructing Spatiotemporal Data with C-VAEs**|Tiago F. R. Ribeiro et.al.|[2307.06243](http://arxiv.org/abs/2307.06243)|**[link](https://github.com/ciic-c-t-polytechnic-of-leiria/reconstr_cvae_paper)**|
 |**2023-07-12**|**Ashaar: Automatic Analysis and Generation of Arabic Poetry Using Deep Learning Approaches**|Zaid Alyafeai et.al.|[2307.06218](http://arxiv.org/abs/2307.06218)|**[link](https://github.com/arbml/ashaar)**|
 |**2023-07-12**|**Local Conditional Neural Fields for Versatile and Generalizable Large-Scale Reconstructions in Computational Imaging**|Hao Wang et.al.|[2307.06207](http://arxiv.org/abs/2307.06207)|**[link](https://github.com/bu-cisl/LCNF)**|
-|**2023-07-12**|**Deep learning for dynamic graphs: models and benchmarks**|Alessio Gravina et.al.|[2307.06104](http://arxiv.org/abs/2307.06104)|null|
+|**2023-07-12**|**Deep learning for dynamic graphs: models and benchmarks**|Alessio Gravina et.al.|[2307.06104](http://arxiv.org/abs/2307.06104)|**[link](https://github.com/gravins/dynamic_graph_benchmark)**|
 |**2023-07-12**|**Online Laplace Model Selection Revisited**|Jihao Andreas Lin et.al.|[2307.06093](http://arxiv.org/abs/2307.06093)|null|
 |**2023-07-12**|**Can Large Language Models Aid in Annotating Speech Emotional Data? Uncovering New Frontiers**|Siddique Latif et.al.|[2307.06090](http://arxiv.org/abs/2307.06090)|null|
 |**2023-07-12**|**Non-Ideal Program-Time Conservation in Charge Trap Flash for Deep Learning**|Shalini Shrivastava et.al.|[2307.06088](http://arxiv.org/abs/2307.06088)|null|
