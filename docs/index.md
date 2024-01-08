@@ -560,7 +560,7 @@ layout: default
 |**2023-12-18**|**Advancing Image Retrieval with Few-Shot Learning and Relevance Feedback**|Boaz Lerner et.al.|[2312.11078](http://arxiv.org/abs/2312.11078)|**[link](https://github.com/eccv22-ood-workshop/eccv22-ood-workshop.github.io)**|
 |**2023-12-17**|**PNeRFLoc: Visual Localization with Point-based Neural Radiance Fields**|Boming Zhao et.al.|[2312.10649](http://arxiv.org/abs/2312.10649)|null|
 |**2023-12-17**|**DistilVPR: Cross-Modal Knowledge Distillation for Visual Place Recognition**|Sijie Wang et.al.|[2312.10616](http://arxiv.org/abs/2312.10616)|**[link](https://github.com/sijieaaa/distilvpr)**|
-|**2023-12-16**|**Symmetrical Bidirectional Knowledge Alignment for Zero-Shot Sketch-Based Image Retrieval**|Decheng Liu et.al.|[2312.10320](http://arxiv.org/abs/2312.10320)|null|
+|**2023-12-16**|**Symmetrical Bidirectional Knowledge Alignment for Zero-Shot Sketch-Based Image Retrieval**|Decheng Liu et.al.|[2312.10320](http://arxiv.org/abs/2312.10320)|**[link](https://github.com/zermatt-luo/SBKA)**|
 |**2023-12-15**|**Data-Efficient Multimodal Fusion on a Single GPU**|Noël Vouitsis et.al.|[2312.10144](http://arxiv.org/abs/2312.10144)|**[link](https://github.com/layer6ai-labs/fusemix)**|
 |**2023-12-13**|**Advancements in Content-Based Image Retrieval: A Comprehensive Survey of Relevance Feedback Techniques**|Hamed Qazanfari et.al.|[2312.10089](http://arxiv.org/abs/2312.10089)|null|
 |**2023-12-15**|**Let All be Whitened: Multi-teacher Distillation for Efficient Visual Retrieval**|Zhe Ma et.al.|[2312.09716](http://arxiv.org/abs/2312.09716)|**[link](https://github.com/maryeon/whiten_mtd)**|
@@ -864,7 +864,7 @@ layout: default
 |**2023-03-01**|**A Complementarity-Based Switch-Fuse System for Improved Visual Place Recognition**|Maria Waheed et.al.|[2303.00714](http://arxiv.org/abs/2303.00714)|null|
 |**2023-03-01**|**ORCHNet: A Robust Global Feature Aggregation approach for 3D LiDAR-based Place recognition in Orchards**|T. Barros et.al.|[2303.00477](http://arxiv.org/abs/2303.00477)|**[link](https://github.com/cybonic/orchnet)**|
 |**2023-03-03**|**Renderable Neural Radiance Map for Visual Navigation**|Obin Kwon et.al.|[2303.00304](http://arxiv.org/abs/2303.00304)|null|
-|**2023-03-01**|**Region Prediction for Efficient Robot Localization on Large Maps**|Matteo Scucchia et.al.|[2303.00295](http://arxiv.org/abs/2303.00295)|null|
+|**2023-03-01**|**Region Prediction for Efficient Robot Localization on Large Maps**|Matteo Scucchia et.al.|[2303.00295](http://arxiv.org/abs/2303.00295)|**[link](https://github.com/mi-biolab/region-learner)**|
 |**2023-02-28**|**OEKG: The Open Event Knowledge Graph**|Simon Gottschalk et.al.|[2302.14688](http://arxiv.org/abs/2302.14688)|null|
 |**2023-02-28**|**Global Proxy-based Hard Mining for Visual Place Recognition**|Amar Ali-bey et.al.|[2302.14217](http://arxiv.org/abs/2302.14217)|**[link](https://github.com/amaralibey/gpm)**|
 |**2023-02-27**|**Efficient Informed Proposals for Discrete Distributions via Newton's Series Approximation**|Yue Xiang et.al.|[2302.13929](http://arxiv.org/abs/2302.13929)|**[link](https://github.com/dongyaozhu/newton-proposal-for-discrete-sampling)**|
@@ -1728,12 +1728,12 @@ layout: default
 |**2023-11-16**|**Reconstructing Continuous Light Field From Single Coded Image**|Yuya Ishikawa et.al.|[2311.09646](http://arxiv.org/abs/2311.09646)|null|
 |**2023-11-15**|**Single-Image 3D Human Digitization with Shape-Guided Diffusion**|Badour AlBahar et.al.|[2311.09221](http://arxiv.org/abs/2311.09221)|null|
 |**2023-11-15**|**DMV3D: Denoising Multi-View Diffusion using 3D Large Reconstruction Model**|Yinghao Xu et.al.|[2311.09217](http://arxiv.org/abs/2311.09217)|null|
-|**2023-11-15**|**Spiking NeRF: Representing the Real-World Geometry by a Discontinuous Representation**|Zhanfeng Liao et.al.|[2311.09077](http://arxiv.org/abs/2311.09077)|null|
+|**2023-11-15**|**Spiking NeRF: Representing the Real-World Geometry by a Discontinuous Representation**|Zhanfeng Liao et.al.|[2311.09077](http://arxiv.org/abs/2311.09077)|**[link](https://github.com/liaozhanfeng/spiking-nerf)**|
 |**2023-11-13**|**$L_0$-Sampler: An $L_{0}$ Model Guided Volume Sampling for NeRF**|Liangchen Li et.al.|[2311.07044](http://arxiv.org/abs/2311.07044)|null|
 |**2023-11-11**|**Aria-NeRF: Multimodal Egocentric View Synthesis**|Jiankai Sun et.al.|[2311.06455](http://arxiv.org/abs/2311.06455)|null|
 |**2023-11-10**|**Instant3D: Fast Text-to-3D with Sparse-View Generation and Large Reconstruction Model**|Jiahao Li et.al.|[2311.06214](http://arxiv.org/abs/2311.06214)|null|
 |**2023-11-10**|**A Neural Height-Map Approach for the Binocular Photometric Stereo Problem**|Fotios Logothetis et.al.|[2311.05958](http://arxiv.org/abs/2311.05958)|null|
-|**2023-11-09**|**BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis**|Hao-Bin Duan et.al.|[2311.05521](http://arxiv.org/abs/2311.05521)|null|
+|**2023-11-09**|**BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis**|Hao-Bin Duan et.al.|[2311.05521](http://arxiv.org/abs/2311.05521)|**[link](https://github.com/buaavrcg/BakedAvatar)**|
 |**2023-11-09**|**Control3D: Towards Controllable Text-to-3D Generation**|Yang Chen et.al.|[2311.05461](http://arxiv.org/abs/2311.05461)|null|
 |**2023-11-08**|**LRM: Large Reconstruction Model for Single Image to 3D**|Yicong Hong et.al.|[2311.04400](http://arxiv.org/abs/2311.04400)|null|
 |**2023-11-07**|**ADFactory: Automated Data Factory for Optical Flow Tasks**|Han Ling et.al.|[2311.04246](http://arxiv.org/abs/2311.04246)|null|
@@ -2351,7 +2351,7 @@ layout: default
 |**2023-12-28**|**EFHQ: Multi-purpose ExtremePose-Face-HQ dataset**|Trung Tuan Dao et.al.|[2312.17205](http://arxiv.org/abs/2312.17205)|null|
 |**2023-12-28**|**Securing NextG Systems against Poisoning Attacks on Federated Learning: A Game-Theoretic Solution**|Yalin E. Sagduyu et.al.|[2312.17164](http://arxiv.org/abs/2312.17164)|null|
 |**2023-12-28**|**BEAST: Online Joint Beat and Downbeat Tracking Based on Streaming Transformer**|Chih-Cheng Chang et.al.|[2312.17156](http://arxiv.org/abs/2312.17156)|**[link](https://github.com/WildHoneyPie/BEAST)**|
-|**2023-12-28**|**AI Powered Road Network Prediction with Multi-Modal Data**|Necip Enes Gengec et.al.|[2312.17040](http://arxiv.org/abs/2312.17040)|null|
+|**2023-12-28**|**AI Powered Road Network Prediction with Multi-Modal Data**|Necip Enes Gengec et.al.|[2312.17040](http://arxiv.org/abs/2312.17040)|**[link](https://github.com/nagellette/sentinel_traj_nn)**|
 |**2023-12-28**|**Continual Learning in Medical Imaging Analysis: A Comprehensive Review of Recent Advancements and Future Prospects**|Pratibha Kumari et.al.|[2312.17004](http://arxiv.org/abs/2312.17004)|null|
 |**2023-12-28**|**Deep Unfolding Network with Spatial Alignment for multi-modal MRI reconstruction**|Hao Zhang et.al.|[2312.16998](http://arxiv.org/abs/2312.16998)|null|
 |**2023-12-28**|**3DTINC: Time-Equivariant Non-Contrastive Learning for Predicting Disease Progression from Longitudinal OCTs**|Taha Emre et.al.|[2312.16980](http://arxiv.org/abs/2312.16980)|null|
@@ -2362,7 +2362,7 @@ layout: default
 |**2023-12-26**|**Deep learning the nonclassicality within quasi-distribution representations from marginals**|Hong-Bin Chen et.al.|[2312.16055](http://arxiv.org/abs/2312.16055)|null|
 |**2023-12-26**|**A Self Supervised StyleGAN for Image Annotation and Classification with Extremely Limited Labels**|Dana Cohen Hochberg et.al.|[2312.15972](http://arxiv.org/abs/2312.15972)|null|
 |**2023-12-26**|**Enhancing Redundancy-based Automated Program Repair by Fine-grained Pattern Mining**|Jiajun Jiang et.al.|[2312.15955](http://arxiv.org/abs/2312.15955)|null|
-|**2023-12-26**|**ECHO: Efficient Dataset Condensation by Higher-Order Distribution Alignment**|Hansong Zhang et.al.|[2312.15927](http://arxiv.org/abs/2312.15927)|null|
+|**2023-12-26**|**ECHO: Efficient Dataset Condensation by Higher-Order Distribution Alignment**|Hansong Zhang et.al.|[2312.15927](http://arxiv.org/abs/2312.15927)|**[link](https://github.com/hansong-zhang/echo)**|
 |**2023-12-26**|**Heterogeneous Encoders Scaling In The Transformer For Neural Machine Translation**|Jia Cheng Hu et.al.|[2312.15872](http://arxiv.org/abs/2312.15872)|null|
 |**2023-12-26**|**Curricular and Cyclical Loss for Time Series Learning Strategy**|Chenxi Sun et.al.|[2312.15853](http://arxiv.org/abs/2312.15853)|null|
 |**2023-12-26**|**ShallowBlocker: Improving Set Similarity Joins for Blocking**|Nils Barlaug et.al.|[2312.15835](http://arxiv.org/abs/2312.15835)|null|
@@ -2405,7 +2405,7 @@ layout: default
 |**2023-12-17**|**Traffic Incident Database with Multiple Labels Including Various Perspective Environmental Information**|Shota Nishiyama et.al.|[2312.10737](http://arxiv.org/abs/2312.10737)|**[link](https://github.com/nissy-shota/v-tidb)**|
 |**2023-12-17**|**A Computationally Efficient Neural Video Compression Accelerator Based on a Sparse CNN-Transformer Hybrid Network**|Siyu Zhang et.al.|[2312.10716](http://arxiv.org/abs/2312.10716)|null|
 |**2023-12-17**|**CLDR: Contrastive Learning Drug Response Models from Natural Language Supervision**|Kun Li et.al.|[2312.10707](http://arxiv.org/abs/2312.10707)|null|
-|**2023-12-17**|**An Interpretable Deep Learning Approach for Skin Cancer Categorization**|Faysal Mahmud et.al.|[2312.10696](http://arxiv.org/abs/2312.10696)|null|
+|**2023-12-17**|**An Interpretable Deep Learning Approach for Skin Cancer Categorization**|Faysal Mahmud et.al.|[2312.10696](http://arxiv.org/abs/2312.10696)|**[link](https://github.com/faysal-md/an-interpretable-deep-learning-approach-for-skin-cancer-categorization-ieee2023)**|
 |**2023-12-17**|**An appointment with Reproducing Kernel Hilbert Space generated by Generalized Gaussian RBF as $L^2-$ measure**|Himanshu Singh et.al.|[2312.10693](http://arxiv.org/abs/2312.10693)|null|
 |**2023-12-15**|**Accelerating Neural Network Training: A Brief Review**|Sahil Nokhwal et.al.|[2312.10024](http://arxiv.org/abs/2312.10024)|**[link](https://github.com/sahilnokhwal/annt)**|
 |**2023-12-15**|**Deep Unsupervised Domain Adaptation for Time Series Classification: a Benchmark**|Hassan Ismail Fawaz et.al.|[2312.09857](http://arxiv.org/abs/2312.09857)|**[link](https://github.com/ericssonresearch/uda-4-tsc)**|
@@ -3765,7 +3765,7 @@ layout: default
 |**2023-05-31**|**Unsupervised Anomaly Detection in Medical Images Using Masked Diffusion Model**|Hasan Iqbal et.al.|[2305.19867](http://arxiv.org/abs/2305.19867)|**[link](https://github.com/hasan1292/mddpm)**|
 |**2023-05-31**|**A Survey of Label-Efficient Deep Learning for 3D Point Clouds**|Aoran Xiao et.al.|[2305.19812](http://arxiv.org/abs/2305.19812)|**[link](https://github.com/xiaoaoran/3d_label_efficient_learning)**|
 |**2023-05-31**|**Neuro-Causal Factor Analysis**|Alex Markham et.al.|[2305.19802](http://arxiv.org/abs/2305.19802)|null|
-|**2023-05-31**|**DeepMerge: Deep Learning-Based Region-Merging for Image Segmentation**|Xianwei Lv et.al.|[2305.19787](http://arxiv.org/abs/2305.19787)|null|
+|**2023-05-31**|**DeepMerge: Deep Learning-Based Region-Merging for Image Segmentation**|Xianwei Lv et.al.|[2305.19787](http://arxiv.org/abs/2305.19787)|**[link](https://github.com/lvxianwei/DeepMerge)**|
 |**2023-05-31**|**Deep learning and MCMC with aggVAE for shifting administrative boundaries: mapping malaria prevalence in Kenya**|Elizaveta Semenova et.al.|[2305.19779](http://arxiv.org/abs/2305.19779)|null|
 |**2023-05-30**|**Scanning Gate Microscopy response for local tip potentials beyond perturbation theory**|Ousmane Ly et.al.|[2305.19224](http://arxiv.org/abs/2305.19224)|null|
 |**2023-05-30**|**Graph-based Time Series Clustering for End-to-End Hierarchical Forecasting**|Andrea Cini et.al.|[2305.19183](http://arxiv.org/abs/2305.19183)|null|
