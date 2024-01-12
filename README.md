@@ -23,6 +23,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**On State Estimation in Multi-Sensor Fusion Navigation: Optimization and Filtering**|Feng Zhu et.al.|[2401.05836](http://arxiv.org/abs/2401.05836)|null|
+|**2023-12-19**|**Loss it right: Euclidean and Riemannian Metrics in Learning-based Visual Odometry**|Olaya Álvarez-Tuñón et.al.|[2401.05396](http://arxiv.org/abs/2401.05396)|null|
 |**2024-01-07**|**Amirkabir campus dataset: Real-world challenges and scenarios of Visual Inertial Odometry (VIO) for visually impaired people**|Ali Samadzadeh et.al.|[2401.03604](http://arxiv.org/abs/2401.03604)|**[link](https://github.com/A3DV/VIRec)**|
 |**2024-01-03**|**LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry**|Weirong Chen et.al.|[2401.01887](http://arxiv.org/abs/2401.01887)|null|
 |**2023-12-28**|**SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2312.16800](http://arxiv.org/abs/2312.16800)|**[link](https://github.com/ZikangYuan/sr_livo)**|
@@ -561,6 +563,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**UAVD4L: A Large-Scale Dataset for UAV 6-DoF Localization**|Rouwan Wu et.al.|[2401.05971](http://arxiv.org/abs/2401.05971)|null|
 |**2024-01-10**|**Modality-Aware Representation Learning for Zero-shot Sketch-based Image Retrieval**|Eunyi Lyou et.al.|[2401.04860](http://arxiv.org/abs/2401.04860)|null|
 |**2024-01-05**|**Benchmarking PathCLIP for Pathology Image Analysis**|Sunyi Zheng et.al.|[2401.02651](http://arxiv.org/abs/2401.02651)|null|
 |**2024-01-03**|**DDN-SLAM: Real-time Dense Dynamic Neural Implicit SLAM with Joint Semantic Encoding**|Mingrui Li et.al.|[2401.01545](http://arxiv.org/abs/2401.01545)|null|
@@ -1598,6 +1601,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**Fast High Dynamic Range Radiance Fields for Dynamic Scenes**|Guanjun Wu et.al.|[2401.06052](http://arxiv.org/abs/2401.06052)|null|
+|**2024-01-11**|**CoSSegGaussians: Compact and Swift Scene Segmenting 3D Gaussians**|Bin Dou et.al.|[2401.05925](http://arxiv.org/abs/2401.05925)|null|
+|**2024-01-11**|**GO-NeRF: Generating Virtual Objects in Neural Radiance Fields**|Peng Dai et.al.|[2401.05750](http://arxiv.org/abs/2401.05750)|null|
+|**2024-01-10**|**Diffusion Priors for Dynamic View Synthesis from Monocular Videos**|Chaoyang Wang et.al.|[2401.05583](http://arxiv.org/abs/2401.05583)|null|
 |**2024-01-10**|**InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes**|Mohamad Shahbazi et.al.|[2401.05335](http://arxiv.org/abs/2401.05335)|null|
 |**2024-01-10**|**CTNeRF: Cross-Time Transformer for Dynamic Neural Radiance Field from Monocular Video**|Xingyu Miao et.al.|[2401.04861](http://arxiv.org/abs/2401.04861)|null|
 |**2024-01-08**|**A Survey on 3D Gaussian Splatting**|Guikun Chen et.al.|[2401.03890](http://arxiv.org/abs/2401.03890)|null|
@@ -2353,6 +2360,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**Modeling the Asymptotic Behavior of Higher-Order Aftershocks with Deep Learning**|Leila Mizrahi et.al.|[2401.06075](http://arxiv.org/abs/2401.06075)|null|
+|**2024-01-11**|**Wavelet-Inspired Multiscale Graph Convolutional Recurrent Network for Traffic Forecasting**|Qipeng Qian et.al.|[2401.06040](http://arxiv.org/abs/2401.06040)|**[link](https://github.com/qqian99/wavgcrn)**|
+|**2024-01-11**|**Automatic UAV-based Airport Pavement Inspection Using Mixed Real and Virtual Scenarios**|Pablo Alonso et.al.|[2401.06019](http://arxiv.org/abs/2401.06019)|null|
+|**2024-01-11**|**An attempt to generate new bridge types from latent space of PixelCNN**|Hongjun Zhang et.al.|[2401.05964](http://arxiv.org/abs/2401.05964)|**[link](https://github.com/QQ583304953/Bridge-PixelCNN)**|
+|**2024-01-11**|**Time Series Forecasting of HIV/AIDS in the Philippines Using Deep Learning: Does COVID-19 Epidemic Matter?**|Sales G. Aribe Jr. et.al.|[2401.05933](http://arxiv.org/abs/2401.05933)|null|
+|**2024-01-11**|**Neural Implicit Surface Reconstruction for Freehand 3D Ultrasound Volumetric Point Clouds with Geometric Constraints**|Hongbo Chen et.al.|[2401.05915](http://arxiv.org/abs/2401.05915)|null|
+|**2024-01-11**|**ConKeD: Multiview contrastive descriptor learning for keypoint-based retinal image registration**|David Rivas-Villar et.al.|[2401.05901](http://arxiv.org/abs/2401.05901)|null|
+|**2024-01-11**|**The Role of Deep Learning in Advancing Proactive Cybersecurity Measures for Smart Grid Networks: A Survey**|Nima Abdi et.al.|[2401.05896](http://arxiv.org/abs/2401.05896)|null|
+|**2024-01-11**|**Giant piezoelectric effects of topological structures in stretched ferroelectric membranes**|Yihao Hu et.al.|[2401.05789](http://arxiv.org/abs/2401.05789)|null|
+|**2024-01-11**|**Knowledge Translation: A New Pathway for Model Compression**|Wujie Sun et.al.|[2401.05772](http://arxiv.org/abs/2401.05772)|**[link](https://github.com/zju-swj/kt)**|
 |**2024-01-10**|**Physics guided dual Self-supervised learning for structure-based materials property prediction**|Nihang Fu et.al.|[2401.05223](http://arxiv.org/abs/2401.05223)|null|
 |**2024-01-10**|**Video-based Automatic Lameness Detection of Dairy Cows using Pose Estimation and Multiple Locomotion Traits**|Helena Russello et.al.|[2401.05202](http://arxiv.org/abs/2401.05202)|null|
 |**2024-01-10**|**CrossDiff: Exploring Self-Supervised Representation of Pansharpening via Cross-Predictive Diffusion Model**|Yinghui Xing et.al.|[2401.05153](http://arxiv.org/abs/2401.05153)|null|
