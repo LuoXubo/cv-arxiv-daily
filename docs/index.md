@@ -593,7 +593,7 @@ layout: default
 |**2023-11-27**|**Removing NSFW Concepts from Vision-and-Language Models for Text-to-Image Retrieval and Generation**|Samuele Poppi et.al.|[2311.16254](http://arxiv.org/abs/2311.16254)|**[link](https://github.com/aimagelab/safe-clip)**|
 |**2023-11-27**|**Optimal Transport Aggregation for Visual Place Recognition**|Sergio Izquierdo et.al.|[2311.15937](http://arxiv.org/abs/2311.15937)|**[link](https://github.com/serizba/salad)**|
 |**2023-11-27**|**AI-Generated Images Introduce Invisible Relevance Bias to Text-Image Retrieval**|Shicheng Xu et.al.|[2311.14084](http://arxiv.org/abs/2311.14084)|null|
-|**2023-11-23**|**3D-MIR: A Benchmark and Empirical Study on 3D Medical Image Retrieval in Radiology**|Asma Ben Abacha et.al.|[2311.13752](http://arxiv.org/abs/2311.13752)|null|
+|**2023-11-23**|**3D-MIR: A Benchmark and Empirical Study on 3D Medical Image Retrieval in Radiology**|Asma Ben Abacha et.al.|[2311.13752](http://arxiv.org/abs/2311.13752)|**[link](https://github.com/abachaa/3d-mir)**|
 |**2023-11-22**|**Medical Image Retrieval Using Pretrained Embeddings**|Farnaz Khun Jush et.al.|[2311.13547](http://arxiv.org/abs/2311.13547)|null|
 |**2023-11-22**|**Applications of Spiking Neural Networks in Visual Place Recognition**|Somayeh Hussaini et.al.|[2311.13186](http://arxiv.org/abs/2311.13186)|**[link](https://github.com/qvpr/vprsnn)**|
 |**2023-11-21**|**Attribute-Aware Deep Hashing with Self-Consistency for Large-Scale Fine-Grained Image Retrieval**|Xiu-Shen Wei et.al.|[2311.12894](http://arxiv.org/abs/2311.12894)|null|
@@ -1607,7 +1607,7 @@ layout: default
 |**2023-12-26**|**DL3DV-10K: A Large-Scale Scene Dataset for Deep Learning-based 3D Vision**|Lu Ling et.al.|[2312.16256](http://arxiv.org/abs/2312.16256)|null|
 |**2023-12-24**|**SUNDIAL: 3D Satellite Understanding through Direct, Ambient, and Complex Lighting Decomposition**|Nikhil Behari et.al.|[2312.16215](http://arxiv.org/abs/2312.16215)|null|
 |**2023-12-23**|**INFAMOUS-NeRF: ImproviNg FAce MOdeling Using Semantically-Aligned Hypernetworks with Neural Radiance Fields**|Andrew Hou et.al.|[2312.16197](http://arxiv.org/abs/2312.16197)|null|
-|**2023-12-26**|**LangSplat: 3D Language Gaussian Splatting**|Minghan Qin et.al.|[2312.16084](http://arxiv.org/abs/2312.16084)|null|
+|**2023-12-26**|**LangSplat: 3D Language Gaussian Splatting**|Minghan Qin et.al.|[2312.16084](http://arxiv.org/abs/2312.16084)|**[link](https://github.com/minghanqin/LangSplat)**|
 |**2023-12-26**|**2D-Guided 3D Gaussian Segmentation**|Kun Lan et.al.|[2312.16047](http://arxiv.org/abs/2312.16047)|null|
 |**2023-12-26**|**Pano-NeRF: Synthesizing High Dynamic Range Novel Views with Geometry from Sparse Low Dynamic Range Panoramic Images**|Zhan Lu et.al.|[2312.15942](http://arxiv.org/abs/2312.15942)|null|
 |**2023-12-23**|**Human101: Training 100+FPS Human Gaussians in 100s from 1 View**|Mingwei Li et.al.|[2312.15258](http://arxiv.org/abs/2312.15258)|**[link](https://github.com/longxiang-ai/human101)**|
@@ -2003,7 +2003,7 @@ layout: default
 |**2023-05-01**|**GeneFace++: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation**|Zhenhui Ye et.al.|[2305.00787](http://arxiv.org/abs/2305.00787)|null|
 |**2023-04-30**|**Neural Radiance Fields (NeRFs): A Review and Some Recent Developments**|Mohamed Debbagh et.al.|[2305.00375](http://arxiv.org/abs/2305.00375)|null|
 |**2023-04-28**|**ViP-NeRF: Visibility Prior for Sparse Input Neural Radiance Fields**|Nagabhushan Somraj et.al.|[2305.00041](http://arxiv.org/abs/2305.00041)|**[link](https://github.com/NagabhushanSN95/ViP-NeRF)**|
-|**2023-04-28**|**NeRF-LiDAR: Generating Realistic LiDAR Point Clouds with Neural Radiance Fields**|Junge Zhang et.al.|[2304.14811](http://arxiv.org/abs/2304.14811)|null|
+|**2023-04-28**|**NeRF-LiDAR: Generating Realistic LiDAR Point Clouds with Neural Radiance Fields**|Junge Zhang et.al.|[2304.14811](http://arxiv.org/abs/2304.14811)|**[link](https://github.com/fudan-zvg/nerf-lidar)**|
 |**2023-04-27**|**Learning a Diffusion Prior for NeRFs**|Guandao Yang et.al.|[2304.14473](http://arxiv.org/abs/2304.14473)|null|
 |**2023-04-27**|**ActorsNeRF: Animatable Few-shot Human Rendering with Generalizable NeRFs**|Jiteng Mu et.al.|[2304.14401](http://arxiv.org/abs/2304.14401)|null|
 |**2023-05-03**|**Combining HoloLens with Instant-NeRFs: Advanced Real-Time 3D Mobile Mapping**|Dennis Haitz et.al.|[2304.14301](http://arxiv.org/abs/2304.14301)|null|
@@ -2349,12 +2349,12 @@ layout: default
 |**2024-01-11**|**The Role of Deep Learning in Advancing Proactive Cybersecurity Measures for Smart Grid Networks: A Survey**|Nima Abdi et.al.|[2401.05896](http://arxiv.org/abs/2401.05896)|null|
 |**2024-01-11**|**Giant piezoelectric effects of topological structures in stretched ferroelectric membranes**|Yihao Hu et.al.|[2401.05789](http://arxiv.org/abs/2401.05789)|null|
 |**2024-01-11**|**Knowledge Translation: A New Pathway for Model Compression**|Wujie Sun et.al.|[2401.05772](http://arxiv.org/abs/2401.05772)|**[link](https://github.com/zju-swj/kt)**|
-|**2024-01-10**|**Physics guided dual Self-supervised learning for structure-based materials property prediction**|Nihang Fu et.al.|[2401.05223](http://arxiv.org/abs/2401.05223)|null|
+|**2024-01-10**|**Physics guided dual Self-supervised learning for structure-based materials property prediction**|Nihang Fu et.al.|[2401.05223](http://arxiv.org/abs/2401.05223)|**[link](https://github.com/usccolumbia/dssl)**|
 |**2024-01-10**|**Video-based Automatic Lameness Detection of Dairy Cows using Pose Estimation and Multiple Locomotion Traits**|Helena Russello et.al.|[2401.05202](http://arxiv.org/abs/2401.05202)|null|
 |**2024-01-10**|**CrossDiff: Exploring Self-Supervised Representation of Pansharpening via Cross-Predictive Diffusion Model**|Yinghui Xing et.al.|[2401.05153](http://arxiv.org/abs/2401.05153)|null|
 |**2024-01-10**|**Disorder-induced enhancement of lithium-ion transport in solid-state electrolytes**|Zhimin Chen et.al.|[2401.05151](http://arxiv.org/abs/2401.05151)|null|
 |**2024-01-10**|**DISCOVER: 2-D Multiview Summarization of Optical Coherence Tomography Angiography for Automatic Diabetic Retinopathy Diagnosis**|Mostafa El Habib Daho et.al.|[2401.05137](http://arxiv.org/abs/2401.05137)|null|
-|**2024-01-10**|**Code Review Automation: Strengths and Weaknesses of the State of the Art**|Rosalia Tufano et.al.|[2401.05136](http://arxiv.org/abs/2401.05136)|null|
+|**2024-01-10**|**Code Review Automation: Strengths and Weaknesses of the State of the Art**|Rosalia Tufano et.al.|[2401.05136](http://arxiv.org/abs/2401.05136)|**[link](https://github.com/codereviewautomationsota/code_review_automation_sota)**|
 |**2024-01-10**|**Search for Long-lived Particles at Future Lepton Colliders Using Deep Learning Techniques**|Yulei Zhang et.al.|[2401.05094](http://arxiv.org/abs/2401.05094)|null|
 |**2024-01-10**|**Hierarchical Classification of Transversal Skills in Job Ads Based on Sentence Embeddings**|Florin Leon et.al.|[2401.05073](http://arxiv.org/abs/2401.05073)|null|
 |**2024-01-10**|**Application of Deep Learning in Blind Motion Deblurring: Current Status and Future Prospects**|Yawen Xiang et.al.|[2401.05055](http://arxiv.org/abs/2401.05055)|**[link](https://github.com/visionverse/blind-motion-deblurring-survey)**|
@@ -2378,7 +2378,7 @@ layout: default
 |**2024-01-08**|**End-to-End Crystal Structure Prediction from Powder X-Ray Diffraction**|Qingsi Lai et.al.|[2401.03862](http://arxiv.org/abs/2401.03862)|null|
 |**2024-01-08**|**A topological description of loss surfaces based on Betti Numbers**|Maria Sofia Bucarelli et.al.|[2401.03824](http://arxiv.org/abs/2401.03824)|null|
 |**2024-01-08**|**Towards interpreting the thermally activated $β$ dynamics in metallic glass with the structural constraint neural network**|Xiao Jiang et.al.|[2401.03743](http://arxiv.org/abs/2401.03743)|null|
-|**2024-01-08**|**Universal Time-Series Representation Learning: A Survey**|Patara Trirat et.al.|[2401.03717](http://arxiv.org/abs/2401.03717)|null|
+|**2024-01-08**|**Universal Time-Series Representation Learning: A Survey**|Patara Trirat et.al.|[2401.03717](http://arxiv.org/abs/2401.03717)|**[link](https://github.com/itouchz/awesome-deep-time-series-representations)**|
 |**2024-01-05**|**State Derivative Normalization for Continuous-Time Deep Neural Networks**|Jonas Weigand et.al.|[2401.02902](http://arxiv.org/abs/2401.02902)|null|
 |**2024-01-05**|**Nonlinear functional regression by functional deep neural network with kernel embedding**|Zhongjie Shi et.al.|[2401.02890](http://arxiv.org/abs/2401.02890)|null|
 |**2024-01-05**|**SpatialVisVR: An Immersive, Multiplexed Medical Image Viewer With Contextual Similar-Patient Search**|Jai Prakash Veerla et.al.|[2401.02882](http://arxiv.org/abs/2401.02882)|null|
@@ -2400,7 +2400,7 @@ layout: default
 |**2024-01-04**|**Nodule detection and generation on chest X-rays: NODE21 Challenge**|Ecem Sogancioglu et.al.|[2401.02192](http://arxiv.org/abs/2401.02192)|null|
 |**2024-01-04**|**Graph Neural Networks for Tabular Data Learning: A Survey with Taxonomy and Directions**|Cheng-Te Li et.al.|[2401.02143](http://arxiv.org/abs/2401.02143)|**[link](https://github.com/roytsai27/awesome-gnn4tdl)**|
 |**2024-01-03**|**HawkRover: An Autonomous mmWave Vehicular Communication Testbed with Multi-sensor Fusion and Deep Learning**|Ethan Zhu et.al.|[2401.01822](http://arxiv.org/abs/2401.01822)|null|
-|**2024-01-03**|**Machine learning-assisted search for novel coagulants: when machine learning can be efficient even if data availability is low**|Andrij Rovenchak et.al.|[2401.01811](http://arxiv.org/abs/2401.01811)|null|
+|**2024-01-03**|**Machine learning-assisted search for novel coagulants: when machine learning can be efficient even if data availability is low**|Andrij Rovenchak et.al.|[2401.01811](http://arxiv.org/abs/2401.01811)|**[link](https://github.com/mksmd/ae100_for_coagulants)**|
 |**2024-01-03**|**Deep learning the Hurst parameter of linear fractional processes and assessing its reliability**|Dániel Boros et.al.|[2401.01789](http://arxiv.org/abs/2401.01789)|null|
 |**2024-01-03**|**Ravnest: Decentralized Asynchronous Training on Heterogeneous Devices**|Anirudh Rajiv Menon et.al.|[2401.01728](http://arxiv.org/abs/2401.01728)|null|
 |**2024-01-03**|**AID-DTI: Accelerating High-fidelity Diffusion Tensor Imaging with Detail-Preserving Model-based Deep Learning**|Wenxin Fan et.al.|[2401.01693](http://arxiv.org/abs/2401.01693)|null|
@@ -3118,7 +3118,7 @@ layout: default
 |**2023-09-15**|**VulnSense: Efficient Vulnerability Detection in Ethereum Smart Contracts by Multimodal Learning with Graph Neural Network and Language Model**|Phan The Duy et.al.|[2309.08474](http://arxiv.org/abs/2309.08474)|null|
 |**2023-09-15**|**TreeLearn: A Comprehensive Deep Learning Method for Segmenting Individual Trees from Forest Point Clouds**|Jonathan Henrich et.al.|[2309.08471](http://arxiv.org/abs/2309.08471)|**[link](https://github.com/ecker-lab/treelearn)**|
 |**2023-09-15**|**Toward responsible face datasets: modeling the distribution of a disentangled latent space for sampling face images from demographic groups**|Parsa Rahimi et.al.|[2309.08442](http://arxiv.org/abs/2309.08442)|null|
-|**2023-09-15**|**Channel Estimation in Underdetermined Systems Utilizing Variational Autoencoders**|Michael Baur et.al.|[2309.08411](http://arxiv.org/abs/2309.08411)|null|
+|**2023-09-15**|**Channel Estimation in Underdetermined Systems Utilizing Variational Autoencoders**|Michael Baur et.al.|[2309.08411](http://arxiv.org/abs/2309.08411)|**[link](https://github.com/baurmichael/vae-est-ud)**|
 |**2023-09-14**|**MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning**|Haozhe Zhao et.al.|[2309.07915](http://arxiv.org/abs/2309.07915)|**[link](https://github.com/haozhezhao/mic)**|
 |**2023-09-14**|**An Observationally Driven Multifield Approach for Probing the Circum-Galactic Medium with Convolutional Neural Networks**|Naomi Gluck et.al.|[2309.07912](http://arxiv.org/abs/2309.07912)|null|
 |**2023-09-14**|**Improving physics-informed DeepONets with hard constraints**|Rüdiger Brecht et.al.|[2309.07899](http://arxiv.org/abs/2309.07899)|null|
@@ -3153,7 +3153,7 @@ layout: default
 |**2023-09-11**|**Distance-Aware eXplanation Based Learning**|Misgina Tsighe Hagos et.al.|[2309.05548](http://arxiv.org/abs/2309.05548)|**[link](https://github.com/msgun/xbl-d)**|
 |**2023-09-11**|**Stream-based Active Learning by Exploiting Temporal Properties in Perception with Temporal Predicted Loss**|Sebastian Schmidt et.al.|[2309.05517](http://arxiv.org/abs/2309.05517)|null|
 |**2023-09-11**|**NeCo@ALQAC 2023: Legal Domain Knowledge Acquisition for Low-Resource Languages through Data Enrichment**|Hai-Long Nguyen et.al.|[2309.05500](http://arxiv.org/abs/2309.05500)|null|
-|**2023-09-11**|**Zero-Shot Co-salient Object Detection Framework**|Haoke Xiao et.al.|[2309.05499](http://arxiv.org/abs/2309.05499)|null|
+|**2023-09-11**|**Zero-Shot Co-salient Object Detection Framework**|Haoke Xiao et.al.|[2309.05499](http://arxiv.org/abs/2309.05499)|**[link](https://github.com/hkxiao/zs-cosod)**|
 |**2023-09-11**|**Learning Semantic Segmentation with Query Points Supervision on Aerial Images**|Santiago Rivier et.al.|[2309.05490](http://arxiv.org/abs/2309.05490)|null|
 |**2023-09-11**|**Hazards in Deep Learning Testing: Prevalence, Impact and Recommendations**|Salah Ghamizi et.al.|[2309.05381](http://arxiv.org/abs/2309.05381)|null|
 |**2023-09-11**|**A survey on real-time 3D scene reconstruction with SLAM methods in embedded systems**|Quentin Picard et.al.|[2309.05349](http://arxiv.org/abs/2309.05349)|null|
