@@ -1601,6 +1601,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**TriNeRFLet: A Wavelet Based Multiscale Triplane NeRF Representation**|Rajaei Khatib et.al.|[2401.06191](http://arxiv.org/abs/2401.06191)|null|
 |**2024-01-11**|**Fast High Dynamic Range Radiance Fields for Dynamic Scenes**|Guanjun Wu et.al.|[2401.06052](http://arxiv.org/abs/2401.06052)|null|
 |**2024-01-11**|**CoSSegGaussians: Compact and Swift Scene Segmenting 3D Gaussians**|Bin Dou et.al.|[2401.05925](http://arxiv.org/abs/2401.05925)|null|
 |**2024-01-11**|**GO-NeRF: Generating Virtual Objects in Neural Radiance Fields**|Peng Dai et.al.|[2401.05750](http://arxiv.org/abs/2401.05750)|null|
@@ -2360,6 +2361,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-12**|**A deep implicit-explicit minimizing movement method for option pricing in jump-diffusion models**|Emmanuil H. Georgoulis et.al.|[2401.06740](http://arxiv.org/abs/2401.06740)|null|
+|**2024-01-12**|**Embedded Planogram Compliance Control System**|M. Erkin Yücel et.al.|[2401.06690](http://arxiv.org/abs/2401.06690)|null|
+|**2024-01-12**|**PolyTOPS: Reconfigurable and Flexible Polyhedral Scheduler**|Gianpietro Consolaro et.al.|[2401.06665](http://arxiv.org/abs/2401.06665)|null|
+|**2024-01-12**|**SeizNet: An AI-enabled Implantable Sensor Network System for Seizure Prediction**|Ali Saeizadeh et.al.|[2401.06644](http://arxiv.org/abs/2401.06644)|null|
+|**2024-01-12**|**Resource-Efficient Gesture Recognition using Low-Resolution Thermal Camera via Spiking Neural Networks and Sparse Segmentation**|Ali Safa et.al.|[2401.06563](http://arxiv.org/abs/2401.06563)|null|
+|**2024-01-12**|**Multimodal Learning for detecting urban functional zones using remote sensing image and multi-semantic information**|Chuanji Shi et.al.|[2401.06550](http://arxiv.org/abs/2401.06550)|null|
+|**2024-01-12**|**Enhancing Consistency and Mitigating Bias: A Data Replay Approach for Incremental Learning**|Chenyang Wang et.al.|[2401.06548](http://arxiv.org/abs/2401.06548)|null|
+|**2024-01-12**|**Domain Adaptation for Time series Transformers using One-step fine-tuning**|Subina Khanal et.al.|[2401.06524](http://arxiv.org/abs/2401.06524)|null|
+|**2024-01-12**|**Swin Transformer-Based CSI Feedback for Massive MIMO**|Jiaming Cheng et.al.|[2401.06435](http://arxiv.org/abs/2401.06435)|null|
+|**2024-01-12**|**Mutual Distillation Learning For Person Re-Identification**|Huiyuan Fu et.al.|[2401.06430](http://arxiv.org/abs/2401.06430)|**[link](https://github.com/kuilongcui/mdpr)**|
 |**2024-01-11**|**Modeling the Asymptotic Behavior of Higher-Order Aftershocks with Deep Learning**|Leila Mizrahi et.al.|[2401.06075](http://arxiv.org/abs/2401.06075)|null|
 |**2024-01-11**|**Wavelet-Inspired Multiscale Graph Convolutional Recurrent Network for Traffic Forecasting**|Qipeng Qian et.al.|[2401.06040](http://arxiv.org/abs/2401.06040)|**[link](https://github.com/qqian99/wavgcrn)**|
 |**2024-01-11**|**Automatic UAV-based Airport Pavement Inspection Using Mixed Real and Virtual Scenarios**|Pablo Alonso et.al.|[2401.06019](http://arxiv.org/abs/2401.06019)|null|
