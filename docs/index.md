@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.17
+## Updated on 2024.01.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2347,11 +2347,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**Three ways that non-differentiability affects neural network training**|Siddharth Krishna Kumar et.al.|[2401.08426](http://arxiv.org/abs/2401.08426)|null|
+|**2024-01-16**|**Training and Comparison of nnU-Net and DeepMedic Methods for Autosegmentation of Pediatric Brain Tumors**|Arastoo Vossough et.al.|[2401.08404](http://arxiv.org/abs/2401.08404)|null|
+|**2024-01-16**|**Deep Learning-based Group Causal Inference in Multivariate Time-series**|Wasim Ahmad et.al.|[2401.08386](http://arxiv.org/abs/2401.08386)|null|
 |**2024-01-16**|**A Hypernetwork Based Framework for Non-Stationary Channel Prediction**|Guanzhang Liu et.al.|[2401.08338](http://arxiv.org/abs/2401.08338)|null|
 |**2024-01-16**|**Siamese Content-based Search Engine for a More Transparent Skin and Breast Cancer Diagnosis through Histological Imaging**|Zahra Tabatabaei et.al.|[2401.08272](http://arxiv.org/abs/2401.08272)|null|
 |**2024-01-16**|**Probabilistically Robust Watermarking of Neural Networks**|Mikhail Pautov et.al.|[2401.08261](http://arxiv.org/abs/2401.08261)|null|
 |**2024-01-16**|**Enhancing Wind Speed and Wind Power Forecasting Using Shape-Wise Feature Engineering: A Novel Approach for Improved Accuracy and Robustness**|Mulomba Mukendi Christian et.al.|[2401.08233](http://arxiv.org/abs/2401.08233)|null|
-|**2024-01-16**|**Towards Causal Relationship in Indefinite Data: Baseline Model and New Datasets**|Hang Chen et.al.|[2401.08221](http://arxiv.org/abs/2401.08221)|null|
+|**2024-01-16**|**Towards Causal Relationship in Indefinite Data: Baseline Model and New Datasets**|Hang Chen et.al.|[2401.08221](http://arxiv.org/abs/2401.08221)|**[link](https://github.com/zodiark-ch/master-of-paper-towards-causal-relationship-in-indefinite-data-baseline-model-and-new-datasets)**|
 |**2024-01-16**|**Ship Detection in SAR Images with Human-in-the-Loop**|Hecheng Jia et.al.|[2401.08213](http://arxiv.org/abs/2401.08213)|null|
 |**2024-01-16**|**Photonic Modes Prediction via Multi-Modal Diffusion Model**|Jinyang Sun et.al.|[2401.08199](http://arxiv.org/abs/2401.08199)|null|
 |**2024-01-16**|**End-to-End Optimized Image Compression with the Frequency-Oriented Transform**|Yuefeng Zhang et.al.|[2401.08194](http://arxiv.org/abs/2401.08194)|null|
