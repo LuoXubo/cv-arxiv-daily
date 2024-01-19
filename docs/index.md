@@ -551,6 +551,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-18**|**Cross-Modality Perturbation Synergy Attack for Person Re-identification**|Yunpeng Gong et.al.|[2401.10090](http://arxiv.org/abs/2401.10090)|null|
 |**2024-01-16**|**Siamese Content-based Search Engine for a More Transparent Skin and Breast Cancer Diagnosis through Histological Imaging**|Zahra Tabatabaei et.al.|[2401.08272](http://arxiv.org/abs/2401.08272)|null|
 |**2024-01-16**|**Multi-Technique Sequential Information Consistency For Dynamic Visual Place Recognition In Changing Environments**|Bruno Arcanjo et.al.|[2401.08263](http://arxiv.org/abs/2401.08263)|null|
 |**2024-01-15**|**Exploring Masked Autoencoders for Sensor-Agnostic Image Retrieval in Remote Sensing**|Jakob Hackstein et.al.|[2401.07782](http://arxiv.org/abs/2401.07782)|**[link](https://github.com/jakhac/csmae)**|
@@ -1394,6 +1395,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-18**|**Question-Answer Cross Language Image Matching for Weakly Supervised Semantic Segmentation**|Songhe Deng et.al.|[2401.09883](http://arxiv.org/abs/2401.09883)|**[link](https://github.com/cvi-szu/qa-clims)**|
 |**2024-01-09**|**RomniStereo: Recurrent Omnidirectional Stereo Matching**|Hualie Jiang et.al.|[2401.04345](http://arxiv.org/abs/2401.04345)|**[link](https://github.com/halleyjiang/romnistereo)**|
 |**2024-01-05**|**CoCoT: Contrastive Chain-of-Thought Prompting for Large Multimodal Models with Multiple Image Inputs**|Daoan Zhang et.al.|[2401.02582](http://arxiv.org/abs/2401.02582)|null|
 |**2024-01-03**|**Local Adaptive Clustering Based Image Matching for Automatic Visual Identification**|Zhizhen Wang et.al.|[2401.01720](http://arxiv.org/abs/2401.01720)|null|
@@ -1588,6 +1590,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-17**|**IPR-NeRF: Ownership Verification meets Neural Radiance Field**|Win Kent Ong et.al.|[2401.09495](http://arxiv.org/abs/2401.09495)|null|
 |**2024-01-17**|**ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization**|Weiyao Wang et.al.|[2401.08937](http://arxiv.org/abs/2401.08937)|null|
 |**2024-01-18**|**ProvNeRF: Modeling per Point Provenance in NeRFs as a Stochastic Process**|Kiyohiro Nakayama et.al.|[2401.08140](http://arxiv.org/abs/2401.08140)|null|
 |**2024-01-16**|**Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities**|Xu Yan et.al.|[2401.08045](http://arxiv.org/abs/2401.08045)|**[link](https://github.com/zhanghm1995/forge_vfm4ad)**|
@@ -2350,6 +2353,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-18**|**Tailoring Semantic Communication at Network Edge: A Novel Approach Using Dynamic Knowledge Distillation**|Abdullatif Albaseer et.al.|[2401.10214](http://arxiv.org/abs/2401.10214)|null|
+|**2024-01-18**|**Transfer Learning in Human Activity Recognition: A Survey**|Sourish Gunesh Dhekane et.al.|[2401.10185](http://arxiv.org/abs/2401.10185)|null|
+|**2024-01-18**|**Model Compression Techniques in Biometrics Applications: A Survey**|Eduarda Caldeira et.al.|[2401.10139](http://arxiv.org/abs/2401.10139)|**[link](https://github.com/eduardacaldeira/compression_bias_survey)**|
+|**2024-01-18**|**Sub2Full: split spectrum to boost OCT despeckling without clean data**|Lingyun Wang et.al.|[2401.10128](http://arxiv.org/abs/2401.10128)|**[link](https://github.com/pittoct/sub2full-oct-denoising)**|
+|**2024-01-18**|**Distantly Supervised Morpho-Syntactic Model for Relation Extraction**|Nicolas Gutehrlé et.al.|[2401.10002](http://arxiv.org/abs/2401.10002)|null|
+|**2024-01-18**|**Ventricular Segmentation: A Brief Comparison of U-Net Derivatives**|Ketan Suhaas Saichandran et.al.|[2401.09980](http://arxiv.org/abs/2401.09980)|null|
+|**2024-01-18**|**Real-time and On-site Aerodynamics using Stereoscopic PIV and Deep Optical Flow Learning**|Mohamed Elrefaie et.al.|[2401.09932](http://arxiv.org/abs/2401.09932)|null|
+|**2024-01-18**|**Enabling On-device Continual Learning with Binary Neural Networks**|Lorenzo Vorabbi et.al.|[2401.09916](http://arxiv.org/abs/2401.09916)|null|
+|**2024-01-18**|**Meme-ingful Analysis: Enhanced Understanding of Cyberbullying in Memes Through Multimodal Explanations**|Prince Jha et.al.|[2401.09899](http://arxiv.org/abs/2401.09899)|**[link](https://github.com/jhaprince/memeexplanation)**|
+|**2024-01-18**|**GA-SmaAt-GNet: Generative Adversarial Small Attention GNet for Extreme Precipitation Nowcasting**|Eloy Reulen et.al.|[2401.09881](http://arxiv.org/abs/2401.09881)|null|
 |**2024-01-17**|**Online Stability Improvement of Groebner Basis Solvers using Deep Learning**|Wanting Xu et.al.|[2401.09328](http://arxiv.org/abs/2401.09328)|null|
 |**2024-01-17**|**Siamese Meets Diffusion Network: SMDNet for Enhanced Change Detection in High-Resolution RS Imagery**|Jia Jia et.al.|[2401.09325](http://arxiv.org/abs/2401.09325)|null|
 |**2024-01-17**|**Can Synthetic Data Boost the Training of Deep Acoustic Vehicle Counting Networks?**|Stefano Damiano et.al.|[2401.09308](http://arxiv.org/abs/2401.09308)|null|
