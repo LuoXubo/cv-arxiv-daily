@@ -1594,6 +1594,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-23**|**NeRF-AD: Neural Radiance Field with Attention-based Disentanglement for Talking Face Synthesis**|Chongke Bi et.al.|[2401.12568](http://arxiv.org/abs/2401.12568)|null|
+|**2024-01-23**|**Exploration and Improvement of Nerf-based 3D Scene Editing Techniques**|Shun Fang et.al.|[2401.12456](http://arxiv.org/abs/2401.12456)|null|
+|**2024-01-23**|**Methods and strategies for improving the novel view synthesis quality of neural radiation field**|Shun Fang et.al.|[2401.12451](http://arxiv.org/abs/2401.12451)|null|
 |**2024-01-22**|**Single-View 3D Human Digitalization with Large Reconstruction Models**|Zhenzhen Weng et.al.|[2401.12175](http://arxiv.org/abs/2401.12175)|null|
 |**2024-01-22**|**Scaling Face Interaction Graph Networks to Real World Scenes**|Tatiana Lopez-Guevara et.al.|[2401.11985](http://arxiv.org/abs/2401.11985)|null|
 |**2024-01-22**|**HG3-NeRF: Hierarchical Geometric, Semantic, and Photometric Guided Neural Radiance Fields for Sparse View Inputs**|Zelin Gao et.al.|[2401.11711](http://arxiv.org/abs/2401.11711)|null|
@@ -2360,6 +2363,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-23**|**SegmentAnyBone: A Universal Model that Segments Any Bone at Any Location on MRI**|Hanxue Gu et.al.|[2401.12974](http://arxiv.org/abs/2401.12974)|null|
+|**2024-01-23**|**Unlocking the Potential: Multi-task Deep Learning for Spaceborne Quantitative Monitoring of Fugitive Methane Plumes**|Guoxin Si et.al.|[2401.12870](http://arxiv.org/abs/2401.12870)|null|
+|**2024-01-23**|**Deep Learning Based Simulators for the Phosphorus Removal Process Control in Wastewater Treatment via Deep Reinforcement Learning Algorithms**|Esmaeel Mohammadi et.al.|[2401.12822](http://arxiv.org/abs/2401.12822)|null|
+|**2024-01-23**|**Binary structured physics-informed neural networks for solving equations with rapidly changing solutions**|Yanzhi Liu et.al.|[2401.12806](http://arxiv.org/abs/2401.12806)|null|
+|**2024-01-23**|**A Review of Deep Learning Methods for Photoplethysmography Data**|Guangkun Nie et.al.|[2401.12783](http://arxiv.org/abs/2401.12783)|**[link](https://github.com/ngk03/dl_ppg_review)**|
+|**2024-01-23**|**Deep Learning-based Intraoperative MRI Reconstruction**|Jon André Ottesen et.al.|[2401.12771](http://arxiv.org/abs/2401.12771)|null|
+|**2024-01-23**|**TNANet: A Temporal-Noise-Aware Neural Network for Suicidal Ideation Prediction with Noisy Physiological Data**|Niqi Liu et.al.|[2401.12733](http://arxiv.org/abs/2401.12733)|null|
+|**2024-01-23**|**DVL Calibration using Data-driven Methods**|Zeev Yampolsky et.al.|[2401.12687](http://arxiv.org/abs/2401.12687)|null|
+|**2024-01-23**|**Consistency Enhancement-Based Deep Multiview Clustering via Contrastive Learning**|Hao Yang et.al.|[2401.12648](http://arxiv.org/abs/2401.12648)|null|
+|**2024-01-23**|**On the Robustness of Deep Learning-aided Symbol Detectors to Varying Conditions and Imperfect Channel Knowledge**|Chin-Hung Chen et.al.|[2401.12645](http://arxiv.org/abs/2401.12645)|null|
 |**2024-01-22**|**Connecting the Dots: Leveraging Spatio-Temporal Graph Neural Networks for Accurate Bangla Sign Language Recognition**|Haz Sameen Shahgir et.al.|[2401.12210](http://arxiv.org/abs/2401.12210)|null|
 |**2024-01-22**|**Broiler-Net: A Deep Convolutional Framework for Broiler Behavior Analysis in Poultry Houses**|Tahereh Zarrat Ehsan et.al.|[2401.12176](http://arxiv.org/abs/2401.12176)|**[link](https://github.com/taherehzarratehsan/chicken-behavior-analysis)**|
 |**2024-01-22**|**Automated facial recognition system using deep learning for pain assessment in adults with cerebral palsy**|Álvaro Sabater-Gárriz et.al.|[2401.12161](http://arxiv.org/abs/2401.12161)|null|
