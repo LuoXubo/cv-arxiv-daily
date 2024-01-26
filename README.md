@@ -1617,6 +1617,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-25**|**Learning Robust Generalizable Radiance Field with Visibility and Feature Augmented Point Representation**|Jiaxu Wang et.al.|[2401.14354](http://arxiv.org/abs/2401.14354)|null|
+|**2024-01-25**|**Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation**|Minglin Chen et.al.|[2401.14257](http://arxiv.org/abs/2401.14257)|null|
 |**2024-01-24**|**EndoGaussians: Single View Dynamic Gaussian Splatting for Deformable Endoscopic Tissues Reconstruction**|Yangsen Chen et.al.|[2401.13352](http://arxiv.org/abs/2401.13352)|null|
 |**2024-01-23**|**NeRF-AD: Neural Radiance Field with Attention-based Disentanglement for Talking Face Synthesis**|Chongke Bi et.al.|[2401.12568](http://arxiv.org/abs/2401.12568)|null|
 |**2024-01-23**|**Exploration and Improvement of Nerf-based 3D Scene Editing Techniques**|Shun Fang et.al.|[2401.12456](http://arxiv.org/abs/2401.12456)|null|
@@ -2389,6 +2391,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-25**|**Inconsistency Masks: Removing the Uncertainty from Input-Pseudo-Label Pairs**|Michael R. H. Vorndran et.al.|[2401.14387](http://arxiv.org/abs/2401.14387)|**[link](https://github.com/michaelvorndran/inconsistencymasks)**|
+|**2024-01-25**|**Manifold GCN: Diffusion-based Convolutional Neural Network for Manifold-valued Graphs**|Martin Hanik et.al.|[2401.14381](http://arxiv.org/abs/2401.14381)|null|
+|**2024-01-25**|**Uncovering Heterogeneity of Solar Flare Mechanism With Mixture Models**|Bach Viet Do et.al.|[2401.14345](http://arxiv.org/abs/2401.14345)|null|
+|**2024-01-25**|**Producing Plankton Classifiers that are Robust to Dataset Shift**|Cheng Chen et.al.|[2401.14256](http://arxiv.org/abs/2401.14256)|**[link](https://github.com/cchen07/plankiformer_ood)**|
+|**2024-01-25**|**Exploring the Unexplored: Understanding the Impact of Layer Adjustments on Image Classification**|Haixia Liu et.al.|[2401.14236](http://arxiv.org/abs/2401.14236)|null|
+|**2024-01-25**|**At the junction between deep learning and statistics of extremes: formalizing the landslide hazard definition**|Ashok Dahal et.al.|[2401.14210](http://arxiv.org/abs/2401.14210)|null|
+|**2024-01-25**|**MTRGL:Effective Temporal Correlation Discerning through Multi-modal Temporal Relational Graph Learning**|Junwei Su et.al.|[2401.14199](http://arxiv.org/abs/2401.14199)|null|
+|**2024-01-25**|**Deep Learning to Improve the Sensitivity of Di-Higgs Searches in the $4b$ Channel**|Cheng-Wei Chiang et.al.|[2401.14198](http://arxiv.org/abs/2401.14198)|null|
+|**2024-01-25**|**Predicting Hypoxia in Brain Tumors from Multiparametric MRI**|Daniele Perlo et.al.|[2401.14171](http://arxiv.org/abs/2401.14171)|null|
+|**2024-01-25**|**Concept: Dynamic Risk Assessment for AI-Controlled Robotic Systems**|Philipp Grimmeisen et.al.|[2401.14147](http://arxiv.org/abs/2401.14147)|null|
 |**2024-01-24**|**Inadequacy of common stochastic neural networks for reliable clinical decision support**|Adrian Lindenmeyer et.al.|[2401.13657](http://arxiv.org/abs/2401.13657)|null|
 |**2024-01-24**|**PLATE: A perception-latency aware estimator,**|Rodrigo Aldana-López et.al.|[2401.13596](http://arxiv.org/abs/2401.13596)|null|
 |**2024-01-24**|**Deep Learning Based Adaptive Joint mmWave Beam Alignment**|Daniel Tandler et.al.|[2401.13587](http://arxiv.org/abs/2401.13587)|null|
