@@ -552,6 +552,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-29**|**Cross-Modal Coordination Across a Diverse Set of Input Modalities**|Jorge Sánchez et.al.|[2401.16347](http://arxiv.org/abs/2401.16347)|null|
+|**2024-01-29**|**Regressing Transformers for Data-efficient Visual Place Recognition**|María Leyva-Vallina et.al.|[2401.16304](http://arxiv.org/abs/2401.16304)|null|
+|**2024-01-27**|**Transformer-based Clipped Contrastive Quantization Learning for Unsupervised Image Retrieval**|Ayush Dubey et.al.|[2401.15362](http://arxiv.org/abs/2401.15362)|null|
 |**2024-01-24**|**Enhancing Image Retrieval : A Comprehensive Study on Photo Search using the CLIP Mode**|Naresh Kumar Lahajal et.al.|[2401.13613](http://arxiv.org/abs/2401.13613)|null|
 |**2024-01-23**|**PlaceFormer: Transformer-based Visual Place Recognition using Multi-Scale Patch Selection and Fusion**|Shyam Sundar Kannan et.al.|[2401.13082](http://arxiv.org/abs/2401.13082)|null|
 |**2024-01-23**|**SemanticSLAM: Learning based Semantic Map Construction and Robust Camera Localization**|Mingyang Li et.al.|[2401.13076](http://arxiv.org/abs/2401.13076)|**[link](https://github.com/leomingyangli/semanticslam)**|
@@ -1195,6 +1198,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-29**|**Reconstructing Close Human Interactions from Multiple Views**|Qing Shuai et.al.|[2401.16173](http://arxiv.org/abs/2401.16173)|null|
 |**2024-01-17**|**To deform or not: treatment-aware longitudinal registration for breast DCE-MRI during neoadjuvant chemotherapy via unsupervised keypoints detection**|Luyi Han et.al.|[2401.09336](http://arxiv.org/abs/2401.09336)|**[link](https://github.com/fiy2w/treatment-aware-longitudinal-registration)**|
 |**2024-01-08**|**Flowmind2Digital: The First Comprehensive Flowmind Recognition and Conversion Approach**|Huanyu Liu et.al.|[2401.03742](http://arxiv.org/abs/2401.03742)|null|
 |**2024-01-02**|**6D-Diff: A Keypoint Diffusion Framework for 6D Object Pose Estimation**|Li Xu et.al.|[2401.00029](http://arxiv.org/abs/2401.00029)|null|
@@ -1598,6 +1602,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-29**|**Endo-4DGS: Distilling Depth Ranking for Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416](http://arxiv.org/abs/2401.16416)|null|
+|**2024-01-29**|**Divide and Conquer: Rethinking the Training Paradigm of Neural Radiance Fields**|Rongkai Ma et.al.|[2401.16144](http://arxiv.org/abs/2401.16144)|null|
 |**2024-01-26**|**3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**|Zhenyu Bao et.al.|[2401.14726](http://arxiv.org/abs/2401.14726)|null|
 |**2024-01-25**|**Learning Robust Generalizable Radiance Field with Visibility and Feature Augmented Point Representation**|Jiaxu Wang et.al.|[2401.14354](http://arxiv.org/abs/2401.14354)|null|
 |**2024-01-27**|**Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation**|Minglin Chen et.al.|[2401.14257](http://arxiv.org/abs/2401.14257)|null|
@@ -2371,6 +2377,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-29**|**Amazon's 2023 Drought: Sentinel-1 Reveals Extreme Rio Negro River Contraction**|Fabien H Wagner et.al.|[2401.16393](http://arxiv.org/abs/2401.16393)|null|
+|**2024-01-29**|**SuNeRF: 3D reconstruction of the solar EUV corona using Neural Radiance Fields**|Robert Jarolim et.al.|[2401.16388](http://arxiv.org/abs/2401.16388)|null|
+|**2024-01-29**|**Leveraging Positional Encoding for Robust Multi-Reference-Based Object 6D Pose Estimation**|Jaewoo Park et.al.|[2401.16284](http://arxiv.org/abs/2401.16284)|null|
+|**2024-01-29**|**YingLong: Skillful High Resolution Regional Short Term Forecasting with Boundary Smoothing**|Pengbo Xu et.al.|[2401.16254](http://arxiv.org/abs/2401.16254)|null|
+|**2024-01-29**|**Contributing Dimension Structure of Deep Feature for Coreset Selection**|Zhijing Wan et.al.|[2401.16193](http://arxiv.org/abs/2401.16193)|null|
+|**2024-01-29**|**AI prediction of cardiovascular events using opportunistic epicardial adipose tissue assessments from CT calcium score**|Tao Hu et.al.|[2401.16190](http://arxiv.org/abs/2401.16190)|null|
+|**2024-01-29**|**Graph Neural Network-based Joint Equalization and Decoding**|Jannis Clausius et.al.|[2401.16187](http://arxiv.org/abs/2401.16187)|null|
+|**2024-01-29**|**On the Semantics of LM Latent Space: A Vocabulary-defined Approach**|Jian Gu et.al.|[2401.16184](http://arxiv.org/abs/2401.16184)|null|
+|**2024-01-29**|**Reconfigurable AI Modules Aided Channel Estimation and MIMO Detection**|Xiangzhao Qin et.al.|[2401.16141](http://arxiv.org/abs/2401.16141)|null|
+|**2024-01-29**|**A 2D Sinogram-Based Approach to Defect Localization in Computed Tomography**|Yuzhong Zhou et.al.|[2401.16104](http://arxiv.org/abs/2401.16104)|null|
 |**2024-01-26**|**Deep learning-based approach for tomato classification in complex scenes**|Mikael A. Mousse et.al.|[2401.15055](http://arxiv.org/abs/2401.15055)|null|
 |**2024-01-26**|**Microwave lymphedema assessment using deep learning with contour assisted backprojection**|Yuyi Chang et.al.|[2401.14970](http://arxiv.org/abs/2401.14970)|null|
 |**2024-01-26**|**Adaptive Point Transformer**|Alessandro Baiocchi et.al.|[2401.14845](http://arxiv.org/abs/2401.14845)|null|
