@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.31
+## Updated on 2024.02.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1199,7 +1199,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-29**|**Reconstructing Close Human Interactions from Multiple Views**|Qing Shuai et.al.|[2401.16173](http://arxiv.org/abs/2401.16173)|null|
+|**2024-01-29**|**Reconstructing Close Human Interactions from Multiple Views**|Qing Shuai et.al.|[2401.16173](http://arxiv.org/abs/2401.16173)|**[link](https://github.com/zju3dv/closemocap)**|
 |**2024-01-17**|**To deform or not: treatment-aware longitudinal registration for breast DCE-MRI during neoadjuvant chemotherapy via unsupervised keypoints detection**|Luyi Han et.al.|[2401.09336](http://arxiv.org/abs/2401.09336)|**[link](https://github.com/fiy2w/treatment-aware-longitudinal-registration)**|
 |**2024-01-08**|**Flowmind2Digital: The First Comprehensive Flowmind Recognition and Conversion Approach**|Huanyu Liu et.al.|[2401.03742](http://arxiv.org/abs/2401.03742)|null|
 |**2024-01-02**|**6D-Diff: A Keypoint Diffusion Framework for 6D Object Pose Estimation**|Li Xu et.al.|[2401.00029](http://arxiv.org/abs/2401.00029)|null|
@@ -1603,7 +1603,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-30**|**Physical Priors Augmented Event-Based 3D Reconstruction**|Jiaxu Wang et.al.|[2401.17121](http://arxiv.org/abs/2401.17121)|null|
+|**2024-01-30**|**Physical Priors Augmented Event-Based 3D Reconstruction**|Jiaxu Wang et.al.|[2401.17121](http://arxiv.org/abs/2401.17121)|**[link](https://github.com/mercerai/paev3d)**|
 |**2024-01-29**|**Endo-4DGS: Distilling Depth Ranking for Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416](http://arxiv.org/abs/2401.16416)|null|
 |**2024-01-29**|**Divide and Conquer: Rethinking the Training Paradigm of Neural Radiance Fields**|Rongkai Ma et.al.|[2401.16144](http://arxiv.org/abs/2401.16144)|null|
 |**2024-01-26**|**3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**|Zhenyu Bao et.al.|[2401.14726](http://arxiv.org/abs/2401.14726)|null|
@@ -2380,11 +2380,11 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-30**|**Effect of Weight Quantization on Learning Models by Typical Case Analysis**|Shuhei Kashiwamura et.al.|[2401.17269](http://arxiv.org/abs/2401.17269)|null|
-|**2024-01-30**|**SLIC: A Learned Image Codec Using Structure and Color**|Srivatsa Prativadibhayankaram et.al.|[2401.17246](http://arxiv.org/abs/2401.17246)|null|
-|**2024-01-30**|**NormEnsembleXAI: Unveiling the Strengths and Weaknesses of XAI Ensemble Techniques**|Weronika Hryniewska-Guzik et.al.|[2401.17200](http://arxiv.org/abs/2401.17200)|null|
+|**2024-01-30**|**SLIC: A Learned Image Codec Using Structure and Color**|Srivatsa Prativadibhayankaram et.al.|[2401.17246](http://arxiv.org/abs/2401.17246)|**[link](https://github.com/InterDigitalInc/CompressAI)**|
+|**2024-01-30**|**NormEnsembleXAI: Unveiling the Strengths and Weaknesses of XAI Ensemble Techniques**|Weronika Hryniewska-Guzik et.al.|[2401.17200](http://arxiv.org/abs/2401.17200)|**[link](https://github.com/hryniewska/ensemblexai)**|
 |**2024-01-30**|**H-SynEx: Using synthetic images and ultra-high resolution ex vivo MRI for hypothalamus subregion segmentation**|Livia Rodrigues et.al.|[2401.17104](http://arxiv.org/abs/2401.17104)|**[link](https://github.com/liviamarodrigues/hsynex)**|
 |**2024-01-30**|**Atlanta Scaled layouts from non-central panoramas**|Bruno Berenguel-Baeta et.al.|[2401.17058](http://arxiv.org/abs/2401.17058)|**[link](https://github.com/jesusbermudezcameo/noncentralindoordataset)**|
-|**2024-01-30**|**Making Parametric Anomaly Detection on Tabular Data Non-Parametric Again**|Hugo Thimonier et.al.|[2401.17052](http://arxiv.org/abs/2401.17052)|null|
+|**2024-01-30**|**Making Parametric Anomaly Detection on Tabular Data Non-Parametric Again**|Hugo Thimonier et.al.|[2401.17052](http://arxiv.org/abs/2401.17052)|**[link](https://github.com/hugothimonier/making-parametric-anomaly-detection-on-tabular-data-non-parametric-again)**|
 |**2024-01-30**|**ViTree: Single-path Neural Tree for Step-wise Interpretable Fine-grained Visual Categorization**|Danning Lao et.al.|[2401.17050](http://arxiv.org/abs/2401.17050)|null|
 |**2024-01-30**|**Forecasting VIX using Bayesian Deep Learning**|Héctor J. Hortúa et.al.|[2401.17042](http://arxiv.org/abs/2401.17042)|null|
 |**2024-01-30**|**LADDER: Revisiting the Cosmic Distance Ladder with Deep Learning Approaches and Exploring its Applications**|Rahul Shah et.al.|[2401.17029](http://arxiv.org/abs/2401.17029)|null|
