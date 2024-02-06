@@ -565,6 +565,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-04**|**Region-Based Representations Revisited**|Michal Shlapentokh-Rothman et.al.|[2402.02352](http://arxiv.org/abs/2402.02352)|null|
+|**2024-02-03**|**Zero-shot sketch-based remote sensing image retrieval based on multi-level and attention-guided tokenization**|Bo Yang et.al.|[2402.02141](http://arxiv.org/abs/2402.02141)|null|
 |**2024-02-01**|**BrainSLAM: SLAM on Neural Population Activity Data**|Kipp Freud et.al.|[2402.00588](http://arxiv.org/abs/2402.00588)|null|
 |**2024-02-01**|**Night-Rider: Nocturnal Vision-aided Localization in Streetlight Maps Using Invariant Extended Kalman Filtering**|Tianxiao Gao et.al.|[2402.00330](http://arxiv.org/abs/2402.00330)|**[link](https://github.com/imrl/night-rider)**|
 |**2024-01-31**|**Improved Scene Landmark Detection for Camera Localization**|Tien Do et.al.|[2401.18083](http://arxiv.org/abs/2401.18083)|**[link](https://github.com/microsoft/scenelandmarklocalization)**|
@@ -1628,6 +1630,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-05**|**ViewFusion: Learning Composable Diffusion Models for Novel View Synthesis**|Bernard Spiegl et.al.|[2402.02906](http://arxiv.org/abs/2402.02906)|**[link](https://github.com/bronemos/view-fusion)**|
+|**2024-02-02**|**ConRF: Zero-shot Stylization of 3D Scenes with Conditioned Radiation Fields**|Xingyu Miao et.al.|[2402.01950](http://arxiv.org/abs/2402.01950)|**[link](https://github.com/xingy038/conrf)**|
+|**2024-02-02**|**Robust Inverse Graphics via Probabilistic Inference**|Tuan Anh Le et.al.|[2402.01915](http://arxiv.org/abs/2402.01915)|null|
 |**2024-02-02**|**HyperPlanes: Hypernetwork Approach to Rapid NeRF Adaptation**|Paweł Batorski et.al.|[2402.01524](http://arxiv.org/abs/2402.01524)|**[link](https://github.com/gmum/hyperplanes)**|
 |**2024-02-02**|**Di-NeRF: Distributed NeRF for Collaborative Learning with Unknown Relative Poses**|Mahboubeh Asadi et.al.|[2402.01485](http://arxiv.org/abs/2402.01485)|null|
 |**2024-02-02**|**GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**|Joanna Waczyńska et.al.|[2402.01459](http://arxiv.org/abs/2402.01459)|**[link](https://github.com/waczjoan/gaussian-mesh-splatting)**|
@@ -2415,6 +2420,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-05**|**Ginger: An Efficient Curvature Approximation with Linear Complexity for General Neural Networks**|Yongchang Hao et.al.|[2402.03295](http://arxiv.org/abs/2402.03295)|null|
+|**2024-02-05**|**Multiclass Classification Procedure for Detecting Attacks on MQTT-IoT Protocol**|Hector Alaiz-Moreton et.al.|[2402.03270](http://arxiv.org/abs/2402.03270)|null|
+|**2024-02-05**|**CT-based Anatomical Segmentation for Thoracic Surgical Planning: A Benchmark Study for 3D U-shaped Deep Learning Models**|Arash Harirpoush et.al.|[2402.03230](http://arxiv.org/abs/2402.03230)|**[link](https://github.com/healthx-lab/deepsegthoracic)**|
+|**2024-02-05**|**IGUANe: a 3D generalizable CycleGAN for multicenter harmonization of brain MR images**|Vincent Roca et.al.|[2402.03227](http://arxiv.org/abs/2402.03227)|null|
+|**2024-02-05**|**Discovering interpretable models of scientific image data with deep learning**|Christopher J. Soelistyo et.al.|[2402.03115](http://arxiv.org/abs/2402.03115)|null|
+|**2024-02-05**|**Improving Atmospheric Processes in Earth System Models with Deep Learning Ensembles and Stochastic Parameterizations**|Gunnar Behrens et.al.|[2402.03079](http://arxiv.org/abs/2402.03079)|null|
+|**2024-02-05**|**UniHENN: Designing More Versatile Homomorphic Encryption-based CNNs without im2col**|Hyunmin Choi et.al.|[2402.03060](http://arxiv.org/abs/2402.03060)|null|
+|**2024-02-05**|**Data-induced multiscale losses and efficient multirate gradient descent schemes**|Juncai He et.al.|[2402.03021](http://arxiv.org/abs/2402.03021)|null|
+|**2024-02-05**|**Toward Green and Human-Like Artificial Intelligence: A Complete Survey on Contemporary Few-Shot Learning Approaches**|Georgios Tsoumplekas et.al.|[2402.03017](http://arxiv.org/abs/2402.03017)|null|
+|**2024-02-05**|**A structure-preserving reconstruction scheme for compressible single- and multi-phase flows based on artificial neural networks**|Minsheng Huang et.al.|[2402.03002](http://arxiv.org/abs/2402.03002)|null|
 |**2024-02-02**|**Predictive Models based on Deep Learning Algorithms for Tensile Deformation of AlCoCuCrFeNi High-entropy alloy**|Hoang-Giang Nguyen et.al.|[2402.01578](http://arxiv.org/abs/2402.01578)|null|
 |**2024-02-02**|**Deep learning path-like collective variable for enhanced sampling molecular dynamics**|Thorben Fröhlking et.al.|[2402.01508](http://arxiv.org/abs/2402.01508)|null|
 |**2024-02-02**|**Scaled 360 layouts: Revisiting non-central panoramas**|Bruno Berenguel-Baeta et.al.|[2402.01466](http://arxiv.org/abs/2402.01466)|null|
