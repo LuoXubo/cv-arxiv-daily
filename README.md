@@ -1632,6 +1632,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**NeRF as Non-Distant Environment Emitter in Physics-based Inverse Rendering**|Jingwang Ling et.al.|[2402.04829](http://arxiv.org/abs/2402.04829)|null|
+|**2024-02-07**|**OV-NeRF: Open-vocabulary Neural Radiance Fields with Vision and Language Foundation Models for 3D Semantic Understanding**|Guibiao Liao et.al.|[2402.04648](http://arxiv.org/abs/2402.04648)|null|
+|**2024-02-07**|**BirdNeRF: Fast Neural Reconstruction of Large-Scale Scenes From Aerial Imagery**|Huiqing Zhang et.al.|[2402.04554](http://arxiv.org/abs/2402.04554)|null|
 |**2024-02-06**|**Improved Generalization of Weight Space Networks via Augmentations**|Aviv Shamsian et.al.|[2402.04081](http://arxiv.org/abs/2402.04081)|null|
 |**2024-02-05**|**ViewFusion: Learning Composable Diffusion Models for Novel View Synthesis**|Bernard Spiegl et.al.|[2402.02906](http://arxiv.org/abs/2402.02906)|**[link](https://github.com/bronemos/view-fusion)**|
 |**2024-02-02**|**ConRF: Zero-shot Stylization of 3D Scenes with Conditioned Radiation Fields**|Xingyu Miao et.al.|[2402.01950](http://arxiv.org/abs/2402.01950)|**[link](https://github.com/xingy038/conrf)**|
@@ -2423,6 +2426,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**NITO: Neural Implicit Fields for Resolution-free Topology Optimization**|Amin Heyrani Nobari et.al.|[2402.05073](http://arxiv.org/abs/2402.05073)|null|
+|**2024-02-07**|**Arbitrary Scale Super-Resolution Assisted Lunar Crater Detection in Satellite Images**|Atal Tewari et.al.|[2402.05068](http://arxiv.org/abs/2402.05068)|null|
+|**2024-02-07**|**Exploration Without Maps via Zero-Shot Out-of-Distribution Deep Reinforcement Learning**|Shathushan Sivashangaran et.al.|[2402.05066](http://arxiv.org/abs/2402.05066)|null|
+|**2024-02-07**|**A Survey on Domain Generalization for Medical Image Analysis**|Ziwei Niu et.al.|[2402.05035](http://arxiv.org/abs/2402.05035)|null|
+|**2024-02-07**|**ConvLoRA and AdaBN based Domain Adaptation via Self-Training**|Sidra Aleem et.al.|[2402.04964](http://arxiv.org/abs/2402.04964)|**[link](https://github.com/aleemsidra/convlora)**|
+|**2024-02-07**|**On the Completeness of Invariant Geometric Deep Learning Models**|Zian Li et.al.|[2402.04836](http://arxiv.org/abs/2402.04836)|null|
+|**2024-02-07**|**E(3)-Equivariant Mesh Neural Networks**|Thuan Trang et.al.|[2402.04821](http://arxiv.org/abs/2402.04821)|**[link](https://github.com/hysonlab/equimesh)**|
+|**2024-02-07**|**BOWLL: A Deceptively Simple Open World Lifelong Learner**|Roshni Kamath et.al.|[2402.04814](http://arxiv.org/abs/2402.04814)|**[link](https://github.com/ml-research/bowll)**|
+|**2024-02-07**|**Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer**|Mingxaun Liu et.al.|[2402.04798](http://arxiv.org/abs/2402.04798)|null|
+|**2024-02-07**|**Analyzing the Neural Tangent Kernel of Periodically Activated Coordinate Networks**|Hemanth Saratchandran et.al.|[2402.04783](http://arxiv.org/abs/2402.04783)|null|
 |**2024-02-06**|**Acute kidney injury prediction for non-critical care patients: a retrospective external and internal validation study**|Esra Adiyeke et.al.|[2402.04209](http://arxiv.org/abs/2402.04209)|null|
 |**2024-02-06**|**Deep-Learning Estimation of Weight Distribution Using Joint Kinematics for Lower-Limb Exoskeleton Control**|Clément Lhoste et.al.|[2402.04180](http://arxiv.org/abs/2402.04180)|null|
 |**2024-02-06**|**Scientific Language Modeling: A Quantitative Review of Large Language Models in Molecular Science**|Pengfei Liu et.al.|[2402.04119](http://arxiv.org/abs/2402.04119)|**[link](https://github.com/ai-hpc-research-team/slm4mol)**|
