@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-07**|**Online and Certifiably Correct Visual Odometry and Mapping**|Devansh R Agrawal et.al.|[2402.05254](http://arxiv.org/abs/2402.05254)|null|
 |**2024-02-06**|**YOLOPoint Joint Keypoint and Object Detection**|Anton Backhaus et.al.|[2402.03989](http://arxiv.org/abs/2402.03989)|null|
 |**2024-01-19**|**Motion Consistency Loss for Monocular Visual Odometry with Attention-Based Deep Learning**|André O. Françani et.al.|[2401.10857](http://arxiv.org/abs/2401.10857)|null|
 |**2024-01-17**|**Event-Based Visual Odometry on Non-Holonomic Ground Vehicles**|Wanting Xu et.al.|[2401.09331](http://arxiv.org/abs/2401.09331)|**[link](https://github.com/gowanting/nhevo)**|
@@ -2405,6 +2406,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-08**|**YOLO-CIANNA: Galaxy detection with deep learning in radio data. I. A new YOLO-inspired source detection method applied to the SKAO SDC1**|D. Cornu et.al.|[2402.05925](http://arxiv.org/abs/2402.05925)|null|
+|**2024-02-08**|**Jacquard V2: Refining Datasets using the Human In the Loop Data Correction Method**|Qiuhao Li et.al.|[2402.05747](http://arxiv.org/abs/2402.05747)|null|
+|**2024-02-08**|**Dual-modal Tactile E-skin: Enabling Bidirectional Human-Robot Interaction via Integrated Tactile Perception and Feedback**|Shilong Mu et.al.|[2402.05725](http://arxiv.org/abs/2402.05725)|null|
+|**2024-02-08**|**Hidden in Plain Sight: Undetectable Adversarial Bias Attacks on Vulnerable Patient Populations**|Pranav Kulkarni et.al.|[2402.05713](http://arxiv.org/abs/2402.05713)|**[link](https://github.com/um2ii/hiddeninplainsight)**|
+|**2024-02-08**|**An Ordinal Regression Framework for a Deep Learning Based Severity Assessment for Chest Radiographs**|Patrick Wienholt et.al.|[2402.05685](http://arxiv.org/abs/2402.05685)|**[link](https://github.com/paddyongithub/ordinal_regression)**|
+|**2024-02-08**|**Investigating Reproducibility in Deep Learning-Based Software Fault Prediction**|Adil Mukhtar et.al.|[2402.05645](http://arxiv.org/abs/2402.05645)|null|
+|**2024-02-08**|**Deep Learning-based Computational Job Market Analysis: A Survey on Skill Extraction and Classification from Job Postings**|Elena Senger et.al.|[2402.05617](http://arxiv.org/abs/2402.05617)|null|
+|**2024-02-08**|**Neural operators meet conjugate gradients: The FCG-NO method for efficient PDE solving**|Alexander Rudikov et.al.|[2402.05598](http://arxiv.org/abs/2402.05598)|null|
+|**2024-02-08**|**Traditional Machine Learning Models and Bidirectional Encoder Representations From Transformer (BERT)-Based Automatic Classification of Tweets About Eating Disorders: Algorithm Development and Validation Study**|José Alberto Benítez-Andrades et.al.|[2402.05571](http://arxiv.org/abs/2402.05571)|null|
+|**2024-02-08**|**One-Stop Automated Diagnostic System for Carpal Tunnel Syndrome in Ultrasound Images Using Deep Learning**|Jiayu Peng et.al.|[2402.05554](http://arxiv.org/abs/2402.05554)|null|
 |**2024-02-07**|**NITO: Neural Implicit Fields for Resolution-free Topology Optimization**|Amin Heyrani Nobari et.al.|[2402.05073](http://arxiv.org/abs/2402.05073)|null|
 |**2024-02-07**|**Arbitrary Scale Super-Resolution Assisted Lunar Crater Detection in Satellite Images**|Atal Tewari et.al.|[2402.05068](http://arxiv.org/abs/2402.05068)|null|
 |**2024-02-07**|**Exploration Without Maps via Zero-Shot Out-of-Distribution Deep Reinforcement Learning**|Shathushan Sivashangaran et.al.|[2402.05066](http://arxiv.org/abs/2402.05066)|null|
