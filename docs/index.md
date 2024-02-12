@@ -601,7 +601,7 @@ layout: default
 |**2023-12-12**|**Contextually Affinitive Neighborhood Refinery for Deep Clustering**|Chunlin Yu et.al.|[2312.07806](http://arxiv.org/abs/2312.07806)|**[link](https://github.com/cly234/deepclustering-connr)**|
 |**2023-12-12**|**Collapse-Oriented Adversarial Training with Triplet Decoupling for Robust Image Retrieval**|Qiwei Tian et.al.|[2312.07364](http://arxiv.org/abs/2312.07364)|null|
 |**2023-12-12**|**Attacking the Loop: Adversarial Attacks on Graph-based Loop Closure Detection**|Jonathan J. Y. Kim et.al.|[2312.06991](http://arxiv.org/abs/2312.06991)|null|
-|**2023-12-11**|**Dynamic Weighted Combiner for Mixed-Modal Image Retrieval**|Fuxiang Huang et.al.|[2312.06179](http://arxiv.org/abs/2312.06179)|null|
+|**2023-12-11**|**Dynamic Weighted Combiner for Mixed-Modal Image Retrieval**|Fuxiang Huang et.al.|[2312.06179](http://arxiv.org/abs/2312.06179)|**[link](https://github.com/fuxianghuang1/dwc)**|
 |**2023-12-06**|**Lite-Mind: Towards Efficient and Versatile Brain Representation Network**|Zixuan Gong et.al.|[2312.03781](http://arxiv.org/abs/2312.03781)|null|
 |**2023-12-08**|**FreestyleRet: Retrieving Images from Style-Diversified Queries**|Hao Li et.al.|[2312.02428](http://arxiv.org/abs/2312.02428)|**[link](https://github.com/curisejia/freestyleret)**|
 |**2023-12-04**|**Implicit Learning of Scene Geometry from Poses for Global Localization**|Mohammad Altillawi et.al.|[2312.02029](http://arxiv.org/abs/2312.02029)|null|
@@ -688,7 +688,7 @@ layout: default
 |**2023-09-16**|**Outram: One-shot Global Localization via Triangulated Scene Graph and Global Outlier Pruning**|Pengyu Yin et.al.|[2309.08914](http://arxiv.org/abs/2309.08914)|**[link](https://github.com/pamphlett/outram)**|
 |**2023-09-15**|**Active Learning for Fine-Grained Sketch-Based Image Retrieval**|Himanshu Thakur et.al.|[2309.08743](http://arxiv.org/abs/2309.08743)|null|
 |**2023-09-15**|**Optimization of Rank Losses for Image Retrieval**|Elias Ramzi et.al.|[2309.08250](http://arxiv.org/abs/2309.08250)|**[link](https://github.com/cvdfoundation/google-landmark)**|
-|**2023-09-18**|**Prompting Segmentation with Sound is Generalizable Audio-Visual Source Localizer**|Yaoting Wang et.al.|[2309.07929](http://arxiv.org/abs/2309.07929)|null|
+|**2023-09-18**|**Prompting Segmentation with Sound is Generalizable Audio-Visual Source Localizer**|Yaoting Wang et.al.|[2309.07929](http://arxiv.org/abs/2309.07929)|**[link](https://github.com/GeWu-Lab/Generalizable-Audio-Visual-Segmentation)**|
 |**2023-09-14**|**EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization**|Minjung Kim et.al.|[2309.07471](http://arxiv.org/abs/2309.07471)|**[link](https://github.com/minnjung/ep2p-loc)**|
 |**2023-09-13**|**RadarLCD: Learnable Radar-based Loop Closure Detection Pipeline**|Mirko Usuelli et.al.|[2309.07094](http://arxiv.org/abs/2309.07094)|null|
 |**2023-09-11**|**Towards Content-based Pixel Retrieval in Revisited Oxford and Paris**|Guoyuan An et.al.|[2309.05438](http://arxiv.org/abs/2309.05438)|**[link](https://github.com/anguoyuan/pixel_retrieval-segmented_instance_retrieval)**|
@@ -1804,7 +1804,7 @@ layout: default
 |**2023-11-22**|**Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Images**|Jaeyoung Chung et.al.|[2311.13398](http://arxiv.org/abs/2311.13398)|null|
 |**2023-11-22**|**3D Face Style Transfer with a Hybrid Solution of NeRF and Mesh Rasterization**|Jianwei Feng et.al.|[2311.13168](http://arxiv.org/abs/2311.13168)|null|
 |**2023-11-22**|**PIE-NeRF: Physics-based Interactive Elastodynamics with NeRF**|Yutao Feng et.al.|[2311.13099](http://arxiv.org/abs/2311.13099)|null|
-|**2023-11-21**|**SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering**|Antoine Guédon et.al.|[2311.12775](http://arxiv.org/abs/2311.12775)|null|
+|**2023-11-21**|**SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering**|Antoine Guédon et.al.|[2311.12775](http://arxiv.org/abs/2311.12775)|**[link](https://github.com/Anttwo/SuGaR)**|
 |**2023-11-21**|**Hyb-NeRF: A Multiresolution Hybrid Encoding for Neural Radiance Fields**|Yifan Wang et.al.|[2311.12490](http://arxiv.org/abs/2311.12490)|null|
 |**2023-11-18**|**Towards Function Space Mesh Watermarking: Protecting the Copyright of Signed Distance Fields**|Xingyu Zhu et.al.|[2311.12059](http://arxiv.org/abs/2311.12059)|null|
 |**2023-11-20**|**GP-NeRF: Generalized Perception NeRF for Context-Aware 3D Scene Understanding**|Hao Li et.al.|[2311.11863](http://arxiv.org/abs/2311.11863)|null|
@@ -2439,7 +2439,7 @@ layout: default
 |**2024-02-05**|**Ginger: An Efficient Curvature Approximation with Linear Complexity for General Neural Networks**|Yongchang Hao et.al.|[2402.03295](http://arxiv.org/abs/2402.03295)|null|
 |**2024-02-05**|**Multiclass Classification Procedure for Detecting Attacks on MQTT-IoT Protocol**|Hector Alaiz-Moreton et.al.|[2402.03270](http://arxiv.org/abs/2402.03270)|null|
 |**2024-02-05**|**CT-based Anatomical Segmentation for Thoracic Surgical Planning: A Benchmark Study for 3D U-shaped Deep Learning Models**|Arash Harirpoush et.al.|[2402.03230](http://arxiv.org/abs/2402.03230)|**[link](https://github.com/healthx-lab/deepsegthoracic)**|
-|**2024-02-05**|**IGUANe: a 3D generalizable CycleGAN for multicenter harmonization of brain MR images**|Vincent Roca et.al.|[2402.03227](http://arxiv.org/abs/2402.03227)|null|
+|**2024-02-05**|**IGUANe: a 3D generalizable CycleGAN for multicenter harmonization of brain MR images**|Vincent Roca et.al.|[2402.03227](http://arxiv.org/abs/2402.03227)|**[link](https://github.com/rocavincent/iguane_harmonization)**|
 |**2024-02-05**|**Discovering interpretable models of scientific image data with deep learning**|Christopher J. Soelistyo et.al.|[2402.03115](http://arxiv.org/abs/2402.03115)|null|
 |**2024-02-05**|**Improving Atmospheric Processes in Earth System Models with Deep Learning Ensembles and Stochastic Parameterizations**|Gunnar Behrens et.al.|[2402.03079](http://arxiv.org/abs/2402.03079)|null|
 |**2024-02-05**|**UniHENN: Designing More Versatile Homomorphic Encryption-based CNNs without im2col**|Hyunmin Choi et.al.|[2402.03060](http://arxiv.org/abs/2402.03060)|null|
@@ -2447,7 +2447,7 @@ layout: default
 |**2024-02-05**|**Toward Green and Human-Like Artificial Intelligence: A Complete Survey on Contemporary Few-Shot Learning Approaches**|Georgios Tsoumplekas et.al.|[2402.03017](http://arxiv.org/abs/2402.03017)|null|
 |**2024-02-05**|**A structure-preserving reconstruction scheme for compressible single- and multi-phase flows based on artificial neural networks**|Minsheng Huang et.al.|[2402.03002](http://arxiv.org/abs/2402.03002)|null|
 |**2024-02-02**|**Predictive Models based on Deep Learning Algorithms for Tensile Deformation of AlCoCuCrFeNi High-entropy alloy**|Hoang-Giang Nguyen et.al.|[2402.01578](http://arxiv.org/abs/2402.01578)|null|
-|**2024-02-02**|**Deep learning path-like collective variable for enhanced sampling molecular dynamics**|Thorben Fröhlking et.al.|[2402.01508](http://arxiv.org/abs/2402.01508)|null|
+|**2024-02-02**|**Deep learning path-like collective variable for enhanced sampling molecular dynamics**|Thorben Fröhlking et.al.|[2402.01508](http://arxiv.org/abs/2402.01508)|**[link](https://github.com/thorbenf/deeplne)**|
 |**2024-02-02**|**Scaled 360 layouts: Revisiting non-central panoramas**|Bruno Berenguel-Baeta et.al.|[2402.01466](http://arxiv.org/abs/2402.01466)|null|
 |**2024-02-02**|**Visual Gyroscope: Combination of Deep Learning Features and Direct Alignment for Panoramic Stabilization**|Bruno Berenguel-Baeta et.al.|[2402.01461](http://arxiv.org/abs/2402.01461)|**[link](https://github.com/sbrunoberenguel/holinet)**|
 |**2024-02-02**|**Climbing the Ladder of Interpretability with Counterfactual Concept Bottleneck Models**|Gabriele Dominici et.al.|[2402.01408](http://arxiv.org/abs/2402.01408)|**[link](https://github.com/gabriele-dominici/counterfactual-cbm)**|
