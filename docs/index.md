@@ -554,6 +554,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-10**|**Semantic Object-level Modeling for Robust Visual Camera Relocalization**|Yifan Zhu et.al.|[2402.06951](http://arxiv.org/abs/2402.06951)|null|
 |**2024-02-09**|**Large Language Models for Captioning and Retrieving Remote Sensing Images**|João Daniel Silva et.al.|[2402.06475](http://arxiv.org/abs/2402.06475)|null|
 |**2024-02-09**|**PAS-SLAM: A Visual SLAM System for Planar Ambiguous Scenes**|Xinggang Hu et.al.|[2402.06131](http://arxiv.org/abs/2402.06131)|null|
 |**2024-02-09**|**MoD-SLAM: Monocular Dense Mapping for Unbounded 3D Scene Reconstruction**|Heng Zhou et.al.|[2402.03762](http://arxiv.org/abs/2402.03762)|null|
@@ -1616,10 +1617,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-12**|**DeformNet: Latent Space Modeling and Dynamics Prediction for Deformable Object Manipulation**|Chenchang Li et.al.|[2402.07648](http://arxiv.org/abs/2402.07648)|null|
+|**2024-02-11**|**BioNeRF: Biologically Plausible Neural Radiance Fields for View Synthesis**|Leandro A. Passos et.al.|[2402.07310](http://arxiv.org/abs/2402.07310)|null|
+|**2024-02-11**|**3D Gaussian as a New Vision Era: A Survey**|Ben Fei et.al.|[2402.07181](http://arxiv.org/abs/2402.07181)|null|
 |**2024-02-09**|**ImplicitDeepfake: Plausible Face-Swapping through Implicit Deepfake Generation using NeRF and Gaussian Splatting**|Georgii Stanishevskii et.al.|[2402.06390](http://arxiv.org/abs/2402.06390)|**[link](https://github.com/quereste/implicit-deepfake)**|
 |**2024-02-07**|**NeRF as Non-Distant Environment Emitter in Physics-based Inverse Rendering**|Jingwang Ling et.al.|[2402.04829](http://arxiv.org/abs/2402.04829)|null|
 |**2024-02-07**|**OV-NeRF: Open-vocabulary Neural Radiance Fields with Vision and Language Foundation Models for 3D Semantic Understanding**|Guibiao Liao et.al.|[2402.04648](http://arxiv.org/abs/2402.04648)|null|
-|**2024-02-07**|**BirdNeRF: Fast Neural Reconstruction of Large-Scale Scenes From Aerial Imagery**|Huiqing Zhang et.al.|[2402.04554](http://arxiv.org/abs/2402.04554)|null|
+|**2024-02-11**|**BirdNeRF: Fast Neural Reconstruction of Large-Scale Scenes From Aerial Imagery**|Huiqing Zhang et.al.|[2402.04554](http://arxiv.org/abs/2402.04554)|null|
 |**2024-02-06**|**Improved Generalization of Weight Space Networks via Augmentations**|Aviv Shamsian et.al.|[2402.04081](http://arxiv.org/abs/2402.04081)|null|
 |**2024-02-05**|**ViewFusion: Learning Composable Diffusion Models for Novel View Synthesis**|Bernard Spiegl et.al.|[2402.02906](http://arxiv.org/abs/2402.02906)|**[link](https://github.com/bronemos/view-fusion)**|
 |**2024-02-02**|**ConRF: Zero-shot Stylization of 3D Scenes with Conditioned Radiation Fields**|Xingyu Miao et.al.|[2402.01950](http://arxiv.org/abs/2402.01950)|**[link](https://github.com/xingy038/conrf)**|
@@ -2409,6 +2413,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-12**|**Comparing skill of historical rainfall data based monsoon rainfall prediction in India with NCEP-NWP forecasts**|Apoorva Narula et.al.|[2402.07851](http://arxiv.org/abs/2402.07851)|null|
+|**2024-02-12**|**TELLER: A Trustworthy Framework for Explainable, Generalizable and Controllable Fake News Detection**|Hui Liu et.al.|[2402.07776](http://arxiv.org/abs/2402.07776)|**[link](https://github.com/less-and-less-bugs/trust_teller)**|
+|**2024-02-12**|**Minimally Interactive Segmentation of Soft-Tissue Tumors on CT and MRI using Deep Learning**|Douwe J. Spaanderman et.al.|[2402.07746](http://arxiv.org/abs/2402.07746)|null|
+|**2024-02-12**|**Optimization of Sparse Convolution for 3D-Point Cloud on GPUs with CUDA**|Chester Luo et.al.|[2402.07710](http://arxiv.org/abs/2402.07710)|null|
+|**2024-02-12**|**Signed Distance Field based Segmentation and Statistical Shape Modelling of the Left Atrial Appendage**|Kristine Aavild Juhl et.al.|[2402.07708](http://arxiv.org/abs/2402.07708)|null|
+|**2024-02-12**|**Low Cost Carriers induce specific and identifiable delay propagation patterns: an analysis of the EU and US systems**|Sofia Gil-Rodrigo et.al.|[2402.07656](http://arxiv.org/abs/2402.07656)|null|
+|**2024-02-12**|**Tighter Bounds on the Information Bottleneck with Application to Deep Learning**|Nir Weingarten et.al.|[2402.07639](http://arxiv.org/abs/2402.07639)|**[link](https://github.com/hopl1t/vub)**|
+|**2024-02-12**|**Developing a Multi-variate Prediction Model For COVID-19 From Crowd-sourced Respiratory Voice Data**|Yuyang Yan et.al.|[2402.07619](http://arxiv.org/abs/2402.07619)|null|
+|**2024-02-12**|**Comparative Analysis of ImageNet Pre-Trained Deep Learning Models and DINOv2 in Medical Imaging Classification**|Yuning Huang et.al.|[2402.07595](http://arxiv.org/abs/2402.07595)|null|
+|**2024-02-12**|**A Precision-Optimized Fixed-Point Near-Memory Digital Processing Unit for Analog In-Memory Computing**|Elena Ferro et.al.|[2402.07549](http://arxiv.org/abs/2402.07549)|null|
 |**2024-02-09**|**Image-based Deep Learning for the time-dependent prediction of fresh concrete properties**|Max Meyer et.al.|[2402.06611](http://arxiv.org/abs/2402.06611)|null|
 |**2024-02-09**|**Transferring facade labels between point clouds with semantic octrees while considering change detection**|Sophia Schwarz et.al.|[2402.06531](http://arxiv.org/abs/2402.06531)|**[link](https://github.com/schwarzsophia/transferring_urban_labels_between_pointclouds)**|
 |**2024-02-09**|**Multimodal Clinical Trial Outcome Prediction with Large Language Models**|Wenhao Zheng et.al.|[2402.06512](http://arxiv.org/abs/2402.06512)|null|
