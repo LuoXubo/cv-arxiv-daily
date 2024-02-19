@@ -554,6 +554,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-16**|**Spike-EVPR: Deep Spiking Residual Network with Cross-Representation Aggregation for Event-Based Visual Place Recognition**|Chenming Hu et.al.|[2402.10476](http://arxiv.org/abs/2402.10476)|null|
 |**2024-02-15**|**Self-Supervised Learning of Visual Robot Localization Using LED State Prediction as a Pretext Task**|Mirko Nava et.al.|[2402.09886](http://arxiv.org/abs/2402.09886)|**[link](https://github.com/idsia-robotics/leds-as-pretext)**|
 |**2024-02-14**|**Weatherproofing Retrieval for Localization with Generative AI and Geometric Consistency**|Yannis Kalantidis et.al.|[2402.09237](http://arxiv.org/abs/2402.09237)|null|
 |**2024-02-13**|**Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast**|Xiangming Gu et.al.|[2402.08567](http://arxiv.org/abs/2402.08567)|**[link](https://github.com/sail-sg/agent-smith)**|
@@ -1624,6 +1625,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-15**|**Evaluating NeRFs for 3D Plant Geometry Reconstruction in Field Conditions**|Muhammad Arbab Arshad et.al.|[2402.10344](http://arxiv.org/abs/2402.10344)|null|
 |**2024-02-14**|**PC-NeRF: Parent-Child Neural Radiance Fields Using Sparse LiDAR Frames in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2402.09325](http://arxiv.org/abs/2402.09325)|**[link](https://github.com/biter0088/pc-nerf)**|
 |**2024-02-13**|**Preconditioners for the Stochastic Training of Implicit Neural Representations**|Shin-Fang Chng et.al.|[2402.08784](http://arxiv.org/abs/2402.08784)|null|
 |**2024-02-13**|**NeRF Analogies: Example-Based Visual Attribute Transfer for NeRFs**|Michael Fischer et.al.|[2402.08622](http://arxiv.org/abs/2402.08622)|null|
@@ -2424,6 +2426,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-16**|**Weak-Mamba-UNet: Visual Mamba Makes CNN and ViT Work Better for Scribble-based Medical Image Segmentation**|Ziyang Wang et.al.|[2402.10887](http://arxiv.org/abs/2402.10887)|**[link](https://github.com/ziyangwang007/mamba-unet)**|
+|**2024-02-16**|**GAN-driven Electromagnetic Imaging of 2-D Dielectric Scatterers**|Ehtasham Naseer et.al.|[2402.10831](http://arxiv.org/abs/2402.10831)|null|
+|**2024-02-16**|**BioFusionNet: Deep Learning-Based Survival Risk Stratification in ER+ Breast Cancer Through Multifeature and Multimodal Data Fusion**|Raktim Kumar Mondol et.al.|[2402.10717](http://arxiv.org/abs/2402.10717)|null|
+|**2024-02-16**|**A Predictive Surrogate Model for Heat Transfer of an Impinging Jet on a Concave Surface**|Sajad Salavatidezfouli et.al.|[2402.10641](http://arxiv.org/abs/2402.10641)|null|
+|**2024-02-16**|**Robust Beamforming for RIS-aided Communications: Gradient-based Manifold Meta Learning**|Fenghao Zhu et.al.|[2402.10626](http://arxiv.org/abs/2402.10626)|**[link](https://github.com/fenghaozhu/GMML)**|
+|**2024-02-16**|**Cognitive Personalized Search Integrating Large Language Models with an Efficient Memory Mechanism**|Yujia Zhou et.al.|[2402.10548](http://arxiv.org/abs/2402.10548)|null|
+|**2024-02-16**|**CodaMal: Contrastive Domain Adaptation for Malaria Detection in Low-Cost Microscopes**|Ishan Rajendrakumar Dave et.al.|[2402.10478](http://arxiv.org/abs/2402.10478)|**[link](https://github.com/daveishan/codamal)**|
+|**2024-02-16**|**Optimizing Skin Lesion Classification via Multimodal Data and Auxiliary Task Integration**|Mahapara Khurshid et.al.|[2402.10454](http://arxiv.org/abs/2402.10454)|null|
+|**2024-02-16**|**Prompt Learning for Multi-Label Code Smell Detection: A Promising Approach**|Haiyang Liu et.al.|[2402.10398](http://arxiv.org/abs/2402.10398)|null|
+|**2024-02-15**|**Backdoor Attack against One-Class Sequential Anomaly Detection Models**|He Cheng et.al.|[2402.10283](http://arxiv.org/abs/2402.10283)|null|
 |**2024-02-15**|**Multi-Excitation Projective Simulation with a Many-Body Physics Inspired Inductive Bias**|Philip A. LeMaitre et.al.|[2402.10192](http://arxiv.org/abs/2402.10192)|null|
 |**2024-02-15**|**Euclid preparation. Measuring detailed galaxy morphologies for Euclid with Machine Learning**|Euclid Collaboration et.al.|[2402.10187](http://arxiv.org/abs/2402.10187)|**[link](https://github.com/baussel/zooboteuclid)**|
 |**2024-02-15**|**DeepSRGM -- Sequence Classification and Ranking in Indian Classical Music with Deep Learning**|Sathwik Tejaswi Madhusudhan et.al.|[2402.10168](http://arxiv.org/abs/2402.10168)|null|
