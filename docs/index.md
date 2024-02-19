@@ -685,7 +685,7 @@ layout: default
 |**2023-09-26**|**Object-Centric Open-Vocabulary Image-Retrieval with Aggregated Features**|Hila Levi et.al.|[2309.14999](http://arxiv.org/abs/2309.14999)|null|
 |**2023-09-23**|**Resolving References in Visually-Grounded Dialogue via Text Generation**|Bram Willemsen et.al.|[2309.13430](http://arxiv.org/abs/2309.13430)|**[link](https://github.com/willemsenbram/reference-resolution-via-text-generation)**|
 |**2023-09-21**|**Face Identity-Aware Disentanglement in StyleGAN**|Adrian Suwała et.al.|[2309.12033](http://arxiv.org/abs/2309.12033)|null|
-|**2023-09-21**|**On-the-Fly SfM: What you capture is What you get**|Zongqian Zhan et.al.|[2309.11883](http://arxiv.org/abs/2309.11883)|null|
+|**2023-09-21**|**On-the-Fly SfM: What you capture is What you get**|Zongqian Zhan et.al.|[2309.11883](http://arxiv.org/abs/2309.11883)|**[link](https://github.com/RayShark0605/On_the_fly_SfM)**|
 |**2023-09-20**|**2D-3D Pose Tracking with Multi-View Constraints**|Huai Yu et.al.|[2309.11335](http://arxiv.org/abs/2309.11335)|null|
 |**2023-09-19**|**VPRTempo: A Fast Temporally Encoded Spiking Neural Network for Visual Place Recognition**|Adam D. Hines et.al.|[2309.10225](http://arxiv.org/abs/2309.10225)|**[link](https://github.com/QVPR/VPRTempo)**|
 |**2023-09-18**|**DynaPix SLAM: A Pixel-Based Dynamic SLAM Approach**|Chenghao Xu et.al.|[2309.09879](http://arxiv.org/abs/2309.09879)|null|
@@ -2397,7 +2397,7 @@ layout: default
 |**2022-09-12**|**StructNeRF: Neural Radiance Fields for Indoor Scenes with Structural Hints**|Zheng Chen et.al.|[2209.05277](http://arxiv.org/abs/2209.05277)|null|
 |**2022-09-09**|**Generative Deformable Radiance Fields for Disentangled Image Synthesis of Topology-Varying Objects**|Ziyu Wang et.al.|[2209.04183](http://arxiv.org/abs/2209.04183)|null|
 |**2022-09-08**|**im2nerf: Image to Neural Radiance Field in the Wild**|Lu Mi et.al.|[2209.04061](http://arxiv.org/abs/2209.04061)|null|
-|**2022-09-08**|**PixTrack: Precise 6DoF Object Pose Tracking using NeRF Templates and Feature-metric Alignment**|Prajwal Chidananda et.al.|[2209.03910](http://arxiv.org/abs/2209.03910)|null|
+|**2022-09-08**|**PixTrack: Precise 6DoF Object Pose Tracking using NeRF Templates and Feature-metric Alignment**|Prajwal Chidananda et.al.|[2209.03910](http://arxiv.org/abs/2209.03910)|**[link](https://github.com/giantai/pixtrack)**|
 |**2022-09-07**|**Neural Feature Fusion Fields: 3D Distillation of Self-Supervised 2D Image Representations**|Vadim Tschernezki et.al.|[2209.03494](http://arxiv.org/abs/2209.03494)|null|
 |**2022-08-29**|**Volume Rendering Digest (for NeRF)**|Andrea Tagliasacchi et.al.|[2209.02417](http://arxiv.org/abs/2209.02417)|null|
 |**2022-09-06**|**CLONeR: Camera-Lidar Fusion for Occupancy Grid-aided Neural Representations**|Alexandra Carlson et.al.|[2209.01194](http://arxiv.org/abs/2209.01194)|null|
@@ -2438,7 +2438,7 @@ layout: default
 |**2024-02-14**|**Deep Rib Fracture Instance Segmentation and Classification from CT on the RibFrac Challenge**|Jiancheng Yang et.al.|[2402.09372](http://arxiv.org/abs/2402.09372)|null|
 |**2024-02-14**|**Pruning Sparse Tensor Neural Networks Enables Deep Learning for 3D Ultrasound Localization Microscopy**|Brice Rauby et.al.|[2402.09359](http://arxiv.org/abs/2402.09359)|null|
 |**2024-02-14**|**Registration of Longitudinal Spine CTs for Monitoring Lesion Growth**|Malika Sanhinova et.al.|[2402.09341](http://arxiv.org/abs/2402.09341)|null|
-|**2024-02-14**|**Embracing the black box: Heading towards foundation models for causal discovery from time series data**|Gideon Stein et.al.|[2402.09305](http://arxiv.org/abs/2402.09305)|null|
+|**2024-02-14**|**Embracing the black box: Heading towards foundation models for causal discovery from time series data**|Gideon Stein et.al.|[2402.09305](http://arxiv.org/abs/2402.09305)|**[link](https://github.com/Gideon-Stein/CausalPretraining)**|
 |**2024-02-14**|**Synergistic eigenanalysis of covariance and Hessian matrices for enhanced binary classification**|Agus Hartoyo et.al.|[2402.09281](http://arxiv.org/abs/2402.09281)|null|
 |**2024-02-14**|**A Modular Deep Learning-based Approach for Diffuse Optical Tomography Reconstruction**|Alessandro Benfenati et.al.|[2402.09277](http://arxiv.org/abs/2402.09277)|null|
 |**2024-02-14**|**Fast Window-Based Event Denoising with Spatiotemporal Correlation Enhancement**|Huachen Fang et.al.|[2402.09270](http://arxiv.org/abs/2402.09270)|null|
@@ -2462,7 +2462,7 @@ layout: default
 |**2024-02-12**|**Low Cost Carriers induce specific and identifiable delay propagation patterns: an analysis of the EU and US systems**|Sofia Gil-Rodrigo et.al.|[2402.07656](http://arxiv.org/abs/2402.07656)|null|
 |**2024-02-12**|**Tighter Bounds on the Information Bottleneck with Application to Deep Learning**|Nir Weingarten et.al.|[2402.07639](http://arxiv.org/abs/2402.07639)|**[link](https://github.com/hopl1t/vub)**|
 |**2024-02-12**|**Developing a Multi-variate Prediction Model For COVID-19 From Crowd-sourced Respiratory Voice Data**|Yuyang Yan et.al.|[2402.07619](http://arxiv.org/abs/2402.07619)|null|
-|**2024-02-12**|**Comparative Analysis of ImageNet Pre-Trained Deep Learning Models and DINOv2 in Medical Imaging Classification**|Yuning Huang et.al.|[2402.07595](http://arxiv.org/abs/2402.07595)|null|
+|**2024-02-12**|**Comparative Analysis of ImageNet Pre-Trained Deep Learning Models and DINOv2 in Medical Imaging Classification**|Yuning Huang et.al.|[2402.07595](http://arxiv.org/abs/2402.07595)|**[link](https://github.com/guanghuifu/medical_dino_eval)**|
 |**2024-02-12**|**A Precision-Optimized Fixed-Point Near-Memory Digital Processing Unit for Analog In-Memory Computing**|Elena Ferro et.al.|[2402.07549](http://arxiv.org/abs/2402.07549)|null|
 |**2024-02-09**|**Image-based Deep Learning for the time-dependent prediction of fresh concrete properties**|Max Meyer et.al.|[2402.06611](http://arxiv.org/abs/2402.06611)|null|
 |**2024-02-09**|**Transferring facade labels between point clouds with semantic octrees while considering change detection**|Sophia Schwarz et.al.|[2402.06531](http://arxiv.org/abs/2402.06531)|**[link](https://github.com/schwarzsophia/transferring_urban_labels_between_pointclouds)**|
@@ -3527,7 +3527,7 @@ layout: default
 |**2023-09-05**|**SeisCLIP: A seismology foundation model pre-trained by multi-modal data for multi-purpose seismic feature extraction**|Xu Si et.al.|[2309.02320](http://arxiv.org/abs/2309.02320)|**[link](https://github.com/sixu0/SeisCLIP)**|
 |**2023-09-05**|**Continual Cross-Dataset Adaptation in Road Surface Classification**|Paolo Cudrano et.al.|[2309.02210](http://arxiv.org/abs/2309.02210)|null|
 |**2023-09-06**|**Delving into Ipsilateral Mammogram Assessment under Multi-View Network**|Thai Ngoc Toan Truong et.al.|[2309.02197](http://arxiv.org/abs/2309.02197)|null|
-|**2023-09-01**|**Bayesian deep learning for cosmic volumes with modified gravity**|Jorge Enrique García-Farieta et.al.|[2309.00612](http://arxiv.org/abs/2309.00612)|null|
+|**2023-09-01**|**Bayesian deep learning for cosmic volumes with modified gravity**|Jorge Enrique García-Farieta et.al.|[2309.00612](http://arxiv.org/abs/2309.00612)|**[link](https://github.com/javierorjuela/bayesian-neural-net-with-mnfs-for-f-r-)**|
 |**2023-09-01**|**Time Series Analysis of Urban Liveability**|Alex Levering et.al.|[2309.00594](http://arxiv.org/abs/2309.00594)|null|
 |**2023-09-01**|**PolyGET: Accelerating Polymer Simulations by Accurate and Generalizable Forcefield with Equivariant Transformer**|Rui Feng et.al.|[2309.00585](http://arxiv.org/abs/2309.00585)|null|
 |**2023-09-01**|**FaST-GShare: Enabling Efficient Spatio-Temporal GPU Sharing in Serverless Computing for Deep Learning Inference**|Jianfeng Gu et.al.|[2309.00558](http://arxiv.org/abs/2309.00558)|null|
@@ -3633,7 +3633,7 @@ layout: default
 |**2023-08-18**|**A deep learning approach for the 3D reconstruction of dust density and temperature in star-forming regions**|Victor F. Ksoll et.al.|[2308.09657](http://arxiv.org/abs/2308.09657)|null|
 |**2023-08-18**|**Robust Uncertainty Quantification using Conformalised Monte Carlo Prediction**|Daniel Bethell et.al.|[2308.09647](http://arxiv.org/abs/2308.09647)|**[link](https://github.com/team-daniel/mc-cp)**|
 |**2023-08-18**|**Investigation of Architectures and Receptive Fields for Appearance-based Gaze Estimation**|Yunhan Wang et.al.|[2308.09593](http://arxiv.org/abs/2308.09593)|**[link](https://github.com/yunhanwang1105/GazeTech)**|
-|**2023-08-18**|**Normalization Is All You Need: Understanding Layer-Normalized Federated Learning under Extreme Label Shift**|Guojun Zhang et.al.|[2308.09565](http://arxiv.org/abs/2308.09565)|null|
+|**2023-08-18**|**Normalization Is All You Need: Understanding Layer-Normalized Federated Learning under Extreme Label Shift**|Guojun Zhang et.al.|[2308.09565](http://arxiv.org/abs/2308.09565)|**[link](https://github.com/huawei-noah/federated-learning)**|
 |**2023-08-18**|**Angle-Delay Profile-Based and Timestamp-Aided Dissimilarity Metrics for Channel Charting**|Phillip Stephan et.al.|[2308.09539](http://arxiv.org/abs/2308.09539)|null|
 |**2023-08-18**|**Uncertainty-based quality assurance of carotid artery wall segmentation in black-blood MRI**|Elina Thibeau-Sutre et.al.|[2308.09538](http://arxiv.org/abs/2308.09538)|**[link](https://github.com/miagrouput/carotid-segmentation)**|
 |**2023-08-18**|**Bridged-GNN: Knowledge Bridge Learning for Effective Knowledge Transfer**|Wendong Bi et.al.|[2308.09499](http://arxiv.org/abs/2308.09499)|null|
@@ -4155,7 +4155,7 @@ layout: default
 |**2023-06-01**|**Auto-Spikformer: Spikformer Architecture Search**|Kaiwei Che et.al.|[2306.00807](http://arxiv.org/abs/2306.00807)|null|
 |**2023-06-01**|**Microstructure quality control of steels using deep learning**|Ali Riza Durmaz et.al.|[2306.00797](http://arxiv.org/abs/2306.00797)|null|
 |**2023-06-01**|**SlothSpeech: Denial-of-service Attack Against Speech Recognition Models**|Mirazul Haque et.al.|[2306.00794](http://arxiv.org/abs/2306.00794)|**[link](https://github.com/0xrutvij/slothspeech)**|
-|**2023-06-01**|**A Uniform Confidence Phenomenon in Deep Learning and its Implications for Calibration**|Muthu Chidambaram et.al.|[2306.00740](http://arxiv.org/abs/2306.00740)|null|
+|**2023-06-01**|**A Uniform Confidence Phenomenon in Deep Learning and its Implications for Calibration**|Muthu Chidambaram et.al.|[2306.00740](http://arxiv.org/abs/2306.00740)|**[link](https://github.com/2014mchidamb/temp-scaling-limitations)**|
 |**2023-06-01**|**DAM-Net: Global Flood Detection from SAR Imagery Using Differential Attention Metric-Based Vision Transformers**|Tamer Saleh et.al.|[2306.00704](http://arxiv.org/abs/2306.00704)|**[link](https://github.com/tamer-saleh/s1gflood-detection)**|
 |**2023-05-31**|**Exploring Regions of Interest: Visualizing Histological Image Classification for Breast Cancer using Deep Learning**|Imane Nedjar et.al.|[2305.20058](http://arxiv.org/abs/2305.20058)|null|
 |**2023-05-31**|**Hardness and fracture toughness models by symbolic regression**|Jinbin Zhao et.al.|[2305.19991](http://arxiv.org/abs/2305.19991)|null|
