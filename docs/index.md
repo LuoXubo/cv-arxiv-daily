@@ -556,6 +556,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-23**|**Text2Pic Swift: Enhancing Long-Text to Image Retrieval for Large-Scale Libraries**|Zijun Long et.al.|[2402.15276](http://arxiv.org/abs/2402.15276)|null|
+|**2024-02-23**|**Fine-tuning CLIP Text Encoders with Two-step Paraphrasing**|Hyunjae Kim et.al.|[2402.15120](http://arxiv.org/abs/2402.15120)|null|
 |**2024-02-22**|**Towards Seamless Adaptation of Pre-trained Models for Visual Place Recognition**|Feng Lu et.al.|[2402.14505](http://arxiv.org/abs/2402.14505)|**[link](https://github.com/Lu-Feng/SelaVPR)**|
 |**2024-02-16**|**Spike-EVPR: Deep Spiking Residual Network with Cross-Representation Aggregation for Event-Based Visual Place Recognition**|Chenming Hu et.al.|[2402.10476](http://arxiv.org/abs/2402.10476)|null|
 |**2024-02-15**|**Self-Supervised Learning of Visual Robot Localization Using LED State Prediction as a Pretext Task**|Mirko Nava et.al.|[2402.09886](http://arxiv.org/abs/2402.09886)|**[link](https://github.com/idsia-robotics/leds-as-pretext)**|
@@ -2448,6 +2450,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-23**|**A Comprehensive Survey of Convolutions in Deep Learning: Applications, Challenges, and Future Trends**|Abolfazl Younesi et.al.|[2402.15490](http://arxiv.org/abs/2402.15490)|null|
+|**2024-02-23**|**Computer Vision for Multimedia Geolocation in Human Trafficking Investigation: A Systematic Literature Review**|Opeyemi Bamigbade et.al.|[2402.15448](http://arxiv.org/abs/2402.15448)|null|
+|**2024-02-23**|**Hierarchical Invariance for Robust and Interpretable Vision Tasks at Larger Scales**|Shuren Qi et.al.|[2402.15430](http://arxiv.org/abs/2402.15430)|**[link](https://github.com/shurenqi/hir)**|
+|**2024-02-23**|**ProTIP: Probabilistic Robustness Verification on Text-to-Image Diffusion Models against Stochastic Perturbation**|Yi Zhang et.al.|[2402.15429](http://arxiv.org/abs/2402.15429)|**[link](https://github.com/wellzline/protip)**|
+|**2024-02-23**|**G-RepsNet: A Fast and General Construction of Equivariant Networks for Arbitrary Matrix Groups**|Sourya Basu et.al.|[2402.15413](http://arxiv.org/abs/2402.15413)|null|
+|**2024-02-23**|**A Universal Method for Solar Filament Detection from H-alpha Observations using Semi-supervised Deep Learning**|Andrea Diercke et.al.|[2402.15407](http://arxiv.org/abs/2402.15407)|null|
+|**2024-02-23**|**TransFlower: An Explainable Transformer-Based Model with Flow-to-Flow Attention for Commuting Flow Prediction**|Yan Luo et.al.|[2402.15398](http://arxiv.org/abs/2402.15398)|null|
+|**2024-02-23**|**On normalization-equivariance properties of supervised and unsupervised denoising methods: a survey**|Sébastien Herbreteau et.al.|[2402.15352](http://arxiv.org/abs/2402.15352)|null|
+|**2024-02-23**|**Iteration and Stochastic First-order Oracle Complexities of Stochastic Gradient Descent using Constant and Decaying Learning Rates**|Kento Imaizumi et.al.|[2402.15344](http://arxiv.org/abs/2402.15344)|null|
+|**2024-02-23**|**A Quantum-Classical Collaborative Training Architecture Based on Quantum State Fidelity**|Ryan L'Abbate et.al.|[2402.15333](http://arxiv.org/abs/2402.15333)|null|
 |**2024-02-22**|**Difference Learning for Air Quality Forecasting Transport Emulation**|Reed River Chen et.al.|[2402.14806](http://arxiv.org/abs/2402.14806)|null|
 |**2024-02-22**|**Link Prediction under Heterophily: A Physics-Inspired Graph Neural Network Approach**|Andrea Giuseppe Di Francesco et.al.|[2402.14802](http://arxiv.org/abs/2402.14802)|null|
 |**2024-02-22**|**Zero-Shot Pediatric Tuberculosis Detection in Chest X-Rays using Self-Supervised Learning**|Daniel Capellán-Martín et.al.|[2402.14741](http://arxiv.org/abs/2402.14741)|null|
