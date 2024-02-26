@@ -1450,7 +1450,7 @@ layout: default
 |**2023-12-04**|**Steerers: A framework for rotation equivariant keypoint descriptors**|Georg Bökman et.al.|[2312.02152](http://arxiv.org/abs/2312.02152)|**[link](https://github.com/georg-bn/rotation-steerers)**|
 |**2023-11-30**|**DSeg: Direct Line Segments Detection**|Berger Cyrille et.al.|[2311.18344](http://arxiv.org/abs/2311.18344)|null|
 |**2023-11-30**|**Utilizing Radiomic Feature Analysis For Automated MRI Keypoint Detection: Enhancing Graph Applications**|Sahar Almahfouz Nasser et.al.|[2311.18281](http://arxiv.org/abs/2311.18281)|null|
-|**2023-11-29**|**LGFCTR: Local and Global Feature Convolutional Transformer for Image Matching**|Wenhao Zhong et.al.|[2311.17571](http://arxiv.org/abs/2311.17571)|null|
+|**2023-11-29**|**LGFCTR: Local and Global Feature Convolutional Transformer for Image Matching**|Wenhao Zhong et.al.|[2311.17571](http://arxiv.org/abs/2311.17571)|**[link](https://github.com/zwh0527/lgfctr)**|
 |**2023-11-08**|**Zero-shot Translation of Attention Patterns in VQA Models to Natural Language**|Leonard Salewski et.al.|[2311.05043](http://arxiv.org/abs/2311.05043)|**[link](https://github.com/explainableml/zs-a2t)**|
 |**2023-11-06**|**An invariant feature extraction for multi-modal images matching**|Chenzhong Gao et.al.|[2311.02842](http://arxiv.org/abs/2311.02842)|null|
 |**2023-10-23**|**RD-VIO: Robust Visual-Inertial Odometry for Mobile Augmented Reality in Dynamic Environments**|Jinyu Li et.al.|[2310.15072](http://arxiv.org/abs/2310.15072)|**[link](https://github.com/openxrlab/xrslam)**|
@@ -1803,7 +1803,7 @@ layout: default
 |**2023-12-04**|**Customize your NeRF: Adaptive Source Driven 3D Scene Editing via Local-Global Iterative Training**|Runze He et.al.|[2312.01663](http://arxiv.org/abs/2312.01663)|null|
 |**2023-12-03**|**SANeRF-HQ: Segment Anything for NeRF in High Quality**|Yichen Liu et.al.|[2312.01531](http://arxiv.org/abs/2312.01531)|null|
 |**2023-12-03**|**VideoRF: Rendering Dynamic Radiance Fields as 2D Feature Video Streams**|Liao Wang et.al.|[2312.01407](http://arxiv.org/abs/2312.01407)|null|
-|**2023-12-02**|**Self-Evolving Neural Radiance Fields**|Jaewoo Jung et.al.|[2312.01003](http://arxiv.org/abs/2312.01003)|null|
+|**2023-12-02**|**Self-Evolving Neural Radiance Fields**|Jaewoo Jung et.al.|[2312.01003](http://arxiv.org/abs/2312.01003)|**[link](https://github.com/KU-CVLAB/SE-NeRF)**|
 |**2023-12-01**|**Gaussian Grouping: Segment and Edit Anything in 3D Scenes**|Mingqiao Ye et.al.|[2312.00732](http://arxiv.org/abs/2312.00732)|**[link](https://github.com/lkeab/gaussian-grouping)**|
 |**2023-11-30**|**LucidDreaming: Controllable Object-Centric 3D Generation**|Zhaoning Wang et.al.|[2312.00588](http://arxiv.org/abs/2312.00588)|null|
 |**2023-12-01**|**FSGS: Real-Time Few-shot View Synthesis using Gaussian Splatting**|Zehao Zhu et.al.|[2312.00451](http://arxiv.org/abs/2312.00451)|null|
@@ -1816,7 +1816,7 @@ layout: default
 |**2023-11-30**|**Compact3D: Compressing Gaussian Splat Radiance Field Models with Vector Quantization**|KL Navaneet et.al.|[2311.18159](http://arxiv.org/abs/2311.18159)|**[link](https://github.com/ucdvision/compact3d)**|
 |**2023-11-29**|**GaussianShader: 3D Gaussian Splatting with Shading Functions for Reflective Surfaces**|Yingwenqi Jiang et.al.|[2311.17977](http://arxiv.org/abs/2311.17977)|null|
 |**2023-11-29**|**AvatarStudio: High-fidelity and Animatable 3D Avatar Creation from Text**|Jianfeng Zhang et.al.|[2311.17917](http://arxiv.org/abs/2311.17917)|null|
-|**2023-11-29**|**FisherRF: Active View Selection and Uncertainty Quantification for Radiance Fields using Fisher Information**|Wen Jiang et.al.|[2311.17874](http://arxiv.org/abs/2311.17874)|null|
+|**2023-11-29**|**FisherRF: Active View Selection and Uncertainty Quantification for Radiance Fields using Fisher Information**|Wen Jiang et.al.|[2311.17874](http://arxiv.org/abs/2311.17874)|**[link](https://github.com/JiangWenPL/FisherRF)**|
 |**2023-11-29**|**Cinematic Behavior Transfer via NeRF-based Differentiable Filming**|Xuekun Jiang et.al.|[2311.17754](http://arxiv.org/abs/2311.17754)|null|
 |**2023-11-29**|**SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis**|Ziqiao Peng et.al.|[2311.17590](http://arxiv.org/abs/2311.17590)|**[link](https://github.com/ZiqiaoPeng/SyncTalk)**|
 |**2023-11-29**|**NeRFTAP: Enhancing Transferability of Adversarial Patches on Face Recognition using Neural Radiance Fields**|Xiaoliang Liu et.al.|[2311.17332](http://arxiv.org/abs/2311.17332)|null|
@@ -2498,7 +2498,7 @@ layout: default
 |**2024-02-16**|**Optimizing Skin Lesion Classification via Multimodal Data and Auxiliary Task Integration**|Mahapara Khurshid et.al.|[2402.10454](http://arxiv.org/abs/2402.10454)|null|
 |**2024-02-16**|**Prompt Learning for Multi-Label Code Smell Detection: A Promising Approach**|Haiyang Liu et.al.|[2402.10398](http://arxiv.org/abs/2402.10398)|null|
 |**2024-02-15**|**Backdoor Attack against One-Class Sequential Anomaly Detection Models**|He Cheng et.al.|[2402.10283](http://arxiv.org/abs/2402.10283)|null|
-|**2024-02-15**|**Multi-Excitation Projective Simulation with a Many-Body Physics Inspired Inductive Bias**|Philip A. LeMaitre et.al.|[2402.10192](http://arxiv.org/abs/2402.10192)|null|
+|**2024-02-15**|**Multi-Excitation Projective Simulation with a Many-Body Physics Inspired Inductive Bias**|Philip A. LeMaitre et.al.|[2402.10192](http://arxiv.org/abs/2402.10192)|**[link](https://github.com/mariuskrumm/manybodymeps)**|
 |**2024-02-15**|**Euclid preparation. Measuring detailed galaxy morphologies for Euclid with Machine Learning**|Euclid Collaboration et.al.|[2402.10187](http://arxiv.org/abs/2402.10187)|**[link](https://github.com/baussel/zooboteuclid)**|
 |**2024-02-15**|**DeepSRGM -- Sequence Classification and Ranking in Indian Classical Music with Deep Learning**|Sathwik Tejaswi Madhusudhan et.al.|[2402.10168](http://arxiv.org/abs/2402.10168)|null|
 |**2024-02-15**|**Random features and polynomial rules**|Fabián Aguirre-López et.al.|[2402.10164](http://arxiv.org/abs/2402.10164)|null|
@@ -2540,7 +2540,7 @@ layout: default
 |**2024-02-12**|**A Precision-Optimized Fixed-Point Near-Memory Digital Processing Unit for Analog In-Memory Computing**|Elena Ferro et.al.|[2402.07549](http://arxiv.org/abs/2402.07549)|null|
 |**2024-02-09**|**Image-based Deep Learning for the time-dependent prediction of fresh concrete properties**|Max Meyer et.al.|[2402.06611](http://arxiv.org/abs/2402.06611)|null|
 |**2024-02-09**|**Transferring facade labels between point clouds with semantic octrees while considering change detection**|Sophia Schwarz et.al.|[2402.06531](http://arxiv.org/abs/2402.06531)|**[link](https://github.com/schwarzsophia/transferring_urban_labels_between_pointclouds)**|
-|**2024-02-09**|**Multimodal Clinical Trial Outcome Prediction with Large Language Models**|Wenhao Zheng et.al.|[2402.06512](http://arxiv.org/abs/2402.06512)|null|
+|**2024-02-09**|**Multimodal Clinical Trial Outcome Prediction with Large Language Models**|Wenhao Zheng et.al.|[2402.06512](http://arxiv.org/abs/2402.06512)|**[link](https://github.com/shenmishajing/lifted)**|
 |**2024-02-09**|**Classifying point clouds at the facade-level using geometric features and deep learning networks**|Yue Tan et.al.|[2402.06506](http://arxiv.org/abs/2402.06506)|**[link](https://github.com/yue-t99/pointnet2-geometricfeatures-facade)**|
 |**2024-02-09**|**BarlowTwins-CXR : Enhancing Chest X-Ray abnormality localization in heterogeneous data with cross-domain self-supervised learning**|Haoyue Sheng et.al.|[2402.06499](http://arxiv.org/abs/2402.06499)|null|
 |**2024-02-09**|**Deep Learning-Based Auto-Segmentation of Planning Target Volume for Total Marrow and Lymph Node Irradiation**|Ricardo Coimbra Brioso et.al.|[2402.06494](http://arxiv.org/abs/2402.06494)|null|
@@ -2916,7 +2916,7 @@ layout: default
 |**2023-12-12**|**Deep Internal Learning: Deep Learning from a Single Input**|Tom Tirer et.al.|[2312.07425](http://arxiv.org/abs/2312.07425)|null|
 |**2023-12-12**|**ScribblePrompt: Fast and Flexible Interactive Segmentation for Any Medical Image**|Hallee E. Wong et.al.|[2312.07381](http://arxiv.org/abs/2312.07381)|**[link](https://github.com/halleewong/ScribblePrompt)**|
 |**2023-12-12**|**Neural Differentiable Integral Control Barrier Functions for Unknown Nonlinear Systems with Input Constraints**|Vrushabh Zinage et.al.|[2312.07345](http://arxiv.org/abs/2312.07345)|null|
-|**2023-12-12**|**Neural Machine Translation of Clinical Text: An Empirical Investigation into Multilingual Pre-Trained Language Models and Transfer-Learning**|Lifeng Han et.al.|[2312.07250](http://arxiv.org/abs/2312.07250)|null|
+|**2023-12-12**|**Neural Machine Translation of Clinical Text: An Empirical Investigation into Multilingual Pre-Trained Language Models and Transfer-Learning**|Lifeng Han et.al.|[2312.07250](http://arxiv.org/abs/2312.07250)|**[link](https://github.com/hecta-uom/clinicalnmt)**|
 |**2023-12-12**|**Super-Resolution on Rotationally Scanned Photoacoustic Microscopy Images Incorporating Scanning Prior**|Kai Pan et.al.|[2312.07226](http://arxiv.org/abs/2312.07226)|**[link](https://github.com/11710615/pamsr)**|
 |**2023-12-12**|**Brain-inspired Computing Based on Machine Learning And Deep Learning:A Review**|Bihui Yu et.al.|[2312.07213](http://arxiv.org/abs/2312.07213)|**[link](https://github.com/ultracoolhub/brain-inspired-computing)**|
 |**2023-12-12**|**SeasFire as a Multivariate Earth System Datacube for Wildfire Dynamics**|Ilektra Karasante et.al.|[2312.07199](http://arxiv.org/abs/2312.07199)|**[link](https://github.com/seasfire/seasfire-datacube-paper)**|
@@ -3127,7 +3127,7 @@ layout: default
 |**2023-11-10**|**Deep learning segmentation of fibrous cap in intravascular optical coherence tomography images**|Juhwan Lee et.al.|[2311.06202](http://arxiv.org/abs/2311.06202)|null|
 |**2023-11-10**|**Greedy PIG: Adaptive Integrated Gradients**|Kyriakos Axiotis et.al.|[2311.06192](http://arxiv.org/abs/2311.06192)|null|
 |**2023-11-10**|**An Automated Pipeline for Tumour-Infiltrating Lymphocyte Scoring in Breast Cancer**|Adam J Shephard et.al.|[2311.06185](http://arxiv.org/abs/2311.06185)|**[link](https://github.com/adamshephard/tiager)**|
-|**2023-11-10**|**Automatic Report Generation for Histopathology images using pre-trained Vision Transformers**|Saurav Sengupta et.al.|[2311.06176](http://arxiv.org/abs/2311.06176)|null|
+|**2023-11-10**|**Automatic Report Generation for Histopathology images using pre-trained Vision Transformers**|Saurav Sengupta et.al.|[2311.06176](http://arxiv.org/abs/2311.06176)|**[link](https://github.com/ssen7/histo_cap_generation_2)**|
 |**2023-11-10**|**Time Scale Network: A Shallow Neural Network For Time Series Data**|Trevor Meyer et.al.|[2311.06170](http://arxiv.org/abs/2311.06170)|null|
 |**2023-11-10**|**Deep Fast Vision: A Python Library for Accelerated Deep Transfer Learning Vision Prototyping**|Fabi Prezja et.al.|[2311.06169](http://arxiv.org/abs/2311.06169)|**[link](https://github.com/fabprezja/deep-fast-vision)**|
 |**2023-11-10**|**Federated Learning Across Decentralized and Unshared Archives for Remote Sensing Image Classification**|Barış Büyüktaş et.al.|[2311.06141](http://arxiv.org/abs/2311.06141)|null|
@@ -3894,7 +3894,7 @@ layout: default
 |**2023-07-21**|**Deep Learning Hyperspectral Pansharpening on large scale PRISMA dataset**|Simone Zini et.al.|[2307.11666](http://arxiv.org/abs/2307.11666)|null|
 |**2023-07-21**|**OxfordTVG-HIC: Can Machine Make Humorous Captions from Images?**|Runjia Li et.al.|[2307.11636](http://arxiv.org/abs/2307.11636)|null|
 |**2023-07-21**|**Scalable Multi-agent Skill Discovery based on Kronecker Graphs**|Jiayu Chen et.al.|[2307.11629](http://arxiv.org/abs/2307.11629)|null|
-|**2023-07-21**|**Cascaded multitask U-Net using topological loss for vessel segmentation and centerline extraction**|Pierre Rougé et.al.|[2307.11603](http://arxiv.org/abs/2307.11603)|null|
+|**2023-07-21**|**Cascaded multitask U-Net using topological loss for vessel segmentation and centerline extraction**|Pierre Rougé et.al.|[2307.11603](http://arxiv.org/abs/2307.11603)|**[link](https://github.com/pierrerouge/cascaded-u-net-for-vessel-segmentation)**|
 |**2023-07-21**|**Transferability of Convolutional Neural Networks in Stationary Learning Tasks**|Damian Owerko et.al.|[2307.11588](http://arxiv.org/abs/2307.11588)|**[link](https://github.com/damowerko/mtt)**|
 |**2023-07-21**|**CortexMorph: fast cortical thickness estimation via diffeomorphic registration using VoxelMorph**|Richard McKinley et.al.|[2307.11567](http://arxiv.org/abs/2307.11567)|null|
 |**2023-07-21**|**Feature Map Testing for Deep Neural Networks**|Dong Huang et.al.|[2307.11563](http://arxiv.org/abs/2307.11563)|**[link](https://github.com/ase2023paper/deepfeature)**|
@@ -3945,7 +3945,7 @@ layout: default
 |**2023-07-14**|**Improved Convergence Analysis and SNR Control Strategies for Federated Learning in the Presence of Noise**|Antesh Upadhyay et.al.|[2307.07406](http://arxiv.org/abs/2307.07406)|null|
 |**2023-07-14**|**A scoping review on multimodal deep learning in biomedical images and texts**|Zhaoyi Sun et.al.|[2307.07362](http://arxiv.org/abs/2307.07362)|null|
 |**2023-07-14**|**From Multilayer Perceptron to GPT: A Reflection on Deep Learning Research for Wireless Physical Layer**|Mohamed Akrout et.al.|[2307.07359](http://arxiv.org/abs/2307.07359)|null|
-|**2023-07-14**|**SynTable: A Synthetic Data Generation Pipeline for Unseen Object Amodal Instance Segmentation of Cluttered Tabletop Scenes**|Zhili Ng et.al.|[2307.07333](http://arxiv.org/abs/2307.07333)|null|
+|**2023-07-14**|**SynTable: A Synthetic Data Generation Pipeline for Unseen Object Amodal Instance Segmentation of Cluttered Tabletop Scenes**|Zhili Ng et.al.|[2307.07333](http://arxiv.org/abs/2307.07333)|**[link](https://github.com/ngzhili/syntable)**|
 |**2023-07-14**|**Deep learning-based reduced order model for three-dimensional unsteady flow using mesh transformation and stitching**|Xin Li et.al.|[2307.07323](http://arxiv.org/abs/2307.07323)|null|
 |**2023-07-14**|**Solving higher-order Lane-Emden-Fowler type equations using physics-informed neural networks: benchmark tests comparing soft and hard constraints**|Hubert Baty et.al.|[2307.07302](http://arxiv.org/abs/2307.07302)|**[link](https://github.com/hubertbaty/pinns-lebis)**|
 |**2023-07-14**|**3D Shape-Based Myocardial Infarction Prediction Using Point Cloud Classification Networks**|Marcel Beetz et.al.|[2307.07298](http://arxiv.org/abs/2307.07298)|null|
@@ -4396,7 +4396,7 @@ layout: default
 |**2023-05-09**|**Metric Space Magnitude and Generalisation in Neural Networks**|Rayna Andreeva et.al.|[2305.05611](http://arxiv.org/abs/2305.05611)|null|
 |**2023-05-09**|**Can point cloud networks learn statistical shape models of anatomies?**|Jadie Adams et.al.|[2305.05610](http://arxiv.org/abs/2305.05610)|**[link](https://github.com/jadie1/pointcompletionssm)**|
 |**2023-05-09**|**Deep Learning and Geometric Deep Learning: an introduction for mathematicians and physicists**|R. Fioresi et.al.|[2305.05601](http://arxiv.org/abs/2305.05601)|null|
-|**2023-05-09**|**RMES: Real-Time Micro-Expression Spotting Using Phase From Riesz Pyramid**|Yini Fang et.al.|[2305.05523](http://arxiv.org/abs/2305.05523)|null|
+|**2023-05-09**|**RMES: Real-Time Micro-Expression Spotting Using Phase From Riesz Pyramid**|Yini Fang et.al.|[2305.05523](http://arxiv.org/abs/2305.05523)|**[link](https://github.com/fangyini/rmes)**|
 |**2023-05-09**|**BadCS: A Backdoor Attack Framework for Code search**|Shiyi Qi et.al.|[2305.05503](http://arxiv.org/abs/2305.05503)|null|
 |**2023-05-09**|**Graph Neural Networks for Airfoil Design**|Florent Bonnet et.al.|[2305.05469](http://arxiv.org/abs/2305.05469)|null|
 |**2023-05-09**|**3DInvNet: A Deep Learning-Based 3D Ground-Penetrating Radar Data Inversion**|Qiqi Dai et.al.|[2305.05425](http://arxiv.org/abs/2305.05425)|**[link](https://github.com/qiqi-dai/3dinvnet)**|
