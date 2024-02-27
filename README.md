@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-25**|**VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**|Xudong Cai et.al.|[2402.15961](http://arxiv.org/abs/2402.15961)|**[link](https://github.com/master-cai/voloc)**|
 |**2024-02-22**|**Secure Navigation using Landmark-based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2402.14280](http://arxiv.org/abs/2402.14280)|null|
 |**2024-02-19**|**Landmark-based Localization using Stereo Vision and Deep Learning in GPS-Denied Battlefield Environment**|Ganesh Sapkota et.al.|[2402.12551](http://arxiv.org/abs/2402.12551)|null|
 |**2024-02-07**|**Online and Certifiably Correct Visual Odometry and Mapping**|Devansh R Agrawal et.al.|[2402.05254](http://arxiv.org/abs/2402.05254)|null|
@@ -569,6 +570,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-25**|**Deep Homography Estimation for Visual Place Recognition**|Feng Lu et.al.|[2402.16086](http://arxiv.org/abs/2402.16086)|**[link](https://github.com/lu-feng/dhe-vpr)**|
+|**2024-02-25**|**VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**|Xudong Cai et.al.|[2402.15961](http://arxiv.org/abs/2402.15961)|**[link](https://github.com/master-cai/voloc)**|
 |**2024-02-23**|**Text2Pic Swift: Enhancing Long-Text to Image Retrieval for Large-Scale Libraries**|Zijun Long et.al.|[2402.15276](http://arxiv.org/abs/2402.15276)|null|
 |**2024-02-23**|**Fine-tuning CLIP Text Encoders with Two-step Paraphrasing**|Hyunjae Kim et.al.|[2402.15120](http://arxiv.org/abs/2402.15120)|null|
 |**2024-02-22**|**Towards Seamless Adaptation of Pre-trained Models for Visual Place Recognition**|Feng Lu et.al.|[2402.14505](http://arxiv.org/abs/2402.14505)|**[link](https://github.com/Lu-Feng/SelaVPR)**|
@@ -1237,9 +1240,9 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-02-22**|**A Self-supervised Pressure Map human keypoint Detection Approch: Optimizing Generalization and Computational Efficiency Across Datasets**|Chengzhang Yu et.al.|[2402.14241](http://arxiv.org/abs/2402.14241)|null|
-|**2024-02-21**|**A Feature Matching Method Based on Multi-Level Refinement Strategy**|Shaojie Zhang et.al.|[2402.13488](http://arxiv.org/abs/2402.13488)|null|
-|**2024-02-20**|**3D Kinematics Estimation from Video with a Biomechanical Model and Synthetic Training Data**|Zhi-Yi Lin et.al.|[2402.13172](http://arxiv.org/abs/2402.13172)|null|
-|**2024-02-18**|**Region Feature Descriptor Adapted to High Affine Transformations**|Shaojie Zhang et.al.|[2402.09724](http://arxiv.org/abs/2402.09724)|null|
+|**2024-02-25**|**A Feature Matching Method Based on Multi-Level Refinement Strategy**|Shaojie Zhang et.al.|[2402.13488](http://arxiv.org/abs/2402.13488)|null|
+|**2024-02-26**|**3D Kinematics Estimation from Video with a Biomechanical Model and Synthetic Training Data**|Zhi-Yi Lin et.al.|[2402.13172](http://arxiv.org/abs/2402.13172)|null|
+|**2024-02-25**|**Region Feature Descriptor Adapted to High Affine Transformations**|Shaojie Zhang et.al.|[2402.09724](http://arxiv.org/abs/2402.09724)|null|
 |**2024-01-29**|**Reconstructing Close Human Interactions from Multiple Views**|Qing Shuai et.al.|[2401.16173](http://arxiv.org/abs/2401.16173)|**[link](https://github.com/zju3dv/closemocap)**|
 |**2024-01-17**|**To deform or not: treatment-aware longitudinal registration for breast DCE-MRI during neoadjuvant chemotherapy via unsupervised keypoints detection**|Luyi Han et.al.|[2401.09336](http://arxiv.org/abs/2401.09336)|**[link](https://github.com/fiy2w/treatment-aware-longitudinal-registration)**|
 |**2024-01-08**|**Flowmind2Digital: The First Comprehensive Flowmind Recognition and Conversion Approach**|Huanyu Liu et.al.|[2401.03742](http://arxiv.org/abs/2401.03742)|null|
@@ -1654,8 +1657,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-26**|**CMC: Few-shot Novel View Synthesis via Cross-view Multiplane Consistency**|Hanxin Zhu et.al.|[2402.16407](http://arxiv.org/abs/2402.16407)|null|
+|**2024-02-26**|**SPC-NeRF: Spatial Predictive Compression for Voxel Based Radiance Field**|Zetian Song et.al.|[2402.16366](http://arxiv.org/abs/2402.16366)|null|
+|**2024-02-26**|**DreamUp3D: Object-Centric Generative Models for Single-View 3D Scene Understanding and Real-to-Sim Transfer**|Yizhe Wu et.al.|[2402.16308](http://arxiv.org/abs/2402.16308)|null|
 |**2024-02-22**|**Consolidating Attention Features for Multi-view Image Editing**|Or Patashnik et.al.|[2402.14792](http://arxiv.org/abs/2402.14792)|null|
-|**2024-02-22**|**FrameNeRF: A Simple and Efficient Framework for Few-shot Novel View Synthesis**|Yan Xing et.al.|[2402.14586](http://arxiv.org/abs/2402.14586)|null|
+|**2024-02-26**|**FrameNeRF: A Simple and Efficient Framework for Few-shot Novel View Synthesis**|Yan Xing et.al.|[2402.14586](http://arxiv.org/abs/2402.14586)|null|
 |**2024-02-22**|**NeRF-Det++: Incorporating Semantic Cues and Perspective-aware Depth Supervision for Indoor Multi-View 3D Detection**|Chenxi Huang et.al.|[2402.14464](http://arxiv.org/abs/2402.14464)|**[link](https://github.com/mrsempress/nerf-detplusplus)**|
 |**2024-02-22**|**TaylorGrid: Towards Fast and High-Quality Implicit Field Learning via Direct Taylor-based Grid Optimization**|Renyi Mao et.al.|[2402.14415](http://arxiv.org/abs/2402.14415)|null|
 |**2024-02-22**|**Mip-Grid: Anti-aliased Grid Representations for Neural Radiance Fields**|Seungtae Nam et.al.|[2402.14196](http://arxiv.org/abs/2402.14196)|null|
@@ -2471,6 +2477,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-26**|**Beyond Accuracy: An Empirical Study on Unit Testing in Open-source Deep Learning Projects**|Han Wang et.al.|[2402.16546](http://arxiv.org/abs/2402.16546)|null|
+|**2024-02-26**|**Photonic Neural Network Fabricated on Thin Film Lithium Niobate for High-Fidelity and Power-Efficient Matrix Computation**|Yong Zheng et.al.|[2402.16513](http://arxiv.org/abs/2402.16513)|null|
+|**2024-02-26**|**Self Supervised Correlation-based Permutations for Multi-View Clustering**|Ran Eisenberg et.al.|[2402.16383](http://arxiv.org/abs/2402.16383)|null|
+|**2024-02-26**|**SPINEPS -- Automatic Whole Spine Segmentation of T2-weighted MR images using a Two-Phase Approach to Multi-class Semantic and Instance Segmentation**|Hendrik Möller et.al.|[2402.16368](http://arxiv.org/abs/2402.16368)|**[link](https://github.com/hendrik-code/spineps)**|
+|**2024-02-26**|**Deep Rating Elicitation for New Users in Collaborative Filtering**|Wonbin Kweon et.al.|[2402.16327](http://arxiv.org/abs/2402.16327)|**[link](https://github.com/wonbinkweon/dre_www2020)**|
+|**2024-02-26**|**MV-Swin-T: Mammogram Classification with Multi-view Swin Transformer**|Sushmita Sarker et.al.|[2402.16298](http://arxiv.org/abs/2402.16298)|**[link](https://github.com/prithuls/mv-swin-t)**|
+|**2024-02-26**|**A Comparison of Deep Learning Models for Proton Background Rejection with the AMS Electromagnetic Calorimeter**|Raheem Karim Hashmani et.al.|[2402.16285](http://arxiv.org/abs/2402.16285)|null|
+|**2024-02-26**|**Pre-merger detection of massive black hole binaries using deep learning**|Wen-Hong Ruan et.al.|[2402.16282](http://arxiv.org/abs/2402.16282)|null|
+|**2024-02-26**|**Few-Shot Learning for Annotation-Efficient Nucleus Instance Segmentation**|Yu Ming et.al.|[2402.16280](http://arxiv.org/abs/2402.16280)|null|
+|**2024-02-26**|**Infrared and visible Image Fusion with Language-driven Loss in CLIP Embedding Space**|Yuhao Wang et.al.|[2402.16267](http://arxiv.org/abs/2402.16267)|null|
 |**2024-02-23**|**A Comprehensive Survey of Convolutions in Deep Learning: Applications, Challenges, and Future Trends**|Abolfazl Younesi et.al.|[2402.15490](http://arxiv.org/abs/2402.15490)|null|
 |**2024-02-23**|**Computer Vision for Multimedia Geolocation in Human Trafficking Investigation: A Systematic Literature Review**|Opeyemi Bamigbade et.al.|[2402.15448](http://arxiv.org/abs/2402.15448)|null|
 |**2024-02-23**|**Hierarchical Invariance for Robust and Interpretable Vision Tasks at Larger Scales**|Shuren Qi et.al.|[2402.15430](http://arxiv.org/abs/2402.15430)|**[link](https://github.com/shurenqi/hir)**|
