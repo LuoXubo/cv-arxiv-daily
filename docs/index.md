@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.27
+## Updated on 2024.02.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2466,6 +2466,8 @@ layout: default
 |**2024-02-26**|**Pre-merger detection of massive black hole binaries using deep learning**|Wen-Hong Ruan et.al.|[2402.16282](http://arxiv.org/abs/2402.16282)|null|
 |**2024-02-26**|**Few-Shot Learning for Annotation-Efficient Nucleus Instance Segmentation**|Yu Ming et.al.|[2402.16280](http://arxiv.org/abs/2402.16280)|null|
 |**2024-02-26**|**Infrared and visible Image Fusion with Language-driven Loss in CLIP Embedding Space**|Yuhao Wang et.al.|[2402.16267](http://arxiv.org/abs/2402.16267)|null|
+|**2024-02-26**|**Real-Time Vehicle Detection and Urban Traffic Behavior Analysis Based on UAV Traffic Videos on Mobile Devices**|Yuan Zhu et.al.|[2402.16246](http://arxiv.org/abs/2402.16246)|null|
+|**2024-02-26**|**Two mass-imbalanced atoms in a hard-wall trap: Deep learning integrability of many-body systems**|Liheng Lang et.al.|[2402.16244](http://arxiv.org/abs/2402.16244)|null|
 |**2024-02-23**|**A Comprehensive Survey of Convolutions in Deep Learning: Applications, Challenges, and Future Trends**|Abolfazl Younesi et.al.|[2402.15490](http://arxiv.org/abs/2402.15490)|null|
 |**2024-02-23**|**Computer Vision for Multimedia Geolocation in Human Trafficking Investigation: A Systematic Literature Review**|Opeyemi Bamigbade et.al.|[2402.15448](http://arxiv.org/abs/2402.15448)|null|
 |**2024-02-23**|**Hierarchical Invariance for Robust and Interpretable Vision Tasks at Larger Scales**|Shuren Qi et.al.|[2402.15430](http://arxiv.org/abs/2402.15430)|**[link](https://github.com/shurenqi/hir)**|
