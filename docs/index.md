@@ -2472,7 +2472,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-02-29**|**Probing the Information Encoded in Neural-based Acoustic Models of Automatic Speech Recognition Systems**|Quentin Raymondaud et.al.|[2402.19443](http://arxiv.org/abs/2402.19443)|null|
-|**2024-02-29**|**Digital Twin Aided Massive MIMO: CSI Compression and Feedback**|Shuaifeng Jiang et.al.|[2402.19434](http://arxiv.org/abs/2402.19434)|null|
+|**2024-03-01**|**Digital Twin Aided Massive MIMO: CSI Compression and Feedback**|Shuaifeng Jiang et.al.|[2402.19434](http://arxiv.org/abs/2402.19434)|null|
 |**2024-02-29**|**OzMAC: An Energy-Efficient Sparsity-Exploiting Multiply-Accumulate-Unit Design for DL Inference**|Harideep Nair et.al.|[2402.19376](http://arxiv.org/abs/2402.19376)|null|
 |**2024-02-29**|**SoK: Exploring the Potential of Large Language Models for Improving Digital Forensic Investigation Efficiency**|Akila Wickramasekara et.al.|[2402.19366](http://arxiv.org/abs/2402.19366)|null|
 |**2024-02-29**|**Deep Learning for Cross-Domain Data Fusion in Urban Computing: Taxonomy, Advances, and Outlook**|Xingchen Zou et.al.|[2402.19348](http://arxiv.org/abs/2402.19348)|**[link](https://github.com/yoshall/awesome-multimodal-urban-computing)**|
