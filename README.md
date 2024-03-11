@@ -1741,7 +1741,7 @@
 |**2024-01-30**|**Physical Priors Augmented Event-Based 3D Reconstruction**|Jiaxu Wang et.al.|[2401.17121](http://arxiv.org/abs/2401.17121)|**[link](https://github.com/mercerai/paev3d)**|
 |**2024-01-31**|**Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416](http://arxiv.org/abs/2401.16416)|null|
 |**2024-01-29**|**Divide and Conquer: Rethinking the Training Paradigm of Neural Radiance Fields**|Rongkai Ma et.al.|[2401.16144](http://arxiv.org/abs/2401.16144)|null|
-|**2024-01-26**|**3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**|Zhenyu Bao et.al.|[2401.14726](http://arxiv.org/abs/2401.14726)|null|
+|**2024-01-26**|**3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**|Zhenyu Bao et.al.|[2401.14726](http://arxiv.org/abs/2401.14726)|**[link](https://github.com/pcl3dv/dunerf)**|
 |**2024-01-25**|**Learning Robust Generalizable Radiance Field with Visibility and Feature Augmented Point Representation**|Jiaxu Wang et.al.|[2401.14354](http://arxiv.org/abs/2401.14354)|null|
 |**2024-01-27**|**Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation**|Minglin Chen et.al.|[2401.14257](http://arxiv.org/abs/2401.14257)|null|
 |**2024-01-24**|**EndoGaussians: Single View Dynamic Gaussian Splatting for Deformable Endoscopic Tissues Reconstruction**|Yangsen Chen et.al.|[2401.13352](http://arxiv.org/abs/2401.13352)|null|
@@ -2530,7 +2530,7 @@
 |**2024-03-06**|**Redefining cystoscopy with ai: bladder cancer diagnosis using an efficient hybrid cnn-transformer model**|Meryem Amaouche et.al.|[2403.03879](http://arxiv.org/abs/2403.03879)|null|
 |**2024-03-06**|**Temporal Enhanced Floating Car Observers**|Jeremias Gerner et.al.|[2403.03825](http://arxiv.org/abs/2403.03825)|null|
 |**2024-03-07**|**Identifying Black Holes Through Space Telescopes and Deep Learning**|Yeqi Fang et.al.|[2403.03821](http://arxiv.org/abs/2403.03821)|null|
-|**2024-03-06**|**Predicting the Temperature Dependence of Surfactant CMCs Using Graph Neural Networks**|Christoforos Brozos et.al.|[2403.03767](http://arxiv.org/abs/2403.03767)|null|
+|**2024-03-06**|**Predicting the Temperature Dependence of Surfactant CMCs Using Graph Neural Networks**|Christoforos Brozos et.al.|[2403.03767](http://arxiv.org/abs/2403.03767)|**[link](https://github.com/brozosc/predicting-the-temperature-dependence-of-surfactant-cmcs-using-graph-neural-networks)**|
 |**2024-03-06**|**MolNexTR: A Generalized Deep Learning Model for Molecular Image Recognition**|Yufan Chen et.al.|[2403.03691](http://arxiv.org/abs/2403.03691)|**[link](https://github.com/cyf2000127/molnextr)**|
 |**2024-03-06**|**Application of Deep Learning Reduced-Order Modeling for Single-Phase Flow in Faulted Porous Media**|Enrico Ballini et.al.|[2403.03678](http://arxiv.org/abs/2403.03678)|null|
 |**2024-03-06**|**Comparison Performance of Spectrogram and Scalogram as Input of Acoustic Recognition Task**|Dang Thoai Phan et.al.|[2403.03611](http://arxiv.org/abs/2403.03611)|null|
@@ -2555,7 +2555,7 @@
 |**2024-03-02**|**MPIPN: A Multi Physics-Informed PointNet for solving parametric acoustic-structure systems**|Chu Wang et.al.|[2403.01132](http://arxiv.org/abs/2403.01132)|null|
 |**2024-03-02**|**Dynamic 3D Point Cloud Sequences as 2D Videos**|Yiming Zeng et.al.|[2403.01129](http://arxiv.org/abs/2403.01129)|null|
 |**2024-03-02**|**Low Complexity Deep Learning Augmented Wireless Channel Estimation for Pilot-Based OFDM on Zynq System on Chip**|Animesh Sharma et.al.|[2403.01098](http://arxiv.org/abs/2403.01098)|null|
-|**2024-03-02**|**Inevitable-Metaverse: A Novel Twitter Dataset for Public Sentiments on Metaverse**|Kadhim Hayawi et.al.|[2403.01095](http://arxiv.org/abs/2403.01095)|null|
+|**2024-03-02**|**Inevitable-Metaverse: A Novel Twitter Dataset for Public Sentiments on Metaverse**|Kadhim Hayawi et.al.|[2403.01095](http://arxiv.org/abs/2403.01095)|**[link](https://github.com/sakibshahriar95/metaverse)**|
 |**2024-02-29**|**Probing the Information Encoded in Neural-based Acoustic Models of Automatic Speech Recognition Systems**|Quentin Raymondaud et.al.|[2402.19443](http://arxiv.org/abs/2402.19443)|null|
 |**2024-03-01**|**Digital Twin Aided Massive MIMO: CSI Compression and Feedback**|Shuaifeng Jiang et.al.|[2402.19434](http://arxiv.org/abs/2402.19434)|null|
 |**2024-02-29**|**OzMAC: An Energy-Efficient Sparsity-Exploiting Multiply-Accumulate-Unit Design for DL Inference**|Harideep Nair et.al.|[2402.19376](http://arxiv.org/abs/2402.19376)|null|
@@ -2575,7 +2575,7 @@
 |**2024-02-28**|**Comparative Analysis of XGBoost and Minirocket Algortihms for Human Activity Recognition**|Celal Alagoz et.al.|[2402.18296](http://arxiv.org/abs/2402.18296)|null|
 |**2024-02-28**|**PiShield: A NeSy Framework for Learning with Requirements**|Mihaela Cătălina Stoian et.al.|[2402.18285](http://arxiv.org/abs/2402.18285)|**[link](https://github.com/mihaela-stoian/pishield)**|
 |**2024-02-28**|**Image2Flow: A hybrid image and graph convolutional neural network for rapid patient-specific pulmonary artery segmentation and CFD flow field calculation from 3D cardiac MRI data**|Tina Yao et.al.|[2402.18236](http://arxiv.org/abs/2402.18236)|null|
-|**2024-02-28**|**Misalignment-Robust Frequency Distribution Loss for Image Transformation**|Zhangkai Ni et.al.|[2402.18192](http://arxiv.org/abs/2402.18192)|null|
+|**2024-02-28**|**Misalignment-Robust Frequency Distribution Loss for Image Transformation**|Zhangkai Ni et.al.|[2402.18192](http://arxiv.org/abs/2402.18192)|**[link](https://github.com/eezkni/fdl)**|
 |**2024-02-27**|**LoDIP: Low light phase retrieval with deep image prior**|Raunak Manekar et.al.|[2402.17745](http://arxiv.org/abs/2402.17745)|null|
 |**2024-02-27**|**Real-time Low-latency Music Source Separation using Hybrid Spectrogram-TasNet**|Satvik Venkatesh et.al.|[2402.17701](http://arxiv.org/abs/2402.17701)|null|
 |**2024-02-27**|**Geometric Deep Learning for Computer-Aided Design: A Survey**|Negar Heidari et.al.|[2402.17695](http://arxiv.org/abs/2402.17695)|null|
@@ -2708,7 +2708,7 @@
 |**2024-02-09**|**Maia: A Real-time Non-Verbal Chat for Human-AI Interaction**|Dragos Costea et.al.|[2402.06385](http://arxiv.org/abs/2402.06385)|null|
 |**2024-02-09**|**Multisource Semisupervised Adversarial Domain Generalization Network for Cross-Scene Sea\textendash Land Clutter Classification**|Xiaoxuan Zhang et.al.|[2402.06315](http://arxiv.org/abs/2402.06315)|null|
 |**2024-02-09**|**A plastic correction algorithm for full-field elasto-plastic finite element simulations : critical assessment of predictive capabilities and improvement by machine learning**|Abhishek Palchoudhary et.al.|[2402.06313](http://arxiv.org/abs/2402.06313)|null|
-|**2024-02-08**|**YOLO-CIANNA: Galaxy detection with deep learning in radio data. I. A new YOLO-inspired source detection method applied to the SKAO SDC1**|D. Cornu et.al.|[2402.05925](http://arxiv.org/abs/2402.05925)|null|
+|**2024-02-08**|**YOLO-CIANNA: Galaxy detection with deep learning in radio data. I. A new YOLO-inspired source detection method applied to the SKAO SDC1**|D. Cornu et.al.|[2402.05925](http://arxiv.org/abs/2402.05925)|**[link](https://github.com/deyht/cianna)**|
 |**2024-02-08**|**Jacquard V2: Refining Datasets using the Human In the Loop Data Correction Method**|Qiuhao Li et.al.|[2402.05747](http://arxiv.org/abs/2402.05747)|null|
 |**2024-02-08**|**Dual-modal Tactile E-skin: Enabling Bidirectional Human-Robot Interaction via Integrated Tactile Perception and Feedback**|Shilong Mu et.al.|[2402.05725](http://arxiv.org/abs/2402.05725)|null|
 |**2024-02-08**|**Hidden in Plain Sight: Undetectable Adversarial Bias Attacks on Vulnerable Patient Populations**|Pranav Kulkarni et.al.|[2402.05713](http://arxiv.org/abs/2402.05713)|**[link](https://github.com/um2ii/hiddeninplainsight)**|
@@ -2927,7 +2927,7 @@
 |**2024-01-09**|**DepressionEmo: A novel dataset for multilabel classification of depression emotions**|Abu Bakar Siddiqur Rahman et.al.|[2401.04655](http://arxiv.org/abs/2401.04655)|**[link](https://github.com/abubakarsiddiqurrahman/depressionemo)**|
 |**2024-01-09**|**Generic Knowledge Boosted Pre-training For Remote Sensing Images**|Ziyue Huang et.al.|[2401.04614](http://arxiv.org/abs/2401.04614)|**[link](https://github.com/floatingstarZ/GeRSP)**|
 |**2024-01-09**|**An Assessment on Comprehending Mental Health through Large Language Models**|Mihael Arcan et.al.|[2401.04592](http://arxiv.org/abs/2401.04592)|null|
-|**2024-01-09**|**Phase-shifted remote photoplethysmography for estimating heart rate and blood pressure from facial video**|Gyutae Hwang et.al.|[2401.04560](http://arxiv.org/abs/2401.04560)|null|
+|**2024-01-09**|**Phase-shifted remote photoplethysmography for estimating heart rate and blood pressure from facial video**|Gyutae Hwang et.al.|[2401.04560](http://arxiv.org/abs/2401.04560)|**[link](https://github.com/gyutaehwang/phase_shifted_rppg)**|
 |**2024-01-09**|**WaveletFormerNet: A Transformer-based Wavelet Network for Real-world Non-homogeneous and Dense Fog Removal**|Shengli Zhang et.al.|[2401.04550](http://arxiv.org/abs/2401.04550)|null|
 |**2024-01-09**|**Data-driven Nonlinear Model Reduction using Koopman Theory: Integrated Control Form and NMPC Case Study**|Jan C. Schulze et.al.|[2401.04508](http://arxiv.org/abs/2401.04508)|null|
 |**2024-01-09**|**TwinBooster: Synergising Large Language Models with Barlow Twins and Gradient Boosting for Enhanced Molecular Property Prediction**|Maximilian G. Schuh et.al.|[2401.04478](http://arxiv.org/abs/2401.04478)|**[link](https://github.com/maxischuh/twinbooster)**|
@@ -4196,7 +4196,7 @@
 |**2023-06-30**|**An Integrated FPGA Accelerator for Deep Learning-based 2D/3D Path Planning**|Keisuke Sugiura et.al.|[2306.17625](http://arxiv.org/abs/2306.17625)|null|
 |**2023-06-30**|**Comparing Algorithm Selection Approaches on Black-Box Optimization Problems**|Ana Kostovska et.al.|[2306.17585](http://arxiv.org/abs/2306.17585)|null|
 |**2023-06-30**|**Mass and tidal parameter extraction from gravitational waves of binary neutron stars mergers using deep learning**|Shriya Soma et.al.|[2306.17488](http://arxiv.org/abs/2306.17488)|null|
-|**2023-06-30**|**Multigrid-Augmented Deep Learning for the Helmholtz Equation: Better Scalability with Compact Implicit Layers**|Bar Lerer et.al.|[2306.17486](http://arxiv.org/abs/2306.17486)|null|
+|**2023-06-30**|**Multigrid-Augmented Deep Learning for the Helmholtz Equation: Better Scalability with Compact Implicit Layers**|Bar Lerer et.al.|[2306.17486](http://arxiv.org/abs/2306.17486)|**[link](https://github.com/bgucompsci/compactimplicithelmholtz)**|
 |**2023-06-30**|**Beyond-Voice: Towards Continuous 3D Hand Pose Tracking on Commercial Home Assistant Devices**|Yin Li et.al.|[2306.17477](http://arxiv.org/abs/2306.17477)|null|
 |**2023-06-30**|**Manga109Dialog A Large-scale Dialogue Dataset for Comics Speaker Detection**|Yingxuan Li et.al.|[2306.17469](http://arxiv.org/abs/2306.17469)|**[link](https://github.com/manga109/public-annotations)**|
 |**2023-06-30**|**Color Learning for Image Compression**|Srivatsa Prativadibhayankaram et.al.|[2306.17460](http://arxiv.org/abs/2306.17460)|null|
@@ -4220,7 +4220,7 @@
 |**2023-06-28**|**Point2Point : A Framework for Efficient Deep Learning on Hilbert sorted Point Clouds with applications in Spatio-Temporal Occupancy Prediction**|Athrva Atul Pandhare et.al.|[2306.16306](http://arxiv.org/abs/2306.16306)|null|
 |**2023-06-28**|**Generalizing Surgical Instruments Segmentation to Unseen Domains with One-to-Many Synthesis**|An Wang et.al.|[2306.16285](http://arxiv.org/abs/2306.16285)|**[link](https://github.com/lofrienger/onetomany_toolsynseg)**|
 |**2023-06-28**|**Deep Unfolded Simulated Bifurcation for Massive MIMO Signal Detection**|Satoshi Takabe et.al.|[2306.16264](http://arxiv.org/abs/2306.16264)|**[link](https://github.com/s-takabe/unfolded_simbif)**|
-|**2023-06-28**|**SE-PQA: Personalized Community Question Answering**|Pranav Kasela et.al.|[2306.16261](http://arxiv.org/abs/2306.16261)|null|
+|**2023-06-28**|**SE-PQA: Personalized Community Question Answering**|Pranav Kasela et.al.|[2306.16261](http://arxiv.org/abs/2306.16261)|**[link](https://github.com/pkasela/se-pqa)**|
 |**2023-06-27**|**SparseOptimizer: Sparsify Language Models through Moreau-Yosida Regularization and Accelerate through Compiler Co-design**|Fu-Ming Guo et.al.|[2306.15656](http://arxiv.org/abs/2306.15656)|null|
 |**2023-06-27**|**Rethinking Cross-Entropy Loss for Stereo Matching Networks**|Peng Xu et.al.|[2306.15612](http://arxiv.org/abs/2306.15612)|null|
 |**2023-06-27**|**Deep Normalizing Flows for State Estimation**|Harrison Delecki et.al.|[2306.15605](http://arxiv.org/abs/2306.15605)|**[link](https://github.com/sisl/deepnfstateestimation)**|
