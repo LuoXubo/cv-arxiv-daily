@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.14
+## Updated on 2024.03.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2524,7 +2524,7 @@ layout: default
 |**2024-03-13**|**Deep Learning for In-Orbit Cloud Segmentation and Classification in Hyperspectral Satellite Data**|Daniel Kovac et.al.|[2403.08695](http://arxiv.org/abs/2403.08695)|null|
 |**2024-03-13**|**Self-Supervised Learning for Covariance Estimation**|Tzvi Diskin et.al.|[2403.08662](http://arxiv.org/abs/2403.08662)|null|
 |**2024-03-13**|**Leveraging Non-Decimated Wavelet Packet Features and Transformer Models for Time Series Forecasting**|Guy P Nason et.al.|[2403.08630](http://arxiv.org/abs/2403.08630)|null|
-|**2024-03-13**|**On the Convergence of Locally Adaptive and Scalable Diffusion-Based Sampling Methods for Deep Bayesian Neural Network Posteriors**|Tim Rensmeyer et.al.|[2403.08609](http://arxiv.org/abs/2403.08609)|null|
+|**2024-03-14**|**On the Convergence of Locally Adaptive and Scalable Diffusion-Based Sampling Methods for Deep Bayesian Neural Network Posteriors**|Tim Rensmeyer et.al.|[2403.08609](http://arxiv.org/abs/2403.08609)|null|
 |**2024-03-13**|**Patching-based Deep Learning model for the Inpainting of Bragg Coherent Diffraction patterns affected by detectors' gaps**|Matteo Masto et.al.|[2403.08596](http://arxiv.org/abs/2403.08596)|null|
 |**2024-03-13**|**Deep Learning based Positioning with Multi-task Learning and Uncertainty-based Fusion**|Anastasios Foliadis et.al.|[2403.08565](http://arxiv.org/abs/2403.08565)|null|
 |**2024-03-13**|**Distributed Deep Learning for Modulation Classification in 6G Cell-Free Wireless Networks**|Dieter Verbruggen et.al.|[2403.08563](http://arxiv.org/abs/2403.08563)|null|
