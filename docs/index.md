@@ -563,6 +563,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-25**|**Enhancing Visual Place Recognition via Fast and Slow Adaptive Biasing in Event Cameras**|Gokul B. Nair et.al.|[2403.16425](http://arxiv.org/abs/2403.16425)|null|
+|**2024-03-24**|**Knowledge-Enhanced Dual-stream Zero-shot Composed Image Retrieval**|Yucheng Suo et.al.|[2403.16005](http://arxiv.org/abs/2403.16005)|null|
+|**2024-03-24**|**BIMCV-R: A Landmark Dataset for 3D CT Text-Image Retrieval**|Yinda Chen et.al.|[2403.15992](http://arxiv.org/abs/2403.15992)|null|
 |**2024-03-22**|**Long-CLIP: Unlocking the Long-Text Capability of CLIP**|Beichen Zhang et.al.|[2403.15378](http://arxiv.org/abs/2403.15378)|null|
 |**2024-03-22**|**A Multimodal Approach for Cross-Domain Image Retrieval**|Lucas Iijima et.al.|[2403.15152](http://arxiv.org/abs/2403.15152)|null|
 |**2024-03-22**|**Piecewise-Linear Manifolds for Deep Metric Learning**|Shubhang Bhatnagar et.al.|[2403.14977](http://arxiv.org/abs/2403.14977)|null|
@@ -1486,6 +1489,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-23**|**MatchSeg: Towards Better Segmentation via Reference Image Matching**|Ruiqiang Xiao et.al.|[2403.15901](http://arxiv.org/abs/2403.15901)|**[link](https://github.com/keeplearning-again/matchseg)**|
 |**2024-03-20**|**Unifying Local and Global Multimodal Features for Place Recognition in Aliased and Low-Texture Environments**|Alberto García-Hernández et.al.|[2403.13395](http://arxiv.org/abs/2403.13395)|**[link](https://github.com/dlr-rm/umf)**|
 |**2024-03-19**|**HCPM: Hierarchical Candidates Pruning for Efficient Detector-Free Matching**|Ying Chen et.al.|[2403.12543](http://arxiv.org/abs/2403.12543)|null|
 |**2024-03-16**|**Refining Knowledge Transfer on Audio-Image Temporal Agreement for Audio-Text Cross Retrieval**|Shunsuke Tsubaki et.al.|[2403.10756](http://arxiv.org/abs/2403.10756)|null|
@@ -1699,6 +1703,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-25**|**Spike-NeRF: Neural Radiance Field Based On Spike Camera**|Yijia Guo et.al.|[2403.16410](http://arxiv.org/abs/2403.16410)|null|
+|**2024-03-24**|**Inverse Rendering of Glossy Objects via the Neural Plenoptic Function and Radiance Fields**|Haoyuan Wang et.al.|[2403.16224](http://arxiv.org/abs/2403.16224)|null|
+|**2024-03-24**|**Entity-NeRF: Detecting and Removing Moving Entities in Urban Scenes**|Takashi Otonari et.al.|[2403.16141](http://arxiv.org/abs/2403.16141)|null|
+|**2024-03-24**|**CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field**|Jiarui Hu et.al.|[2403.16095](http://arxiv.org/abs/2403.16095)|null|
+|**2024-03-24**|**Are NeRFs ready for autonomous driving? Towards closing the real-to-simulation gap**|Carl Lindström et.al.|[2403.16092](http://arxiv.org/abs/2403.16092)|null|
+|**2024-03-24**|**PKU-DyMVHumans: A Multi-View Video Benchmark for High-Fidelity Dynamic Human Modeling**|Xiaoyun Zheng et.al.|[2403.16080](http://arxiv.org/abs/2403.16080)|**[link](https://github.com/zhengxyun/PKU-DyMVHumans)**|
+|**2024-03-24**|**Semantic Is Enough: Only Semantic Information For NeRF Reconstruction**|Ruibo Wang et.al.|[2403.16043](http://arxiv.org/abs/2403.16043)|null|
+|**2024-03-24**|**Exploring Accurate 3D Phenotyping in Greenhouse through Neural Radiance Fields**|unhong Zhao et.al.|[2403.15981](http://arxiv.org/abs/2403.15981)|null|
+|**2024-03-23**|**DriveEnv-NeRF: Exploration of A NeRF-Based Autonomous Driving Environment for Real-World Performance Validation**|Mu-Yi Shen et.al.|[2403.15791](http://arxiv.org/abs/2403.15791)|null|
+|**2024-03-23**|**UPNeRF: A Unified Framework for Monocular 3D Object Reconstruction and Pose Estimation**|Yuliang Guo et.al.|[2403.15705](http://arxiv.org/abs/2403.15705)|null|
 |**2024-03-22**|**WSCLoc: Weakly-Supervised Sparse-View Camera Relocalization**|Jialu Wang et.al.|[2403.15272](http://arxiv.org/abs/2403.15272)|null|
 |**2024-03-21**|**Hyperspectral Neural Radiance Fields**|Gerry Chen et.al.|[2403.14839](http://arxiv.org/abs/2403.14839)|null|
 |**2024-03-21**|**ClusteringSDF: Self-Organized Neural Implicit Surfaces for 3D Decomposition**|Tianhao Wu et.al.|[2403.14619](http://arxiv.org/abs/2403.14619)|null|
@@ -2592,6 +2606,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-25**|**Assessing the Performance of Deep Learning for Automated Gleason Grading in Prostate Cancer**|Dominik Müller et.al.|[2403.16695](http://arxiv.org/abs/2403.16695)|null|
+|**2024-03-25**|**DeepGleason: a System for Automated Gleason Grading of Prostate Cancer using Deep Neural Networks**|Dominik Müller et.al.|[2403.16678](http://arxiv.org/abs/2403.16678)|**[link](https://github.com/frankkramer-lab/deepgleason)**|
+|**2024-03-25**|**Multi-Scale Texture Loss for CT denoising with GANs**|Francesco Di Feola et.al.|[2403.16640](http://arxiv.org/abs/2403.16640)|**[link](https://github.com/francescodifeola/denotextureloss)**|
+|**2024-03-25**|**Enhancing Industrial Transfer Learning with Style Filter: Cost Reduction and Defect-Focus**|Chen Li et.al.|[2403.16607](http://arxiv.org/abs/2403.16607)|null|
+|**2024-03-25**|**EDUE: Expert Disagreement-Guided One-Pass Uncertainty Estimation for Medical Image Segmentation**|Kudaibergen Abutalip et.al.|[2403.16594](http://arxiv.org/abs/2403.16594)|null|
+|**2024-03-25**|**In the Search for Optimal Multi-view Learning Models for Crop Classification with Global Remote Sensing Data**|Francisco Mena et.al.|[2403.16582](http://arxiv.org/abs/2403.16582)|null|
+|**2024-03-25**|**PE: A Poincare Explanation Method for Fast Text Hierarchy Generation**|Qian Chen et.al.|[2403.16554](http://arxiv.org/abs/2403.16554)|**[link](https://github.com/qq31415926/pe)**|
+|**2024-03-25**|**ModeTv2: GPU-accelerated Motion Decomposition Transformer for Pairwise Optimization in Medical Image Registration**|Haiqiao Wang et.al.|[2403.16526](http://arxiv.org/abs/2403.16526)|**[link](https://github.com/zax130/modetv2)**|
+|**2024-03-25**|**Deep Learning Based Measure of Name Concentration Risk**|Eva Lütkebohmert et.al.|[2403.16525](http://arxiv.org/abs/2403.16525)|null|
+|**2024-03-25**|**Return to Tradition: Learning Reliable Heuristics with Classical Machine Learning**|Dillon Z. Chen et.al.|[2403.16508](http://arxiv.org/abs/2403.16508)|null|
 |**2024-03-22**|**Learning Topological Representations for Deep Image Understanding**|Xiaoling Hu et.al.|[2403.15361](http://arxiv.org/abs/2403.15361)|null|
 |**2024-03-22**|**CO-Fun: A German Dataset on Company Outsourcing in Fund Prospectuses for Named Entity Recognition and Relation Extraction**|Neda Foroutan et.al.|[2403.15322](http://arxiv.org/abs/2403.15322)|null|
 |**2024-03-22**|**Global Control for Local SO(3)-Equivariant Scale-Invariant Vessel Segmentation**|Patryk Rygiel et.al.|[2403.15314](http://arxiv.org/abs/2403.15314)|null|
