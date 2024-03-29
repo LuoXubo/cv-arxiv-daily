@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.28
+## Updated on 2024.03.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2621,7 +2621,7 @@ layout: default
 |**2024-03-27**|**Is Modularity Transferable? A Case Study through the Lens of Knowledge Distillation**|Mateusz Klimaszewski et.al.|[2403.18804](http://arxiv.org/abs/2403.18804)|null|
 |**2024-03-27**|**Peregrine: ML-based Malicious Traffic Detection for Terabit Networks**|João Romeiras Amado et.al.|[2403.18788](http://arxiv.org/abs/2403.18788)|null|
 |**2024-03-27**|**Detection of subclinical atherosclerosis by image-based deep learning on chest x-ray**|Guglielmo Gallone et.al.|[2403.18756](http://arxiv.org/abs/2403.18756)|null|
-|**2024-03-27**|**Many-Objective Evolutionary Influence Maximization: Balancing Spread, Budget, Fairness, and Time**|Elia Cunegatti et.al.|[2403.18755](http://arxiv.org/abs/2403.18755)|null|
+|**2024-03-28**|**Many-Objective Evolutionary Influence Maximization: Balancing Spread, Budget, Fairness, and Time**|Elia Cunegatti et.al.|[2403.18755](http://arxiv.org/abs/2403.18755)|**[link](https://github.com/eliacunegatti/moeim)**|
 |**2024-03-27**|**A vascular synthetic model for improved aneurysm segmentation and detection via Deep Neural Networks**|Rafic Nader et.al.|[2403.18734](http://arxiv.org/abs/2403.18734)|null|
 |**2024-03-27**|**Phasing segmented telescopes via deep learning methods: application to a deployable CubeSat**|Maxime Dumont et.al.|[2403.18712](http://arxiv.org/abs/2403.18712)|null|
 |**2024-03-27**|**Deep Learning for Traffic Flow Prediction using Cellular Automata-based Model and CNN-LSTM architecture**|Zhaohui Yang et.al.|[2403.18710](http://arxiv.org/abs/2403.18710)|null|
