@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.29
+## Updated on 2024.03.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2625,7 +2625,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-28**|**GrINd: Grid Interpolation Network for Scattered Observations**|Andrzej Dulny et.al.|[2403.19570](http://arxiv.org/abs/2403.19570)|null|
-|**2024-03-28**|**Debiasing Cardiac Imaging with Controlled Latent Diffusion Models**|Grzegorz Skorupko et.al.|[2403.19508](http://arxiv.org/abs/2403.19508)|null|
+|**2024-03-28**|**Debiasing Cardiac Imaging with Controlled Latent Diffusion Models**|Grzegorz Skorupko et.al.|[2403.19508](http://arxiv.org/abs/2403.19508)|**[link](https://github.com/faildeny/debiasing-cardiac-mri)**|
 |**2024-03-28**|**Deep decomposition method for the limited aperture inverse obstacle scattering problem**|Yunwen Yin et.al.|[2403.19470](http://arxiv.org/abs/2403.19470)|null|
 |**2024-03-28**|**Quantitatively rating galaxy simulations against real observations with anomaly detection**|Zehao Jin et.al.|[2403.19464](http://arxiv.org/abs/2403.19464)|null|
 |**2024-03-28**|**Transparent and Clinically Interpretable AI for Lung Cancer Detection in Chest X-Rays**|Amy Rafferty et.al.|[2403.19444](http://arxiv.org/abs/2403.19444)|null|
