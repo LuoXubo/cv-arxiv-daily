@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.03
+## Updated on 2024.04.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2662,7 +2662,7 @@ layout: default
 |**2024-04-02**|**Towards Leveraging AutoML for Sustainable Deep Learning: A Multi-Objective HPO Approach on Deep Shift Neural Networks**|Leona Hennig et.al.|[2404.01965](http://arxiv.org/abs/2404.01965)|null|
 |**2024-04-02**|**Automatic Wood Pith Detector: Local Orientation Estimation and Robust Accumulation**|Henry Marichal et.al.|[2404.01952](http://arxiv.org/abs/2404.01952)|**[link](https://github.com/hmarichal93/apd)**|
 |**2024-04-02**|**Synthetic Data for Robust Stroke Segmentation**|Liam Chalcroft et.al.|[2404.01946](http://arxiv.org/abs/2404.01946)|**[link](https://github.com/liamchalcroft/synthstroke)**|
-|**2024-04-02**|**Real, fake and synthetic faces - does the coin have three sides?**|Shahzeb Naeem et.al.|[2404.01878](http://arxiv.org/abs/2404.01878)|null|
+|**2024-04-02**|**Real, fake and synthetic faces -- does the coin have three sides?**|Shahzeb Naeem et.al.|[2404.01878](http://arxiv.org/abs/2404.01878)|null|
 |**2024-04-02**|**Spectral Map: Embedding Slow Kinetics in Collective Variables**|Jakub Rydzewski et.al.|[2404.01809](http://arxiv.org/abs/2404.01809)|null|
 |**2024-04-02**|**Guidelines for Cerebrovascular Segmentation: Managing Imperfect Annotations in the context of Semi-Supervised Learning**|Pierre Rougé et.al.|[2404.01765](http://arxiv.org/abs/2404.01765)|null|
 |**2024-04-02**|**Global Mapping of Exposure and Physical Vulnerability Dynamics in Least Developed Countries using Remote Sensing and Machine Learning**|Joshua Dimasaka et.al.|[2404.01748](http://arxiv.org/abs/2404.01748)|null|
