@@ -1724,6 +1724,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**RaFE: Generative Radiance Fields Restoration**|Zhongkai Wu et.al.|[2404.03654](http://arxiv.org/abs/2404.03654)|null|
+|**2024-04-04**|**OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views**|Francis Engelmann et.al.|[2404.03650](http://arxiv.org/abs/2404.03650)|null|
+|**2024-04-04**|**VF-NeRF: Viewshed Fields for Rigid NeRF Registration**|Leo Segre et.al.|[2404.03349](http://arxiv.org/abs/2404.03349)|null|
 |**2024-04-03**|**GenN2N: Generative NeRF2NeRF Translation**|Xiangyue Liu et.al.|[2404.02788](http://arxiv.org/abs/2404.02788)|null|
 |**2024-04-03**|**LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis**|Zehan Zheng et.al.|[2404.02742](http://arxiv.org/abs/2404.02742)|**[link](https://github.com/ispc-lab/lidar4d)**|
 |**2024-04-03**|**Neural Radiance Fields with Torch Units**|Bingnan Ni et.al.|[2404.02617](http://arxiv.org/abs/2404.02617)|null|
@@ -2662,6 +2665,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**On the Efficiency of Convolutional Neural Networks**|Andrew Lavin et.al.|[2404.03617](http://arxiv.org/abs/2404.03617)|null|
+|**2024-04-04**|**InsectMamba: Insect Pest Classification with State Space Model**|Qianning Wang et.al.|[2404.03611](http://arxiv.org/abs/2404.03611)|null|
+|**2024-04-04**|**Leveraging Interpolation Models and Error Bounds for Verifiable Scientific Machine Learning**|Tyler Chang et.al.|[2404.03586](http://arxiv.org/abs/2404.03586)|**[link](https://github.com/llnl/interpml)**|
+|**2024-04-04**|**Factored Task and Motion Planning with Combined Optimization, Sampling and Learning**|Joaquim Ortiz-Haro et.al.|[2404.03567](http://arxiv.org/abs/2404.03567)|null|
+|**2024-04-04**|**Alzheimer's disease detection in PSG signals**|Lorena Gallego-Viñarás et.al.|[2404.03549](http://arxiv.org/abs/2404.03549)|null|
+|**2024-04-04**|**Physics Informed Neural Networks for Free Shear Flows**|Siddharth Raghu et.al.|[2404.03542](http://arxiv.org/abs/2404.03542)|null|
+|**2024-04-04**|**Segmentation-Guided Knee Radiograph Generation using Conditional Diffusion Models**|Siyuan Mei et.al.|[2404.03541](http://arxiv.org/abs/2404.03541)|null|
+|**2024-04-04**|**Towards Automated Movie Trailer Generation**|Dawit Mureja Argaw et.al.|[2404.03477](http://arxiv.org/abs/2404.03477)|null|
+|**2024-04-04**|**How Much Data are Enough? Investigating Dataset Requirements for Patch-Based Brain MRI Segmentation Tasks**|Dongang Wang et.al.|[2404.03451](http://arxiv.org/abs/2404.03451)|null|
+|**2024-04-04**|**SP $^2$ OT: Semantic-Regularized Progressive Partial Optimal Transport for Imbalanced Clustering**|Chuyu Zhang et.al.|[2404.03446](http://arxiv.org/abs/2404.03446)|**[link](https://github.com/rhfeiyang/SPPOT)**|
 |**2024-04-03**|**Deep Image Composition Meets Image Forgery**|Eren Tahir et.al.|[2404.02897](http://arxiv.org/abs/2404.02897)|**[link](https://github.com/99eren99/dis25k)**|
 |**2024-04-03**|**FlightScope: A Deep Comprehensive Assessment of Aircraft Detection Algorithms in Satellite Imagery**|Safouane El Ghazouali et.al.|[2404.02877](http://arxiv.org/abs/2404.02877)|null|
 |**2024-04-03**|**Enhancing Interpretability of Vertebrae Fracture Grading using Human-interpretable Prototypes**|Poulami Sinhamahapatra et.al.|[2404.02830](http://arxiv.org/abs/2404.02830)|null|
