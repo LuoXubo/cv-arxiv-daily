@@ -568,6 +568,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**EcoPull: Sustainable IoT Image Retrieval Empowered by TinyML Models**|Mathias Thorsager et.al.|[2404.14236](http://arxiv.org/abs/2404.14236)|null|
+|**2024-04-22**|**Hierarchical localization with panoramic views and triplet loss functions**|Marcos Alfaro et.al.|[2404.14117](http://arxiv.org/abs/2404.14117)|null|
+|**2024-04-20**|**High-fidelity Endoscopic Image Synthesis by Utilizing Depth-guided Neural Surfaces**|Baoru Huang et.al.|[2404.13437](http://arxiv.org/abs/2404.13437)|null|
+|**2024-04-20**|**Collaborative Visual Place Recognition through Federated Learning**|Mattia Dutto et.al.|[2404.13324](http://arxiv.org/abs/2404.13324)|null|
 |**2024-04-18**|**SPOT: Point Cloud Based Stereo Visual Place Recognition for Similar and Opposing Viewpoints**|Spencer Carmichael et.al.|[2404.12339](http://arxiv.org/abs/2404.12339)|null|
 |**2024-04-17**|**Improving Composed Image Retrieval via Contrastive Learning with Scaling Positives and Negatives**|Zhangchi Feng et.al.|[2404.11317](http://arxiv.org/abs/2404.11317)|null|
 |**2024-04-17**|**Spatial-Aware Image Retrieval: A Hyperdimensional Computing Approach for Efficient Similarity Hashing**|Sanggeon Yun et.al.|[2404.11025](http://arxiv.org/abs/2404.11025)|null|
@@ -1524,6 +1528,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**Scene Coordinate Reconstruction: Posing of Image Collections via Incremental Learning of a Relocalizer**|Eric Brachmann et.al.|[2404.14351](http://arxiv.org/abs/2404.14351)|null|
 |**2024-04-17**|**A Semantic Segmentation-guided Approach for Ground-to-Aerial Image Matching**|Francesco Pro et.al.|[2404.11302](http://arxiv.org/abs/2404.11302)|**[link](https://github.com/pro1944191/semanticalignnet)**|
 |**2024-04-16**|**Exploring selective image matching methods for zero-shot and few-sample unsupervised domain adaptation of urban canopy prediction**|John Francis et.al.|[2404.10626](http://arxiv.org/abs/2404.10626)|null|
 |**2024-04-15**|**XoFTR: Cross-modal Feature Matching Transformer**|Önder Tuzcuoğlu et.al.|[2404.09692](http://arxiv.org/abs/2404.09692)|null|
@@ -1748,8 +1753,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting**|Hongyun Yu et.al.|[2404.14037](http://arxiv.org/abs/2404.14037)|null|
+|**2024-04-22**|**NeRF-DetS: Enhancing Multi-View 3D Object Detection with Sampling-adaptive Network of Continuous NeRF-based Representation**|Chi Huang et.al.|[2404.13921](http://arxiv.org/abs/2404.13921)|null|
+|**2024-04-22**|**CT-NeRF: Incremental Optimizing Neural Radiance Field and Poses with Complex Trajectory**|Yunlong Ran et.al.|[2404.13896](http://arxiv.org/abs/2404.13896)|null|
+|**2024-04-22**|**Neural Radiance Field in Autonomous Driving: A Survey**|Lei He et.al.|[2404.13816](http://arxiv.org/abs/2404.13816)|null|
+|**2024-04-21**|**ArtNeRF: A Stylized Neural Field for 3D-Aware Cartoonized Face Synthesis**|Zichen Tang et.al.|[2404.13711](http://arxiv.org/abs/2404.13711)|**[link](https://github.com/silence-tang/artnerf)**|
+|**2024-04-21**|**Generalizable Novel-View Synthesis using a Stereo Camera**|Haechan Lee et.al.|[2404.13541](http://arxiv.org/abs/2404.13541)|null|
+|**2024-04-20**|**High-fidelity Endoscopic Image Synthesis by Utilizing Depth-guided Neural Surfaces**|Baoru Huang et.al.|[2404.13437](http://arxiv.org/abs/2404.13437)|null|
+|**2024-04-20**|**EC-SLAM: Real-time Dense Neural RGB-D SLAM System with Effectively Constrained Global Bundle Adjustment**|Guanghao Li et.al.|[2404.13346](http://arxiv.org/abs/2404.13346)|null|
 |**2024-04-19**|**FlyNeRF: NeRF-Based Aerial Mapping for High-Quality 3D Scene Reconstruction**|Maria Dronova et.al.|[2404.12970](http://arxiv.org/abs/2404.12970)|null|
-|**2024-04-18**|**Does Gaussian Splatting need SFM Initialization?**|Yalda Foroutan et.al.|[2404.12547](http://arxiv.org/abs/2404.12547)|null|
+|**2024-04-22**|**Does Gaussian Splatting need SFM Initialization?**|Yalda Foroutan et.al.|[2404.12547](http://arxiv.org/abs/2404.12547)|null|
 |**2024-04-18**|**MeshLRM: Large Reconstruction Model for High-Quality Mesh**|Xinyue Wei et.al.|[2404.12385](http://arxiv.org/abs/2404.12385)|null|
 |**2024-04-18**|**AG-NeRF: Attention-guided Neural Radiance Fields for Multi-height Large-scale Outdoor Scene Rendering**|Jingfeng Guo et.al.|[2404.11897](http://arxiv.org/abs/2404.11897)|null|
 |**2024-04-18**|**Cicero: Addressing Algorithmic and Architectural Bottlenecks in Neural Rendering by Radiance Warping and Memory Optimizations**|Yu Feng et.al.|[2404.11852](http://arxiv.org/abs/2404.11852)|null|
@@ -2728,6 +2741,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**Assessing GPT-4-Vision's Capabilities in UML-Based Code Generation**|Gábor Antal et.al.|[2404.14370](http://arxiv.org/abs/2404.14370)|null|
+|**2024-04-22**|**Lessons Learned in Performing a Trustworthy AI and Fundamental Rights Assessment**|Marjolein Boonstra et.al.|[2404.14366](http://arxiv.org/abs/2404.14366)|null|
+|**2024-04-22**|**On-the-Fly Point Annotation for Fast Medical Video Labeling**|Meyer Adrien et.al.|[2404.14344](http://arxiv.org/abs/2404.14344)|null|
+|**2024-04-22**|**Does Your Neural Code Completion Model Use My Code? A Membership Inference Approach**|Yao Wan et.al.|[2404.14296](http://arxiv.org/abs/2404.14296)|null|
+|**2024-04-22**|**Deep Learning as Ricci Flow**|Anthony Baptista et.al.|[2404.14265](http://arxiv.org/abs/2404.14265)|null|
+|**2024-04-22**|**Fidelitous Augmentation of Human Accelerometric Data for Deep Learning**|Tracey K. M. Lee et.al.|[2404.14211](http://arxiv.org/abs/2404.14211)|null|
+|**2024-04-22**|**Experimental Validation of Ultrasound Beamforming with End-to-End Deep Learning for Single Plane Wave Imaging**|Ryan A. L. Schoop et.al.|[2404.14188](http://arxiv.org/abs/2404.14188)|null|
+|**2024-04-22**|**Quantum Convolutional Neural Networks for the detection of Gamma-Ray Bursts in the AGILE space mission data**|A. Rizzo et.al.|[2404.14133](http://arxiv.org/abs/2404.14133)|null|
+|**2024-04-22**|**LVNS-RAVE: Diversified audio generation with RAVE and Latent Vector Novelty Search**|Jinyue Guo et.al.|[2404.14063](http://arxiv.org/abs/2404.14063)|**[link](https://github.com/fisheggg/lvns-rave)**|
+|**2024-04-22**|**Exploring neural oscillations during speech perception via surrogate gradient spiking neural networks**|Alexandre Bittar et.al.|[2404.14024](http://arxiv.org/abs/2404.14024)|null|
 |**2024-04-19**|**FinLangNet: A Novel Deep Learning Framework for Credit Risk Prediction Using Linguistic Analogy in Financial Data**|Yu Lei et.al.|[2404.13004](http://arxiv.org/abs/2404.13004)|**[link](https://github.com/leiyu0210/finlangnet)**|
 |**2024-04-19**|**Towards Robust Ferrous Scrap Material Classification with Deep Learning and Conformal Prediction**|Paulo Henrique dos Santos et.al.|[2404.13002](http://arxiv.org/abs/2404.13002)|null|
 |**2024-04-19**|**RadRotator: 3D Rotation of Radiographs with Diffusion Models**|Pouria Rouzrokh et.al.|[2404.13000](http://arxiv.org/abs/2404.13000)|null|
