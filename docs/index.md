@@ -1835,7 +1835,7 @@ layout: default
 |**2024-03-29**|**SGD: Street View Synthesis with Gaussian Splatting and Diffusion Prior**|Zhongrui Yu et.al.|[2403.20079](http://arxiv.org/abs/2403.20079)|null|
 |**2024-03-29**|**NeSLAM: Neural Implicit Mapping and Self-Supervised Feature Tracking With Depth Completion and Denoising**|Tianchen Deng et.al.|[2403.20034](http://arxiv.org/abs/2403.20034)|**[link](https://github.com/dtc111111/neslam)**|
 |**2024-03-29**|**SCINeRF: Neural Radiance Fields from a Snapshot Compressive Image**|Yunhao Li et.al.|[2403.20018](http://arxiv.org/abs/2403.20018)|**[link](https://github.com/wu-cvgl/scinerf)**|
-|**2024-03-29**|**DerainNeRF: 3D Scene Estimation with Adhesive Waterdrop Removal**|Yunhao Li et.al.|[2403.20013](http://arxiv.org/abs/2403.20013)|null|
+|**2024-03-29**|**DerainNeRF: 3D Scene Estimation with Adhesive Waterdrop Removal**|Yunhao Li et.al.|[2403.20013](http://arxiv.org/abs/2403.20013)|**[link](https://github.com/yunhaoli2020/DerainNeRF)**|
 |**2024-03-29**|**Stable Surface Regularization for Fast Few-Shot NeRF**|Byeongin Joung et.al.|[2403.19985](http://arxiv.org/abs/2403.19985)|null|
 |**2024-03-29**|**MI-NeRF: Learning a Single Face NeRF from Multiple Identities**|Aggelina Chatziagapi et.al.|[2403.19920](http://arxiv.org/abs/2403.19920)|null|
 |**2024-03-28**|**Mitigating Motion Blur in Neural Radiance Fields with Events and Frames**|Marco Cannici et.al.|[2403.19780](http://arxiv.org/abs/2403.19780)|**[link](https://github.com/uzh-rpg/evdeblurnerf)**|
@@ -2082,7 +2082,7 @@ layout: default
 |**2023-12-08**|**Learn to Optimize Denoising Scores for 3D Generation: A Unified and Improved Diffusion Prior on NeRF and 3D Gaussian Splatting**|Xiaofeng Yang et.al.|[2312.04820](http://arxiv.org/abs/2312.04820)|null|
 |**2023-12-08**|**Reality's Canvas, Language's Brush: Crafting 3D Avatars from Monocular Video**|Yuchen Rao et.al.|[2312.04784](http://arxiv.org/abs/2312.04784)|null|
 |**2023-12-07**|**MuRF: Multi-Baseline Radiance Fields**|Haofei Xu et.al.|[2312.04565](http://arxiv.org/abs/2312.04565)|**[link](https://github.com/autonomousvision/murf)**|
-|**2023-12-07**|**EAGLES: Efficient Accelerated 3D Gaussians with Lightweight EncodingS**|Sharath Girish et.al.|[2312.04564](http://arxiv.org/abs/2312.04564)|null|
+|**2023-12-07**|**EAGLES: Efficient Accelerated 3D Gaussians with Lightweight EncodingS**|Sharath Girish et.al.|[2312.04564](http://arxiv.org/abs/2312.04564)|**[link](https://github.com/sharath-girish/efficientgaussian)**|
 |**2023-12-07**|**Correspondences of the Third Kind: Camera Pose Estimation from Object Reflection**|Kohei Yamashita et.al.|[2312.04527](http://arxiv.org/abs/2312.04527)|null|
 |**2023-12-07**|**Multi-View Unsupervised Image Generation with Cross Attention Guidance**|Llukman Cerkezi et.al.|[2312.04337](http://arxiv.org/abs/2312.04337)|null|
 |**2023-12-07**|**Towards 4D Human Video Stylization**|Tiantian Wang et.al.|[2312.04143](http://arxiv.org/abs/2312.04143)|**[link](https://github.com/tiantianwang/4d_video_stylization)**|
@@ -2785,11 +2785,11 @@ layout: default
 |**2024-04-23**|**Surface profile recovery from electromagnetic field with physics--informed neural networks**|Yuxuan Chen et.al.|[2404.14984](http://arxiv.org/abs/2404.14984)|null|
 |**2024-04-22**|**Assessing GPT-4-Vision's Capabilities in UML-Based Code Generation**|Gábor Antal et.al.|[2404.14370](http://arxiv.org/abs/2404.14370)|null|
 |**2024-04-22**|**Lessons Learned in Performing a Trustworthy AI and Fundamental Rights Assessment**|Marjolein Boonstra et.al.|[2404.14366](http://arxiv.org/abs/2404.14366)|null|
-|**2024-04-22**|**On-the-Fly Point Annotation for Fast Medical Video Labeling**|Meyer Adrien et.al.|[2404.14344](http://arxiv.org/abs/2404.14344)|null|
-|**2024-04-22**|**Does Your Neural Code Completion Model Use My Code? A Membership Inference Approach**|Yao Wan et.al.|[2404.14296](http://arxiv.org/abs/2404.14296)|null|
-|**2024-04-22**|**Deep Learning as Ricci Flow**|Anthony Baptista et.al.|[2404.14265](http://arxiv.org/abs/2404.14265)|null|
+|**2024-04-22**|**On-the-Fly Point Annotation for Fast Medical Video Labeling**|Meyer Adrien et.al.|[2404.14344](http://arxiv.org/abs/2404.14344)|**[link](https://github.com/camma-public/surglatentgraph)**|
+|**2024-04-22**|**Does Your Neural Code Completion Model Use My Code? A Membership Inference Approach**|Yao Wan et.al.|[2404.14296](http://arxiv.org/abs/2404.14296)|**[link](https://github.com/CGCL-codes/naturalcc)**|
+|**2024-04-22**|**Deep Learning as Ricci Flow**|Anthony Baptista et.al.|[2404.14265](http://arxiv.org/abs/2404.14265)|**[link](https://github.com/anthbapt/ricci-nn)**|
 |**2024-04-22**|**Fidelitous Augmentation of Human Accelerometric Data for Deep Learning**|Tracey K. M. Lee et.al.|[2404.14211](http://arxiv.org/abs/2404.14211)|null|
-|**2024-04-22**|**Experimental Validation of Ultrasound Beamforming with End-to-End Deep Learning for Single Plane Wave Imaging**|Ryan A. L. Schoop et.al.|[2404.14188](http://arxiv.org/abs/2404.14188)|null|
+|**2024-04-22**|**Experimental Validation of Ultrasound Beamforming with End-to-End Deep Learning for Single Plane Wave Imaging**|Ryan A. L. Schoop et.al.|[2404.14188](http://arxiv.org/abs/2404.14188)|**[link](https://github.com/ralschoop/deepus)**|
 |**2024-04-22**|**Quantum Convolutional Neural Networks for the detection of Gamma-Ray Bursts in the AGILE space mission data**|A. Rizzo et.al.|[2404.14133](http://arxiv.org/abs/2404.14133)|null|
 |**2024-04-22**|**LVNS-RAVE: Diversified audio generation with RAVE and Latent Vector Novelty Search**|Jinyue Guo et.al.|[2404.14063](http://arxiv.org/abs/2404.14063)|**[link](https://github.com/fisheggg/lvns-rave)**|
 |**2024-04-22**|**Exploring neural oscillations during speech perception via surrogate gradient spiking neural networks**|Alexandre Bittar et.al.|[2404.14024](http://arxiv.org/abs/2404.14024)|null|
@@ -2852,7 +2852,7 @@ layout: default
 |**2024-04-12**|**Fuxi-DA: A Generalized Deep Learning Data Assimilation Framework for Assimilating Satellite Observations**|Xiaoze Xu et.al.|[2404.08522](http://arxiv.org/abs/2404.08522)|null|
 |**2024-04-12**|**ChatGPT and general-purpose AI count fruits in pictures surprisingly well**|Konlavach Mengsuwan et.al.|[2404.08515](http://arxiv.org/abs/2404.08515)|null|
 |**2024-04-12**|**SemHARQ: Semantic-Aware HARQ for Multi-task Semantic Communications**|Jiangjing Hu et.al.|[2404.08490](http://arxiv.org/abs/2404.08490)|null|
-|**2024-04-12**|**SpectralMamba: Efficient Mamba for Hyperspectral Image Classification**|Jing Yao et.al.|[2404.08489](http://arxiv.org/abs/2404.08489)|null|
+|**2024-04-12**|**SpectralMamba: Efficient Mamba for Hyperspectral Image Classification**|Jing Yao et.al.|[2404.08489](http://arxiv.org/abs/2404.08489)|**[link](https://github.com/danfenghong/spectralmamba)**|
 |**2024-04-12**|**Combining Statistical Depth and Fermat Distance for Uncertainty Quantification**|Hai-Vy Nguyen et.al.|[2404.08476](http://arxiv.org/abs/2404.08476)|null|
 |**2024-04-12**|**A backward differential deep learning-based algorithm for solving high-dimensional nonlinear backward stochastic differential equations**|Lorenc Kapllani et.al.|[2404.08456](http://arxiv.org/abs/2404.08456)|null|
 |**2024-04-11**|**FusionMamba: Efficient Image Fusion with State Space Model**|Siran Peng et.al.|[2404.07932](http://arxiv.org/abs/2404.07932)|null|
@@ -2972,7 +2972,7 @@ layout: default
 |**2024-03-26**|**Climate Downscaling: A Deep-Learning Based Super-resolution Model of Precipitation Data with Attention Block and Skip Connections**|Chia-Hao Chiang et.al.|[2403.17847](http://arxiv.org/abs/2403.17847)|null|
 |**2024-03-26**|**Mechanistic Design and Scaling of Hybrid Architectures**|Michael Poli et.al.|[2403.17844](http://arxiv.org/abs/2403.17844)|null|
 |**2024-03-26**|**GTA-HDR: A Large-Scale Synthetic Dataset for HDR Image Reconstruction**|Hrishav Bakul Barua et.al.|[2403.17837](http://arxiv.org/abs/2403.17837)|**[link](https://github.com/hrishavbakulbarua/gta-hdr)**|
-|**2024-03-26**|**D-PAD: Deep-Shallow Multi-Frequency Patterns Disentangling for Time Series Forecasting**|Xiaobing Yuan et.al.|[2403.17814](http://arxiv.org/abs/2403.17814)|null|
+|**2024-03-26**|**D-PAD: Deep-Shallow Multi-Frequency Patterns Disentangling for Time Series Forecasting**|Xiaobing Yuan et.al.|[2403.17814](http://arxiv.org/abs/2403.17814)|**[link](https://github.com/xybbo5/d-pad)**|
 |**2024-03-26**|**Annotated Biomedical Video Generation using Denoising Diffusion Probabilistic Models and Flow Fields**|Rüveyda Yilmaz et.al.|[2403.17808](http://arxiv.org/abs/2403.17808)|null|
 |**2024-03-26**|**CT Synthesis with Conditional Diffusion Models for Abdominal Lymph Node Segmentation**|Yongrui Yu et.al.|[2403.17770](http://arxiv.org/abs/2403.17770)|null|
 |**2024-03-25**|**Assessing the Performance of Deep Learning for Automated Gleason Grading in Prostate Cancer**|Dominik Müller et.al.|[2403.16695](http://arxiv.org/abs/2403.16695)|null|
@@ -4493,7 +4493,7 @@ layout: default
 |**2023-08-10**|**Rethinking Integration of Prediction and Planning in Deep Learning-Based Automated Driving Systems: A Review**|Steffen Hagedorn et.al.|[2308.05731](http://arxiv.org/abs/2308.05731)|null|
 |**2023-08-10**|**Optimizing Performance of Feedforward and Convolutional Neural Networks through Dynamic Activation Functions**|Chinmay Rane et.al.|[2308.05724](http://arxiv.org/abs/2308.05724)|null|
 |**2023-08-10**|**Exploring Deep Learning Approaches to Predict Person and Vehicle Trips: An Analysis of NHTS Data**|Kojo Adu-Gyamfi et.al.|[2308.05665](http://arxiv.org/abs/2308.05665)|null|
-|**2023-08-10**|**AD-CLIP: Adapting Domains in Prompt Space Using CLIP**|Mainak Singha et.al.|[2308.05659](http://arxiv.org/abs/2308.05659)|null|
+|**2023-08-10**|**AD-CLIP: Adapting Domains in Prompt Space Using CLIP**|Mainak Singha et.al.|[2308.05659](http://arxiv.org/abs/2308.05659)|**[link](https://github.com/mainaksingha01/AD-CLIP)**|
 |**2023-08-10**|**Automatic Extraction of Relevant Road Infrastructure using Connected vehicle data and Deep Learning Model**|Adu-Gyamfi Kojo et.al.|[2308.05658](http://arxiv.org/abs/2308.05658)|null|
 |**2023-08-10**|**Attention-based 3D CNN with Multi-layer Features for Alzheimer's Disease Diagnosis using Brain Images**|Yanteng Zhang et.al.|[2308.05655](http://arxiv.org/abs/2308.05655)|null|
 |**2023-08-10**|**IIHT: Medical Report Generation with Image-to-Indicator Hierarchical Transformer**|Keqiang Fan et.al.|[2308.05633](http://arxiv.org/abs/2308.05633)|null|
