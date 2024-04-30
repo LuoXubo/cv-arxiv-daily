@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-27**|**An Attention-Based Deep Learning Architecture for Real-Time Monocular Visual Odometry: Applications to GPS-free Drone Navigation**|Olivier Brochu Dufour et.al.|[2404.17745](http://arxiv.org/abs/2404.17745)|null|
 |**2024-04-26**|**Camera Motion Estimation from RGB-D-Inertial Scene Flow**|Samuel Cerezo et.al.|[2404.17251](http://arxiv.org/abs/2404.17251)|null|
 |**2024-04-23**|**Multi-Session SLAM with Differentiable Wide-Baseline Pose Optimization**|Lahav Lipson et.al.|[2404.15263](http://arxiv.org/abs/2404.15263)|**[link](https://github.com/princeton-vl/multislam_diffpose)**|
 |**2024-04-18**|**SPOT: Point Cloud Based Stereo Visual Place Recognition for Similar and Opposing Viewpoints**|Spencer Carmichael et.al.|[2404.12339](http://arxiv.org/abs/2404.12339)|null|
@@ -583,6 +584,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-29**|**Enhancing Interactive Image Retrieval With Query Rewriting Using Large Language Models and Vision Language Models**|Hongyi Zhu et.al.|[2404.18746](http://arxiv.org/abs/2404.18746)|null|
+|**2024-04-29**|**Dual-Modal Prompting for Sketch-Based Image Retrieval**|Liying Gao et.al.|[2404.18695](http://arxiv.org/abs/2404.18695)|null|
+|**2024-04-29**|**Semantic Line Combination Detector**|Jinwon Ko et.al.|[2404.18399](http://arxiv.org/abs/2404.18399)|**[link](https://github.com/jinwon-ko/slcd)**|
 |**2024-04-26**|**Learning text-to-video retrieval from image captioning**|Lucas Ventura et.al.|[2404.17498](http://arxiv.org/abs/2404.17498)|null|
 |**2024-04-25**|**CriSp: Leveraging Tread Depth Maps for Enhanced Crime-Scene Shoeprint Matching**|Samia Shafique et.al.|[2404.16972](http://arxiv.org/abs/2404.16972)|null|
 |**2024-04-25**|**Revisiting Relevance Feedback for CLIP-based Interactive Image Retrieval**|Ryoya Nara et.al.|[2404.16398](http://arxiv.org/abs/2404.16398)|null|
@@ -1554,6 +1558,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-27**|**MinBackProp -- Backpropagating through Minimal Solvers**|Diana Sungatullina et.al.|[2404.17993](http://arxiv.org/abs/2404.17993)|null|
 |**2024-04-25**|**Transformer-Based Local Feature Matching for Multimodal Image Registration**|Remi Delaunay et.al.|[2404.16802](http://arxiv.org/abs/2404.16802)|null|
 |**2024-04-23**|**FINEMATCH: Aspect-based Fine-grained Image and Text Mismatch Detection and Correction**|Hang Hua et.al.|[2404.14715](http://arxiv.org/abs/2404.14715)|null|
 |**2024-04-22**|**Scene Coordinate Reconstruction: Posing of Image Collections via Incremental Learning of a Relocalizer**|Eric Brachmann et.al.|[2404.14351](http://arxiv.org/abs/2404.14351)|null|
@@ -1783,6 +1788,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-28**|**S3-SLAM: Sparse Tri-plane Encoding for Neural Implicit SLAM**|Zhiyao Zhang et.al.|[2404.18284](http://arxiv.org/abs/2404.18284)|null|
+|**2024-04-27**|**DPER: Diffusion Prior Driven Neural Representation for Limited Angle and Sparse View CT Reconstruction**|Chenhe Du et.al.|[2404.17890](http://arxiv.org/abs/2404.17890)|null|
 |**2024-04-26**|**Geometry-aware Reconstruction and Fusion-refined Rendering for Generalizable Neural Radiance Fields**|Tianqi Liu et.al.|[2404.17528](http://arxiv.org/abs/2404.17528)|null|
 |**2024-04-25**|**Depth Supervised Neural Surface Reconstruction from Airborne Imagery**|Vincent Hackstein et.al.|[2404.16429](http://arxiv.org/abs/2404.16429)|null|
 |**2024-04-24**|**NeRF-XL: Scaling NeRFs with Multiple GPUs**|Ruilong Li et.al.|[2404.16221](http://arxiv.org/abs/2404.16221)|null|
@@ -2778,6 +2785,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-29**|**IPixMatch: Boost Semi-supervised Semantic Segmentation with Inter-Pixel Relation**|Kebin Wu et.al.|[2404.18891](http://arxiv.org/abs/2404.18891)|null|
+|**2024-04-29**|**A Comprehensive Rubric for Annotating Pathological Speech**|Mario Corrales-Astorgano et.al.|[2404.18851](http://arxiv.org/abs/2404.18851)|null|
+|**2024-04-29**|**Deep orthogonal decomposition: a continuously adaptive data-driven approach to model order reduction**|Nicola Rares Franco et.al.|[2404.18841](http://arxiv.org/abs/2404.18841)|null|
+|**2024-04-29**|**Accurate adaptive deep learning method for solving elliptic problems**|Jingyong Ying et.al.|[2404.18838](http://arxiv.org/abs/2404.18838)|null|
+|**2024-04-29**|**Saliency Suppressed, Semantics Surfaced: Visual Transformations in Neural Networks and the Brain**|Gustaw Opiełka et.al.|[2404.18772](http://arxiv.org/abs/2404.18772)|**[link](https://github.com/gucioopielka/saliency-semantic-rsa)**|
+|**2024-04-29**|**Feature importance to explain multimodal prediction models. A clinical use case**|Jorn-Jan van de Beld et.al.|[2404.18631](http://arxiv.org/abs/2404.18631)|null|
+|**2024-04-29**|**CoSense3D: an Agent-based Efficient Learning Framework for Collective Perception**|Yunshuang Yuan et.al.|[2404.18617](http://arxiv.org/abs/2404.18617)|null|
+|**2024-04-29**|**Predicting Safety Misbehaviours in Autonomous Driving Systems using Uncertainty Quantification**|Ruben Grewal et.al.|[2404.18573](http://arxiv.org/abs/2404.18573)|**[link](https://github.com/ast-fortiss-tum/misbehaviour-prediction-with-uncertainty-quantification)**|
+|**2024-04-29**|**Machine Learning for Windows Malware Detection and Classification: Methods, Challenges and Ongoing Research**|Daniel Gibert et.al.|[2404.18541](http://arxiv.org/abs/2404.18541)|null|
+|**2024-04-29**|**Generation of Uncorrelated Residual Variables for Chemical Process Fault Diagnosis via Transfer Learning-based Input-Output Decoupled Network**|Zhuofu Pan et.al.|[2404.18528](http://arxiv.org/abs/2404.18528)|null|
 |**2024-04-26**|**An exactly solvable model for emergence and scaling laws**|Yoonsoo Nam et.al.|[2404.17563](http://arxiv.org/abs/2404.17563)|null|
 |**2024-04-26**|**Large Language Model Agent as a Mechanical Designer**|Yayati Jadhav et.al.|[2404.17525](http://arxiv.org/abs/2404.17525)|null|
 |**2024-04-26**|**Interpreting Deepcode, a learned feedback code**|Yingyao Zhou et.al.|[2404.17519](http://arxiv.org/abs/2404.17519)|null|
