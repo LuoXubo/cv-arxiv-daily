@@ -571,6 +571,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-01**|**Spherical Linear Interpolation and Text-Anchoring for Zero-shot Composed Image Retrieval**|Young Kyun Jang et.al.|[2405.00571](http://arxiv.org/abs/2405.00571)|null|
 |**2024-04-30**|**Large Language Model Informed Patent Image Retrieval**|Hao-Cheng Lo et.al.|[2404.19360](http://arxiv.org/abs/2404.19360)|null|
 |**2024-04-30**|**XFeat: Accelerated Features for Lightweight Image Matching**|Guilherme Potje et.al.|[2404.19174](http://arxiv.org/abs/2404.19174)|null|
 |**2024-04-29**|**Enhancing Interactive Image Retrieval With Query Rewriting Using Large Language Models and Vision Language Models**|Hongyi Zhu et.al.|[2404.18746](http://arxiv.org/abs/2404.18746)|null|
@@ -1774,6 +1775,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-01**|**Depth Priors in Removal Neural Radiance Fields**|Zhihao Guo et.al.|[2405.00630](http://arxiv.org/abs/2405.00630)|null|
+|**2024-05-01**|**NeRF-Guided Unsupervised Learning of RGB-D Registration**|Zhinan Yu et.al.|[2405.00507](http://arxiv.org/abs/2405.00507)|null|
 |**2024-05-01**|**RTG-SLAM: Real-time 3D Reconstruction at Scale using Gaussian Splatting**|Zhexi Peng et.al.|[2404.19706](http://arxiv.org/abs/2404.19706)|null|
 |**2024-04-30**|**NeRF-Insert: 3D Local Editing with Multimodal Control Signals**|Benet Oriol Sabat et.al.|[2404.19204](http://arxiv.org/abs/2404.19204)|null|
 |**2024-04-29**|**SAGS: Structure-Aware 3D Gaussian Splatting**|Evangelos Ververas et.al.|[2404.19149](http://arxiv.org/abs/2404.19149)|null|
@@ -2775,6 +2778,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-01**|**Adapting Pretrained Networks for Image Quality Assessment on High Dynamic Range Displays**|Andrei Chubarau et.al.|[2405.00670](http://arxiv.org/abs/2405.00670)|null|
+|**2024-05-01**|**Gradient-based Automatic Per-Weight Mixed Precision Quantization for Neural Networks On-Chip**|Chang Sun et.al.|[2405.00645](http://arxiv.org/abs/2405.00645)|**[link](https://github.com/calad0i/HGQ-demos)**|
+|**2024-05-01**|**From Empirical Observations to Universality: Dynamics of Deep Learning with Inputs Built on Gaussian mixture**|Jaeyong Bae et.al.|[2405.00642](http://arxiv.org/abs/2405.00642)|null|
+|**2024-05-01**|**Koopman-based Deep Learning for Nonlinear System Estimation**|Zexin Sun et.al.|[2405.00627](http://arxiv.org/abs/2405.00627)|null|
+|**2024-05-01**|**Investigating Automatic Scoring and Feedback using Large Language Models**|Gloria Ashiya Katuka et.al.|[2405.00602](http://arxiv.org/abs/2405.00602)|null|
+|**2024-05-01**|**Scaling and renormalization in high-dimensional regression**|Alexander B. Atanasov et.al.|[2405.00592](http://arxiv.org/abs/2405.00592)|**[link](https://github.com/pehlevan-group/s_transform)**|
+|**2024-05-01**|**Swarm Learning: A Survey of Concepts, Applications, and Trends**|Elham Shammar et.al.|[2405.00556](http://arxiv.org/abs/2405.00556)|null|
+|**2024-05-01**|**A Legal Framework for Natural Language Processing Model Training in Portugal**|Rúben Almeida et.al.|[2405.00536](http://arxiv.org/abs/2405.00536)|null|
+|**2024-05-01**|**GAD-Generative Learning for HD Map-Free Autonomous Driving**|Weijian Sun et.al.|[2405.00515](http://arxiv.org/abs/2405.00515)|null|
+|**2024-05-01**|**DmADs-Net: Dense multiscale attention and depth-supervised network for medical image segmentation**|Zhaojin Fu et.al.|[2405.00472](http://arxiv.org/abs/2405.00472)|null|
 |**2024-04-30**|**KAN: Kolmogorov-Arnold Networks**|Ziming Liu et.al.|[2404.19756](http://arxiv.org/abs/2404.19756)|**[link](https://github.com/kindxiaoming/pykan)**|
 |**2024-04-30**|**Quantifying Nematodes through Images: Datasets, Models, and Baselines of Deep Learning**|Zhipeng Yuan et.al.|[2404.19748](http://arxiv.org/abs/2404.19748)|null|
 |**2024-04-30**|**Towards Scenario- and Capability-Driven Dataset Development and Evaluation: An Approach in the Context of Mapless Automated Driving**|Felix Grün et.al.|[2404.19656](http://arxiv.org/abs/2404.19656)|null|
