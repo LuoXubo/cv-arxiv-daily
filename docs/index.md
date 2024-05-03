@@ -1775,6 +1775,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-02**|**NeRF in Robotics: A Survey**|Guangming Wang et.al.|[2405.01333](http://arxiv.org/abs/2405.01333)|null|
+|**2024-05-01**|**DiL-NeRF: Delving into Lidar for Neural Radiance Field on Street Scenes**|Shanlin Sun et.al.|[2405.00900](http://arxiv.org/abs/2405.00900)|null|
 |**2024-05-01**|**Depth Priors in Removal Neural Radiance Fields**|Zhihao Guo et.al.|[2405.00630](http://arxiv.org/abs/2405.00630)|null|
 |**2024-05-01**|**NeRF-Guided Unsupervised Learning of RGB-D Registration**|Zhinan Yu et.al.|[2405.00507](http://arxiv.org/abs/2405.00507)|null|
 |**2024-05-01**|**RTG-SLAM: Real-time 3D Reconstruction at Scale using Gaussian Splatting**|Zhexi Peng et.al.|[2404.19706](http://arxiv.org/abs/2404.19706)|null|
@@ -2778,6 +2780,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-02**|**A separability-based approach to quantifying generalization: which layer is best?**|Luciano Dyballa et.al.|[2405.01524](http://arxiv.org/abs/2405.01524)|null|
+|**2024-05-02**|**Model-based Deep Learning for Rate Split Multiple Access in Vehicular Communications**|Hanwen Zhang et.al.|[2405.01515](http://arxiv.org/abs/2405.01515)|null|
+|**2024-05-02**|**Common pitfalls to avoid while using multiobjective optimization in machine learning**|Junaid Akhter et.al.|[2405.01480](http://arxiv.org/abs/2405.01480)|null|
+|**2024-05-02**|**Strategies for Rare Population Detection and Sampling: A Methodological Approach in Liguria**|G. Lancia et.al.|[2405.01342](http://arxiv.org/abs/2405.01342)|null|
+|**2024-05-02**|**Data Scoping: Effectively Learning the Evolution of Generic Transport PDEs**|Jiangce Chen et.al.|[2405.01319](http://arxiv.org/abs/2405.01319)|null|
+|**2024-05-02**|**Misclassification bounds for PAC-Bayesian sparse deep learning**|The Tien Mai et.al.|[2405.01304](http://arxiv.org/abs/2405.01304)|null|
+|**2024-05-02**|**Quantifying Spatial Domain Explanations in BCI using Earth Mover's Distance**|Param Rajpura et.al.|[2405.01277](http://arxiv.org/abs/2405.01277)|null|
+|**2024-05-02**|**The Importance of Model Inspection for Better Understanding Performance Characteristics of Graph Neural Networks**|Nairouz Shehata et.al.|[2405.01270](http://arxiv.org/abs/2405.01270)|null|
+|**2024-05-02**|**Identification of Entailment and Contradiction Relations between Natural Language Sentences: A Neurosymbolic Approach**|Xuyao Feng et.al.|[2405.01259](http://arxiv.org/abs/2405.01259)|null|
+|**2024-05-02**|**RaffeSDG: Random Frequency Filtering enabled Single-source Domain Generalization for Medical Image Segmentation**|Heng Li et.al.|[2405.01228](http://arxiv.org/abs/2405.01228)|**[link](https://github.com/liamheng/non-iid_medical_image_segmentation)**|
 |**2024-05-01**|**Adapting Pretrained Networks for Image Quality Assessment on High Dynamic Range Displays**|Andrei Chubarau et.al.|[2405.00670](http://arxiv.org/abs/2405.00670)|null|
 |**2024-05-01**|**Gradient-based Automatic Per-Weight Mixed Precision Quantization for Neural Networks On-Chip**|Chang Sun et.al.|[2405.00645](http://arxiv.org/abs/2405.00645)|**[link](https://github.com/calad0i/HGQ-demos)**|
 |**2024-05-01**|**From Empirical Observations to Universality: Dynamics of Deep Learning with Inputs Built on Gaussian mixture**|Jaeyong Bae et.al.|[2405.00642](http://arxiv.org/abs/2405.00642)|null|
