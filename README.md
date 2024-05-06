@@ -1794,6 +1794,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-03**|**WateRF: Robust Watermarks in Radiance Fields for Protection of Copyrights**|Youngdong Jang et.al.|[2405.02066](http://arxiv.org/abs/2405.02066)|null|
 |**2024-05-02**|**NeRF in Robotics: A Survey**|Guangming Wang et.al.|[2405.01333](http://arxiv.org/abs/2405.01333)|null|
 |**2024-05-01**|**DiL-NeRF: Delving into Lidar for Neural Radiance Field on Street Scenes**|Shanlin Sun et.al.|[2405.00900](http://arxiv.org/abs/2405.00900)|null|
 |**2024-05-01**|**Depth Priors in Removal Neural Radiance Fields**|Zhihao Guo et.al.|[2405.00630](http://arxiv.org/abs/2405.00630)|null|
@@ -2801,6 +2802,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-03**|**Deep Learning of ab initio Hessians for Transition State Optimization**|Eric C. -Y. Yuan et.al.|[2405.02247](http://arxiv.org/abs/2405.02247)|null|
+|**2024-05-03**|**Panoptic-SLAM: Visual SLAM in Dynamic Environments using Panoptic Segmentation**|Gabriel Fischer Abati et.al.|[2405.02177](http://arxiv.org/abs/2405.02177)|null|
+|**2024-05-03**|**All-fiber microendoscopic polarization sensing at single-photon level aided by deep-learning**|Martin Bielak et.al.|[2405.02172](http://arxiv.org/abs/2405.02172)|null|
+|**2024-05-03**|**Forecasting Ferry Passenger Flow Using Long-Short Term Memory Neural Networks**|Daniel Fesalbon et.al.|[2405.02098](http://arxiv.org/abs/2405.02098)|null|
+|**2024-05-03**|**A semantic loss for ontology classification**|Simon Flügel et.al.|[2405.02083](http://arxiv.org/abs/2405.02083)|null|
+|**2024-05-03**|**Towards general deep-learning-based tree instance segmentation models**|Jonathan Henrich et.al.|[2405.02061](http://arxiv.org/abs/2405.02061)|null|
+|**2024-05-03**|**Exploring Combinatorial Problem Solving with Large Language Models: A Case Study on the Travelling Salesman Problem Using GPT-3.5 Turbo**|Mahmoud Masoud et.al.|[2405.01997](http://arxiv.org/abs/2405.01997)|null|
+|**2024-05-03**|**Introducing a microstructure-embedded autoencoder approach for reconstructing high-resolution solution field from reduced parametric space**|Rasoul Najafi Koopas et.al.|[2405.01975](http://arxiv.org/abs/2405.01975)|null|
+|**2024-05-03**|**Real-time multichannel deep speech enhancement in hearing aids: Comparing monaural and binaural processing in complex acoustic scenarios**|Nils L. Westhausen et.al.|[2405.01967](http://arxiv.org/abs/2405.01967)|null|
+|**2024-05-03**|**A Deep Learning Approach in RIS-based Indoor Localization**|Rafael A. Aguiar et.al.|[2405.01965](http://arxiv.org/abs/2405.01965)|null|
 |**2024-05-03**|**A separability-based approach to quantifying generalization: which layer is best?**|Luciano Dyballa et.al.|[2405.01524](http://arxiv.org/abs/2405.01524)|null|
 |**2024-05-02**|**Model-based Deep Learning for Rate Split Multiple Access in Vehicular Communications**|Hanwen Zhang et.al.|[2405.01515](http://arxiv.org/abs/2405.01515)|null|
 |**2024-05-02**|**Common pitfalls to avoid while using multiobjective optimization in machine learning**|Junaid Akhter et.al.|[2405.01480](http://arxiv.org/abs/2405.01480)|null|
