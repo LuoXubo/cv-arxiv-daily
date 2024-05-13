@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-10**|**MGS-SLAM: Monocular Sparse Tracking and Gaussian Mapping with Depth Smooth Regularization**|Pengcheng Zhu et.al.|[2405.06241](http://arxiv.org/abs/2405.06241)|null|
 |**2024-05-07**|**Bayesian Simultaneous Localization and Multi-Lane Tracking Using Onboard Sensors and a SD Map**|Yuxuan Xia et.al.|[2405.04290](http://arxiv.org/abs/2405.04290)|null|
 |**2024-05-07**|**IMU-Aided Event-based Stereo Visual Odometry**|Junkai Niu et.al.|[2405.04071](http://arxiv.org/abs/2405.04071)|**[link](https://github.com/nail-hnu/esvio_aa)**|
 |**2024-04-27**|**An Attention-Based Deep Learning Architecture for Real-Time Monocular Visual Odometry: Applications to GPS-free Drone Navigation**|Olivier Brochu Dufour et.al.|[2404.17745](http://arxiv.org/abs/2404.17745)|null|
@@ -1784,6 +1785,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-10**|**SketchDream: Sketch-based Text-to-3D Generation and Editing**|Feng-Lin Liu et.al.|[2405.06461](http://arxiv.org/abs/2405.06461)|null|
+|**2024-05-10**|**Aerial-NeRF: Adaptive Spatial Partitioning and Sampling for Large-Scale Aerial Rendering**|Xiaohan Zhang et.al.|[2405.06214](http://arxiv.org/abs/2405.06214)|null|
+|**2024-05-10**|**Residual-NeRF: Learning Residual NeRFs for Transparent Object Manipulation**|Bardienus P. Duisterhof et.al.|[2405.06181](http://arxiv.org/abs/2405.06181)|null|
 |**2024-05-09**|**DragGaussian: Enabling Drag-style Manipulation on 3D Gaussian Representation**|Sitian Shen et.al.|[2405.05800](http://arxiv.org/abs/2405.05800)|null|
 |**2024-05-10**|**NeRFFaceSpeech: One-shot Audio-driven 3D Talking Head Synthesis via Generative Prior**|Gihoon Kim et.al.|[2405.05749](http://arxiv.org/abs/2405.05749)|null|
 |**2024-05-09**|**RPBG: Towards Robust Neural Point-based Graphics in the Wild**|Qingtian Zhu et.al.|[2405.05663](http://arxiv.org/abs/2405.05663)|null|
@@ -2803,6 +2807,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-10**|**Scalable Property Valuation Models via Graph-based Deep Learning**|Enrique Riveros et.al.|[2405.06553](http://arxiv.org/abs/2405.06553)|null|
+|**2024-05-10**|**ATSumm: Auxiliary information enhanced approach for abstractive disaster Tweet Summarization with sparse training data**|Piyush Kumar Garg et.al.|[2405.06541](http://arxiv.org/abs/2405.06541)|null|
+|**2024-05-10**|**Improving Deep Learning Model Calibration for Cardiac Applications using Deterministic Uncertainty Networks and Uncertainty-aware Training**|Tareen Dawood et.al.|[2405.06487](http://arxiv.org/abs/2405.06487)|null|
+|**2024-05-10**|**Autonomous Driving with a Deep Dual-Model Solution for Steering and Braking Control**|Ana Petra Jukić et.al.|[2405.06473](http://arxiv.org/abs/2405.06473)|null|
+|**2024-05-10**|**MRSegmentator: Robust Multi-Modality Segmentation of 40 Classes in MRI and CT Sequences**|Hartmut Häntze et.al.|[2405.06463](http://arxiv.org/abs/2405.06463)|**[link](https://github.com/hhaentze/mrsegmentator)**|
+|**2024-05-10**|**How to Augment for Atmospheric Turbulence Effects on Thermal Adapted Object Detection Models?**|Engin Uzun et.al.|[2405.06383](http://arxiv.org/abs/2405.06383)|null|
+|**2024-05-10**|**Open Access Battle Damage Detection via Pixel-Wise T-Test on Sentinel-1 Imagery**|Ollie Ballinger et.al.|[2405.06323](http://arxiv.org/abs/2405.06323)|null|
+|**2024-05-10**|**Automated Cell Structure Extraction for 3D Electron Microscopy by Deep Learning**|Jin Kousaka et.al.|[2405.06303](http://arxiv.org/abs/2405.06303)|null|
+|**2024-05-10**|**Cross-domain Learning Framework for Tracking Users in RIS-aided Multi-band ISAC Systems with Sparse Labeled Data**|Jingzhi Hu et.al.|[2405.06299](http://arxiv.org/abs/2405.06299)|null|
+|**2024-05-10**|**PUMA: margin-based data pruning**|Javier Maroto et.al.|[2405.06298](http://arxiv.org/abs/2405.06298)|null|
 |**2024-05-09**|**Deep Multi-Task Learning for Malware Image Classification**|Ahmed Bensaoud et.al.|[2405.05906](http://arxiv.org/abs/2405.05906)|null|
 |**2024-05-09**|**A Comprehensive Survey of Masked Faces: Recognition, Detection, and Unmasking**|Mohamed Mahmoud et.al.|[2405.05900](http://arxiv.org/abs/2405.05900)|null|
 |**2024-05-09**|**Robust and Explainable Fine-Grained Visual Classification with Transfer Learning: A Dual-Carriageway Framework**|Zheming Zuo et.al.|[2405.05853](http://arxiv.org/abs/2405.05853)|null|
