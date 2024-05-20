@@ -574,6 +574,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-17**|**CCTNet: A Circular Convolutional Transformer Network for LiDAR-based Place Recognition Handling Movable Objects Occlusion**|Gang Wang et.al.|[2405.10793](http://arxiv.org/abs/2405.10793)|null|
 |**2024-05-16**|**FFF: Fixing Flawed Foundations in contrastive pre-training results in very strong Vision-Language models**|Adrian Bulat et.al.|[2405.10286](http://arxiv.org/abs/2405.10286)|null|
 |**2024-05-15**|**Content-Based Image Retrieval for Multi-Class Volumetric Radiology Images: A Benchmark Study**|Farnaz Khun Jush et.al.|[2405.09334](http://arxiv.org/abs/2405.09334)|null|
 |**2024-05-14**|**BEVRender: Vision-based Cross-view Vehicle Registration in Off-road GNSS-denied Environment**|Lihong Jin et.al.|[2405.09001](http://arxiv.org/abs/2405.09001)|null|
@@ -2829,6 +2830,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-17**|**A Versatile Framework for Analyzing Galaxy Image Data by Implanting Human-in-the-loop on a Large Vision Model**|Mingxiang Fu et.al.|[2405.10890](http://arxiv.org/abs/2405.10890)|null|
+|**2024-05-17**|**Application of Artificial Intelligence in Schizophrenia Rehabilitation Management: Systematic Literature Review**|Hongyi Yang et.al.|[2405.10883](http://arxiv.org/abs/2405.10883)|null|
+|**2024-05-17**|**WEITS: A Wavelet-enhanced residual framework for interpretable time series forecasting**|Ziyou Guo et.al.|[2405.10877](http://arxiv.org/abs/2405.10877)|null|
+|**2024-05-17**|**BraTS-Path Challenge: Assessing Heterogeneous Histopathologic Brain Tumor Sub-regions**|Spyridon Bakas et.al.|[2405.10871](http://arxiv.org/abs/2405.10871)|null|
+|**2024-05-17**|**Multicenter Privacy-Preserving Model Training for Deep Learning Brain Metastases Autosegmentation**|Yixing Huang et.al.|[2405.10870](http://arxiv.org/abs/2405.10870)|null|
+|**2024-05-17**|**Automated Radiology Report Generation: A Review of Recent Advances**|Phillip Sloan et.al.|[2405.10842](http://arxiv.org/abs/2405.10842)|null|
+|**2024-05-17**|**Automatic segmentation of Organs at Risk in Head and Neck cancer patients from CT and MRI scans**|Sébastien Quetin et.al.|[2405.10833](http://arxiv.org/abs/2405.10833)|null|
+|**2024-05-17**|**A Large-scale Multi Domain Leukemia Dataset for the White Blood Cells Detection with Morphological Attributes for Explainability**|Abdul Rehman et.al.|[2405.10803](http://arxiv.org/abs/2405.10803)|null|
+|**2024-05-17**|**Evaluating Saliency Explanations in NLP by Crowdsourcing**|Xiaotian Lu et.al.|[2405.10767](http://arxiv.org/abs/2405.10767)|**[link](https://github.com/xtlu/lreccoling_evaluation)**|
+|**2024-05-17**|**Deep Data Consistency: a Fast and Robust Diffusion Model-based Solver for Inverse Problems**|Hanyu Chen et.al.|[2405.10748](http://arxiv.org/abs/2405.10748)|**[link](https://github.com/hanyu-chen373/deepdataconsistency)**|
 |**2024-05-16**|**Automated Federated Learning via Informed Pruning**|Christian Internò et.al.|[2405.10271](http://arxiv.org/abs/2405.10271)|**[link](https://github.com/christianinterno/autoflip)**|
 |**2024-05-16**|**Biasing & Debiasing based Approach Towards Fair Knowledge Transfer for Equitable Skin Analysis**|Anshul Pundhir et.al.|[2405.10256](http://arxiv.org/abs/2405.10256)|null|
 |**2024-05-16**|**Deep Koopman Operator-Informed Safety Command Governor for Autonomous Vehicles**|Hao Chen et.al.|[2405.10145](http://arxiv.org/abs/2405.10145)|null|
