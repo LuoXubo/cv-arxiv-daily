@@ -580,6 +580,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-13**|**Common and Rare Fundus Diseases Identification Using Vision-Language Foundation Model with Knowledge of Over 400 Diseases**|Meng Wang et.al.|[2406.09317](http://arxiv.org/abs/2406.09317)|null|
+|**2024-06-13**|**Reducing Task Discrepancy of Text Encoders for Zero-Shot Composed Image Retrieval**|Jaeseok Byun et.al.|[2406.09188](http://arxiv.org/abs/2406.09188)|null|
+|**2024-06-13**|**DenoiseReID: Denoising Model for Representation Learning of Person Re-Identification**|Zhengrui Xu et.al.|[2406.08773](http://arxiv.org/abs/2406.08773)|null|
 |**2024-06-12**|**Self-supervised Learning of Neural Implicit Feature Fields for Camera Pose Refinement**|Maxime Pietrantoni et.al.|[2406.08463](http://arxiv.org/abs/2406.08463)|null|
 |**2024-06-12**|**ConceptHash: Interpretable Fine-Grained Hashing via Concept Discovery**|Kam Woh Ng et.al.|[2406.08457](http://arxiv.org/abs/2406.08457)|**[link](https://github.com/kamwoh/concepthash)**|
 |**2024-06-11**|**Image Textualization: An Automatic Framework for Creating Accurate and Detailed Image Descriptions**|Renjie Pi et.al.|[2406.07502](http://arxiv.org/abs/2406.07502)|**[link](https://github.com/sterzhang/image-textualization)**|
@@ -1844,6 +1847,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-13**|**Rethinking Score Distillation as a Bridge Between Image Distributions**|David McAllister et.al.|[2406.09417](http://arxiv.org/abs/2406.09417)|null|
+|**2024-06-13**|**Preserving Identity with Variational Score for General-purpose 3D Editing**|Duong H. Le et.al.|[2406.08953](http://arxiv.org/abs/2406.08953)|null|
+|**2024-06-13**|**Neural NeRF Compression**|Tuan Pham et.al.|[2406.08943](http://arxiv.org/abs/2406.08943)|null|
+|**2024-06-13**|**AV-GS: Learning Material and Geometry Aware Priors for Novel View Acoustic Synthesis**|Swapnil Bhosale et.al.|[2406.08920](http://arxiv.org/abs/2406.08920)|null|
+|**2024-06-13**|**NeRF Director: Revisiting View Selection in Neural Volume Rendering**|Wenhui Xiao et.al.|[2406.08839](http://arxiv.org/abs/2406.08839)|null|
 |**2024-06-12**|**ICE-G: Image Conditional Editing of 3D Gaussian Splats**|Vishnu Jaganathan et.al.|[2406.08488](http://arxiv.org/abs/2406.08488)|null|
 |**2024-06-12**|**OpenObj: Open-Vocabulary Object-Level Neural Radiance Fields with Fine-Grained Understanding**|Yinan Deng et.al.|[2406.08009](http://arxiv.org/abs/2406.08009)|**[link](https://github.com/BIT-DYN/OpenObj)**|
 |**2024-06-12**|**Spatial Annealing Smoothing for Efficient Few-shot Neural Rendering**|Yuru Xiao et.al.|[2406.07828](http://arxiv.org/abs/2406.07828)|**[link](https://github.com/pulangk97/SANeRF)**|
@@ -2940,6 +2948,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-13**|**Why Warmup the Learning Rate? Underlying Mechanisms and Improvements**|Dayal Singh Kalra et.al.|[2406.09405](http://arxiv.org/abs/2406.09405)|null|
+|**2024-06-13**|**Enhancing Domain Adaptation through Prompt Gradient Alignment**|Hoang Phan et.al.|[2406.09353](http://arxiv.org/abs/2406.09353)|null|
+|**2024-06-13**|**Active Inference Meeting Energy-Efficient Control of Parallel and Identical Machines**|Yavar Taheri Yeganeh et.al.|[2406.09322](http://arxiv.org/abs/2406.09322)|null|
+|**2024-06-13**|**You Don't Need Data-Augmentation in Self-Supervised Learning**|Théo Moutakanni et.al.|[2406.09294](http://arxiv.org/abs/2406.09294)|null|
+|**2024-06-13**|**Generative Inverse Design of Crystal Structures via Diffusion Models with Transformers**|Izumi Takahara et.al.|[2406.09263](http://arxiv.org/abs/2406.09263)|null|
+|**2024-06-13**|**SR-CACO-2: A Dataset for Confocal Fluorescence Microscopy Image Super-Resolution**|Soufiane Belharbi et.al.|[2406.09168](http://arxiv.org/abs/2406.09168)|**[link](https://github.com/sbelharbi/sr-caco-2)**|
+|**2024-06-13**|**Vision Transformer Segmentation for Visual Bird Sound Denoising**|Sahil Kumar et.al.|[2406.09167](http://arxiv.org/abs/2406.09167)|null|
+|**2024-06-13**|**Complex Image-Generative Diffusion Transformer for Audio Denoising**|Junhui Li et.al.|[2406.09161](http://arxiv.org/abs/2406.09161)|null|
+|**2024-06-13**|**ALPHAGMUT: A Rationale-Guided Alpha Shape Graph Neural Network to Evaluate Mutation Effects**|Boshen Wang et.al.|[2406.09159](http://arxiv.org/abs/2406.09159)|null|
+|**2024-06-13**|**Direct Imitation Learning-based Visual Servoing using the Large Projection Formulation**|Sayantan Auddy et.al.|[2406.09120](http://arxiv.org/abs/2406.09120)|null|
 |**2024-06-12**|**Exploiting the diversity of modeling methods to probe systematic biases in strong lensing analyses**|A. Galan et.al.|[2406.08484](http://arxiv.org/abs/2406.08484)|null|
 |**2024-06-12**|**Scaling Laws in Linear Regression: Compute, Parameters, and Data**|Licong Lin et.al.|[2406.08466](http://arxiv.org/abs/2406.08466)|null|
 |**2024-06-12**|**PixMamba: Leveraging State Space Models in a Dual-Level Architecture for Underwater Image Enhancement**|Wei-Tung Lin et.al.|[2406.08444](http://arxiv.org/abs/2406.08444)|**[link](https://github.com/weitunglin/pixmamba)**|
