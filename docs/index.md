@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.17
+## Updated on 2024.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -580,6 +580,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-14**|**Annotation Cost-Efficient Active Learning for Deep Metric Learning Driven Remote Sensing Image Retrieval**|Genc Hoxha et.al.|[2406.10107](http://arxiv.org/abs/2406.10107)|null|
+|**2024-06-14**|**BiVLC: Extending Vision-Language Compositionality Evaluation with Text-to-Image Retrieval**|Imanol Miranda et.al.|[2406.09952](http://arxiv.org/abs/2406.09952)|**[link](https://github.com/imirandam/bivlc)**|
 |**2024-06-13**|**Common and Rare Fundus Diseases Identification Using Vision-Language Foundation Model with Knowledge of Over 400 Diseases**|Meng Wang et.al.|[2406.09317](http://arxiv.org/abs/2406.09317)|null|
 |**2024-06-13**|**Reducing Task Discrepancy of Text Encoders for Zero-Shot Composed Image Retrieval**|Jaeseok Byun et.al.|[2406.09188](http://arxiv.org/abs/2406.09188)|null|
 |**2024-06-13**|**DenoiseReID: Denoising Model for Representation Learning of Person Re-Identification**|Zhengrui Xu et.al.|[2406.08773](http://arxiv.org/abs/2406.08773)|null|
@@ -587,7 +589,7 @@ layout: default
 |**2024-06-12**|**ConceptHash: Interpretable Fine-Grained Hashing via Concept Discovery**|Kam Woh Ng et.al.|[2406.08457](http://arxiv.org/abs/2406.08457)|**[link](https://github.com/kamwoh/concepthash)**|
 |**2024-06-11**|**Image Textualization: An Automatic Framework for Creating Accurate and Detailed Image Descriptions**|Renjie Pi et.al.|[2406.07502](http://arxiv.org/abs/2406.07502)|**[link](https://github.com/sterzhang/image-textualization)**|
 |**2024-06-11**|**Benchmarking Vision-Language Contrastive Methods for Medical Representation Learning**|Shuvendu Roy et.al.|[2406.07450](http://arxiv.org/abs/2406.07450)|**[link](https://github.com/shuvenduroy/multimodal)**|
-|**2024-06-11**|**Fetch-A-Set: A Large-Scale OCR-Free Benchmark for Historical Document Retrieval**|Adrià Molina et.al.|[2406.07315](http://arxiv.org/abs/2406.07315)|null|
+|**2024-06-16**|**Fetch-A-Set: A Large-Scale OCR-Free Benchmark for Historical Document Retrieval**|Adrià Molina et.al.|[2406.07315](http://arxiv.org/abs/2406.07315)|null|
 |**2024-06-10**|**Multicam-SLAM: Non-overlapping Multi-camera SLAM for Indirect Visual Localization and Navigation**|Shenghao Li et.al.|[2406.06374](http://arxiv.org/abs/2406.06374)|**[link](https://github.com/alterpang/multi_orb_slam)**|
 |**2024-06-09**|**Unified Text-to-Image Generation and Retrieval**|Leigang Qu et.al.|[2406.05814](http://arxiv.org/abs/2406.05814)|null|
 |**2024-06-07**|**The Unmet Promise of Synthetic Training Images: Using Retrieved Real Images Performs Better**|Scott Geng et.al.|[2406.05184](http://arxiv.org/abs/2406.05184)|**[link](https://github.com/scottgeng00/unmet-promise)**|
@@ -1611,6 +1613,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-14**|**Grounding Image Matching in 3D with MASt3R**|Vincent Leroy et.al.|[2406.09756](http://arxiv.org/abs/2406.09756)|null|
 |**2024-06-05**|**A Self-Supervised Denoising Strategy for Underwater Acoustic Camera Imageries**|Xiaoteng Zhou et.al.|[2406.02914](http://arxiv.org/abs/2406.02914)|null|
 |**2024-05-22**|**Affine-based Deformable Attention and Selective Fusion for Semi-dense Matching**|Hongkai Chen et.al.|[2405.13874](http://arxiv.org/abs/2405.13874)|null|
 |**2024-05-21**|**OmniGlue: Generalizable Feature Matching with Foundation Model Guidance**|Hanwen Jiang et.al.|[2405.12979](http://arxiv.org/abs/2405.12979)|**[link](https://github.com/google-research/omniglue)**|
@@ -1847,6 +1850,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-14**|**PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting**|Alex Hanson et.al.|[2406.10219](http://arxiv.org/abs/2406.10219)|null|
+|**2024-06-14**|**GaussianSR: 3D Gaussian Super-Resolution with 2D Diffusion Priors**|Xiqian Yu et.al.|[2406.10111](http://arxiv.org/abs/2406.10111)|null|
+|**2024-06-14**|**OrientDream: Streamlining Text-to-3D Generation with Explicit Orientation Control**|Yuzhong Huang et.al.|[2406.10000](http://arxiv.org/abs/2406.10000)|null|
+|**2024-06-14**|**dGrasp: NeRF-Informed Implicit Grasp Policies with Supervised Optimization Slopes**|Gergely Sóti et.al.|[2406.09939](http://arxiv.org/abs/2406.09939)|null|
+|**2024-06-14**|**RaNeuS: Ray-adaptive Neural Surface Reconstruction**|Yida Wang et.al.|[2406.09801](http://arxiv.org/abs/2406.09801)|**[link](https://github.com/wangyida/ra-neus)**|
 |**2024-06-13**|**Rethinking Score Distillation as a Bridge Between Image Distributions**|David McAllister et.al.|[2406.09417](http://arxiv.org/abs/2406.09417)|null|
 |**2024-06-13**|**Preserving Identity with Variational Score for General-purpose 3D Editing**|Duong H. Le et.al.|[2406.08953](http://arxiv.org/abs/2406.08953)|null|
 |**2024-06-13**|**Neural NeRF Compression**|Tuan Pham et.al.|[2406.08943](http://arxiv.org/abs/2406.08943)|null|
@@ -2948,6 +2956,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-14**|**Enhancing Incomplete Multi-modal Brain Tumor Segmentation with Intra-modal Asymmetry and Inter-modal Dependency**|Weide Liu et.al.|[2406.10175](http://arxiv.org/abs/2406.10175)|null|
+|**2024-06-14**|**Misam: Using ML in Dataflow Selection of Sparse-Sparse Matrix Multiplication**|Sanjali Yadav et.al.|[2406.10166](http://arxiv.org/abs/2406.10166)|null|
+|**2024-06-14**|**Automated Design of Linear Bounding Functions for Sigmoidal Nonlinearities in Neural Networks**|Matthias König et.al.|[2406.10154](http://arxiv.org/abs/2406.10154)|null|
+|**2024-06-14**|**Improving neutrino energy estimation of charged-current interaction events with recurrent neural networks in MicroBooNE**|MicroBooNE collaboration et.al.|[2406.10123](http://arxiv.org/abs/2406.10123)|null|
+|**2024-06-14**|**Bridging the Communication Gap: Artificial Agents Learning Sign Language through Imitation**|Federico Tavella et.al.|[2406.10043](http://arxiv.org/abs/2406.10043)|null|
+|**2024-06-14**|**Information Compression in the AI Era: Recent Advances and Future Challenges**|Jun Chen et.al.|[2406.10036](http://arxiv.org/abs/2406.10036)|null|
+|**2024-06-14**|**Intepretative Deep Learning using Domain Adaptation for Fluorescence Spectroscopy**|Umberto Michelucci et.al.|[2406.10031](http://arxiv.org/abs/2406.10031)|null|
+|**2024-06-14**|**Self-Supervised and Few-Shot Learning for Robust Bioaerosol Monitoring**|Adrian Willi et.al.|[2406.09984](http://arxiv.org/abs/2406.09984)|null|
+|**2024-06-14**|**Challenges in explaining deep learning models for data with biological variation**|Lenka Tětková et.al.|[2406.09981](http://arxiv.org/abs/2406.09981)|null|
+|**2024-06-14**|**Deep Learning Models to Automate the Scoring of Hand Radiographs for Rheumatoid Arthritis**|Zhiyan Bo et.al.|[2406.09980](http://arxiv.org/abs/2406.09980)|null|
 |**2024-06-13**|**Why Warmup the Learning Rate? Underlying Mechanisms and Improvements**|Dayal Singh Kalra et.al.|[2406.09405](http://arxiv.org/abs/2406.09405)|null|
 |**2024-06-13**|**Enhancing Domain Adaptation through Prompt Gradient Alignment**|Hoang Phan et.al.|[2406.09353](http://arxiv.org/abs/2406.09353)|null|
 |**2024-06-13**|**Active Inference Meeting Energy-Efficient Control of Parallel and Identical Machines**|Yavar Taheri Yeganeh et.al.|[2406.09322](http://arxiv.org/abs/2406.09322)|null|
