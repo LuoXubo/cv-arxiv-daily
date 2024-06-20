@@ -2976,7 +2976,7 @@ layout: default
 |**2024-06-18**|**Graph Neural Networks in Histopathology: Emerging Trends and Future Directions**|Siemen Brussee et.al.|[2406.12808](http://arxiv.org/abs/2406.12808)|null|
 |**2024-06-18**|**Probabilistic Temporal Prediction of Continuous Disease Trajectories and Treatment Effects Using Neural SDEs**|Joshua Durso-Finley et.al.|[2406.12807](http://arxiv.org/abs/2406.12807)|null|
 |**2024-06-18**|**GFM4MPM: Towards Geospatial Foundation Models for Mineral Prospectivity Mapping**|Angel Daruna et.al.|[2406.12756](http://arxiv.org/abs/2406.12756)|null|
-|**2024-06-18**|**TSI-Bench: Benchmarking Time Series Imputation**|Wenjie Du et.al.|[2406.12747](http://arxiv.org/abs/2406.12747)|**[link](https://github.com/wenjiedu/awesomeimputation)**|
+|**2024-06-18**|**TSI-Bench: Benchmarking Time Series Imputation**|Wenjie Du et.al.|[2406.12747](http://arxiv.org/abs/2406.12747)|**[link](https://github.com/WenjieDu/PyPOTS)**|
 |**2024-06-18**|**XXLTraffic: Expanding and Extremely Long Traffic Dataset for Ultra-Dynamic Forecasting Challenges**|Du Yin et.al.|[2406.12693](http://arxiv.org/abs/2406.12693)|null|
 |**2024-06-18**|**Spatial Sequence Attention Network for Schizophrenia Classification from Structural Brain MR Images**|Nagur Shareef Shaik et.al.|[2406.12683](http://arxiv.org/abs/2406.12683)|null|
 |**2024-06-18**|**Online Anchor-based Training for Image Classification Tasks**|Maria Tzelepi et.al.|[2406.12662](http://arxiv.org/abs/2406.12662)|null|
