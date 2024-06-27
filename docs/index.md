@@ -582,6 +582,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-26**|**View-Invariant Pixelwise Anomaly Detection in Multi-object Scenes with Adaptive View Synthesis**|Subin Varghese et.al.|[2406.18012](http://arxiv.org/abs/2406.18012)|null|
 |**2024-06-25**|**Tell Me Where You Are: Multimodal LLMs Meet Place Recognition**|Zonglin Lyu et.al.|[2406.17520](http://arxiv.org/abs/2406.17520)|null|
 |**2024-06-25**|**SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation**|Xu Liu et.al.|[2406.17249](http://arxiv.org/abs/2406.17249)|null|
 |**2024-06-23**|**Breaking the Frame: Image Retrieval by Visual Overlap Prediction**|Tong Wei et.al.|[2406.16204](http://arxiv.org/abs/2406.16204)|null|
@@ -2998,6 +2999,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-26**|**Denoising as Adaptation: Noise-Space Domain Adaptation for Image Restoration**|Kang Liao et.al.|[2406.18516](http://arxiv.org/abs/2406.18516)|**[link](https://github.com/kangliao929/noise-da)**|
+|**2024-06-26**|**Assessment of Clonal Hematopoiesis of Indeterminate Potential from Cardiac Magnetic Resonance Imaging using Deep Learning in a Cardio-oncology Population**|Sangeon Ryu et.al.|[2406.18508](http://arxiv.org/abs/2406.18508)|null|
+|**2024-06-26**|**Detecting Brittle Decisions for Free: Leveraging Margin Consistency in Deep Robust Classifiers**|Jonas Ngnawé et.al.|[2406.18451](http://arxiv.org/abs/2406.18451)|**[link](https://github.com/ngnawejonas/margin-consistency)**|
+|**2024-06-26**|**Unveiling the Unknown: Conditional Evidence Decoupling for Unknown Rejection**|Zhaowei Wu et.al.|[2406.18443](http://arxiv.org/abs/2406.18443)|**[link](https://github.com/zjzwzw/ced-food)**|
+|**2024-06-26**|**AlphaForge: A Framework to Mine and Dynamically Combine Formulaic Alpha Factors**|Hao Shi et.al.|[2406.18394](http://arxiv.org/abs/2406.18394)|null|
+|**2024-06-26**|**ContactNet: Geometric-Based Deep Learning Model for Predicting Protein-Protein Interactions**|Matan Halfon et.al.|[2406.18314](http://arxiv.org/abs/2406.18314)|null|
+|**2024-06-26**|**Spatial-temporal Hierarchical Reinforcement Learning for Interpretable Pathology Image Super-Resolution**|Wenting Chen et.al.|[2406.18310](http://arxiv.org/abs/2406.18310)|**[link](https://github.com/cuhk-aim-group/star-rl)**|
+|**2024-06-26**|**Foundational Models for Pathology and Endoscopy Images: Application for Gastric Inflammation**|Hamideh Kerdegari et.al.|[2406.18249](http://arxiv.org/abs/2406.18249)|null|
+|**2024-06-26**|**Guiding Video Prediction with Explicit Procedural Knowledge**|Patrick Takenaka et.al.|[2406.18220](http://arxiv.org/abs/2406.18220)|null|
+|**2024-06-26**|**DeepExtremeCubes: Integrating Earth system spatio-temporal data for impact assessment of climate extremes**|Chaonan Ji et.al.|[2406.18179](http://arxiv.org/abs/2406.18179)|null|
 |**2024-06-25**|**Benchmarking Deep Learning Models on NVIDIA Jetson Nano for Real-Time Systems: An Empirical Investigation**|Tushar Prasanna Swaminathan et.al.|[2406.17749](http://arxiv.org/abs/2406.17749)|null|
 |**2024-06-25**|**Light-weight End-to-End Graph Interest Network for CTR Prediction in E-commerce Search**|Pai Peng et.al.|[2406.17745](http://arxiv.org/abs/2406.17745)|null|
 |**2024-06-25**|**BayTTA: Uncertainty-aware medical image classification with optimized test-time augmentation using Bayesian model averaging**|Zeinab Sherkatghanad et.al.|[2406.17640](http://arxiv.org/abs/2406.17640)|null|
