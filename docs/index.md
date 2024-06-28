@@ -582,6 +582,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-27**|**360 in the Wild: Dataset for Depth Prediction and View Synthesis**|Kibaek Park et.al.|[2406.18898](http://arxiv.org/abs/2406.18898)|null|
+|**2024-06-27**|**Zero-shot Composed Image Retrieval Considering Query-target Relationship Leveraging Masked Image-text Pairs**|Huaying Zhang et.al.|[2406.18836](http://arxiv.org/abs/2406.18836)|null|
+|**2024-06-26**|**WV-Net: A foundation model for SAR WV-mode satellite imagery trained using contrastive self-supervised learning on 10 million images**|Yannik Glaser et.al.|[2406.18765](http://arxiv.org/abs/2406.18765)|null|
 |**2024-06-26**|**View-Invariant Pixelwise Anomaly Detection in Multi-object Scenes with Adaptive View Synthesis**|Subin Varghese et.al.|[2406.18012](http://arxiv.org/abs/2406.18012)|null|
 |**2024-06-25**|**Tell Me Where You Are: Multimodal LLMs Meet Place Recognition**|Zonglin Lyu et.al.|[2406.17520](http://arxiv.org/abs/2406.17520)|null|
 |**2024-06-25**|**SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation**|Xu Liu et.al.|[2406.17249](http://arxiv.org/abs/2406.17249)|null|
@@ -1865,6 +1868,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-27**|**Shorter SPECT Scans Using Self-supervised Coordinate Learning to Synthesize Skipped Projection Views**|Zongyu Li et.al.|[2406.18840](http://arxiv.org/abs/2406.18840)|null|
 |**2024-06-25**|**Implicit-Zoo: A Large-Scale Dataset of Neural Implicit Functions for 2D Images and 3D Scenes**|Qi Ma et.al.|[2406.17438](http://arxiv.org/abs/2406.17438)|**[link](https://github.com/qimaqi/Implicit-Zoo)**|
 |**2024-06-25**|**NerfBaselines: Consistent and Reproducible Evaluation of Novel View Synthesis Methods**|Jonas Kulhanek et.al.|[2406.17345](http://arxiv.org/abs/2406.17345)|null|
 |**2024-06-24**|**From Perfect to Noisy World Simulation: Customizable Embodied Multi-modal Perturbations for SLAM Robustness Benchmarking**|Xiaohao Xu et.al.|[2406.16850](http://arxiv.org/abs/2406.16850)|**[link](https://github.com/xiaohao-xu/slam-under-perturbation)**|
@@ -2999,6 +3003,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-27**|**Mapping Land Naturalness from Sentinel-2 using Deep Contextual and Geographical Priors**|Burak Ekim et.al.|[2406.19302](http://arxiv.org/abs/2406.19302)|null|
+|**2024-06-27**|**Data Preparation for Deep Learning based Code Smell Detection: A Systematic Literature Review**|Fengji Zhang et.al.|[2406.19240](http://arxiv.org/abs/2406.19240)|null|
+|**2024-06-27**|**Hack Me If You Can: Aggregating AutoEncoders for Countering Persistent Access Threats Within Highly Imbalanced Data**|Sidahmed Benabderrahmane et.al.|[2406.19220](http://arxiv.org/abs/2406.19220)|null|
+|**2024-06-27**|**Advancing operational PM2.5 forecasting with dual deep neural networks (D-DNet)**|Shengjuan Cai et.al.|[2406.19154](http://arxiv.org/abs/2406.19154)|null|
+|**2024-06-27**|**YZS-model: A Predictive Model for Organic Drug Solubility Based on Graph Convolutional Networks and Transformer-Attention**|Chenxu Wang et.al.|[2406.19136](http://arxiv.org/abs/2406.19136)|null|
+|**2024-06-27**|**Evidential Concept Embedding Models: Towards Reliable Concept Explanations for Skin Disease Diagnosis**|Yibo Gao et.al.|[2406.19130](http://arxiv.org/abs/2406.19130)|**[link](https://github.com/obiyoag/evi-cem)**|
+|**2024-06-27**|**Statements: Universal Information Extraction from Tables with Large Language Models for ESG KPIs**|Lokesh Mishra et.al.|[2406.19102](http://arxiv.org/abs/2406.19102)|null|
+|**2024-06-27**|**Unsupervised Latent Stain Adaption for Digital Pathology**|Daniel Reisenbüchler et.al.|[2406.19081](http://arxiv.org/abs/2406.19081)|null|
+|**2024-06-27**|**A look under the hood of the Interactive Deep Learning Enterprise (No-IDLE)**|Daniel Sonntag et.al.|[2406.19054](http://arxiv.org/abs/2406.19054)|null|
+|**2024-06-27**|**Using diffusion model as constraint: Empower Image Restoration Network Training with Diffusion Model**|Jiangtong Tan et.al.|[2406.19030](http://arxiv.org/abs/2406.19030)|null|
 |**2024-06-26**|**Denoising as Adaptation: Noise-Space Domain Adaptation for Image Restoration**|Kang Liao et.al.|[2406.18516](http://arxiv.org/abs/2406.18516)|**[link](https://github.com/kangliao929/noise-da)**|
 |**2024-06-26**|**Assessment of Clonal Hematopoiesis of Indeterminate Potential from Cardiac Magnetic Resonance Imaging using Deep Learning in a Cardio-oncology Population**|Sangeon Ryu et.al.|[2406.18508](http://arxiv.org/abs/2406.18508)|null|
 |**2024-06-26**|**Detecting Brittle Decisions for Free: Leveraging Margin Consistency in Deep Robust Classifiers**|Jonas Ngnawé et.al.|[2406.18451](http://arxiv.org/abs/2406.18451)|**[link](https://github.com/ngnawejonas/margin-consistency)**|
