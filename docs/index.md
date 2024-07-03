@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.02
+## Updated on 2024.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3012,7 +3012,7 @@ layout: default
 |**2024-06-28**|**Malaria Cell Detection Using Deep Neural Networks**|Saurabh Sawant et.al.|[2406.20005](http://arxiv.org/abs/2406.20005)|null|
 |**2024-06-28**|**NetNN: Neural Intrusion Detection System in Programmable Networks**|Kamran Razavi et.al.|[2406.19990](http://arxiv.org/abs/2406.19990)|null|
 |**2024-06-28**|**RealMAN: A Real-Recorded and Annotated Microphone Array Dataset for Dynamic Speech Enhancement and Localization**|Bing Yang et.al.|[2406.19959](http://arxiv.org/abs/2406.19959)|null|
-|**2024-06-28**|**Neural Network Representations of Multiphase Equations of State**|George A. Kevrekidis et.al.|[2406.19957](http://arxiv.org/abs/2406.19957)|null|
+|**2024-07-01**|**Neural Network Representations of Multiphase Equations of State**|George A. Kevrekidis et.al.|[2406.19957](http://arxiv.org/abs/2406.19957)|null|
 |**2024-06-28**|**Impact of Initialization on Intra-subject Pediatric Brain MR Image Registration: A Comparative Analysis between SyN ANTs and Deep Learning-Based Approaches**|Andjela Dimitrijevic et.al.|[2406.19943](http://arxiv.org/abs/2406.19943)|**[link](https://github.com/neuropoly/pediatric-dl-registration)**|
 |**2024-06-28**|**Deep Learning of Multivariate Extremes via a Geometric Representation**|Callum J. R. Murphy-Barltrop et.al.|[2406.19936](http://arxiv.org/abs/2406.19936)|null|
 |**2024-06-28**|**On the Value of PHH3 for Mitotic Figure Detection on H&E-stained Images**|Jonathan Ganz et.al.|[2406.19899](http://arxiv.org/abs/2406.19899)|null|
