@@ -14,7 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-01**|**Preserving Relative Localization of FoV-Limited Drone Swarm via Active Mutual Observation**|Lianjie Guo et.al.|[2407.01292](http://arxiv.org/abs/2407.01292)|null|
+|**2024-07-01**|**Preserving Relative Localization of FoV-Limited Drone Swarm via Active Mutual Observation**|Lianjie Guo et.al.|[2407.01292](http://arxiv.org/abs/2407.01292)|**[link](https://github.com/zju-fast-lab/active-relative-localization)**|
 |**2024-07-07**|**Imperative Learning: A Self-supervised Neural-Symbolic Learning Framework for Robot Autonomy**|Chen Wang et.al.|[2406.16087](http://arxiv.org/abs/2406.16087)|null|
 |**2024-06-16**|**Self-supervised Pretraining and Finetuning for Monocular Depth and Visual Odometry**|Boris Chidlovskii et.al.|[2406.11019](http://arxiv.org/abs/2406.11019)|null|
 |**2024-06-12**|**From Variance to Veracity: Unbundling and Mitigating Gradient Variance in Differentiable Bundle Adjustment Layers**|Swaminathan Gurumurthy et.al.|[2406.07785](http://arxiv.org/abs/2406.07785)|**[link](https://github.com/swami1995/v2v)**|
@@ -583,12 +583,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-09**|**LVLM-empowered Multi-modal Representation Learning for Visual Place Recognition**|Teng Wang et.al.|[2407.06730](http://arxiv.org/abs/2407.06730)|null|
+|**2024-07-09**|**CEIA: CLIP-Based Event-Image Alignment for Open-World Event-Based Understanding**|Wenhao Xu et.al.|[2407.06611](http://arxiv.org/abs/2407.06611)|null|
 |**2024-07-08**|**Pseudo-triplet Guided Few-shot Composed Image Retrieval**|Bohan Hou et.al.|[2407.06001](http://arxiv.org/abs/2407.06001)|null|
-|**2024-07-08**|**HyCIR: Boosting Zero-Shot Composed Image Retrieval with Synthetic Labels**|Yingying Jiang et.al.|[2407.05795](http://arxiv.org/abs/2407.05795)|null|
+|**2024-07-09**|**HyCIR: Boosting Zero-Shot Composed Image Retrieval with Synthetic Labels**|Yingying Jiang et.al.|[2407.05795](http://arxiv.org/abs/2407.05795)|null|
 |**2024-07-05**|**Elevating All Zero-Shot Sketch-Based Image Retrieval Through Multimodal Prompt Learning**|Mainak Singha et.al.|[2407.04207](http://arxiv.org/abs/2407.04207)|null|
-|**2024-07-04**|**Visualizing Dialogues: Enhancing Image Selection through Dialogue Understanding with Large Language Models**|Chang-Sheng Kao et.al.|[2407.03615](http://arxiv.org/abs/2407.03615)|null|
+|**2024-07-04**|**Visualizing Dialogues: Enhancing Image Selection through Dialogue Understanding with Large Language Models**|Chang-Sheng Kao et.al.|[2407.03615](http://arxiv.org/abs/2407.03615)|**[link](https://github.com/MiuLab/VisualDialog)**|
 |**2024-07-03**|**Celeb-FBI: A Benchmark Dataset on Human Full Body Images and Age, Gender, Height and Weight Estimation using Deep Learning Approach**|Pronay Debnath et.al.|[2407.03486](http://arxiv.org/abs/2407.03486)|null|
-|**2024-07-02**|**Close, But Not There: Boosting Geographic Distance Sensitivity in Visual Place Recognition**|Sergio Izquierdo et.al.|[2407.02422](http://arxiv.org/abs/2407.02422)|null|
+|**2024-07-02**|**Close, But Not There: Boosting Geographic Distance Sensitivity in Visual Place Recognition**|Sergio Izquierdo et.al.|[2407.02422](http://arxiv.org/abs/2407.02422)|**[link](https://github.com/serizba/cliquemining)**|
 |**2024-07-01**|**Freeview Sketching: View-Aware Fine-Grained Sketch-Based Image Retrieval**|Aneeshan Sain et.al.|[2407.01810](http://arxiv.org/abs/2407.01810)|null|
 |**2024-07-01**|**Cross-Modal Attention Alignment Network with Auxiliary Text Description for zero-shot sketch-based image retrieval**|Hanwen Su et.al.|[2407.00979](http://arxiv.org/abs/2407.00979)|null|
 |**2024-07-01**|**Dynamically Modulating Visual Place Recognition Sequence Length For Minimum Acceptable Performance Scenarios**|Connor Malone et.al.|[2407.00863](http://arxiv.org/abs/2407.00863)|null|
@@ -1410,8 +1412,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-04**|**PFGS: High Fidelity Point Cloud Rendering via Feature Splatting**|Jiaxu Wang et.al.|[2407.03857](http://arxiv.org/abs/2407.03857)|null|
-|**2024-07-03**|**A Radiometric Correction based Optical Modeling Approach to Removing Reflection Noise in TLS Point Clouds of Urban Scenes**|Li Fang et.al.|[2407.02830](http://arxiv.org/abs/2407.02830)|null|
+|**2024-07-09**|**LVLM-empowered Multi-modal Representation Learning for Visual Place Recognition**|Teng Wang et.al.|[2407.06730](http://arxiv.org/abs/2407.06730)|null|
+|**2024-07-04**|**PFGS: High Fidelity Point Cloud Rendering via Feature Splatting**|Jiaxu Wang et.al.|[2407.03857](http://arxiv.org/abs/2407.03857)|**[link](https://github.com/Mercerai/PFGS)**|
+|**2024-07-03**|**A Radiometric Correction based Optical Modeling Approach to Removing Reflection Noise in TLS Point Clouds of Urban Scenes**|Li Fang et.al.|[2407.02830](http://arxiv.org/abs/2407.02830)|**[link](https://github.com/tsuiky/3drn)**|
 |**2024-07-02**|**Multi-Grained Contrast for Data-Efficient Unsupervised Representation Learning**|Chengchao Shen et.al.|[2407.02014](http://arxiv.org/abs/2407.02014)|**[link](https://github.com/visresearch/mgc)**|
 |**2024-06-28**|**Beyond First-Order: A Multi-Scale Approach to Finger Knuckle Print Biometrics**|Chengrui Gao et.al.|[2406.19672](http://arxiv.org/abs/2406.19672)|null|
 |**2024-06-24**|**A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**|Lorenzo Shaikewitz et.al.|[2406.16837](http://arxiv.org/abs/2406.16837)|**[link](https://github.com/mit-spark/certifiable_tracking)**|
@@ -1652,7 +1655,7 @@ layout: default
 |**2024-06-05**|**A Self-Supervised Denoising Strategy for Underwater Acoustic Camera Imageries**|Xiaoteng Zhou et.al.|[2406.02914](http://arxiv.org/abs/2406.02914)|null|
 |**2024-05-22**|**Affine-based Deformable Attention and Selective Fusion for Semi-dense Matching**|Hongkai Chen et.al.|[2405.13874](http://arxiv.org/abs/2405.13874)|null|
 |**2024-05-21**|**OmniGlue: Generalizable Feature Matching with Foundation Model Guidance**|Hanwen Jiang et.al.|[2405.12979](http://arxiv.org/abs/2405.12979)|**[link](https://github.com/google-research/omniglue)**|
-|**2024-05-14**|**Shape-aware synthesis of pathological lung CT scans using CycleGAN for enhanced semi-supervised lung segmentation**|Rezkellah Noureddine Khiati et.al.|[2405.08556](http://arxiv.org/abs/2405.08556)|**[link](https://github.com/noureddinekhiati/semi-supervised-lung-segmentation)**|
+|**2024-07-09**|**Shape-aware synthesis of pathological lung CT scans using CycleGAN for enhanced semi-supervised lung segmentation**|Rezkellah Noureddine Khiati et.al.|[2405.08556](http://arxiv.org/abs/2405.08556)|**[link](https://github.com/noureddinekhiati/semi-supervised-lung-segmentation)**|
 |**2024-05-14**|**TP3M: Transformer-based Pseudo 3D Image Matching with Reference**|Liming Han et.al.|[2405.08434](http://arxiv.org/abs/2405.08434)|null|
 |**2024-05-13**|**Authentic Hand Avatar from a Phone Scan via Universal Hand Model**|Gyeongsik Moon et.al.|[2405.07933](http://arxiv.org/abs/2405.07933)|null|
 |**2024-04-30**|**A Light-weight Transformer-based Self-supervised Matching Network for Heterogeneous Images**|Wang Zhang et.al.|[2404.19311](http://arxiv.org/abs/2404.19311)|null|
@@ -1885,6 +1888,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-09**|**Sparse-DeRF: Deblurred Neural Radiance Fields from Sparse View**|Dogyoon Lee et.al.|[2407.06613](http://arxiv.org/abs/2407.06613)|null|
+|**2024-07-08**|**RRM: Relightable assets using Radiance guided Material extraction**|Diego Gomez et.al.|[2407.06397](http://arxiv.org/abs/2407.06397)|null|
 |**2024-07-08**|**PanDORA: Casual HDR Radiance Acquisition for Indoor Scenes**|Mohammad Reza Karimi Dastjerdi et.al.|[2407.06150](http://arxiv.org/abs/2407.06150)|null|
 |**2024-07-08**|**Enhancing Neural Radiance Fields with Depth and Normal Completion Priors from Sparse Views**|Jiawei Guo et.al.|[2407.05666](http://arxiv.org/abs/2407.05666)|null|
 |**2024-07-08**|**GeoNLF: Geometry guided Pose-Free Neural LiDAR Fields**|Weiyi Xue et.al.|[2407.05597](http://arxiv.org/abs/2407.05597)|null|
@@ -3035,6 +3040,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-09**|**MoSt-DSA: Modeling Motion and Structural Interactions for Direct Multi-Frame Interpolation in DSA Images**|Ziyang Xu et.al.|[2407.07078](http://arxiv.org/abs/2407.07078)|**[link](https://github.com/ZyoungXu/MoSt-DSA)**|
+|**2024-07-09**|**Multicell-Fold: geometric learning in folding multicellular life**|Haiqian Yang et.al.|[2407.07055](http://arxiv.org/abs/2407.07055)|null|
+|**2024-07-09**|**Empirical analysis of Biding Precedent efficiency in the Brazilian Supreme Court via Similar Case Retrieval**|Raphaël Tinarrage et.al.|[2407.07004](http://arxiv.org/abs/2407.07004)|null|
+|**2024-07-09**|**Learning From Crowdsourced Noisy Labels: A Signal Processing Perspective**|Shahana Ibrahim et.al.|[2407.06902](http://arxiv.org/abs/2407.06902)|null|
+|**2024-07-09**|**A Neurosymbolic Approach to Adaptive Feature Extraction in SLAM**|Yasra Chandio et.al.|[2407.06889](http://arxiv.org/abs/2407.06889)|null|
+|**2024-07-09**|**New Rotation Period Measurements for Kepler Stars Using Deep Learning: The 100K Sample**|Ilay Kamai et.al.|[2407.06858](http://arxiv.org/abs/2407.06858)|null|
+|**2024-07-09**|**TE-SSL: Time and Event-aware Self Supervised Learning for Alzheimer's Disease Progression Analysis**|Jacob Thrasher et.al.|[2407.06852](http://arxiv.org/abs/2407.06852)|**[link](https://github.com/jacob-thrasher/te-ssl)**|
+|**2024-07-09**|**A Hybrid Training-time and Run-time Defense Against Adversarial Attacks in Modulation Classification**|Lu Zhang et.al.|[2407.06807](http://arxiv.org/abs/2407.06807)|null|
+|**2024-07-09**|**Countermeasures Against Adversarial Examples in Radio Signal Classification**|Lu Zhang et.al.|[2407.06796](http://arxiv.org/abs/2407.06796)|null|
+|**2024-07-09**|**Inferring the spin distribution of binary black holes using deep learning**|Li Tang et.al.|[2407.06781](http://arxiv.org/abs/2407.06781)|null|
 |**2024-07-08**|**Stepping on the Edge: Curvature Aware Learning Rate Tuners**|Vincent Roulet et.al.|[2407.06183](http://arxiv.org/abs/2407.06183)|null|
 |**2024-07-08**|**Auto-PICNN: Automated machine learning for physics-informed convolutional neural networks**|Wanyun Zhou et.al.|[2407.06151](http://arxiv.org/abs/2407.06151)|null|
 |**2024-07-08**|**Muzzle-Based Cattle Identification System Using Artificial Intelligence (AI)**|Hasan Zohirul Islam et.al.|[2407.06096](http://arxiv.org/abs/2407.06096)|null|
