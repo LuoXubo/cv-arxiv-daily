@@ -596,6 +596,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**Improving Visual Place Recognition Based Robot Navigation Through Verification of Localization Estimates**|Owen Claxton et.al.|[2407.08162](http://arxiv.org/abs/2407.08162)|null|
+|**2024-07-11**|**Lifelong Histopathology Whole Slide Image Retrieval via Distance Consistency Rehearsal**|Xinyu Zhu et.al.|[2407.08153](http://arxiv.org/abs/2407.08153)|null|
+|**2024-07-11**|**SGLC: Semantic Graph-Guided Coarse-Fine-Refine Full Loop Closing for LiDAR SLAM**|Neng Wang et.al.|[2407.08106](http://arxiv.org/abs/2407.08106)|null|
 |**2024-07-09**|**LVLM-empowered Multi-modal Representation Learning for Visual Place Recognition**|Teng Wang et.al.|[2407.06730](http://arxiv.org/abs/2407.06730)|null|
 |**2024-07-09**|**CEIA: CLIP-Based Event-Image Alignment for Open-World Event-Based Understanding**|Wenhao Xu et.al.|[2407.06611](http://arxiv.org/abs/2407.06611)|null|
 |**2024-07-08**|**Pseudo-triplet Guided Few-shot Composed Image Retrieval**|Bohan Hou et.al.|[2407.06001](http://arxiv.org/abs/2407.06001)|null|
@@ -1909,6 +1912,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**WildGaussians: 3D Gaussian Splatting in the Wild**|Jonas Kulhanek et.al.|[2407.08447](http://arxiv.org/abs/2407.08447)|null|
+|**2024-07-11**|**MeshAvatar: Learning High-quality Triangular Human Avatars from Multi-view Videos**|Yushuo Chen et.al.|[2407.08414](http://arxiv.org/abs/2407.08414)|**[link](https://github.com/shad0wta9/meshavatar)**|
+|**2024-07-11**|**Explicit_NeRF_QA: A Quality Assessment Database for Explicit NeRF Model Compression**|Yuke Xing et.al.|[2407.08165](http://arxiv.org/abs/2407.08165)|null|
+|**2024-07-11**|**Bayesian uncertainty analysis for underwater 3D reconstruction with neural radiance fields**|Haojie Lian et.al.|[2407.08154](http://arxiv.org/abs/2407.08154)|null|
+|**2024-07-11**|**Survey on Fundamental Deep Learning 3D Reconstruction Techniques**|Yonge Bai et.al.|[2407.08137](http://arxiv.org/abs/2407.08137)|null|
 |**2024-07-10**|**Protecting NeRFs' Copyright via Plug-And-Play Watermarking Base Model**|Qi Song et.al.|[2407.07735](http://arxiv.org/abs/2407.07735)|null|
 |**2024-07-10**|**Drantal-NeRF: Diffusion-Based Restoration for Anti-aliasing Neural Radiance Field**|Ganlin Yang et.al.|[2407.07461](http://arxiv.org/abs/2407.07461)|null|
 |**2024-07-09**|**Reference-based Controllable Scene Stylization with Gaussian Splatting**|Yiqun Mei et.al.|[2407.07220](http://arxiv.org/abs/2407.07220)|null|
@@ -3066,6 +3074,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**BiEquiFormer: Bi-Equivariant Representations for Global Point Cloud Registration**|Stefanos Pertigkiozoglou et.al.|[2407.08729](http://arxiv.org/abs/2407.08729)|null|
+|**2024-07-11**|**Jet Tagging with More-Interaction Particle Transformer**|Yifan Wu et.al.|[2407.08682](http://arxiv.org/abs/2407.08682)|null|
+|**2024-07-11**|**How to beat a Bayesian adversary**|Zihan Ding et.al.|[2407.08678](http://arxiv.org/abs/2407.08678)|null|
+|**2024-07-11**|**SPOCKMIP: Segmentation of Vessels in MRAs with Enhanced Continuity using Maximum Intensity Projection as Loss**|Chethan Radhakrishna et.al.|[2407.08655](http://arxiv.org/abs/2407.08655)|null|
+|**2024-07-11**|**Histopathological Image Classification with Cell Morphology Aware Deep Neural Networks**|Andrey Ignatov et.al.|[2407.08625](http://arxiv.org/abs/2407.08625)|**[link](https://github.com/aiff22/deepcmorph)**|
+|**2024-07-11**|**Surpassing Cosine Similarity for Multidimensional Comparisons: Dimension Insensitive Euclidean Metric (DIEM)**|Federico Tessari et.al.|[2407.08623](http://arxiv.org/abs/2407.08623)|null|
+|**2024-07-11**|**Tamil Language Computing: the Present and the Future**|Kengatharaiyer Sarveswaran et.al.|[2407.08618](http://arxiv.org/abs/2407.08618)|null|
+|**2024-07-11**|**ST-Mamba: Spatial-Temporal Mamba for Traffic Flow Estimation Recovery using Limited Data**|Doncheng Yuan et.al.|[2407.08558](http://arxiv.org/abs/2407.08558)|null|
+|**2024-07-11**|**Quantitative Evaluation of the Saliency Map for Alzheimer's Disease Classifier with Anatomical Segmentation**|Yihan Zhang et.al.|[2407.08546](http://arxiv.org/abs/2407.08546)|null|
+|**2024-07-11**|**15M Multimodal Facial Image-Text Dataset**|Dawei Dai et.al.|[2407.08515](http://arxiv.org/abs/2407.08515)|null|
 |**2024-07-10**|**RoBus: A Multimodal Dataset for Controllable Road Networks and Building Layouts Generation**|Tao Li et.al.|[2407.07835](http://arxiv.org/abs/2407.07835)|**[link](https://github.com/tourlics/robus_dataset)**|
 |**2024-07-10**|**Estimating the stability number of a random graph using convolutional neural networks**|Randy Davila et.al.|[2407.07827](http://arxiv.org/abs/2407.07827)|null|
 |**2024-07-10**|**New Gravitational Wave Discoveries Enabled by Machine Learning**|Alexandra E. Koloniari et.al.|[2407.07820](http://arxiv.org/abs/2407.07820)|null|
