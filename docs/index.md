@@ -583,6 +583,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**|Jingwen Yu et.al.|[2407.11736](http://arxiv.org/abs/2407.11736)|**[link](https://github.com/jarvisyjw/gv-bench)**|
+|**2024-07-16**|**EndoFinder: Online Image Retrieval for Explainable Colorectal Polyp Diagnosis**|Ruijie Yang et.al.|[2407.11401](http://arxiv.org/abs/2407.11401)|null|
 |**2024-07-15**|**No Train, all Gain: Self-Supervised Gradients Improve Deep Frozen Representations**|Walter Simoncini et.al.|[2407.10964](http://arxiv.org/abs/2407.10964)|**[link](https://github.com/waltersimoncini/fungivision)**|
 |**2024-07-15**|**DINO Pre-training for Vision-based End-to-end Autonomous Driving**|Shubham Juneja et.al.|[2407.10803](http://arxiv.org/abs/2407.10803)|null|
 |**2024-07-15**|**Addressing Image Hallucination in Text-to-Image Generation through Factual Image Retrieval**|Youngsun Lim et.al.|[2407.10683](http://arxiv.org/abs/2407.10683)|null|
@@ -1656,6 +1658,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**|Jingwen Yu et.al.|[2407.11736](http://arxiv.org/abs/2407.11736)|**[link](https://github.com/jarvisyjw/gv-bench)**|
+|**2024-07-16**|**REMM:Rotation-Equivariant Framework for End-to-End Multimodal Image Matching**|Han Nie et.al.|[2407.11637](http://arxiv.org/abs/2407.11637)|null|
+|**2024-07-16**|**A Self-Correcting Strategy of the Digital Volume Correlation Displacement Field Based on Image Matching: Application to Poor Speckles Quality and Complex-Large Deformation**|Chengsheng Li et.al.|[2407.11287](http://arxiv.org/abs/2407.11287)|null|
 |**2024-07-14**|**Raising the Ceiling: Conflict-Free Local Feature Matching with Dynamic View Switching**|Xiaoyong Lu et.al.|[2407.07789](http://arxiv.org/abs/2407.07789)|null|
 |**2024-07-10**|**Mutual Information calculation on different appearances**|Jiecheng Liao et.al.|[2407.07410](http://arxiv.org/abs/2407.07410)|null|
 |**2024-07-15**|**SfM on-the-fly: Get better 3D from What You Capture**|Zongqian Zhan et.al.|[2407.03939](http://arxiv.org/abs/2407.03939)|null|
@@ -1899,6 +1904,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**Motion-Oriented Compositional Neural Radiance Fields for Monocular Dynamic Human Modeling**|Jaehyeok Kim et.al.|[2407.11962](http://arxiv.org/abs/2407.11962)|null|
+|**2024-07-16**|**IPA-NeRF: Illusory Poisoning Attack Against Neural Radiance Fields**|Wenxiang Jiang et.al.|[2407.11921](http://arxiv.org/abs/2407.11921)|null|
+|**2024-07-16**|**DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation**|Jiwook Kim et.al.|[2407.11394](http://arxiv.org/abs/2407.11394)|**[link](https://github.com/kaist-cvml-lab/DreamCatalyst)**|
+|**2024-07-15**|**Evaluating geometric accuracy of NeRF reconstructions compared to SLAM method**|Adam Korycki et.al.|[2407.11238](http://arxiv.org/abs/2407.11238)|null|
 |**2024-07-15**|**AirNeRF: 3D Reconstruction of Human with Drone and NeRF for Future Communication Systems**|Alexey Kotcov et.al.|[2407.10865](http://arxiv.org/abs/2407.10865)|null|
 |**2024-07-15**|**Domain Generalization for 6D Pose Estimation Through NeRF-based Image Synthesis**|Antoine Legrand et.al.|[2407.10762](http://arxiv.org/abs/2407.10762)|null|
 |**2024-07-15**|**IE-NeRF: Inpainting Enhanced Neural Radiance Fields in the Wild**|Shuaixian Wang et.al.|[2407.10695](http://arxiv.org/abs/2407.10695)|null|
@@ -3070,6 +3079,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**Beyond Spatial Explanations: Explainable Face Recognition in the Frequency Domain**|Marco Huber et.al.|[2407.11941](http://arxiv.org/abs/2407.11941)|null|
+|**2024-07-16**|**Learning secondary tool affordances of human partners using iCub robot's egocentric data**|Bosong Ding et.al.|[2407.11922](http://arxiv.org/abs/2407.11922)|null|
+|**2024-07-16**|**Deep Learning without Global Optimization by Random Fourier Neural Networks**|Owen Davis et.al.|[2407.11894](http://arxiv.org/abs/2407.11894)|null|
+|**2024-07-16**|**DFDRNN: A dual-feature based neural network for drug repositioning**|Enqiang Zhu et.al.|[2407.11812](http://arxiv.org/abs/2407.11812)|null|
+|**2024-07-16**|**XEdgeAI: A Human-centered Industrial Inspection Framework with Data-centric Explainable Edge AI Approach**|Truong Thanh Hung Nguyen et.al.|[2407.11771](http://arxiv.org/abs/2407.11771)|null|
+|**2024-07-16**|**A Channel Attention-Driven Hybrid CNN Framework for Paddy Leaf Disease Detection**|Pandiyaraju V et.al.|[2407.11753](http://arxiv.org/abs/2407.11753)|null|
+|**2024-07-16**|**Universal Sound Separation with Self-Supervised Audio Masked Autoencoder**|Junqi Zhao et.al.|[2407.11745](http://arxiv.org/abs/2407.11745)|null|
+|**2024-07-16**|**OAM-TCD: A globally diverse dataset of high-resolution tree cover maps**|Josh Veitch-Michaelis et.al.|[2407.11743](http://arxiv.org/abs/2407.11743)|null|
+|**2024-07-16**|**Generating Multi-Modal and Multi-Attribute Single-Cell Counts with CFGen**|Alessandro Palma et.al.|[2407.11734](http://arxiv.org/abs/2407.11734)|null|
+|**2024-07-16**|**Mask-guided cross-image attention for zero-shot in-silico histopathologic image generation with a diffusion model**|Dominik Winter et.al.|[2407.11664](http://arxiv.org/abs/2407.11664)|null|
 |**2024-07-15**|**Comparing AI versus Optimization Workflows for Simulation-Based Inference of Spatial-Stochastic Systems**|Michael A. Ramirez-Sierra et.al.|[2407.10938](http://arxiv.org/abs/2407.10938)|null|
 |**2024-07-15**|**A Dual-Attention Aware Deep Convolutional Neural Network for Early Alzheimer's Detection**|Pandiyaraju V et.al.|[2407.10921](http://arxiv.org/abs/2407.10921)|null|
 |**2024-07-15**|**PartImageNet++ Dataset: Scaling up Part-based Models for Robust Recognition**|Xiao Li et.al.|[2407.10918](http://arxiv.org/abs/2407.10918)|null|
