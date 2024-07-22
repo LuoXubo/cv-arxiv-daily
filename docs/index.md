@@ -1908,6 +1908,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**HOTS3D: Hyper-Spherical Optimal Transport for Semantic Alignment of Text-to-3D Generation**|Zezeng Li et.al.|[2407.14419](http://arxiv.org/abs/2407.14419)|null|
+|**2024-07-19**|**DirectL: Efficient Radiance Fields Rendering for 3D Light Field Displays**|Zongyuan Yang et.al.|[2407.14053](http://arxiv.org/abs/2407.14053)|null|
+|**2024-07-19**|**Semantic Communications for 3D Human Face Transmission with Neural Radiance Fields**|Guanlin Wu et.al.|[2407.13992](http://arxiv.org/abs/2407.13992)|null|
 |**2024-07-18**|**EaDeblur-GS: Event assisted 3D Deblur Reconstruction with Gaussian Splatting**|Yuchen Weng et.al.|[2407.13520](http://arxiv.org/abs/2407.13520)|null|
 |**2024-07-18**|**GeometrySticker: Enabling Ownership Claim of Recolorized Neural Radiance Fields**|Xiufeng Huang et.al.|[2407.13390](http://arxiv.org/abs/2407.13390)|null|
 |**2024-07-18**|**KFD-NeRF: Rethinking Dynamic NeRF with Kalman Filter**|Yifan Zhan et.al.|[2407.13185](http://arxiv.org/abs/2407.13185)|null|
@@ -3091,6 +3094,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**MLMT-CNN for Object Detection and Segmentation in Multi-layer and Multi-spectral Images**|Majedaldein Almahasneh et.al.|[2407.14473](http://arxiv.org/abs/2407.14473)|null|
+|**2024-07-19**|**AudioInsight: Detecting Social Contexts Relevant to Social Anxiety from Speech**|Varun Reddy et.al.|[2407.14458](http://arxiv.org/abs/2407.14458)|null|
+|**2024-07-19**|**The Extrapolation Power of Implicit Models**|Juliette Decugis et.al.|[2407.14430](http://arxiv.org/abs/2407.14430)|null|
+|**2024-07-19**|**Controllable and Efficient Multi-Class Pathology Nuclei Data Augmentation using Text-Conditioned Diffusion Models**|Hyun-Jic Oh et.al.|[2407.14426](http://arxiv.org/abs/2407.14426)|null|
+|**2024-07-19**|**Improving classification of road surface conditions via road area extraction and contrastive learning**|Linh Trinh et.al.|[2407.14418](http://arxiv.org/abs/2407.14418)|null|
+|**2024-07-19**|**Frontiers of Deep Learning: From Novel Application to Real-World Deployment**|Rui Xie et.al.|[2407.14386](http://arxiv.org/abs/2407.14386)|null|
+|**2024-07-19**|**Deep learning density functional theory Hamiltonian in real space**|Zilong Yuan et.al.|[2407.14379](http://arxiv.org/abs/2407.14379)|null|
+|**2024-07-19**|**Vision-Based Power Line Cables and Pylons Detection for Low Flying Aircrafts**|Jakub Gwizdała et.al.|[2407.14352](http://arxiv.org/abs/2407.14352)|null|
+|**2024-07-19**|**Panoptic Segmentation of Mammograms with Text-To-Image Diffusion Model**|Kun Zhao et.al.|[2407.14326](http://arxiv.org/abs/2407.14326)|null|
+|**2024-07-19**|**Complementary Learning for Real-World Model Failure Detection**|Daniel Bogdoll et.al.|[2407.14306](http://arxiv.org/abs/2407.14306)|**[link](https://github.com/daniel-bogdoll/model_contradictions)**|
 |**2024-07-18**|**Predicting dark matter halo masses from simulated galaxy images and environments**|Austin J. Larson et.al.|[2407.13735](http://arxiv.org/abs/2407.13735)|null|
 |**2024-07-18**|**FSP-Laplace: Function-Space Priors for the Laplace Approximation in Bayesian Deep Learning**|Tristan Cinquin et.al.|[2407.13711](http://arxiv.org/abs/2407.13711)|null|
 |**2024-07-18**|**A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice**|Shaina Raza et.al.|[2407.13699](http://arxiv.org/abs/2407.13699)|null|
