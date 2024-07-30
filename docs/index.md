@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.29
+## Updated on 2024.07.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3119,7 +3119,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-26**|**Enhancing material property prediction with ensemble deep graph convolutional networks**|Chowdhury Mohammad Abid Rahman et.al.|[2407.18847](http://arxiv.org/abs/2407.18847)|null|
 |**2024-07-26**|**Interpreting artificial neural networks to detect genome-wide association signals for complex traits**|Burak Yelmen et.al.|[2407.18811](http://arxiv.org/abs/2407.18811)|null|
-|**2024-07-26**|**Benchmarking Dependence Measures to Prevent Shortcut Learning in Medical Imaging**|Sarah Müller et.al.|[2407.18792](http://arxiv.org/abs/2407.18792)|**[link](https://github.com/berenslab/dependence-measures-medical-imaging)**|
+|**2024-07-29**|**Benchmarking Dependence Measures to Prevent Shortcut Learning in Medical Imaging**|Sarah Müller et.al.|[2407.18792](http://arxiv.org/abs/2407.18792)|**[link](https://github.com/berenslab/dependence-measures-medical-imaging)**|
 |**2024-07-26**|**Deep learning interpretable analysis for carbon star identification in Gaia DR3**|Shuo Ye et.al.|[2407.18754](http://arxiv.org/abs/2407.18754)|null|
 |**2024-07-26**|**Deep learning for dynamic modeling and coded information storage of vector-soliton pulsations in mode-locked fiber lasers**|Zhi-Zeng Si et.al.|[2407.18725](http://arxiv.org/abs/2407.18725)|null|
 |**2024-07-26**|**Deep learning for predicting the occurrence of tipping points**|Chengzuo Zhuge et.al.|[2407.18693](http://arxiv.org/abs/2407.18693)|**[link](https://github.com/zhugchzo/dl_occurrence_tipping)**|
