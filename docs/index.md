@@ -588,6 +588,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-31**|**VIPeR: Visual Incremental Place Recognition with Adaptive Mining and Lifelong Learning**|Yuhang Ming et.al.|[2407.21416](http://arxiv.org/abs/2407.21416)|null|
+|**2024-07-31**|**SuperVINS: A visual-inertial SLAM framework integrated deep learning features**|Hongkun Luo et.al.|[2407.21348](http://arxiv.org/abs/2407.21348)|null|
 |**2024-07-30**|**Re-localization acceleration with Medoid Silhouette Clustering**|Hongyi Zhang et.al.|[2407.20749](http://arxiv.org/abs/2407.20749)|null|
 |**2024-07-29**|**A flexible framework for accurate LiDAR odometry, map manipulation, and localization**|José Luis Blanco-Claraco et.al.|[2407.20465](http://arxiv.org/abs/2407.20465)|null|
 |**2024-07-26**|**From 2D to 3D: AISG-SLA Visual Localization Challenge**|Jialin Gao et.al.|[2407.18590](http://arxiv.org/abs/2407.18590)|null|
@@ -1928,6 +1930,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**PAV: Personalized Head Avatar from Unstructured Video Collection**|Akin Caliskan et.al.|[2407.21047](http://arxiv.org/abs/2407.21047)|null|
 |**2024-07-30**|**Dynamic Scene Understanding through Object-Centric Voxelization and Neural Rendering**|Yanpeng Zhao et.al.|[2407.20908](http://arxiv.org/abs/2407.20908)|**[link](https://github.com/zyp123494/dynavol)**|
 |**2024-07-29**|**Radiance Fields for Robotic Teleoperation**|Maximum Wilder-Smith et.al.|[2407.20194](http://arxiv.org/abs/2407.20194)|**[link](https://github.com/leggedrobotics/rf_ros)**|
 |**2024-07-29**|**Garment Animation NeRF with Color Editing**|Renke Wang et.al.|[2407.19774](http://arxiv.org/abs/2407.19774)|**[link](https://github.com/wrk226/garmentanimationnerf)**|
@@ -3124,6 +3127,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-31**|**Deep Learning for Options Trading: An End-To-End Approach**|Wee Ling Tan et.al.|[2407.21791](http://arxiv.org/abs/2407.21791)|null|
+|**2024-07-31**|**Vision-Language Model Based Handwriting Verification**|Mihir Chauhan et.al.|[2407.21788](http://arxiv.org/abs/2407.21788)|null|
+|**2024-07-31**|**Contrastive Factor Analysis**|Zhibin Duan et.al.|[2407.21740](http://arxiv.org/abs/2407.21740)|null|
+|**2024-07-31**|**Universal Approximation Theory: Foundations for Parallelism in Neural Networks**|Wei Wang et.al.|[2407.21670](http://arxiv.org/abs/2407.21670)|null|
+|**2024-07-31**|**An Explainable Vision Transformer with Transfer Learning Combined with Support Vector Machine Based Efficient Drought Stress Identification**|Aswini Kumar Patra et.al.|[2407.21666](http://arxiv.org/abs/2407.21666)|null|
+|**2024-07-31**|**Voxel Scene Graph for Intracranial Hemorrhage**|Antoine P. Sanner et.al.|[2407.21580](http://arxiv.org/abs/2407.21580)|null|
+|**2024-07-31**|**PhysFlow: Skin tone transfer for remote heart rate estimation through conditional normalizing flows**|Joaquim Comas et.al.|[2407.21519](http://arxiv.org/abs/2407.21519)|null|
+|**2024-07-31**|**A Simple Low-bit Quantization Framework for Video Snapshot Compressive Imaging**|Miao Cao et.al.|[2407.21517](http://arxiv.org/abs/2407.21517)|null|
+|**2024-07-31**|**Deep Learning-Based Longitudinal Prediction of Childhood Myopia Progression Using Fundus Image Sequences and Baseline Refraction Data**|Mengtian Kang et.al.|[2407.21467](http://arxiv.org/abs/2407.21467)|null|
+|**2024-07-31**|**Enriching thermal point clouds of buildings using semantic 3D building modelsenriching thermal point clouds of buildings using semantic 3D building models**|Jingwei Zhu et.al.|[2407.21436](http://arxiv.org/abs/2407.21436)|null|
 |**2024-07-30**|**Contrasting Deep Learning Models for Direct Respiratory Insufficiency Detection Versus Blood Oxygen Saturation Estimation**|Marcelo Matheus Gauy et.al.|[2407.20989](http://arxiv.org/abs/2407.20989)|null|
 |**2024-07-30**|**Transfer Learning for Multi-material Classification of Transition Metal Dichalcogenides with Atomic Force Microscopy**|Isaiah A. Moses et.al.|[2407.20975](http://arxiv.org/abs/2407.20975)|null|
 |**2024-07-30**|**Learning Ordinality in Semantic Segmentation**|Rafael Cristino et.al.|[2407.20959](http://arxiv.org/abs/2407.20959)|null|
