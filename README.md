@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-03**|**Deep Patch Visual SLAM**|Lahav Lipson et.al.|[2408.01654](http://arxiv.org/abs/2408.01654)|null|
 |**2024-07-25**|**CodedVO: Coded Visual Odometry**|Sachin Shah et.al.|[2407.18240](http://arxiv.org/abs/2407.18240)|null|
 |**2024-07-22**|**Reinforcement Learning Meets Visual Odometry**|Nico Messikommer et.al.|[2407.15626](http://arxiv.org/abs/2407.15626)|**[link](https://github.com/uzh-rpg/rl_vo)**|
 |**2024-07-21**|**Semi-Supervised Pipe Video Temporal Defect Interval Localization**|Zhu Huang et.al.|[2407.15170](http://arxiv.org/abs/2407.15170)|null|
@@ -601,6 +602,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**CMR-Agent: Learning a Cross-Modal Agent for Iterative Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2408.02394](http://arxiv.org/abs/2408.02394)|null|
+|**2024-08-03**|**BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles**|Lun Luo et.al.|[2408.01841](http://arxiv.org/abs/2408.01841)|null|
+|**2024-08-02**|**On Validation of Search & Retrieval of Tissue Images in Digital Pathology**|H. R. Tizhoosh et.al.|[2408.01570](http://arxiv.org/abs/2408.01570)|null|
 |**2024-07-31**|**VIPeR: Visual Incremental Place Recognition with Adaptive Mining and Lifelong Learning**|Yuhang Ming et.al.|[2407.21416](http://arxiv.org/abs/2407.21416)|null|
 |**2024-07-31**|**SuperVINS: A visual-inertial SLAM framework integrated deep learning features**|Hongkun Luo et.al.|[2407.21348](http://arxiv.org/abs/2407.21348)|null|
 |**2024-07-30**|**Re-localization acceleration with Medoid Silhouette Clustering**|Hongyi Zhang et.al.|[2407.20749](http://arxiv.org/abs/2407.20749)|null|
@@ -1699,6 +1703,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-04**|**Improving Neural Surface Reconstruction with Feature Priors from Multi-View Image**|Xinlin Ren et.al.|[2408.02079](http://arxiv.org/abs/2408.02079)|null|
 |**2024-07-29**|**Image-text matching for large-scale book collections**|Artemis Llabrés et.al.|[2407.19812](http://arxiv.org/abs/2407.19812)|**[link](https://github.com/llabres/library-dataset)**|
 |**2024-07-26**|**PIV3CAMS: a multi-camera dataset for multiple computer vision problems and its application to novel view-point synthesis**|Sohyeong Kim et.al.|[2407.18695](http://arxiv.org/abs/2407.18695)|null|
 |**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791](http://arxiv.org/abs/2407.15791)|null|
@@ -1950,6 +1955,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-04**|**PanicleNeRF: low-cost, high-precision in-field phenotypingof rice panicles with smartphone**|Xin Yang et.al.|[2408.02053](http://arxiv.org/abs/2408.02053)|null|
+|**2024-08-03**|**FBINeRF: Feature-Based Integrated Recurrent Network for Pinhole and Fisheye Neural Radiance Fields**|Yifan Wu et.al.|[2408.01878](http://arxiv.org/abs/2408.01878)|null|
+|**2024-08-03**|**E $^3$ NeRF: Efficient Event-Enhanced Neural Radiance Fields from Blurry Images**|Yunshan Qi et.al.|[2408.01840](http://arxiv.org/abs/2408.01840)|null|
 |**2024-08-02**|**NeRFoot: Robot-Footprint Estimation for Image-Based Visual Servoing**|Daoxin Zhong et.al.|[2408.01251](http://arxiv.org/abs/2408.01251)|null|
 |**2024-08-05**|**UlRe-NeRF: 3D Ultrasound Imaging through Neural Rendering with Ultrasound Reflection Direction Parameterization**|Ziwen Guo et.al.|[2408.00860](http://arxiv.org/abs/2408.00860)|null|
 |**2024-07-31**|**StyleRF-VolVis: Style Transfer of Neural Radiance Fields for Expressive Volume Visualization**|Kaiyuan Tang et.al.|[2408.00150](http://arxiv.org/abs/2408.00150)|null|
@@ -3152,6 +3160,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**Context-aware Mamba-based Reinforcement Learning for social robot navigation**|Syed Muhammad Mustafa et.al.|[2408.02661](http://arxiv.org/abs/2408.02661)|null|
+|**2024-08-05**|**LMEMs for post-hoc analysis of HPO Benchmarking**|Anton Geburek et.al.|[2408.02533](http://arxiv.org/abs/2408.02533)|null|
+|**2024-08-05**|**Acoustic Impedance Prediction Using an Attention-Based Dual-Branch Double-Inversion Network**|Wen Feng et.al.|[2408.02524](http://arxiv.org/abs/2408.02524)|null|
+|**2024-08-05**|**Automatic rating of incomplete hippocampal inversions evaluated across multiple cohorts**|Lisa Hemforth et.al.|[2408.02496](http://arxiv.org/abs/2408.02496)|null|
+|**2024-08-05**|**HyperSpaceX: Radial and Angular Exploration of HyperSpherical Dimensions**|Chiranjeev Chiranjeev et.al.|[2408.02494](http://arxiv.org/abs/2408.02494)|null|
+|**2024-08-05**|**Attenuation-adjusted deep learning of pore defects in 2D radiographs of additive manufacturing powders**|Andreas Bjerregaard et.al.|[2408.02427](http://arxiv.org/abs/2408.02427)|null|
+|**2024-08-05**|**Inversion of DC Resistivity Data using Physics-Informed Neural Networks**|Rohan Sharma et.al.|[2408.02420](http://arxiv.org/abs/2408.02420)|null|
+|**2024-08-05**|**A Few-Shot Approach for Relation Extraction Domain Adaptation using Large Language Models**|Vanni Zavarella et.al.|[2408.02377](http://arxiv.org/abs/2408.02377)|null|
+|**2024-08-05**|**Optimisation of Pulse Waveforms for Qubit Gates using Deep Learning**|Zachary Fillingham et.al.|[2408.02376](http://arxiv.org/abs/2408.02376)|null|
+|**2024-08-05**|**Blind User Activity Detection for Grant-Free Random Access in Cell-Free mMIMO Networks**|Muhammad Usman Khan et.al.|[2408.02359](http://arxiv.org/abs/2408.02359)|null|
 |**2024-08-02**|**NeuralBeta: Estimating Beta Using Deep Learning**|Yuxin Liu et.al.|[2408.01387](http://arxiv.org/abs/2408.01387)|null|
 |**2024-08-02**|**Deep Learning based Visually Rich Document Content Understanding: A Survey**|Yihao Ding et.al.|[2408.01287](http://arxiv.org/abs/2408.01287)|null|
 |**2024-08-02**|**WaveMamba: Spatial-Spectral Wavelet Mamba for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2408.01231](http://arxiv.org/abs/2408.01231)|null|
