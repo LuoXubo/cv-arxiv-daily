@@ -724,7 +724,7 @@
 |**2024-04-20**|**High-fidelity Endoscopic Image Synthesis by Utilizing Depth-guided Neural Surfaces**|Baoru Huang et.al.|[2404.13437](http://arxiv.org/abs/2404.13437)|null|
 |**2024-04-20**|**Collaborative Visual Place Recognition through Federated Learning**|Mattia Dutto et.al.|[2404.13324](http://arxiv.org/abs/2404.13324)|null|
 |**2024-04-18**|**SPOT: Point Cloud Based Stereo Visual Place Recognition for Similar and Opposing Viewpoints**|Spencer Carmichael et.al.|[2404.12339](http://arxiv.org/abs/2404.12339)|null|
-|**2024-04-17**|**Improving Composed Image Retrieval via Contrastive Learning with Scaling Positives and Negatives**|Zhangchi Feng et.al.|[2404.11317](http://arxiv.org/abs/2404.11317)|null|
+|**2024-04-17**|**Improving Composed Image Retrieval via Contrastive Learning with Scaling Positives and Negatives**|Zhangchi Feng et.al.|[2404.11317](http://arxiv.org/abs/2404.11317)|**[link](https://github.com/BUAADreamer/SPN4CIR)**|
 |**2024-04-17**|**Spatial-Aware Image Retrieval: A Hyperdimensional Computing Approach for Efficient Similarity Hashing**|Sanggeon Yun et.al.|[2404.11025](http://arxiv.org/abs/2404.11025)|null|
 |**2024-04-16**|**SPVLoc: Semantic Panoramic Viewport Matching for 6D Camera Localization in Unseen Environments**|Niklas Gard et.al.|[2404.10527](http://arxiv.org/abs/2404.10527)|**[link](https://github.com/fraunhoferhhi/spvloc)**|
 |**2024-04-20**|**CREST: Cross-modal Resonance through Evidential Deep Learning for Enhanced Zero-Shot Learning**|Haojian Huang et.al.|[2404.09640](http://arxiv.org/abs/2404.09640)|**[link](https://github.com/JethroJames/CREST)**|
@@ -3194,7 +3194,7 @@
 |**2024-08-07**|**BVI-AOM: A New Training Dataset for Deep Video Compression Optimization**|Jakub Nawała et.al.|[2408.03265](http://arxiv.org/abs/2408.03265)|null|
 |**2024-08-06**|**Don't Think It Twice: Exploit Shift Invariance for Efficient Online Streaming Inference of CNNs**|Christodoulos Kechris et.al.|[2408.03223](http://arxiv.org/abs/2408.03223)|null|
 |**2024-08-06**|**Evaluating the Translation Performance of Large Language Models Based on Euas-20**|Yan Huang et.al.|[2408.03119](http://arxiv.org/abs/2408.03119)|null|
-|**2024-08-06**|**BodySLAM: A Generalized Monocular Visual SLAM Framework for Surgical Applications**|G. Manni et.al.|[2408.03078](http://arxiv.org/abs/2408.03078)|null|
+|**2024-08-06**|**BodySLAM: A Generalized Monocular Visual SLAM Framework for Surgical Applications**|G. Manni et.al.|[2408.03078](http://arxiv.org/abs/2408.03078)|**[link](https://github.com/GuidoManni/BodySLAM)**|
 |**2024-08-06**|**Fast Whole-Brain MR Multi-Parametric Mapping with Scan-Specific Self-Supervised Networks**|Amir Heydari et.al.|[2408.02988](http://arxiv.org/abs/2408.02988)|null|
 |**2024-08-06**|**Kolmogorov-Arnold PointNet: Deep learning for prediction of fluid fields on irregular geometries**|Ali Kashefi et.al.|[2408.02950](http://arxiv.org/abs/2408.02950)|null|
 |**2024-08-06**|**Learned Trimmed-Ridge Regression for Channel Estimation in Millimeter-Wave Massive MIMO**|Pengxia Wu et.al.|[2408.02934](http://arxiv.org/abs/2408.02934)|null|
@@ -3205,7 +3205,7 @@
 |**2024-08-05**|**Acoustic Impedance Prediction Using an Attention-Based Dual-Branch Double-Inversion Network**|Wen Feng et.al.|[2408.02524](http://arxiv.org/abs/2408.02524)|null|
 |**2024-08-05**|**Automatic rating of incomplete hippocampal inversions evaluated across multiple cohorts**|Lisa Hemforth et.al.|[2408.02496](http://arxiv.org/abs/2408.02496)|null|
 |**2024-08-05**|**HyperSpaceX: Radial and Angular Exploration of HyperSpherical Dimensions**|Chiranjeev Chiranjeev et.al.|[2408.02494](http://arxiv.org/abs/2408.02494)|null|
-|**2024-08-05**|**Attenuation-adjusted deep learning of pore defects in 2D radiographs of additive manufacturing powders**|Andreas Bjerregaard et.al.|[2408.02427](http://arxiv.org/abs/2408.02427)|null|
+|**2024-08-05**|**Attenuation-adjusted deep learning of pore defects in 2D radiographs of additive manufacturing powders**|Andreas Bjerregaard et.al.|[2408.02427](http://arxiv.org/abs/2408.02427)|**[link](https://github.com/yhsure/porosity)**|
 |**2024-08-05**|**Inversion of DC Resistivity Data using Physics-Informed Neural Networks**|Rohan Sharma et.al.|[2408.02420](http://arxiv.org/abs/2408.02420)|null|
 |**2024-08-05**|**A Few-Shot Approach for Relation Extraction Domain Adaptation using Large Language Models**|Vanni Zavarella et.al.|[2408.02377](http://arxiv.org/abs/2408.02377)|null|
 |**2024-08-05**|**Optimisation of Pulse Waveforms for Qubit Gates using Deep Learning**|Zachary Fillingham et.al.|[2408.02376](http://arxiv.org/abs/2408.02376)|null|
@@ -3239,7 +3239,7 @@
 |**2024-07-31**|**PhysFlow: Skin tone transfer for remote heart rate estimation through conditional normalizing flows**|Joaquim Comas et.al.|[2407.21519](http://arxiv.org/abs/2407.21519)|null|
 |**2024-07-31**|**A Simple Low-bit Quantization Framework for Video Snapshot Compressive Imaging**|Miao Cao et.al.|[2407.21517](http://arxiv.org/abs/2407.21517)|null|
 |**2024-07-31**|**Deep Learning-Based Longitudinal Prediction of Childhood Myopia Progression Using Fundus Image Sequences and Baseline Refraction Data**|Mengtian Kang et.al.|[2407.21467](http://arxiv.org/abs/2407.21467)|null|
-|**2024-07-31**|**Enriching thermal point clouds of buildings using semantic 3D building modelsenriching thermal point clouds of buildings using semantic 3D building models**|Jingwei Zhu et.al.|[2407.21436](http://arxiv.org/abs/2407.21436)|null|
+|**2024-07-31**|**Enriching thermal point clouds of buildings using semantic 3D building modelsenriching thermal point clouds of buildings using semantic 3D building models**|Jingwei Zhu et.al.|[2407.21436](http://arxiv.org/abs/2407.21436)|**[link](https://github.com/tum-pf/lod3totcld)**|
 |**2024-07-30**|**Contrasting Deep Learning Models for Direct Respiratory Insufficiency Detection Versus Blood Oxygen Saturation Estimation**|Marcelo Matheus Gauy et.al.|[2407.20989](http://arxiv.org/abs/2407.20989)|null|
 |**2024-07-30**|**Transfer Learning for Multi-material Classification of Transition Metal Dichalcogenides with Atomic Force Microscopy**|Isaiah A. Moses et.al.|[2407.20975](http://arxiv.org/abs/2407.20975)|null|
 |**2024-07-30**|**Learning Ordinality in Semantic Segmentation**|Rafael Cristino et.al.|[2407.20959](http://arxiv.org/abs/2407.20959)|null|
@@ -5412,7 +5412,7 @@
 |**2023-09-11**|**Stream-based Active Learning by Exploiting Temporal Properties in Perception with Temporal Predicted Loss**|Sebastian Schmidt et.al.|[2309.05517](http://arxiv.org/abs/2309.05517)|null|
 |**2023-09-11**|**NeCo@ALQAC 2023: Legal Domain Knowledge Acquisition for Low-Resource Languages through Data Enrichment**|Hai-Long Nguyen et.al.|[2309.05500](http://arxiv.org/abs/2309.05500)|null|
 |**2023-09-11**|**Zero-Shot Co-salient Object Detection Framework**|Haoke Xiao et.al.|[2309.05499](http://arxiv.org/abs/2309.05499)|**[link](https://github.com/hkxiao/zs-cosod)**|
-|**2023-09-11**|**Learning Semantic Segmentation with Query Points Supervision on Aerial Images**|Santiago Rivier et.al.|[2309.05490](http://arxiv.org/abs/2309.05490)|null|
+|**2023-09-11**|**Learning Semantic Segmentation with Query Points Supervision on Aerial Images**|Santiago Rivier et.al.|[2309.05490](http://arxiv.org/abs/2309.05490)|**[link](https://github.com/santiago2205/lssqps)**|
 |**2023-09-11**|**Hazards in Deep Learning Testing: Prevalence, Impact and Recommendations**|Salah Ghamizi et.al.|[2309.05381](http://arxiv.org/abs/2309.05381)|null|
 |**2023-09-11**|**A survey on real-time 3D scene reconstruction with SLAM methods in embedded systems**|Quentin Picard et.al.|[2309.05349](http://arxiv.org/abs/2309.05349)|null|
 |**2023-09-11**|**Unsupervised human-to-robot motion retargeting via expressive latent space**|Yashuai Yan et.al.|[2309.05310](http://arxiv.org/abs/2309.05310)|null|
@@ -6451,7 +6451,7 @@
 |**2023-04-12**|**Overload: Latency Attacks on Object Detection for Edge Devices**|Erh-Chung Chen et.al.|[2304.05370](http://arxiv.org/abs/2304.05370)|null|
 |**2023-04-11**|**The No Free Lunch Theorem, Kolmogorov Complexity, and the Role of Inductive Biases in Machine Learning**|Micah Goldblum et.al.|[2304.05366](http://arxiv.org/abs/2304.05366)|**[link](https://github.com/goldblum/free-lunch)**|
 |**2023-04-11**|**A comparative study between paired and unpaired Image Quality Assessment in Low-Dose CT Denoising**|Francesco Di Feola et.al.|[2304.05359](http://arxiv.org/abs/2304.05359)|**[link](https://github.com/francescodifeola/iqa-denosing)**|
-|**2023-04-11**|**Deep-learning assisted detection and quantification of (oo)cysts of Giardia and Cryptosporidium on smartphone microscopy images**|Suprim Nakarmi et.al.|[2304.05339](http://arxiv.org/abs/2304.05339)|null|
+|**2023-04-11**|**Deep-learning assisted detection and quantification of (oo)cysts of Giardia and Cryptosporidium on smartphone microscopy images**|Suprim Nakarmi et.al.|[2304.05339](http://arxiv.org/abs/2304.05339)|**[link](https://github.com/naamiinepal/smartphone_microscopy)**|
 |**2023-04-11**|**ELVIS: Empowering Locality of Vision Language Pre-training with Intra-modal Similarity**|Sumin Seo et.al.|[2304.05303](http://arxiv.org/abs/2304.05303)|null|
 |**2023-04-11**|**A Comprehensive Study on Object Detection Techniques in Unconstrained Environments**|Hrishitva Patel et.al.|[2304.05295](http://arxiv.org/abs/2304.05295)|null|
 |**2023-04-12**|**r-softmax: Generalized Softmax with Controllable Sparsity Rate**|Klaudia Bałazy et.al.|[2304.05243](http://arxiv.org/abs/2304.05243)|**[link](https://github.com/gmum/rsoftmax)**|
