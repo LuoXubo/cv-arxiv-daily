@@ -1707,6 +1707,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-14**|**RSD-DOG : A New Image Descriptor based on Second Order Derivatives**|Darshan Venkatrayappa et.al.|[2408.07687](http://arxiv.org/abs/2408.07687)|null|
 |**2024-08-09**|**One Shot is Enough for Sequential Infrared Small Target Segmentation**|Bingbing Dan et.al.|[2408.04823](http://arxiv.org/abs/2408.04823)|null|
 |**2024-08-07**|**PRISM: PRogressive dependency maxImization for Scale-invariant image Matching**|Xudong Cai et.al.|[2408.03598](http://arxiv.org/abs/2408.03598)|null|
 |**2024-08-05**|**ConDL: Detector-Free Dense Image Matching**|Monika Kwiatkowski et.al.|[2408.02766](http://arxiv.org/abs/2408.02766)|null|
@@ -1962,6 +1963,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-14**|**Rethinking Open-Vocabulary Segmentation of Radiance Fields in 3D Space**|Hyunjee Lee et.al.|[2408.07416](http://arxiv.org/abs/2408.07416)|null|
 |**2024-08-13**|**Potamoi: Accelerating Neural Rendering via a Unified Streaming Architecture**|Yu Feng et.al.|[2408.06608](http://arxiv.org/abs/2408.06608)|null|
 |**2024-08-13**|**ActiveNeRF: Learning Accurate 3D Geometry by Active Pattern Projection**|Jianyu Tao et.al.|[2408.06592](http://arxiv.org/abs/2408.06592)|**[link](https://github.com/hcp16/active_nerf)**|
 |**2024-08-13**|**HDRGS: High Dynamic Range Gaussian Splatting**|Jiahao Wu et.al.|[2408.06543](http://arxiv.org/abs/2408.06543)|**[link](https://github.com/wujh2001/hdrgs)**|
@@ -3182,6 +3184,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-14**|**Deep Learning: a Heuristic Three-stage Mechanism for Grid Searches to Optimize the Future Risk Prediction of Breast Cancer Metastasis Using EHR-based Clinical Data**|Xia Jiang et.al.|[2408.07673](http://arxiv.org/abs/2408.07673)|null|
+|**2024-08-14**|**Latent Anomaly Detection Through Density Matrices**|Joseph Gallego-Mejia et.al.|[2408.07623](http://arxiv.org/abs/2408.07623)|null|
+|**2024-08-14**|**Rethinking the Key Factors for the Generalization of Remote Sensing Stereo Matching Networks**|Liting Jiang et.al.|[2408.07613](http://arxiv.org/abs/2408.07613)|null|
+|**2024-08-14**|**TabularBench: Benchmarking Adversarial Robustness for Tabular Deep Learning in Real-world Use-cases**|Thibault Simonetto et.al.|[2408.07579](http://arxiv.org/abs/2408.07579)|**[link](https://github.com/serval-uni-lu/tabularbench)**|
+|**2024-08-14**|**Learning-based Models for Vulnerability Detection: An Extensive Study**|Chao Ni et.al.|[2408.07526](http://arxiv.org/abs/2408.07526)|null|
+|**2024-08-14**|**Costal Cartilage Segmentation with Topology Guided Deformable Mamba: Method and Benchmark**|Senmao Wang et.al.|[2408.07444](http://arxiv.org/abs/2408.07444)|null|
+|**2024-08-14**|**Automated Retinal Image Analysis and Medical Report Generation through Deep Learning**|Jia-Hong Huang et.al.|[2408.07349](http://arxiv.org/abs/2408.07349)|null|
+|**2024-08-14**|**LiPCoT: Linear Predictive Coding based Tokenizer for Self-supervised Learning of Time Series Data via Language Models**|Md Fahim Anjum et.al.|[2408.07292](http://arxiv.org/abs/2408.07292)|**[link](https://github.com/mdfahimanjum/lipcot)**|
+|**2024-08-14**|**Lesion-aware network for diabetic retinopathy diagnosis**|Xue Xia et.al.|[2408.07264](http://arxiv.org/abs/2408.07264)|**[link](https://github.com/xia-xx-cv/lanet-dr)**|
+|**2024-08-14**|**Sign language recognition based on deep learning and low-cost handcrafted descriptors**|Alvaro Leandro Cavalcante Carneiro et.al.|[2408.07244](http://arxiv.org/abs/2408.07244)|null|
 |**2024-08-13**|**Approaches for enhancing extrapolability in process-based and data-driven models in hydrology**|Haiyang Shi et.al.|[2408.07071](http://arxiv.org/abs/2408.07071)|null|
 |**2024-08-13**|**Large-kernel Convolutional Neural Networks for Wide Parameter-Space Searches of Continuous Gravitational Waves**|Prasanna Mohan Joshi et.al.|[2408.07070](http://arxiv.org/abs/2408.07070)|null|
 |**2024-08-13**|**KAN You See It? KANs and Sentinel for Effective and Explainable Crop Field Segmentation**|Daniele Rege Cambrin et.al.|[2408.07040](http://arxiv.org/abs/2408.07040)|null|
