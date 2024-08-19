@@ -1965,6 +1965,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**VF-NeRF: Learning Neural Vector Fields for Indoor Scene Reconstruction**|Albert Gassol Puigjaner et.al.|[2408.08766](http://arxiv.org/abs/2408.08766)|**[link](https://github.com/albertgassol1/vf-nerf)**|
 |**2024-08-15**|**WaterSplatting: Fast Underwater 3D Scene Reconstruction Using Gaussian Splatting**|Huapeng Li et.al.|[2408.08206](http://arxiv.org/abs/2408.08206)|null|
 |**2024-08-14**|**Rethinking Open-Vocabulary Segmentation of Radiance Fields in 3D Space**|Hyunjee Lee et.al.|[2408.07416](http://arxiv.org/abs/2408.07416)|null|
 |**2024-08-13**|**Potamoi: Accelerating Neural Rendering via a Unified Streaming Architecture**|Yu Feng et.al.|[2408.06608](http://arxiv.org/abs/2408.06608)|null|
@@ -3187,6 +3188,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**Assessing Generalization Capabilities of Malaria Diagnostic Models from Thin Blood Smears**|Louise Guillon et.al.|[2408.08792](http://arxiv.org/abs/2408.08792)|null|
+|**2024-08-16**|**A Disease-Specific Foundation Model Using Over 100K Fundus Images: Release and Validation for Abnormality and Multi-Disease Classification on Downstream Tasks**|Boa Jang et.al.|[2408.08790](http://arxiv.org/abs/2408.08790)|null|
+|**2024-08-16**|**Rethinking Generative Semantic Communication for Multi-User Systems with Multi-Modal LLM**|Wanting Yang et.al.|[2408.08765](http://arxiv.org/abs/2408.08765)|null|
+|**2024-08-16**|**A lifted Bregman strategy for training unfolded proximal neural network Gaussian denoisers**|Xiaoyu Wang et.al.|[2408.08742](http://arxiv.org/abs/2408.08742)|null|
+|**2024-08-16**|**Beam Prediction based on Large Language Models**|Yucheng Sheng et.al.|[2408.08707](http://arxiv.org/abs/2408.08707)|null|
+|**2024-08-16**|**TextCAVs: Debugging vision models using text**|Angus Nicolson et.al.|[2408.08652](http://arxiv.org/abs/2408.08652)|**[link](https://github.com/angusnicolson/textcavs)**|
+|**2024-08-16**|**DeepDFA: Automata Learning through Neural Probabilistic Relaxations**|Elena Umili et.al.|[2408.08622](http://arxiv.org/abs/2408.08622)|**[link](https://github.com/whitemech/deepdfa)**|
+|**2024-08-16**|**Rubick: Exploiting Job Reconfigurability for Deep Learning Cluster Scheduling**|Xinyi Zhang et.al.|[2408.08586](http://arxiv.org/abs/2408.08586)|null|
+|**2024-08-16**|**Tuning a SAM-Based Model with Multi-Cognitive Visual Adapter to Remote Sensing Instance Segmentation**|Linghao Zheng et.al.|[2408.08576](http://arxiv.org/abs/2408.08576)|null|
+|**2024-08-16**|**Convergence Framework of Deep Learning-based Hybrid Iterative Methods and the Application to Designing a Fourier Neural Solver for Parametric PDEs**|Chen Cui et.al.|[2408.08540](http://arxiv.org/abs/2408.08540)|null|
 |**2024-08-15**|**A Multi-task Adversarial Attack Against Face Authentication**|Hanrui Wang et.al.|[2408.08205](http://arxiv.org/abs/2408.08205)|**[link](https://github.com/azrealwang/mtadv)**|
 |**2024-08-15**|**From Clicks to Carbon: The Environmental Toll of Recommender Systems**|Tobias Vente et.al.|[2408.08203](http://arxiv.org/abs/2408.08203)|null|
 |**2024-08-15**|**Your Turn: Real-World Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182](http://arxiv.org/abs/2408.08182)|null|
