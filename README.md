@@ -602,6 +602,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**BrewCLIP: A Bifurcated Representation Learning Framework for Audio-Visual Retrieval**|Zhenyu Lu et.al.|[2408.10383](http://arxiv.org/abs/2408.10383)|null|
 |**2024-08-19**|**Fashion Image-to-Image Translation for Complementary Item Retrieval**|Matteo Attimonelli et.al.|[2408.09847](http://arxiv.org/abs/2408.09847)|null|
 |**2024-08-20**|**MambaLoc: Efficient Camera Localisation via State Space Model**|Jialu Wang et.al.|[2408.09680](http://arxiv.org/abs/2408.09680)|null|
 |**2024-08-15**|**DM2RM: Dual-Mode Multimodal Ranking for Target Objects and Receptacles Based on Open-Vocabulary Instructions**|Ryosuke Korekata et.al.|[2408.07910](http://arxiv.org/abs/2408.07910)|null|
@@ -1711,6 +1712,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**BrewCLIP: A Bifurcated Representation Learning Framework for Audio-Visual Retrieval**|Zhenyu Lu et.al.|[2408.10383](http://arxiv.org/abs/2408.10383)|null|
 |**2024-08-14**|**RSD-DOG : A New Image Descriptor based on Second Order Derivatives**|Darshan Venkatrayappa et.al.|[2408.07687](http://arxiv.org/abs/2408.07687)|null|
 |**2024-08-09**|**One Shot is Enough for Sequential Infrared Small Target Segmentation**|Bingbing Dan et.al.|[2408.04823](http://arxiv.org/abs/2408.04823)|null|
 |**2024-08-07**|**PRISM: PRogressive dependency maxImization for Scale-invariant image Matching**|Xudong Cai et.al.|[2408.03598](http://arxiv.org/abs/2408.03598)|null|
@@ -1967,6 +1969,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**Learning Part-aware 3D Representations by Fusing 2D Gaussians and Superquadrics**|Zhirui Gao et.al.|[2408.10789](http://arxiv.org/abs/2408.10789)|null|
+|**2024-08-20**|**TrackNeRF: Bundle Adjusting NeRF from Sparse and Noisy Views via Feature Tracks**|Jinjie Mai et.al.|[2408.10739](http://arxiv.org/abs/2408.10739)|null|
 |**2024-08-19**|**$R^2$ -Mesh: Reinforcement Learning Powered Mesh Reconstruction via Geometry and Appearance Refinement**|Haoyang Wang et.al.|[2408.10135](http://arxiv.org/abs/2408.10135)|null|
 |**2024-08-19**|**DiscoNeRF: Class-Agnostic Object Field for 3D Object Discovery**|Corentin Dumery et.al.|[2408.09928](http://arxiv.org/abs/2408.09928)|null|
 |**2024-08-20**|**CHASE: 3D-Consistent Human Avatars with Sparse Inputs via Gaussian Splatting and Contrastive Learning**|Haoyu Zhao et.al.|[2408.09663](http://arxiv.org/abs/2408.09663)|null|
@@ -3196,6 +3200,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**Towards a Standardized Representation for Deep Learning Collective Algorithms**|Jinsun Yoo et.al.|[2408.11008](http://arxiv.org/abs/2408.11008)|null|
+|**2024-08-20**|**Kilometer-Scale Convection Allowing Model Emulation using Generative Diffusion Modeling**|Jaideep Pathak et.al.|[2408.10958](http://arxiv.org/abs/2408.10958)|null|
+|**2024-08-20**|**Multichannel Attention Networks with Ensembled Transfer Learning to Recognize Bangla Handwritten Charecter**|Farhanul Haque et.al.|[2408.10955](http://arxiv.org/abs/2408.10955)|null|
+|**2024-08-20**|**ZebraPose: Zebra Detection and Pose Estimation using only Synthetic Data**|Elia Bonetto et.al.|[2408.10831](http://arxiv.org/abs/2408.10831)|null|
+|**2024-08-20**|**Deep Learning-based Classification of Dementia using Image Representation of Subcortical Signals**|Shivani Ranjan et.al.|[2408.10816](http://arxiv.org/abs/2408.10816)|null|
+|**2024-08-20**|**Inverse Deep Learning Ray Tracing for Heliostat Surface Prediction**|Jan Lewen et.al.|[2408.10802](http://arxiv.org/abs/2408.10802)|null|
+|**2024-08-20**|**Detection of Intracranial Hemorrhage for Trauma Patients**|Antoine P. Sanner et.al.|[2408.10768](http://arxiv.org/abs/2408.10768)|null|
+|**2024-08-20**|**Security Assessment of Hierarchical Federated Deep Learning**|D Alqattan et.al.|[2408.10752](http://arxiv.org/abs/2408.10752)|null|
+|**2024-08-20**|**Accelerated training of deep learning surrogate models for surface displacement and flow, with application to MCMC-based history matching of CO2 storage operations**|Yifu Han et.al.|[2408.10717](http://arxiv.org/abs/2408.10717)|null|
+|**2024-08-20**|**Coarse-to-Fine Detection of Multiple Seams for Robotic Welding**|Pengkun Wei et.al.|[2408.10710](http://arxiv.org/abs/2408.10710)|null|
 |**2024-08-19**|**Demystifying the Communication Characteristics for Distributed Transformer Models**|Quentin Anthony et.al.|[2408.10197](http://arxiv.org/abs/2408.10197)|null|
 |**2024-08-19**|**Imbalance-Aware Culvert-Sewer Defect Segmentation Using an Enhanced Feature Pyramid Network**|Rasha Alshawi et.al.|[2408.10181](http://arxiv.org/abs/2408.10181)|null|
 |**2024-08-19**|**Molecular Graph Representation Learning Integrating Large Language Models with Domain-specific Small Models**|Tianyu Zhang et.al.|[2408.10124](http://arxiv.org/abs/2408.10124)|**[link](https://github.com/zhangtia16/molgraph-lardo)**|
