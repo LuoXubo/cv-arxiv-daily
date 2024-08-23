@@ -589,6 +589,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-21**|**FUSELOC: Fusing Global and Local Descriptors to Disambiguate 2D-3D Matching in Visual Localization**|Son Tung Nguyen et.al.|[2408.12037](http://arxiv.org/abs/2408.12037)|null|
+|**2024-08-21**|**Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**|Lintong Zhang et.al.|[2408.11966](http://arxiv.org/abs/2408.11966)|null|
 |**2024-08-21**|**UniFashion: A Unified Vision-Language Model for Multimodal Fashion Retrieval and Generation**|Xiangyu Zhao et.al.|[2408.11305](http://arxiv.org/abs/2408.11305)|**[link](https://github.com/xiangyu-mm/unifashion)**|
 |**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085](http://arxiv.org/abs/2408.11085)|null|
 |**2024-08-19**|**BrewCLIP: A Bifurcated Representation Learning Framework for Audio-Visual Retrieval**|Zhenyu Lu et.al.|[2408.10383](http://arxiv.org/abs/2408.10383)|null|
@@ -1952,6 +1954,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-21**|**Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**|Lintong Zhang et.al.|[2408.11966](http://arxiv.org/abs/2408.11966)|null|
 |**2024-08-21**|**Irregularity Inspection using Neural Radiance Field**|Tianqi Ding et.al.|[2408.11251](http://arxiv.org/abs/2408.11251)|null|
 |**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085](http://arxiv.org/abs/2408.11085)|null|
 |**2024-08-20**|**Learning Part-aware 3D Representations by Fusing 2D Gaussians and Superquadrics**|Zhirui Gao et.al.|[2408.10789](http://arxiv.org/abs/2408.10789)|null|
@@ -3183,6 +3186,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**ssProp: Energy-Efficient Training for Convolutional Neural Networks with Scheduled Sparse Back Propagation**|Lujia Zhong et.al.|[2408.12561](http://arxiv.org/abs/2408.12561)|**[link](https://github.com/lujiazho/ssprop)**|
+|**2024-08-22**|**Automatic Organ and Pan-cancer Segmentation in Abdomen CT: the FLARE 2023 Challenge**|Jun Ma et.al.|[2408.12534](http://arxiv.org/abs/2408.12534)|null|
+|**2024-08-22**|**Deep Learning Improvements for Sparse Spatial Field Reconstruction**|Robert Sunderhaft et.al.|[2408.12531](http://arxiv.org/abs/2408.12531)|null|
+|**2024-08-22**|**Predicting Solar Energy Generation with Machine Learning based on AQI and Weather Features**|Arjun Shah et.al.|[2408.12476](http://arxiv.org/abs/2408.12476)|null|
+|**2024-08-22**|**WCEbleedGen: A wireless capsule endoscopy dataset and its benchmarking for automatic bleeding classification, detection, and segmentation**|Palak Handa et.al.|[2408.12466](http://arxiv.org/abs/2408.12466)|**[link](https://github.com/misahub2023/benchmarking-codes-of-the-wcebleedgen-dataset)**|
+|**2024-08-22**|**Smartphone-based Eye Tracking System using Edge Intelligence and Model Optimisation**|Nishan Gunawardena et.al.|[2408.12463](http://arxiv.org/abs/2408.12463)|null|
+|**2024-08-22**|**Enhanced Infield Agriculture with Interpretable Machine Learning Approaches for Crop Classification**|Sudi Murindanyi et.al.|[2408.12426](http://arxiv.org/abs/2408.12426)|null|
+|**2024-08-22**|**4D Diffusion for Dynamic Protein Structure Prediction with Reference Guided Motion Alignment**|Kaihui Cheng et.al.|[2408.12419](http://arxiv.org/abs/2408.12419)|null|
+|**2024-08-22**|**An Evaluation of Deep Learning Models for Stock Market Trend Prediction**|Gonzalo Lopez Gil et.al.|[2408.12408](http://arxiv.org/abs/2408.12408)|null|
+|**2024-08-22**|**Generalized SAM: Efficient Fine-Tuning of SAM for Variable Input Image Sizes**|Sota Kato et.al.|[2408.12406](http://arxiv.org/abs/2408.12406)|**[link](https://github.com/usagisukisuki/g-sam)**|
 |**2024-08-21**|**Approaching Deep Learning through the Spectral Dynamics of Weights**|David Yunis et.al.|[2408.11804](http://arxiv.org/abs/2408.11804)|**[link](https://github.com/dyunis/spectral_dynamics)**|
 |**2024-08-21**|**Leveraging Chemistry Foundation Models to Facilitate Structure Focused Retrieval Augmented Generation in Multi-Agent Workflows for Catalyst and Materials Design**|Nathaniel H. Park et.al.|[2408.11793](http://arxiv.org/abs/2408.11793)|null|
 |**2024-08-21**|**Improving the Scan-rescan Precision of AI-based CMR Biomarker Estimation**|Dewmini Hasara Wickremasinghe et.al.|[2408.11754](http://arxiv.org/abs/2408.11754)|null|
