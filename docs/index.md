@@ -595,6 +595,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-06**|**Reprojection Errors as Prompts for Efficient Scene Coordinate Regression**|Ting-Ru Liu et.al.|[2409.04178](http://arxiv.org/abs/2409.04178)|null|
+|**2024-09-06**|**Matched Filtering based LiDAR Place Recognition for Urban and Natural Environments**|Therese Joseph et.al.|[2409.03998](http://arxiv.org/abs/2409.03998)|null|
 |**2024-09-04**|**Design and Evaluation of Camera-Centric Mobile Crowdsourcing Applications**|Abby Stylianou et.al.|[2409.03012](http://arxiv.org/abs/2409.03012)|null|
 |**2024-09-04**|**NUDGE: Lightweight Non-Parametric Fine-Tuning of Embeddings for Retrieval**|Sepanta Zeighami et.al.|[2409.02343](http://arxiv.org/abs/2409.02343)|**[link](https://github.com/szeighami/nudge)**|
 |**2024-09-03**|**Optimizing CLIP Models for Image Retrieval with Maintained Joint-Embedding Alignment**|Konstantin Schall et.al.|[2409.01936](http://arxiv.org/abs/2409.01936)|**[link](https://github.com/Visual-Computing/MCIP)**|
@@ -1481,6 +1483,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-06**|**D4: Text-guided diffusion model-based domain adaptive data augmentation for vineyard shoot detection**|Kentaro Hirahara et.al.|[2409.04060](http://arxiv.org/abs/2409.04060)|null|
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-07-31**|**Certifying Robustness of Learning-Based Keypoint Detection and Pose Estimation Methods**|Xusheng Luo et.al.|[2408.00117](http://arxiv.org/abs/2408.00117)|null|
 |**2024-07-26**|**SHIC: Shape-Image Correspondences with no Keypoint Supervision**|Aleksandar Shtedritski et.al.|[2407.18907](http://arxiv.org/abs/2407.18907)|null|
@@ -3232,6 +3235,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-06**|**Holographic Air-quality Monitor (HAM)**|Nicholas Bravo-Frank et.al.|[2409.04435](http://arxiv.org/abs/2409.04435)|null|
+|**2024-09-06**|**Enhancing Skin Lesion Diagnosis with Ensemble Learning**|Xiaoyi Liu et.al.|[2409.04381](http://arxiv.org/abs/2409.04381)|null|
+|**2024-09-06**|**The Impact of Scanner Domain Shift on Deep Learning Performance in Medical Imaging: an Experimental Study**|Gregory Szumel et.al.|[2409.04368](http://arxiv.org/abs/2409.04368)|null|
+|**2024-09-06**|**Fast Adaptation for Deep Learning-based Wireless Communications**|Ouya Wang et.al.|[2409.04302](http://arxiv.org/abs/2409.04302)|null|
+|**2024-09-06**|**CoxKAN: Kolmogorov-Arnold Networks for Interpretable, High-Performance Survival Analysis**|William Knottenbelt et.al.|[2409.04290](http://arxiv.org/abs/2409.04290)|**[link](https://github.com/knottwill/CoxKAN)**|
+|**2024-09-06**|**Cycle Pixel Difference Network for Crisp Edge Detection**|Changsong Liu et.al.|[2409.04272](http://arxiv.org/abs/2409.04272)|null|
+|**2024-09-06**|**WarpAdam: A new Adam optimizer based on Meta-Learning approach**|Chengxi Pan et.al.|[2409.04244](http://arxiv.org/abs/2409.04244)|null|
+|**2024-09-06**|**MpoxMamba: A Grouped Mamba-based Lightweight Hybrid Network for Mpox Detection**|Yubiao Yue et.al.|[2409.04218](http://arxiv.org/abs/2409.04218)|**[link](https://github.com/yubiaoyue/mpoxmamba)**|
+|**2024-09-06**|**Learning to Learn Transferable Generative Attack for Person Re-Identification**|Yuan Bian et.al.|[2409.04208](http://arxiv.org/abs/2409.04208)|null|
+|**2024-09-06**|**The Prevalence of Neural Collapse in Neural Multivariate Regression**|George Andriopoulos et.al.|[2409.04180](http://arxiv.org/abs/2409.04180)|null|
 |**2024-09-05**|**A DNN Biophysics Model with Topological and Electrostatic Features**|Elyssa Sliheet et.al.|[2409.03658](http://arxiv.org/abs/2409.03658)|null|
 |**2024-09-05**|**DiffEVC: Any-to-Any Emotion Voice Conversion with Expressive Guidance**|Hsing-Hang Chou et.al.|[2409.03636](http://arxiv.org/abs/2409.03636)|null|
 |**2024-09-05**|**CTMBIDS: Convolutional Tsetlin Machine Based Intrusion Detection System for DDoS attacks in an SDN environment**|Rasoul Jafari Gohari et.al.|[2409.03544](http://arxiv.org/abs/2409.03544)|null|
