@@ -595,6 +595,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-10**|**GeoCalib: Learning Single-image Calibration with Geometric Optimization**|Alexander Veicht et.al.|[2409.06704](http://arxiv.org/abs/2409.06704)|**[link](https://github.com/cvg/geocalib)**|
+|**2024-09-10**|**Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**|Yujiao Shi et.al.|[2409.06471](http://arxiv.org/abs/2409.06471)|**[link](https://github.com/yujiaoshi/g2sweakly)**|
+|**2024-09-10**|**A Cross-Font Image Retrieval Network for Recognizing Undeciphered Oracle Bone Inscriptions**|Zhicong Wu et.al.|[2409.06381](http://arxiv.org/abs/2409.06381)|null|
 |**2024-09-09**|**Referring Expression Generation in Visually Grounded Dialogue with Discourse-aware Comprehension Guiding**|Bram Willemsen et.al.|[2409.05721](http://arxiv.org/abs/2409.05721)|null|
 |**2024-09-09**|**Open-World Dynamic Prompt and Continual Visual Representation Learning**|Youngeun Kim et.al.|[2409.05312](http://arxiv.org/abs/2409.05312)|null|
 |**2024-09-07**|**Training-free ZS-CIR via Weighted Modality Fusion and Similarity**|Ren-Di Wu et.al.|[2409.04918](http://arxiv.org/abs/2409.04918)|null|
@@ -1728,6 +1731,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-10**|**Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**|Yujiao Shi et.al.|[2409.06471](http://arxiv.org/abs/2409.06471)|**[link](https://github.com/yujiaoshi/g2sweakly)**|
 |**2024-09-05**|**Enabling Practical and Privacy-Preserving Image Processing**|Chao Wang et.al.|[2409.03568](http://arxiv.org/abs/2409.03568)|null|
 |**2024-09-04**|**A General Albedo Recovery Approach for Aerial Photogrammetric Images through Inverse Rendering**|Shuang Song et.al.|[2409.03032](http://arxiv.org/abs/2409.03032)|null|
 |**2024-08-29**|**Super-Resolution works for coastal simulations**|Zhi-Song Liu et.al.|[2408.16553](http://arxiv.org/abs/2408.16553)|null|
@@ -1990,6 +1994,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-10**|**LEIA: Latent View-invariant Embeddings for Implicit 3D Articulation**|Archana Swaminathan et.al.|[2409.06703](http://arxiv.org/abs/2409.06703)|null|
+|**2024-09-10**|**Sources of Uncertainty in 3D Scene Reconstruction**|Marcus Klasson et.al.|[2409.06407](http://arxiv.org/abs/2409.06407)|**[link](https://github.com/aaltoml/uncertainty-nerf-gs)**|
+|**2024-09-09**|**LSE-NeRF: Learning Sensor Modeling Errors for Deblured Neural Radiance Fields with RGB-Event Stereo**|Wei Zhi Tang et.al.|[2409.06104](http://arxiv.org/abs/2409.06104)|null|
 |**2024-09-09**|**G-NeLF: Memory- and Data-Efficient Hybrid Neural Light Field for Novel View Synthesis**|Lutao Jiang et.al.|[2409.05617](http://arxiv.org/abs/2409.05617)|null|
 |**2024-09-09**|**From Words to Poses: Enhancing Novel Object Pose Estimation with Vision Language Models**|Tessa Pulli et.al.|[2409.05413](http://arxiv.org/abs/2409.05413)|null|
 |**2024-09-09**|**KRONC: Keypoint-based Robust Camera Optimization for 3D Car Reconstruction**|Davide Di Nucci et.al.|[2409.05407](http://arxiv.org/abs/2409.05407)|null|
@@ -3245,6 +3252,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-10**|**A study on Deep Convolutional Neural Networks, Transfer Learning and Ensemble Model for Breast Cancer Detection**|Md Taimur Ahad et.al.|[2409.06699](http://arxiv.org/abs/2409.06699)|null|
+|**2024-09-10**|**DANCE: Deep Learning-Assisted Analysis of Protein Sequences Using Chaos Enhanced Kaleidoscopic Images**|Taslim Murad et.al.|[2409.06694](http://arxiv.org/abs/2409.06694)|null|
+|**2024-09-10**|**Benchmarking Sub-Genre Classification For Mainstage Dance Music**|Hongzhi Shu et.al.|[2409.06690](http://arxiv.org/abs/2409.06690)|null|
+|**2024-09-10**|**A comprehensive study on Blood Cancer detection and classification using Convolutional Neural Network**|Md Taimur Ahad et.al.|[2409.06689](http://arxiv.org/abs/2409.06689)|null|
+|**2024-09-10**|**A study on deep feature extraction to detect and classify Acute Lymphoblastic Leukemia (ALL)**|Sabit Ahamed Preanto et.al.|[2409.06687](http://arxiv.org/abs/2409.06687)|null|
+|**2024-09-10**|**Segmenting sea ice floes in close-range optical imagery with active contour and foundation models**|Giulio Passerotti et.al.|[2409.06641](http://arxiv.org/abs/2409.06641)|null|
+|**2024-09-10**|**Improving the Precision of CNNs for Magnetic Resonance Spectral Modeling**|John LaMaster et.al.|[2409.06609](http://arxiv.org/abs/2409.06609)|null|
+|**2024-09-10**|**Interactive 3D Segmentation for Primary Gross Tumor Volume in Oropharyngeal Cancer**|Mikko Saukkoriipi et.al.|[2409.06605](http://arxiv.org/abs/2409.06605)|null|
+|**2024-09-10**|**Lightweight Multiscale Feature Fusion Super-Resolution Network Based on Two-branch Convolution and Transformer**|Li Ke et.al.|[2409.06590](http://arxiv.org/abs/2409.06590)|null|
+|**2024-09-10**|**A Primer on Variational Inference for Physics-Informed Deep Generative Modelling**|Alex Glyn-Davies et.al.|[2409.06560](http://arxiv.org/abs/2409.06560)|null|
 |**2024-09-09**|**A CLIP-based siamese approach for meme classification**|Javier Huertas-Tato et.al.|[2409.05772](http://arxiv.org/abs/2409.05772)|null|
 |**2024-09-09**|**Application of Physics-Informed Neural Networks in Removing Telescope Beam Effects**|Shulei Ni et.al.|[2409.05718](http://arxiv.org/abs/2409.05718)|null|
 |**2024-09-09**|**Real-time optimal control of high-dimensional parametrized systems by deep learning-based reduced order models**|Matteo Tomasetto et.al.|[2409.05709](http://arxiv.org/abs/2409.05709)|null|
