@@ -595,6 +595,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**Structured Pruning for Efficient Visual Place Recognition**|Oliver Grainge et.al.|[2409.07834](http://arxiv.org/abs/2409.07834)|null|
 |**2024-09-10**|**GeoCalib: Learning Single-image Calibration with Geometric Optimization**|Alexander Veicht et.al.|[2409.06704](http://arxiv.org/abs/2409.06704)|**[link](https://github.com/cvg/geocalib)**|
 |**2024-09-10**|**Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**|Yujiao Shi et.al.|[2409.06471](http://arxiv.org/abs/2409.06471)|**[link](https://github.com/yujiaoshi/g2sweakly)**|
 |**2024-09-10**|**A Cross-Font Image Retrieval Network for Recognizing Undeciphered Oracle Bone Inscriptions**|Zhicong Wu et.al.|[2409.06381](http://arxiv.org/abs/2409.06381)|null|
@@ -1994,6 +1995,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with Diffusion Priors**|Thomas Hanwen Zhu et.al.|[2409.08278](http://arxiv.org/abs/2409.08278)|null|
 |**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454](http://arxiv.org/abs/2409.07454)|null|
 |**2024-09-11**|**ThermalGaussian: Thermal 3D Gaussian Splatting**|Rongfeng Lu et.al.|[2409.07200](http://arxiv.org/abs/2409.07200)|null|
 |**2024-09-10**|**LEIA: Latent View-invariant Embeddings for Implicit 3D Articulation**|Archana Swaminathan et.al.|[2409.06703](http://arxiv.org/abs/2409.06703)|null|
@@ -3254,6 +3256,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**HST Proper Motion of Andromeda III: Another Satellite Co-orbiting The M31 Satellite Plane**|Dana I. Casetti-Dinescu et.al.|[2409.08252](http://arxiv.org/abs/2409.08252)|null|
+|**2024-09-12**|**Multi-Model based Federated Learning Against Model Poisoning Attack: A Deep Learning Based Model Selection for MEC Systems**|Somayeh Kianpisheh et.al.|[2409.08237](http://arxiv.org/abs/2409.08237)|null|
+|**2024-09-12**|**Model Ensemble for Brain Tumor Segmentation in Magnetic Resonance Imaging**|Daniel Capellán-Martín et.al.|[2409.08232](http://arxiv.org/abs/2409.08232)|null|
+|**2024-09-12**|**Identification of head impact locations, speeds, and force based on head kinematics**|Xianghao Zhan et.al.|[2409.08177](http://arxiv.org/abs/2409.08177)|null|
+|**2024-09-12**|**Low-Cost Tree Crown Dieback Estimation Using Deep Learning-Based Segmentation**|M. J. Allen et.al.|[2409.08171](http://arxiv.org/abs/2409.08171)|**[link](https://github.com/mataln/dlncs-dieback)**|
+|**2024-09-12**|**Open Source Infrastructure for Automatic Cell Segmentation**|Aaron Rock Menezes et.al.|[2409.08163](http://arxiv.org/abs/2409.08163)|null|
+|**2024-09-12**|**Dark Experience for Incremental Keyword Spotting**|Tianyi Peng et.al.|[2409.08153](http://arxiv.org/abs/2409.08153)|null|
+|**2024-09-12**|**Efficient Deep Learning-based Cascaded Channel Feedback in RIS-Assisted Communications**|Yiming Cui et.al.|[2409.08149](http://arxiv.org/abs/2409.08149)|null|
+|**2024-09-12**|**Effective Segmentation of Post-Treatment Gliomas Using Simple Approaches: Artificial Sequence Generation and Ensemble Models**|Heejong Kim et.al.|[2409.08143](http://arxiv.org/abs/2409.08143)|null|
+|**2024-09-12**|**The JPEG Pleno Learning-based Point Cloud Coding Standard: Serving Man and Machine**|André F. R. Guarda et.al.|[2409.08130](http://arxiv.org/abs/2409.08130)|null|
 |**2024-09-11**|**Quantifying Knee Cartilage Shape and Lesion: From Image to Metrics**|Yongcheng Yao et.al.|[2409.07361](http://arxiv.org/abs/2409.07361)|**[link](https://github.com/yongchengyao/cmt-amai24paper)**|
 |**2024-09-11**|**Federated Impression for Learning with Distributed Heterogeneous Data**|Sana Ayromlou et.al.|[2409.07351](http://arxiv.org/abs/2409.07351)|null|
 |**2024-09-11**|**Current Symmetry Group Equivariant Convolution Frameworks for Representation Learning**|Ramzan Basheer et.al.|[2409.07327](http://arxiv.org/abs/2409.07327)|null|
