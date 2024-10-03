@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.02
+## Updated on 2024.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3313,9 +3313,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-30**|**Uncertainty-Informed Screening for Safer Solvents Used in the Synthesis of Perovskite via Language Models**|Arpan Mukherjee et.al.|[2409.20512](http://arxiv.org/abs/2409.20512)|null|
 |**2024-09-30**|**NUTRIVISION: A System for Automatic Diet Management in Smart Healthcare**|Madhumita Veeramreddy et.al.|[2409.20508](http://arxiv.org/abs/2409.20508)|null|
-|**2024-09-30**|**What Information Contributes to Log-based Anomaly Detection? Insights from a Configurable Transformer-Based Approach**|Xingfang Wu et.al.|[2409.20503](http://arxiv.org/abs/2409.20503)|null|
+|**2024-09-30**|**What Information Contributes to Log-based Anomaly Detection? Insights from a Configurable Transformer-Based Approach**|Xingfang Wu et.al.|[2409.20503](http://arxiv.org/abs/2409.20503)|**[link](https://github.com/mooselab/suppmaterial-CfgTransAnomalyDetector)**|
 |**2024-09-30**|**IRFusionFormer: Enhancing Pavement Crack Segmentation with RGB-T Fusion and Topological-Based Loss**|Ruiqiang Xiao et.al.|[2409.20474](http://arxiv.org/abs/2409.20474)|null|
-|**2024-09-30**|**Physics-Regularized Multi-Modal Image Assimilation for Brain Tumor Localization**|Michal Balcerak et.al.|[2409.20409](http://arxiv.org/abs/2409.20409)|null|
+|**2024-09-30**|**Physics-Regularized Multi-Modal Image Assimilation for Brain Tumor Localization**|Michal Balcerak et.al.|[2409.20409](http://arxiv.org/abs/2409.20409)|**[link](https://github.com/m1balcerak/PhysRegTumor)**|
 |**2024-09-30**|**Open-Source Periorbital Segmentation Dataset for Ophthalmic Applications**|George R. Nahass et.al.|[2409.20407](http://arxiv.org/abs/2409.20407)|null|
 |**2024-09-30**|**Efficient Driving Behavior Narration and Reasoning on Edge Device Using Large Language Models**|Yizhou Huang et.al.|[2409.20364](http://arxiv.org/abs/2409.20364)|null|
 |**2024-10-01**|**Enhancing GANs with Contrastive Learning-Based Multistage Progressive Finetuning SNN and RL-Based External Optimization**|Osama Mustafa et.al.|[2409.20340](http://arxiv.org/abs/2409.20340)|null|
