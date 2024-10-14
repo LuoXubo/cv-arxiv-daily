@@ -601,6 +601,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**Voxel-SLAM: A Complete, Accurate, and Versatile LiDAR-Inertial SLAM System**|Zheng Liu et.al.|[2410.08935](http://arxiv.org/abs/2410.08935)|null|
+|**2024-10-11**|**Semantic Token Reweighting for Interpretable and Controllable Text Embeddings in CLIP**|Eunji Kim et.al.|[2410.08469](http://arxiv.org/abs/2410.08469)|null|
+|**2024-10-11**|**A Unified Deep Semantic Expansion Framework for Domain-Generalized Person Re-identification**|Eugene P. W. Ang et.al.|[2410.08456](http://arxiv.org/abs/2410.08456)|null|
 |**2024-10-10**|**A Unified Debiasing Approach for Vision-Language Models across Modalities and Tasks**|Hoin Jung et.al.|[2410.07593](http://arxiv.org/abs/2410.07593)|null|
 |**2024-10-09**|**Exploiting Distribution Constraints for Scalable and Efficient Image Retrieval**|Mohammad Omama et.al.|[2410.07022](http://arxiv.org/abs/2410.07022)|null|
 |**2024-10-09**|**Pair-VPR: Place-Aware Pre-training and Contrastive Pair Classification for Visual Place Recognition with Vision Transformers**|Stephen Hausler et.al.|[2410.06614](http://arxiv.org/abs/2410.06614)|null|
@@ -2046,6 +2049,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**SceneCraft: Layout-Guided 3D Scene Generation**|Xiuyu Yang et.al.|[2410.09049](http://arxiv.org/abs/2410.09049)|**[link](https://github.com/orangesodahub/scenecraft)**|
+|**2024-10-11**|**MeshGS: Adaptive Mesh-Aligned Gaussian Splatting for High-Quality Rendering**|Jaehoon Choi et.al.|[2410.08941](http://arxiv.org/abs/2410.08941)|null|
+|**2024-10-11**|**Optimizing NeRF-based SLAM with Trajectory Smoothness Constraints**|Yicheng He et.al.|[2410.08780](http://arxiv.org/abs/2410.08780)|null|
 |**2024-10-10**|**RGM: Reconstructing High-fidelity 3D Car Assets with Relightable 3D-GS Generative Model from a Single Image**|Xiaoxue Chen et.al.|[2410.08181](http://arxiv.org/abs/2410.08181)|null|
 |**2024-10-10**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107](http://arxiv.org/abs/2410.08107)|**[link](https://github.com/wu-cvgl/inceventgs)**|
 |**2024-10-11**|**NeRF-Accelerated Ecological Monitoring in Mixed-Evergreen Redwood Forest**|Adam Korycki et.al.|[2410.07418](http://arxiv.org/abs/2410.07418)|**[link](https://github.com/harelab-ucsc/redwoodnerf)**|
@@ -3351,6 +3357,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**Meta-Transfer Learning Empowered Temporal Graph Networks for Cross-City Real Estate Appraisal**|Weijia Zhang et.al.|[2410.08947](http://arxiv.org/abs/2410.08947)|null|
+|**2024-10-11**|**HyperPg -- Prototypical Gaussians on the Hypersphere for Interpretable Deep Learning**|Maximilian Xiling Li et.al.|[2410.08925](http://arxiv.org/abs/2410.08925)|null|
+|**2024-10-11**|**Efficient Hyperparameter Importance Assessment for CNNs**|Ruinan Wang et.al.|[2410.08920](http://arxiv.org/abs/2410.08920)|null|
+|**2024-10-11**|**An End-to-End Deep Learning Method for Solving Nonlocal Allen-Cahn and Cahn-Hilliard Phase-Field Models**|Yuwei Geng et.al.|[2410.08914](http://arxiv.org/abs/2410.08914)|null|
+|**2024-10-11**|**Exploiting Memory-aware Q-distribution Prediction for Nuclear Fusion via Modern Hopfield Network**|Qingchuan Ma et.al.|[2410.08889](http://arxiv.org/abs/2410.08889)|null|
+|**2024-10-11**|**Multi-modal Fusion based Q-distribution Prediction for Controlled Nuclear Fusion**|Shiao Wang et.al.|[2410.08879](http://arxiv.org/abs/2410.08879)|null|
+|**2024-10-11**|**FlowMRI-Net: A generalizable self-supervised physics-driven 4D Flow MRI reconstruction network for aortic and cerebrovascular applications**|Luuk Jacobs et.al.|[2410.08856](http://arxiv.org/abs/2410.08856)|null|
+|**2024-10-11**|**Deep Learning Algorithms for Mean Field Optimal Stopping in Finite Space and Discrete Time**|Lorenzo Magnino et.al.|[2410.08850](http://arxiv.org/abs/2410.08850)|null|
+|**2024-10-11**|**A physics-guided neural network for flooding area detection using SAR imagery and local river gauge observations**|Monika Gierszewska et.al.|[2410.08837](http://arxiv.org/abs/2410.08837)|null|
+|**2024-10-11**|**High Level Reconstruction with Deep Learning using ILD Full Simulation**|Taikan Suehara et.al.|[2410.08772](http://arxiv.org/abs/2410.08772)|null|
 |**2024-10-10**|**Medical Image Quality Assessment based on Probability of Necessity and Sufficiency**|Boyu Chen et.al.|[2410.08118](http://arxiv.org/abs/2410.08118)|null|
 |**2024-10-10**|**Crossing Margins: Intersectional Users' Ethical Concerns about Software**|Lauren Olson et.al.|[2410.08090](http://arxiv.org/abs/2410.08090)|null|
 |**2024-10-10**|**Reversible Decoupling Network for Single Image Reflection Removal**|Hao Zhao et.al.|[2410.08063](http://arxiv.org/abs/2410.08063)|**[link](https://github.com/lime-j/RDNet)**|
