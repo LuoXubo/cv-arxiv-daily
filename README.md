@@ -2086,6 +2086,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-22**|**LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias**|Haian Jin et.al.|[2410.17242](http://arxiv.org/abs/2410.17242)|null|
+|**2024-10-18**|**GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting**|Yusen Xie et.al.|[2410.17084](http://arxiv.org/abs/2410.17084)|null|
+|**2024-10-22**|**E-3DGS: Gaussian Splatting with Exposure and Motion Events**|Xiaoting Yin et.al.|[2410.16995](http://arxiv.org/abs/2410.16995)|null|
+|**2024-10-21**|**Joker: Conditional 3D Head Synthesis with Extreme Facial Expressions**|Malte Prinzler et.al.|[2410.16395](http://arxiv.org/abs/2410.16395)|null|
 |**2024-10-21**|**FrugalNeRF: Fast Convergence for Few-shot Novel View Synthesis without Learned Priors**|Chin-Yang Lin et.al.|[2410.16271](http://arxiv.org/abs/2410.16271)|null|
 |**2024-10-20**|**EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting**|Bohao Liao et.al.|[2410.15392](http://arxiv.org/abs/2410.15392)|null|
 |**2024-10-19**|**Neural Radiance Field Image Refinement through End-to-End Sampling Point Optimization**|Kazuhiro Ohta et.al.|[2410.14958](http://arxiv.org/abs/2410.14958)|null|
@@ -3411,6 +3415,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-22**|**HyperspectralViTs: Fast and Accurate methane detection on-board satellites**|Vít Růžička et.al.|[2410.17248](http://arxiv.org/abs/2410.17248)|null|
+|**2024-10-22**|**KANICE: Kolmogorov-Arnold Networks with Interactive Convolutional Elements**|Md Meftahul Ferdaus et.al.|[2410.17172](http://arxiv.org/abs/2410.17172)|**[link](https://github.com/m-ferdaus/kanice)**|
+|**2024-10-22**|**Dynamic Glucose Enhanced Imaging using Direct Water Saturation**|Linda Knutsson et.al.|[2410.17119](http://arxiv.org/abs/2410.17119)|null|
+|**2024-10-22**|**A Survey on Deep Learning-based Gaze Direction Regression: Searching for the State-of-the-art**|Franko Šikić et.al.|[2410.17082](http://arxiv.org/abs/2410.17082)|null|
+|**2024-10-22**|**Delay-Constrained Grant-Free Random Access in MIMO Systems: Distributed Pilot Allocation and Power Control**|Jianan Bai et.al.|[2410.17068](http://arxiv.org/abs/2410.17068)|null|
+|**2024-10-22**|**Multi Kernel Estimation based Object Segmentation**|Haim Goldfisher et.al.|[2410.17064](http://arxiv.org/abs/2410.17064)|null|
+|**2024-10-22**|**DIRI: Adversarial Patient Reidentification with Large Language Models for Evaluating Clinical Text Anonymization**|John X. Morris et.al.|[2410.17035](http://arxiv.org/abs/2410.17035)|null|
+|**2024-10-22**|**Variational autoencoders stabilise TCN performance when classifying weakly labelled bioacoustics data**|Laia Garrobé Fonollosa et.al.|[2410.17006](http://arxiv.org/abs/2410.17006)|null|
+|**2024-10-22**|**Active Physics Informed Deep Learning: Surrogate Modeling for Non Planar Wavefront Excitation of Topological Nanophotonic Devices**|Fatemeh Davoodi et.al.|[2410.16905](http://arxiv.org/abs/2410.16905)|null|
+|**2024-10-22**|**Bayes without Underfitting: Fully Correlated Deep Learning Posteriors via Alternating Projections**|Marco Miani et.al.|[2410.16901](http://arxiv.org/abs/2410.16901)|null|
 |**2024-10-21**|**Hyperparameter Optimisation in Deep Learning from Ensemble Methods: Applications to Proton Structure**|Juan Cruz-Martinez et.al.|[2410.16248](http://arxiv.org/abs/2410.16248)|null|
 |**2024-10-21**|**Comprehensive benchmarking of large language models for RNA secondary structure prediction**|L. I. Zablocki et.al.|[2410.16212](http://arxiv.org/abs/2410.16212)|**[link](https://github.com/sinc-lab/rna-llm-folding)**|
 |**2024-10-21**|**Systematic Review: Text Processing Algorithms in Machine Learning and Deep Learning for Mental Health Detection on Social Media**|Yuchen Cao et.al.|[2410.16204](http://arxiv.org/abs/2410.16204)|null|
