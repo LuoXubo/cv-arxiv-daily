@@ -615,11 +615,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**ChatSearch: a Dataset and a Generative Retrieval Model for General Conversational Image Retrieval**|Zijia Zhao et.al.|[2410.18715](http://arxiv.org/abs/2410.18715)|**[link](https://github.com/joez17/chatsearch)**|
+|**2024-10-24**|**On Model-Free Re-ranking for Visual Place Recognition with Deep Learned Local Features**|Tomáš Pivoňka et.al.|[2410.18573](http://arxiv.org/abs/2410.18573)|null|
 |**2024-10-22**|**Denoise-I2W: Mapping Images to Denoising Words for Accurate Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2410.17393](http://arxiv.org/abs/2410.17393)|null|
 |**2024-10-20**|**GSSF: Generalized Structural Sparse Function for Deep Cross-modal Metric Learning**|Haiwen Diao et.al.|[2410.15266](http://arxiv.org/abs/2410.15266)|**[link](https://github.com/paranioar/gssf)**|
 |**2024-10-19**|**Visual Navigation of Digital Libraries: Retrieval and Classification of Images in the National Library of Norway's Digitised Book Collection**|Marie Roald et.al.|[2410.14969](http://arxiv.org/abs/2410.14969)|**[link](https://github.com/Sprakbanken/CHR24-image-retrieval)**|
 |**2024-10-16**|**Development of Image Collection Method Using YOLO and Siamese Network**|Chan Young Shin et.al.|[2410.12561](http://arxiv.org/abs/2410.12561)|null|
-|**2024-10-16**|**LoD-Loc: Aerial Visual Localization using LoD 3D Map with Neural Wireframe Alignment**|Juelin Zhu et.al.|[2410.12269](http://arxiv.org/abs/2410.12269)|null|
+|**2024-10-16**|**LoD-Loc: Aerial Visual Localization using LoD 3D Map with Neural Wireframe Alignment**|Juelin Zhu et.al.|[2410.12269](http://arxiv.org/abs/2410.12269)|**[link](https://github.com/VictorZoo/LoD-Loc)**|
 |**2024-10-16**|**Leveraging Spatial Attention and Edge Context for Optimized Feature Selection in Visual Localization**|Nanda Febri Istighfarin et.al.|[2410.12240](http://arxiv.org/abs/2410.12240)|null|
 |**2024-10-15**|**LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images**|Yuzhou Cheng et.al.|[2410.11505](http://arxiv.org/abs/2410.11505)|null|
 |**2024-10-15**|**Multiview Scene Graph**|Juexiao Zhang et.al.|[2410.11187](http://arxiv.org/abs/2410.11187)|null|
@@ -2087,13 +2089,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**Binocular-Guided 3D Gaussian Splatting with View Consistency for Sparse View Synthesis**|Liang Han et.al.|[2410.18822](http://arxiv.org/abs/2410.18822)|null|
+|**2024-10-24**|**Real-time 3D-aware Portrait Video Relighting**|Ziqi Cai et.al.|[2410.18355](http://arxiv.org/abs/2410.18355)|**[link](https://github.com/GhostCai/PortraitRelighting)**|
+|**2024-10-22**|**Advancing Super-Resolution in Neural Radiance Fields via Variational Diffusion Strategies**|Shrey Vishen et.al.|[2410.18137](http://arxiv.org/abs/2410.18137)|**[link](https://github.com/shreyvish5678/SR-NeRF-with-Variational-Diffusion-Strategies)**|
 |**2024-10-23**|**VR-Splatting: Foveated Radiance Field Rendering via 3D Gaussian Splatting and Neural Points**|Linus Franke et.al.|[2410.17932](http://arxiv.org/abs/2410.17932)|null|
 |**2024-10-23**|**Few-shot NeRF by Adaptive Rendering Loss Regularization**|Qingshan Xu et.al.|[2410.17839](http://arxiv.org/abs/2410.17839)|null|
-|**2024-10-23**|**Efficient Neural Implicit Representation for 3D Human Reconstruction**|Zexu Huang et.al.|[2410.17741](http://arxiv.org/abs/2410.17741)|null|
+|**2024-10-23**|**Efficient Neural Implicit Representation for 3D Human Reconstruction**|Zexu Huang et.al.|[2410.17741](http://arxiv.org/abs/2410.17741)|**[link](https://github.com/HZXu-526/Human-Avatar)**|
 |**2024-10-23**|**PLGS: Robust Panoptic Lifting with 3D Gaussian Splatting**|Yu Wang et.al.|[2410.17505](http://arxiv.org/abs/2410.17505)|null|
 |**2024-10-22**|**LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias**|Haian Jin et.al.|[2410.17242](http://arxiv.org/abs/2410.17242)|null|
 |**2024-10-18**|**GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting**|Yusen Xie et.al.|[2410.17084](http://arxiv.org/abs/2410.17084)|null|
-|**2024-10-22**|**E-3DGS: Gaussian Splatting with Exposure and Motion Events**|Xiaoting Yin et.al.|[2410.16995](http://arxiv.org/abs/2410.16995)|null|
+|**2024-10-22**|**E-3DGS: Gaussian Splatting with Exposure and Motion Events**|Xiaoting Yin et.al.|[2410.16995](http://arxiv.org/abs/2410.16995)|**[link](https://github.com/masterhow/e-3dgs)**|
 |**2024-10-21**|**Joker: Conditional 3D Head Synthesis with Extreme Facial Expressions**|Malte Prinzler et.al.|[2410.16395](http://arxiv.org/abs/2410.16395)|null|
 |**2024-10-21**|**FrugalNeRF: Fast Convergence for Few-shot Novel View Synthesis without Learned Priors**|Chin-Yang Lin et.al.|[2410.16271](http://arxiv.org/abs/2410.16271)|null|
 |**2024-10-22**|**EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting**|Bohao Liao et.al.|[2410.15392](http://arxiv.org/abs/2410.15392)|null|
@@ -3420,6 +3425,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**Deep Insights into Cognitive Decline: A Survey of Leveraging Non-Intrusive Modalities with Deep Learning Techniques**|David Ortiz-Perez et.al.|[2410.18972](http://arxiv.org/abs/2410.18972)|null|
+|**2024-10-24**|**Modulated Adaptive Fourier Neural Operators for Temporal Interpolation of Weather Forecasts**|Jussi Leinonen et.al.|[2410.18904](http://arxiv.org/abs/2410.18904)|null|
+|**2024-10-24**|**Adaptive Convolutional Filter for Seismic Noise Attenuation**|Junheng Peng et.al.|[2410.18896](http://arxiv.org/abs/2410.18896)|null|
+|**2024-10-24**|**Multi-Class Abnormality Classification in Video Capsule Endoscopy Using Deep Learning**|Arnav Samal et.al.|[2410.18879](http://arxiv.org/abs/2410.18879)|**[link](https://github.com/arnavs04/capsule-vision-2024)**|
+|**2024-10-24**|**The Cat and Mouse Game: The Ongoing Arms Race Between Diffusion Models and Detection Methods**|Linda Laurier et.al.|[2410.18866](http://arxiv.org/abs/2410.18866)|null|
+|**2024-10-24**|**DL-Polycube: Deep learning enhanced polycube method for high-quality hexahedral mesh generation and volumetric spline construction**|Yuxuan Yu et.al.|[2410.18852](http://arxiv.org/abs/2410.18852)|null|
+|**2024-10-24**|**Highly efficient non-rigid registration in k-space with application to cardiac Magnetic Resonance Imaging**|Aya Ghoul et.al.|[2410.18834](http://arxiv.org/abs/2410.18834)|null|
+|**2024-10-24**|**MazeNet: An Accurate, Fast, and Scalable Deep Learning Solution for Steiner Minimum Trees**|Gabriel Díaz Ramos et.al.|[2410.18832](http://arxiv.org/abs/2410.18832)|null|
+|**2024-10-24**|**A Combinatorial Approach to Neural Emergent Communication**|Zheyuan Zhang et.al.|[2410.18806](http://arxiv.org/abs/2410.18806)|null|
+|**2024-10-24**|**PointPatchRL -- Masked Reconstruction Improves Reinforcement Learning on Point Clouds**|Balázs Gyenes et.al.|[2410.18800](http://arxiv.org/abs/2410.18800)|null|
 |**2024-10-23**|**CLEAR: Character Unlearning in Textual and Visual Modalities**|Alexey Dontsov et.al.|[2410.18057](http://arxiv.org/abs/2410.18057)|null|
 |**2024-10-23**|**Real time anomalies detection on video**|Fabien Poirier et.al.|[2410.18051](http://arxiv.org/abs/2410.18051)|null|
 |**2024-10-23**|**Deep Nonparametric Inference for Conditional Hazard Function**|Wen Su et.al.|[2410.18021](http://arxiv.org/abs/2410.18021)|null|
