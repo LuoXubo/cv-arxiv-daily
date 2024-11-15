@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.14
+## Updated on 2024.11.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3472,7 +3472,7 @@ layout: default
 |**2024-11-13**|**Deep Learning Accelerated Quantum Transport Simulations in Nanoelectronics: From Break Junctions to Field-Effect Transistors**|Jijie Zou et.al.|[2411.08800](http://arxiv.org/abs/2411.08800)|**[link](https://github.com/deepmodeling/DeePTB)**|
 |**2024-11-13**|**Recommender systems and reinforcement learning for building control and occupant interaction: A text-mining driven review of scientific literature**|Wenhao Zhang et.al.|[2411.08734](http://arxiv.org/abs/2411.08734)|null|
 |**2024-11-13**|**Analyst Reports and Stock Performance: Evidence from the Chinese Market**|Rui Liu et.al.|[2411.08726](http://arxiv.org/abs/2411.08726)|null|
-|**2024-11-13**|**A Deep Uzawa-Lagrange Multiplier Approach for Boundary Conditions in PINNs and Deep Ritz Methods**|Charalambos G. Makridakis et.al.|[2411.08702](http://arxiv.org/abs/2411.08702)|null|
+|**2024-11-14**|**A Deep Uzawa-Lagrange Multiplier Approach for Boundary Conditions in PINNs and Deep Ritz Methods**|Charalambos G. Makridakis et.al.|[2411.08702](http://arxiv.org/abs/2411.08702)|null|
 |**2024-11-13**|**Measuring similarity between embedding spaces using induced neighborhood graphs**|Tiago F. Tavares et.al.|[2411.08687](http://arxiv.org/abs/2411.08687)|null|
 |**2024-11-13**|**Estimating unknown parameters in differential equations with a reinforcement learning based PSO method**|Wenkui Sun et.al.|[2411.08651](http://arxiv.org/abs/2411.08651)|null|
 |**2024-11-13**|**Slender Object Scene Segmentation in Remote Sensing Image Based on Learnable Morphological Skeleton with Segment Anything Model**|Jun Xie et.al.|[2411.08592](http://arxiv.org/abs/2411.08592)|null|
