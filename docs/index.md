@@ -611,6 +611,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-10**|**On Motion Blur and Deblurring in Visual Place Recognition**|Timur Ismagilov et.al.|[2412.07751](http://arxiv.org/abs/2412.07751)|null|
+|**2024-12-10**|**Image Retrieval with Intra-Sweep Representation Learning for Neck Ultrasound Scanning Guidance**|Wanwen Chen et.al.|[2412.07741](http://arxiv.org/abs/2412.07741)|null|
 |**2024-12-09**|**An Efficient Scene Coordinate Encoding and Relocalization Method**|Kuan Xu et.al.|[2412.06488](http://arxiv.org/abs/2412.06488)|null|
 |**2024-12-09**|**A Hyperdimensional One Place Signature to Represent Them All: Stackable Descriptors For Visual Place Recognition**|Connor Malone et.al.|[2412.06153](http://arxiv.org/abs/2412.06153)|null|
 |**2024-12-07**|**Compositional Image Retrieval via Instruction-Aware Contrastive Learning**|Wenliang Zhong et.al.|[2412.05756](http://arxiv.org/abs/2412.05756)|null|
@@ -2142,6 +2144,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-10**|**EventSplat: 3D Gaussian Splatting from Moving Event Cameras for Real-time Rendering**|Toshiya Yura et.al.|[2412.07293](http://arxiv.org/abs/2412.07293)|null|
+|**2024-12-09**|**Diffusing Differentiable Representations**|Yash Savani et.al.|[2412.06981](http://arxiv.org/abs/2412.06981)|null|
 |**2024-12-09**|**Dynamic EventNeRF: Reconstructing General Dynamic Scenes from Multi-view Event Cameras**|Viktor Rudnev et.al.|[2412.06770](http://arxiv.org/abs/2412.06770)|null|
 |**2024-12-09**|**Deblur4DGS: 4D Gaussian Splatting from Blurry Monocular Video**|Renlong Wu et.al.|[2412.06424](http://arxiv.org/abs/2412.06424)|null|
 |**2024-12-09**|**Splatter-360: Generalizable 360 $^{\circ}$ Gaussian Splatting for Wide-baseline Panoramic Images**|Zheng Chen et.al.|[2412.06250](http://arxiv.org/abs/2412.06250)|**[link](https://github.com/thucz/splatter360)**|
@@ -3545,6 +3549,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-10**|**SKIPNet: Spatial Attention Skip Connections for Enhanced Brain Tumor Classification**|Khush Mendiratta et.al.|[2412.07736](http://arxiv.org/abs/2412.07736)|null|
+|**2024-12-10**|**Can Neural Decompilation Assist Vulnerability Prediction on Binary Code?**|D. Cotroneo et.al.|[2412.07538](http://arxiv.org/abs/2412.07538)|null|
+|**2024-12-10**|**KneeXNeT: An Ensemble-Based Approach for Knee Radiographic Evaluation**|Nicharee Srikijkasemwat et.al.|[2412.07526](http://arxiv.org/abs/2412.07526)|null|
+|**2024-12-10**|**CoPrUS: Consistency Preserving Utterance Synthesis towards more realistic benchmark dialogues**|Sebastian Steindl et.al.|[2412.07515](http://arxiv.org/abs/2412.07515)|null|
+|**2024-12-10**|**AHSG: Adversarial Attacks on High-level Semantics in Graph Neural Networks**|Kai Yuan et.al.|[2412.07468](http://arxiv.org/abs/2412.07468)|null|
+|**2024-12-10**|**Reconstructing Deep Neural Networks: Unleashing the Optimization Potential of Natural Gradient Descent**|Weihua Liu et.al.|[2412.07441](http://arxiv.org/abs/2412.07441)|**[link](https://github.com/chaochao-lin/sngd)**|
+|**2024-12-10**|**Explainability of Deep Learning-Based Plant Disease Classifiers Through Automated Concept Identification**|Jihen Amara et.al.|[2412.07408](http://arxiv.org/abs/2412.07408)|null|
+|**2024-12-10**|**Non-Progressive Influence Maximization in Dynamic Social Networks**|Yunming Hui et.al.|[2412.07402](http://arxiv.org/abs/2412.07402)|null|
+|**2024-12-10**|**Benchmarking Vision-Based Object Tracking for USVs in Complex Maritime Environments**|Muhayy Ud Din et.al.|[2412.07392](http://arxiv.org/abs/2412.07392)|null|
+|**2024-12-10**|**ConceptSearch: Towards Efficient Program Search Using LLMs for Abstraction and Reasoning Corpus (ARC)**|Kartik Singhal et.al.|[2412.07322](http://arxiv.org/abs/2412.07322)|null|
 |**2024-12-09**|**Vision transformer based Deep Learning of Topological indicators in Majorana Nanowires**|Jacob R. Taylor et.al.|[2412.06768](http://arxiv.org/abs/2412.06768)|null|
 |**2024-12-10**|**ContRail: A Framework for Realistic Railway Image Synthesis using ControlNet**|Andrei-Robert Alexandrescu et.al.|[2412.06742](http://arxiv.org/abs/2412.06742)|null|
 |**2024-12-09**|**Convolution goes higher-order: a biologically inspired mechanism empowers image classification**|Simone Azeglio et.al.|[2412.06740](http://arxiv.org/abs/2412.06740)|null|
