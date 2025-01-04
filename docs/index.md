@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.03
+## Updated on 2025.01.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3613,7 +3613,7 @@ layout: default
 |**2024-12-30**|**Adversarial Attack and Defense for LoRa Device Identification and Authentication via Deep Learning**|Yalin E. Sagduyu et.al.|[2412.21164](http://arxiv.org/abs/2412.21164)|null|
 |**2024-12-30**|**Open RAN-Enabled Deep Learning-Assisted Mobility Management for Connected Vehicles**|Maria Barbosa et.al.|[2412.21161](http://arxiv.org/abs/2412.21161)|null|
 |**2024-12-30**|**PyG-SSL: A Graph Self-Supervised Learning Toolkit**|Lecheng Zheng et.al.|[2412.21151](http://arxiv.org/abs/2412.21151)|**[link](https://github.com/idea-isail-lab-uiuc/pyg-ssl)**|
-|**2024-12-30**|**Galaxy Spectra Networks (GaSNet). III. Generative pre-trained network for spectrum reconstruction, redshift estimate and anomaly detection**|Fucheng Zhong et.al.|[2412.21130](http://arxiv.org/abs/2412.21130)|null|
+|**2024-12-30**|**Galaxy Spectra Networks (GaSNet). III. Generative pre-trained network for spectrum reconstruction, redshift estimate and anomaly detection**|Fucheng Zhong et.al.|[2412.21130](http://arxiv.org/abs/2412.21130)|**[link](https://github.com/Fucheng-Zhong/GaSNet-III)**|
 |**2024-12-30**|**Comparative Analysis of 2D and 3D ResNet Architectures for IDH and MGMT Mutation Detection in Glioma Patients**|Danial Elyassirad et.al.|[2412.21091](http://arxiv.org/abs/2412.21091)|null|
 |**2024-12-30**|**Machine Learning Optimal Ordering in Global Routing Problems in Semiconductors**|Heejin Choi et.al.|[2412.21035](http://arxiv.org/abs/2412.21035)|null|
 |**2024-12-30**|**Improving Location-based Thermal Emission Side-Channel Analysis Using Iterative Transfer Learning**|Tun-Chieh Lou et.al.|[2412.21030](http://arxiv.org/abs/2412.21030)|null|
