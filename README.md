@@ -2204,6 +2204,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-07**|**NeRFs are Mirror Detectors: Using Structural Similarity for Multi-View Mirror Scene Reconstruction with 3D Surface Primitives**|Leif Van Holland et.al.|[2501.04074](http://arxiv.org/abs/2501.04074)|null|
 |**2025-01-07**|**NeuralSVG: An Implicit Representation for Text-to-Vector Generation**|Sagi Polaczek et.al.|[2501.03992](http://arxiv.org/abs/2501.03992)|null|
 |**2025-01-07**|**DehazeGS: Seeing Through Fog with 3D Gaussian Splatting**|Jinze Yu et.al.|[2501.03659](http://arxiv.org/abs/2501.03659)|null|
 |**2025-01-07**|**ConcealGS: Concealing Invisible Copyright Information in 3D Gaussian Splatting**|Yifeng Yang et.al.|[2501.03605](http://arxiv.org/abs/2501.03605)|null|
@@ -3642,6 +3643,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**Grokking at the Edge of Numerical Stability**|Lucas Prieto et.al.|[2501.04697](http://arxiv.org/abs/2501.04697)|**[link](https://github.com/lucasprietoal/grokking-at-the-edge-of-numerical-stability)**|
+|**2025-01-08**|**Quantum-inspired Embeddings Projection and Similarity Metrics for Representation Learning**|Ivan Kankeu et.al.|[2501.04591](http://arxiv.org/abs/2501.04591)|null|
+|**2025-01-08**|**Integrating remote sensing data assimilation, deep learning and large language model for interactive wheat breeding yield prediction**|Guofeng Yang et.al.|[2501.04487](http://arxiv.org/abs/2501.04487)|null|
+|**2025-01-08**|**Hybrid Artificial Intelligence Strategies for Drone Navigation**|Rubén San-Segundo et.al.|[2501.04472](http://arxiv.org/abs/2501.04472)|null|
+|**2025-01-08**|**Rapid Automated Mapping of Clouds on Titan With Instance Segmentation**|Zachary Yahn et.al.|[2501.04459](http://arxiv.org/abs/2501.04459)|**[link](https://github.com/zacharyyahn/titancloudssegmentation)**|
+|**2025-01-08**|**Resource Allocation for the Training of Image Semantic Communication Networks**|Yang Li et.al.|[2501.04408](http://arxiv.org/abs/2501.04408)|null|
+|**2025-01-08**|**Tracking UWB Devices Through Radio Frequency Fingerprinting Is Possible**|Thibaud Ardoin et.al.|[2501.04401](http://arxiv.org/abs/2501.04401)|null|
+|**2025-01-08**|**DispFormer: Pretrained Transformer for Flexible Dispersion Curve Inversion from Global Synthesis to Regional Applications**|Feng Liu et.al.|[2501.04366](http://arxiv.org/abs/2501.04366)|**[link](https://github.com/liufeng2317/DispFormer)**|
+|**2025-01-08**|**Decoding EEG Speech Perception with Transformers and VAE-based Data Augmentation**|Terrance Yu-Hao Chen et.al.|[2501.04359](http://arxiv.org/abs/2501.04359)|null|
+|**2025-01-08**|**DCIts -- Deep Convolutional Interpreter for time series**|Davor Horvatic et.al.|[2501.04339](http://arxiv.org/abs/2501.04339)|**[link](https://github.com/hc-xai/dcits)**|
 |**2025-01-07**|**Synthetic Data for Portfolios: A Throw of the Dice Will Never Abolish Chance**|Adil Rengim Cetingoz et.al.|[2501.03993](http://arxiv.org/abs/2501.03993)|null|
 |**2025-01-07**|**Visual question answering: from early developments to recent advances -- a survey**|Ngoc Dung Huynh et.al.|[2501.03939](http://arxiv.org/abs/2501.03939)|null|
 |**2025-01-07**|**Superpixel Boundary Correction for Weakly-Supervised Semantic Segmentation on Histopathology Images**|Hongyi Wu et.al.|[2501.03891](http://arxiv.org/abs/2501.03891)|null|
