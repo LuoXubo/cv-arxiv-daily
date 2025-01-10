@@ -2204,6 +2204,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**Light Transport-aware Diffusion Posterior Sampling for Single-View Reconstruction of 3D Volumes**|Ludwic Leonard et.al.|[2501.05226](http://arxiv.org/abs/2501.05226)|null|
 |**2025-01-07**|**NeRFs are Mirror Detectors: Using Structural Similarity for Multi-View Mirror Scene Reconstruction with 3D Surface Primitives**|Leif Van Holland et.al.|[2501.04074](http://arxiv.org/abs/2501.04074)|null|
 |**2025-01-07**|**NeuralSVG: An Implicit Representation for Text-to-Vector Generation**|Sagi Polaczek et.al.|[2501.03992](http://arxiv.org/abs/2501.03992)|null|
 |**2025-01-07**|**DehazeGS: Seeing Through Fog with 3D Gaussian Splatting**|Jinze Yu et.al.|[2501.03659](http://arxiv.org/abs/2501.03659)|null|
@@ -3643,6 +3644,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**Explainable AI-Enhanced Deep Learning for Pumpkin Leaf Disease Detection: A Comparative Analysis of CNN Architectures**|Md. Arafat Alam Khandaker et.al.|[2501.05449](http://arxiv.org/abs/2501.05449)|null|
+|**2025-01-09**|**From Images to Insights: Transforming Brain Cancer Diagnosis with Explainable AI**|Md. Arafat Alam Khandaker et.al.|[2501.05426](http://arxiv.org/abs/2501.05426)|null|
+|**2025-01-09**|**Uncertainty-aware Knowledge Tracing**|Weihua Cheng et.al.|[2501.05415](http://arxiv.org/abs/2501.05415)|null|
+|**2025-01-09**|**TimeRL: Efficient Deep Reinforcement Learning with Polyhedral Dependence Graphs**|Pedro F. Silvestre et.al.|[2501.05408](http://arxiv.org/abs/2501.05408)|null|
+|**2025-01-09**|**BRATI: Bidirectional Recurrent Attention for Time-Series Imputation**|Armando Collado-Villaverde et.al.|[2501.05401](http://arxiv.org/abs/2501.05401)|null|
+|**2025-01-09**|**Comparison Study: Glacier Calving Front Delineation in Synthetic Aperture Radar Images With Deep Learning**|Nora Gourmelon et.al.|[2501.05281](http://arxiv.org/abs/2501.05281)|null|
+|**2025-01-09**|**HipyrNet: Hypernet-Guided Feature Pyramid network for mixed-exposure correction**|Shaurya Singh Rathore et.al.|[2501.05195](http://arxiv.org/abs/2501.05195)|null|
+|**2025-01-09**|**RadioTransformer: Accurate Radio Map Construction and Coverage Prediction**|Yuxuan Li et.al.|[2501.05190](http://arxiv.org/abs/2501.05190)|null|
+|**2025-01-09**|**Deep Assessment of Code Review Generation Approaches: Beyond Lexical Similarity**|Yanjie Jiang et.al.|[2501.05176](http://arxiv.org/abs/2501.05176)|null|
+|**2025-01-09**|**A Systematic Literature Review on Deep Learning-based Depth Estimation in Computer Vision**|Ali Rohan et.al.|[2501.05147](http://arxiv.org/abs/2501.05147)|null|
 |**2025-01-08**|**Grokking at the Edge of Numerical Stability**|Lucas Prieto et.al.|[2501.04697](http://arxiv.org/abs/2501.04697)|**[link](https://github.com/lucasprietoal/grokking-at-the-edge-of-numerical-stability)**|
 |**2025-01-08**|**Quantum-inspired Embeddings Projection and Similarity Metrics for Representation Learning**|Ivan Kankeu et.al.|[2501.04591](http://arxiv.org/abs/2501.04591)|null|
 |**2025-01-08**|**Integrating remote sensing data assimilation, deep learning and large language model for interactive wheat breeding yield prediction**|Guofeng Yang et.al.|[2501.04487](http://arxiv.org/abs/2501.04487)|null|
