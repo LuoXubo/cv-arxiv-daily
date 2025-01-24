@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**FAST-LIVO2 on Resource-Constrained Platforms: LiDAR-Inertial-Visual Odometry with Efficient Memory and Computation**|Bingyang Zhou et.al.|[2501.13876](http://arxiv.org/abs/2501.13876)|null|
 |**2025-01-21**|**DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM**|Jesse Morris et.al.|[2501.11893](http://arxiv.org/abs/2501.11893)|null|
 |**2025-01-16**|**BRIGHT-VO: Brightness-Guided Hybrid Transformer for Visual Odometry with Multi-modality Refinement Module**|Dongzhihan Wang et.al.|[2501.08659](http://arxiv.org/abs/2501.08659)|null|
 |**2024-12-28**|**MambaVO: Deep Visual Odometry Based on Sequential Matching Refinement and Training Smoothing**|Shuo Wang et.al.|[2412.20082](http://arxiv.org/abs/2412.20082)|null|
@@ -2203,6 +2204,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM**|Gyuhyeon Pak et.al.|[2501.13402](http://arxiv.org/abs/2501.13402)|null|
 |**2025-01-22**|**Neural Radiance Fields for the Real World: A Survey**|Wenhui Xiao et.al.|[2501.13104](http://arxiv.org/abs/2501.13104)|null|
 |**2025-01-22**|**DWTNeRF: Boosting Few-shot Neural Radiance Fields via Discrete Wavelet Transform**|Hung Nguyen et.al.|[2501.12637](http://arxiv.org/abs/2501.12637)|null|
 |**2025-01-21**|**DNRSelect: Active Best View Selection for Deferred Neural Rendering**|Dongli Wu et.al.|[2501.12150](http://arxiv.org/abs/2501.12150)|null|
@@ -3657,6 +3659,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**Multimodal Sensor Dataset for Monitoring Older Adults Post Lower-Limb Fractures in Community Settings**|Ali Abedi et.al.|[2501.13888](http://arxiv.org/abs/2501.13888)|null|
+|**2025-01-23**|**Identifying and Mitigating Machine Learning Biases for the Gravitational-wave Detection Problem**|Narenraju Nagarajan et.al.|[2501.13846](http://arxiv.org/abs/2501.13846)|null|
+|**2025-01-23**|**A space-decoupling framework for optimization on bounded-rank matrices with orthogonally invariant constraints**|Yan Yang et.al.|[2501.13830](http://arxiv.org/abs/2501.13830)|null|
+|**2025-01-23**|**Integrating Causality with Neurochaos Learning: Proposed Approach and Research Agenda**|Nanjangud C. Narendra et.al.|[2501.13763](http://arxiv.org/abs/2501.13763)|null|
+|**2025-01-23**|**An Empirical Study of Retrieval-Augmented Code Generation: Challenges and Opportunities**|Zezhou Yang et.al.|[2501.13742](http://arxiv.org/abs/2501.13742)|null|
+|**2025-01-23**|**Sample complexity of data-driven tuning of model hyperparameters in neural networks with structured parameter-dependent dual function**|Maria-Florina Balcan et.al.|[2501.13734](http://arxiv.org/abs/2501.13734)|null|
+|**2025-01-23**|**Skin Disease Detection and Classification of Actinic Keratosis and Psoriasis Utilizing Deep Transfer Learning**|Fahud Ahmmed et.al.|[2501.13713](http://arxiv.org/abs/2501.13713)|null|
+|**2025-01-23**|**Regularizing cross entropy loss via minimum entropy and K-L divergence**|Abdulrahman Oladipupo Ibraheem et.al.|[2501.13709](http://arxiv.org/abs/2501.13709)|null|
+|**2025-01-23**|**The First Indoor Pathloss Radio Map Prediction Challenge**|Stefanos Bakirtzis et.al.|[2501.13698](http://arxiv.org/abs/2501.13698)|null|
+|**2025-01-23**|**Learning-based A Posteriori Speech Presence Probability Estimation and Applications**|Shuai Tao et.al.|[2501.13642](http://arxiv.org/abs/2501.13642)|null|
 |**2025-01-23**|**CHaRNet: Conditioned Heatmap Regression for Robust Dental Landmark Localization**|José Rodríguez-Ortega et.al.|[2501.13073](http://arxiv.org/abs/2501.13073)|null|
 |**2025-01-22**|**SMART-Vision: Survey of Modern Action Recognition Techniques in Vision**|Ali K. AlShami et.al.|[2501.13066](http://arxiv.org/abs/2501.13066)|null|
 |**2025-01-22**|**STMDNet: A Lightweight Directional Framework for Motion Pattern Recognition of Tiny Targets**|Mingshuo Xu et.al.|[2501.13054](http://arxiv.org/abs/2501.13054)|**[link](https://github.com/mingshuoxu/stmdnet)**|
