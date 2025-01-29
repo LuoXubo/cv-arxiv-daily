@@ -3689,6 +3689,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-28**|**A Hybrid Deep Learning CNN Model for Enhanced COVID-19 Detection from Computed Tomography (CT) Scan Images**|Suresh Babu Nettur et.al.|[2501.17160](http://arxiv.org/abs/2501.17160)|null|
+|**2025-01-28**|**Scenario Understanding of Traffic Scenes Through Large Visual Language Models**|Rivera Esteban et.al.|[2501.17131](http://arxiv.org/abs/2501.17131)|null|
+|**2025-01-28**|**Hybrid Deep Learning Model for Multiple Cache Side Channel Attacks Detection: A Comparative Analysis**|Tejal Joshi et.al.|[2501.17123](http://arxiv.org/abs/2501.17123)|null|
+|**2025-01-28**|**Accelerated Training through Iterative Gradient Propagation Along the Residual Path**|Erwan Fagnou et.al.|[2501.17086](http://arxiv.org/abs/2501.17086)|null|
+|**2025-01-28**|**Graph Transformers for inverse physics: reconstructing flows around arbitrary 2D airfoils**|Gregory Duthé et.al.|[2501.17081](http://arxiv.org/abs/2501.17081)|null|
+|**2025-01-28**|**DINOSTAR: Deep Iterative Neural Object Detector Self-Supervised Training for Roadside LiDAR Applications**|Muhammad Shahbaz et.al.|[2501.17076](http://arxiv.org/abs/2501.17076)|null|
+|**2025-01-28**|**A systematic search for tectonic tremor and low-frequency earthquakes in the Atacama segment of the Chilean subduction zone (24 $^\circ$S-31$^\circ$ S) turns up empty**|Jannes Münchmeyer et.al.|[2501.16934](http://arxiv.org/abs/2501.16934)|null|
+|**2025-01-28**|**Frequency Matters: Explaining Biases of Face Recognition in the Frequency Domain**|Marco Huber et.al.|[2501.16896](http://arxiv.org/abs/2501.16896)|null|
+|**2025-01-28**|**Can Transformers Learn Full Bayesian Inference in Context?**|Arik Reuter et.al.|[2501.16825](http://arxiv.org/abs/2501.16825)|null|
+|**2025-01-28**|**Dynamic Hypergraph Representation for Bone Metastasis Cancer Analysis**|Yuxuan Chen et.al.|[2501.16787](http://arxiv.org/abs/2501.16787)|null|
 |**2025-01-27**|**Large Models in Dialogue for Active Perception and Anomaly Detection**|Tzoulio Chamiti et.al.|[2501.16300](http://arxiv.org/abs/2501.16300)|null|
 |**2025-01-27**|**Multi-view Structural Convolution Network for Domain-Invariant Point Cloud Recognition of Autonomous Vehicles**|Younggun Kim et.al.|[2501.16289](http://arxiv.org/abs/2501.16289)|**[link](https://github.com/mlmlab/mscn)**|
 |**2025-01-27**|**From Molecules to Mixtures: Learning Representations of Olfactory Mixture Similarity using Inductive Biases**|Gary Tom et.al.|[2501.16271](http://arxiv.org/abs/2501.16271)|null|
