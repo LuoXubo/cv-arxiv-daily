@@ -3689,6 +3689,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**Glioma Multimodal MRI Analysis System for Tumor Layered Diagnosis via Multi-task Semi-supervised Learning**|Yihao Liu et.al.|[2501.17758](http://arxiv.org/abs/2501.17758)|null|
+|**2025-01-29**|**Dynamics of Transient Structure in In-Context Linear Regression Transformers**|Liam Carroll et.al.|[2501.17745](http://arxiv.org/abs/2501.17745)|null|
+|**2025-01-29**|**Landscape Features in Single-Objective Continuous Optimization: Have We Hit a Wall in Algorithm Selection Generalization?**|Gjorgjina Cenikj et.al.|[2501.17663](http://arxiv.org/abs/2501.17663)|null|
+|**2025-01-29**|**Dual Invariance Self-training for Reliable Semi-supervised Surgical Phase Recognition**|Sahar Nasirihaghighi et.al.|[2501.17628](http://arxiv.org/abs/2501.17628)|**[link](https://github.com/sahar-nasiri/dist)**|
+|**2025-01-29**|**Characterization of Fractal Basins Using Deep Convolutional Neural Networks**|David Valle et.al.|[2501.17603](http://arxiv.org/abs/2501.17603)|null|
+|**2025-01-29**|**Large Language Models for Single-Step and Multi-Step Flight Trajectory Prediction**|Kaiwei Luo et.al.|[2501.17459](http://arxiv.org/abs/2501.17459)|null|
+|**2025-01-29**|**SIGN: A Statistically-Informed Gaze Network for Gaze Time Prediction**|Jianping Ye et.al.|[2501.17422](http://arxiv.org/abs/2501.17422)|null|
+|**2025-01-29**|**si4onnx: A Python package for Selective Inference in Deep Learning Models**|Teruyuki Katsuoka et.al.|[2501.17415](http://arxiv.org/abs/2501.17415)|null|
+|**2025-01-29**|**Forecasting S&P 500 Using LSTM Models**|Prashant Pilla et.al.|[2501.17366](http://arxiv.org/abs/2501.17366)|null|
+|**2025-01-28**|**Deep-and-Wide Learning: Enhancing Data-Driven Inference via Synergistic Learning of Inter- and Intra-Data Representations**|Md Tauhidul Islam et.al.|[2501.17347](http://arxiv.org/abs/2501.17347)|null|
 |**2025-01-28**|**A Hybrid Deep Learning CNN Model for Enhanced COVID-19 Detection from Computed Tomography (CT) Scan Images**|Suresh Babu Nettur et.al.|[2501.17160](http://arxiv.org/abs/2501.17160)|null|
 |**2025-01-28**|**Scenario Understanding of Traffic Scenes Through Large Visual Language Models**|Rivera Esteban et.al.|[2501.17131](http://arxiv.org/abs/2501.17131)|null|
 |**2025-01-28**|**Hybrid Deep Learning Model for Multiple Cache Side Channel Attacks Detection: A Comparative Analysis**|Tejal Joshi et.al.|[2501.17123](http://arxiv.org/abs/2501.17123)|null|
