@@ -619,6 +619,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-12**|**Composite Sketch+Text Queries for Retrieving Objects with Elusive Names and Complex Interactions**|Prajwal Gatti et.al.|[2502.08438](http://arxiv.org/abs/2502.08438)|null|
+|**2025-02-11**|**Captured by Captions: On Memorization and its Mitigation in CLIP Models**|Wenhao Wang et.al.|[2502.07830](http://arxiv.org/abs/2502.07830)|null|
 |**2025-02-11**|**Ultrafast 4D scanning transmission electron microscopy for imaging of localized optical fields**|Petr Koutenský et.al.|[2502.07338](http://arxiv.org/abs/2502.07338)|null|
 |**2025-02-11**|**Generative Ghost: Investigating Ranking Bias Hidden in AI-Generated Videos**|Haowen Gao et.al.|[2502.07327](http://arxiv.org/abs/2502.07327)|null|
 |**2025-02-11**|**PDV: Prompt Directional Vectors for Zero-shot Composed Image Retrieval**|Osman Tursun et.al.|[2502.07215](http://arxiv.org/abs/2502.07215)|null|
@@ -2226,6 +2228,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-12**|**Sat-DN: Implicit Surface Reconstruction from Multi-View Satellite Images with Depth and Normal Supervision**|Tianle Liu et.al.|[2502.08352](http://arxiv.org/abs/2502.08352)|null|
 |**2025-02-10**|**PrismAvatar: Real-time animated 3D neural head avatars on edge devices**|Prashant Raina et.al.|[2502.07030](http://arxiv.org/abs/2502.07030)|null|
 |**2025-02-10**|**Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC**|Siwei Meng et.al.|[2502.07007](http://arxiv.org/abs/2502.07007)|null|
 |**2025-02-08**|**GWRF: A Generalizable Wireless Radiance Field for Wireless Signal Propagation Modeling**|Kang Yang et.al.|[2502.05708](http://arxiv.org/abs/2502.05708)|null|
@@ -3693,6 +3696,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-12**|**A Survey on Image Quality Assessment: Insights, Analysis, and Future Outlook**|Chengqian Ma et.al.|[2502.08540](http://arxiv.org/abs/2502.08540)|null|
+|**2025-02-12**|**Handwritten Text Recognition: A Survey**|Carlos Garrido-Munoz et.al.|[2502.08417](http://arxiv.org/abs/2502.08417)|null|
+|**2025-02-12**|**Graph Foundation Models for Recommendation: A Comprehensive Survey**|Bin Wu et.al.|[2502.08346](http://arxiv.org/abs/2502.08346)|null|
+|**2025-02-12**|**Unlocking Scaling Law in Industrial Recommendation Systems with a Three-step Paradigm based Large User Model**|Bencheng Yan et.al.|[2502.08309](http://arxiv.org/abs/2502.08309)|null|
+|**2025-02-12**|**Intention is All You Need: Refining Your Code from Your Intention**|Qi Guo et.al.|[2502.08172](http://arxiv.org/abs/2502.08172)|null|
+|**2025-02-12**|**Riemannian Complex Hermit Positive Definite Convolution Network for Polarimetric SAR Image Classification**|Junfei Shi et.al.|[2502.08137](http://arxiv.org/abs/2502.08137)|null|
+|**2025-02-11**|**From Brainwaves to Brain Scans: A Robust Neural Network for EEG-to-fMRI Synthesis**|Kristofer Grover Roos et.al.|[2502.08025](http://arxiv.org/abs/2502.08025)|null|
+|**2025-02-11**|**ESPFormer: Doubly-Stochastic Attention with Expected Sliced Transport Plans**|Ashkan Shahbazi et.al.|[2502.07962](http://arxiv.org/abs/2502.07962)|null|
+|**2025-02-11**|**Federated Self-supervised Domain Generalization for Label-efficient Polyp Segmentation**|Xinyi Tan et.al.|[2502.07951](http://arxiv.org/abs/2502.07951)|null|
 |**2025-02-11**|**Novel computational workflows for natural and biomedical image processing based on hypercomplex algebras**|Nektarios A. Valous et.al.|[2502.07758](http://arxiv.org/abs/2502.07758)|null|
 |**2025-02-11**|**Contrastive Learning for Robust Representations of Neutrino Data**|Alex Wilkinson et.al.|[2502.07724](http://arxiv.org/abs/2502.07724)|null|
 |**2025-02-11**|**TMLC-Net: Transferable Meta Label Correction for Noisy Label Learning**|Mengyang Li et.al.|[2502.07721](http://arxiv.org/abs/2502.07721)|null|
