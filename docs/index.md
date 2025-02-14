@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.13
+## Updated on 2025.02.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -627,7 +627,7 @@ layout: default
 |**2025-02-10**|**AstroLoc: Robust Space to Ground Image Localizer**|Gabriele Berton et.al.|[2502.07003](http://arxiv.org/abs/2502.07003)|null|
 |**2025-02-09**|**Uni-Retrieval: A Multi-Style Retrieval Framework for STEM's Education**|Yanhao Jia et.al.|[2502.05863](http://arxiv.org/abs/2502.05863)|null|
 |**2025-02-07**|**Learning Street View Representations with Spatiotemporal Contrast**|Yong Li et.al.|[2502.04638](http://arxiv.org/abs/2502.04638)|null|
-|**2025-02-06**|**Cross the Gap: Exposing the Intra-modal Misalignment in CLIP via Modality Inversion**|Marco Mistretta et.al.|[2502.04263](http://arxiv.org/abs/2502.04263)|null|
+|**2025-02-06**|**Cross the Gap: Exposing the Intra-modal Misalignment in CLIP via Modality Inversion**|Marco Mistretta et.al.|[2502.04263](http://arxiv.org/abs/2502.04263)|**[link](https://github.com/miccunifi/cross-the-gap)**|
 |**2025-02-05**|**Human-Aligned Image Models Improve Visual Decoding from the Brain**|Nona Rajabi et.al.|[2502.03081](http://arxiv.org/abs/2502.03081)|null|
 |**2025-02-03**|**ConceptVAE: Self-Supervised Fine-Grained Concept Disentanglement from 2D Echocardiographies**|Costin F. Ciusdel et.al.|[2502.01335](http://arxiv.org/abs/2502.01335)|null|
 |**2025-01-31**|**LiDAR Loop Closure Detection using Semantic Graphs with Graph Attention Networks**|Liudi Yang et.al.|[2501.19382](http://arxiv.org/abs/2501.19382)|**[link](https://github.com/crepuscularlight/semanticloopclosure)**|
