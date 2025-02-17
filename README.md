@@ -34,7 +34,7 @@
 |**2024-12-12**|**eCARLA-scenes: A synthetically generated dataset for event-based optical flow prediction**|Jad Mansour et.al.|[2412.09209](http://arxiv.org/abs/2412.09209)|**[link](https://github.com/CIRS-Girona/ecarla-scenes)**|
 |**2024-12-04**|**MCVO: A Generic Visual Odometry for Arbitrarily Arranged Multi-Cameras**|Huai Yu et.al.|[2412.03146](http://arxiv.org/abs/2412.03146)|**[link](https://github.com/junhaowang615/mcvo)**|
 |**2024-12-04**|**An indoor DSO-based ceiling-vision odometry system for indoor industrial environments**|Abdelhak Bougouffa et.al.|[2412.02950](http://arxiv.org/abs/2412.02950)|null|
-|**2024-12-17**|**InCrowd-VI: A Realistic Visual-Inertial Dataset for Evaluating SLAM in Indoor Pedestrian-Rich Spaces for Human Navigation**|Marziyeh Bamdad et.al.|[2411.14358](http://arxiv.org/abs/2411.14358)|null|
+|**2024-12-17**|**InCrowd-VI: A Realistic Visual-Inertial Dataset for Evaluating SLAM in Indoor Pedestrian-Rich Spaces for Human Navigation**|Marziyeh Bamdad et.al.|[2411.14358](http://arxiv.org/abs/2411.14358)|**[link](https://github.com/banafshebamdad/InCrowd-VI)**|
 |**2024-12-13**|**Robust Monocular Visual Odometry using Curriculum Learning**|Assaf Lahiany et.al.|[2411.13438](http://arxiv.org/abs/2411.13438)|null|
 |**2024-11-15**|**BEV-ODOM: Reducing Scale Drift in Monocular Visual Odometry with BEV Representation**|Yufei Wei et.al.|[2411.10195](http://arxiv.org/abs/2411.10195)|null|
 |**2024-11-24**|**Enhanced Monocular Visual Odometry with AR Poses and Integrated INS-GPS for Robust Localization in Urban Environments**|Ankit Shaw et.al.|[2411.08231](http://arxiv.org/abs/2411.08231)|null|
@@ -655,7 +655,7 @@
 |**2025-01-19**|**Enhancing Sample Utilization in Noise-Robust Deep Metric Learning With Subgroup-Based Positive-Pair Selection**|Zhipeng Yu et.al.|[2501.11063](http://arxiv.org/abs/2501.11063)|**[link](https://github.com/smuelpeng/sgps-noisefreedml)**|
 |**2025-01-18**|**A Resource-Efficient Training Framework for Remote Sensing Text--Image Retrieval**|Weihang Zhang et.al.|[2501.10638](http://arxiv.org/abs/2501.10638)|null|
 |**2025-01-17**|**FLORA: Formal Language Model Enables Robust Training-free Zero-shot Object Referring Analysis**|Zhe Chen et.al.|[2501.09887](http://arxiv.org/abs/2501.09887)|null|
-|**2025-01-15**|**Vision Foundation Models for Computed Tomography**|Suraj Pai et.al.|[2501.09001](http://arxiv.org/abs/2501.09001)|null|
+|**2025-01-15**|**Vision Foundation Models for Computed Tomography**|Suraj Pai et.al.|[2501.09001](http://arxiv.org/abs/2501.09001)|**[link](https://github.com/project-lighter/lighter)**|
 |**2025-01-12**|**SCOT: Self-Supervised Contrastive Pretraining For Zero-Shot Compositional Retrieval**|Bhavin Jawade et.al.|[2501.08347](http://arxiv.org/abs/2501.08347)|null|
 |**2025-01-14**|**VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**|Ke Wu et.al.|[2501.08286](http://arxiv.org/abs/2501.08286)|null|
 |**2025-01-13**|**Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps**|Saurabh Gupta et.al.|[2501.07399](http://arxiv.org/abs/2501.07399)|null|
@@ -807,7 +807,7 @@
 |**2024-08-21**|**FUSELOC: Fusing Global and Local Descriptors to Disambiguate 2D-3D Matching in Visual Localization**|Son Tung Nguyen et.al.|[2408.12037](http://arxiv.org/abs/2408.12037)|**[link](https://github.com/sontung/descriptor-disambiguation)**|
 |**2024-08-21**|**Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**|Lintong Zhang et.al.|[2408.11966](http://arxiv.org/abs/2408.11966)|null|
 |**2024-08-21**|**UniFashion: A Unified Vision-Language Model for Multimodal Fashion Retrieval and Generation**|Xiangyu Zhao et.al.|[2408.11305](http://arxiv.org/abs/2408.11305)|**[link](https://github.com/xiangyu-mm/unifashion)**|
-|**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085](http://arxiv.org/abs/2408.11085)|null|
+|**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085](http://arxiv.org/abs/2408.11085)|**[link](https://github.com/XRIM-Lab/GS-CPR)**|
 |**2024-08-19**|**BrewCLIP: A Bifurcated Representation Learning Framework for Audio-Visual Retrieval**|Zhenyu Lu et.al.|[2408.10383](http://arxiv.org/abs/2408.10383)|null|
 |**2024-08-23**|**Fashion Image-to-Image Translation for Complementary Item Retrieval**|Matteo Attimonelli et.al.|[2408.09847](http://arxiv.org/abs/2408.09847)|**[link](https://github.com/sisinflab/geco)**|
 |**2024-08-20**|**MambaLoc: Efficient Camera Localisation via State Space Model**|Jialu Wang et.al.|[2408.09680](http://arxiv.org/abs/2408.09680)|null|
@@ -2490,7 +2490,7 @@
 |**2024-08-23**|**SIn-NeRF2NeRF: Editing 3D Scenes with Instructions through Segmentation and Inpainting**|Jiseung Hong et.al.|[2408.13285](http://arxiv.org/abs/2408.13285)|**[link](https://github.com/kaistchangmin/sin-nerf2nerf)**|
 |**2024-08-21**|**Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**|Lintong Zhang et.al.|[2408.11966](http://arxiv.org/abs/2408.11966)|null|
 |**2024-08-21**|**Irregularity Inspection using Neural Radiance Field**|Tianqi Ding et.al.|[2408.11251](http://arxiv.org/abs/2408.11251)|null|
-|**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085](http://arxiv.org/abs/2408.11085)|null|
+|**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085](http://arxiv.org/abs/2408.11085)|**[link](https://github.com/XRIM-Lab/GS-CPR)**|
 |**2024-08-20**|**Learning Part-aware 3D Representations by Fusing 2D Gaussians and Superquadrics**|Zhirui Gao et.al.|[2408.10789](http://arxiv.org/abs/2408.10789)|null|
 |**2024-08-20**|**TrackNeRF: Bundle Adjusting NeRF from Sparse and Noisy Views via Feature Tracks**|Jinjie Mai et.al.|[2408.10739](http://arxiv.org/abs/2408.10739)|null|
 |**2024-08-19**|**$R^2$ -Mesh: Reinforcement Learning Powered Mesh Reconstruction via Geometry and Appearance Refinement**|Haoyang Wang et.al.|[2408.10135](http://arxiv.org/abs/2408.10135)|null|
@@ -2758,7 +2758,7 @@
 |**2024-04-15**|**OccGaussian: 3D Gaussian Splatting for Occluded Human Rendering**|Jingrui Ye et.al.|[2404.08449](http://arxiv.org/abs/2404.08449)|null|
 |**2024-04-12**|**GPN: Generative Point-based NeRF**|Haipeng Wang et.al.|[2404.08312](http://arxiv.org/abs/2404.08312)|**[link](https://github.com/forestsen/GPN)**|
 |**2024-04-12**|**MonoPatchNeRF: Improving Neural Radiance Fields with Patch-based Monocular Guidance**|Yuqun Wu et.al.|[2404.08252](http://arxiv.org/abs/2404.08252)|null|
-|**2024-04-11**|**Connecting NeRFs, Images, and Text**|Francesco Ballerini et.al.|[2404.07993](http://arxiv.org/abs/2404.07993)|null|
+|**2024-04-11**|**Connecting NeRFs, Images, and Text**|Francesco Ballerini et.al.|[2404.07993](http://arxiv.org/abs/2404.07993)|**[link](https://github.com/CVLAB-Unibo/clip2nerf)**|
 |**2024-04-11**|**Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**|Keonhee Han et.al.|[2404.07933](http://arxiv.org/abs/2404.07933)|**[link](https://github.com/keonhee-han/KDBTS)**|
 |**2024-04-12**|**NeuroNCAP: Photorealistic Closed-loop Safety Testing for Autonomous Driving**|William Ljungbergh et.al.|[2404.07762](http://arxiv.org/abs/2404.07762)|**[link](https://github.com/wljungbergh/neuroncap)**|
 |**2024-04-11**|**G-NeRF: Geometry-enhanced Novel View Synthesis from Single-View Images**|Zixiong Huang et.al.|[2404.07474](http://arxiv.org/abs/2404.07474)|**[link](https://github.com/llrtt/G-NeRF)**|
@@ -3742,9 +3742,9 @@
 |**2025-02-11**|**ESPFormer: Doubly-Stochastic Attention with Expected Sliced Transport Plans**|Ashkan Shahbazi et.al.|[2502.07962](http://arxiv.org/abs/2502.07962)|null|
 |**2025-02-11**|**Federated Self-supervised Domain Generalization for Label-efficient Polyp Segmentation**|Xinyi Tan et.al.|[2502.07951](http://arxiv.org/abs/2502.07951)|null|
 |**2025-02-11**|**Novel computational workflows for natural and biomedical image processing based on hypercomplex algebras**|Nektarios A. Valous et.al.|[2502.07758](http://arxiv.org/abs/2502.07758)|null|
-|**2025-02-11**|**Contrastive Learning for Robust Representations of Neutrino Data**|Alex Wilkinson et.al.|[2502.07724](http://arxiv.org/abs/2502.07724)|null|
+|**2025-02-11**|**Contrastive Learning for Robust Representations of Neutrino Data**|Alex Wilkinson et.al.|[2502.07724](http://arxiv.org/abs/2502.07724)|**[link](https://github.com/radiradev/larpix-detector-sim)**|
 |**2025-02-11**|**TMLC-Net: Transferable Meta Label Correction for Noisy Label Learning**|Mengyang Li et.al.|[2502.07721](http://arxiv.org/abs/2502.07721)|null|
-|**2025-02-12**|**OpenCat: Improving Interoperability of ADS Testing**|Qurban Ali et.al.|[2502.07719](http://arxiv.org/abs/2502.07719)|null|
+|**2025-02-12**|**OpenCat: Improving Interoperability of ADS Testing**|Qurban Ali et.al.|[2502.07719](http://arxiv.org/abs/2502.07719)|**[link](https://github.com/lakhanqurban/OpenCat)**|
 |**2025-02-11**|**Mock Deep Testing: Toward Separate Development of Data and Models for Deep Learning**|Ruchira Manke et.al.|[2502.07712](http://arxiv.org/abs/2502.07712)|null|
 |**2025-02-11**|**To clean or not to clean? Influence of pixel removal on event reconstruction using deep learning in CTAO**|Tom François et.al.|[2502.07643](http://arxiv.org/abs/2502.07643)|null|
 |**2025-02-11**|**Optimizing Datasets for Code Summarization: Is Code-Comment Coherence Enough?**|Antonio Vitale et.al.|[2502.07611](http://arxiv.org/abs/2502.07611)|null|
@@ -3759,13 +3759,13 @@
 |**2025-02-10**|**Neutrino Interaction Vertex Reconstruction in DUNE with Pandora Deep Learning**|DUNE Collaboration et.al.|[2502.06637](http://arxiv.org/abs/2502.06637)|null|
 |**2025-02-10**|**Combining Large Language Models with Static Analyzers for Code Review Generation**|Imen Jaoua et.al.|[2502.06633](http://arxiv.org/abs/2502.06633)|null|
 |**2025-02-10**|**Few-Shot Classification and Anatomical Localization of Tissues in SPECT Imaging**|Mohammed Abdul Hafeez Khan et.al.|[2502.06632](http://arxiv.org/abs/2502.06632)|null|
-|**2025-02-10**|**Retrieving Filter Spectra in CNN for Explainable Sleep Stage Classification**|Stephan Goerttler et.al.|[2502.06478](http://arxiv.org/abs/2502.06478)|null|
+|**2025-02-10**|**Retrieving Filter Spectra in CNN for Explainable Sleep Stage Classification**|Stephan Goerttler et.al.|[2502.06478](http://arxiv.org/abs/2502.06478)|**[link](https://github.com/sgoerttler/msa-cnn)**|
 |**2025-02-10**|**FEMBA: Efficient and Scalable EEG Analysis with a Bidirectional Mamba Foundation Model**|Anna Tegon et.al.|[2502.06438](http://arxiv.org/abs/2502.06438)|null|
-|**2025-02-07**|**Deep Dynamic Probabilistic Canonical Correlation Analysis**|Shiqin Tang et.al.|[2502.05155](http://arxiv.org/abs/2502.05155)|null|
+|**2025-02-07**|**Deep Dynamic Probabilistic Canonical Correlation Analysis**|Shiqin Tang et.al.|[2502.05155](http://arxiv.org/abs/2502.05155)|**[link](https://github.com/marcusstang/d2pcca)**|
 |**2025-02-07**|**Leveraging Hypernetworks and Learnable Kernels for Consumer Energy Forecasting Across Diverse Consumer Types**|Muhammad Umair Danish et.al.|[2502.05104](http://arxiv.org/abs/2502.05104)|null|
 |**2025-02-07**|**Noise Sensitivity of Hierarchical Functions and Deep Learning Lower Bounds in General Product Measures**|Rupert Li et.al.|[2502.05073](http://arxiv.org/abs/2502.05073)|null|
-|**2025-02-07**|**EnseSmells: Deep ensemble and programming language models for automated code smells detection**|Anh Ho et.al.|[2502.05012](http://arxiv.org/abs/2502.05012)|null|
-|**2025-02-07**|**Training-free Neural Architecture Search through Variance of Knowledge of Deep Network Weights**|Ondřej Týbl et.al.|[2502.04975](http://arxiv.org/abs/2502.04975)|null|
+|**2025-02-07**|**EnseSmells: Deep ensemble and programming language models for automated code smells detection**|Anh Ho et.al.|[2502.05012](http://arxiv.org/abs/2502.05012)|**[link](https://github.com/brojackvn/JSS-EnseSmells)**|
+|**2025-02-07**|**Training-free Neural Architecture Search through Variance of Knowledge of Deep Network Weights**|Ondřej Týbl et.al.|[2502.04975](http://arxiv.org/abs/2502.04975)|**[link](https://github.com/ondratybl/vkdnw)**|
 |**2025-02-07**|**Gradient-based Explanations for Deep Learning Survival Models**|Sophie Hanna Langbein et.al.|[2502.04970](http://arxiv.org/abs/2502.04970)|null|
 |**2025-02-07**|**On the Power of Heuristics in Temporal Graphs**|Filip Cornell et.al.|[2502.04910](http://arxiv.org/abs/2502.04910)|null|
 |**2025-02-07**|**On the Difficulty of Constructing a Robust and Publicly-Detectable Watermark**|Jaiden Fairoze et.al.|[2502.04901](http://arxiv.org/abs/2502.04901)|null|
@@ -7837,7 +7837,7 @@
 |**2023-05-31**|**A Survey of Label-Efficient Deep Learning for 3D Point Clouds**|Aoran Xiao et.al.|[2305.19812](http://arxiv.org/abs/2305.19812)|**[link](https://github.com/xiaoaoran/3d_label_efficient_learning)**|
 |**2023-05-31**|**Neuro-Causal Factor Analysis**|Alex Markham et.al.|[2305.19802](http://arxiv.org/abs/2305.19802)|null|
 |**2023-05-31**|**DeepMerge: Deep Learning-Based Region-Merging for Image Segmentation**|Xianwei Lv et.al.|[2305.19787](http://arxiv.org/abs/2305.19787)|**[link](https://github.com/lvxianwei/DeepMerge)**|
-|**2023-05-31**|**Deep learning and MCMC with aggVAE for shifting administrative boundaries: mapping malaria prevalence in Kenya**|Elizaveta Semenova et.al.|[2305.19779](http://arxiv.org/abs/2305.19779)|null|
+|**2023-05-31**|**Deep learning and MCMC with aggVAE for shifting administrative boundaries: mapping malaria prevalence in Kenya**|Elizaveta Semenova et.al.|[2305.19779](http://arxiv.org/abs/2305.19779)|**[link](https://github.com/mlglobalhealth/aggvae)**|
 |**2023-05-30**|**Scanning Gate Microscopy response for local tip potentials beyond perturbation theory**|Ousmane Ly et.al.|[2305.19224](http://arxiv.org/abs/2305.19224)|null|
 |**2023-05-30**|**Graph-based Time Series Clustering for End-to-End Hierarchical Forecasting**|Andrea Cini et.al.|[2305.19183](http://arxiv.org/abs/2305.19183)|**[link](https://github.com/andreacini/higp)**|
 |**2023-05-30**|**FERN: Leveraging Graph Attention Networks for Failure Evaluation and Robust Network Design**|Chenyi Liu et.al.|[2305.19153](http://arxiv.org/abs/2305.19153)|null|
