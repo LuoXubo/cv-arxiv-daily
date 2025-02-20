@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**Active Illumination for Visual Ego-Motion Estimation in the Dark**|Francesco Crocetti et.al.|[2502.13708](http://arxiv.org/abs/2502.13708)|null|
 |**2025-02-19**|**pySLAM: An Open-Source, Modular, and Extensible Framework for SLAM**|Luigi Freda et.al.|[2502.11955](http://arxiv.org/abs/2502.11955)|null|
 |**2025-02-13**|**Vision-based Geo-Localization of Future Mars Rotorcraft in Challenging Illumination Conditions**|Dario Pisanti et.al.|[2502.09795](http://arxiv.org/abs/2502.09795)|null|
 |**2025-02-12**|**LIR-LIVO: A Lightweight,Robust LiDAR/Vision/Inertial Odometry with Illumination-Resilient Deep Features**|Shujie Zhou et.al.|[2502.08676](http://arxiv.org/abs/2502.08676)|**[link](https://github.com/IF-A-CAT/LIR-LIVO)**|
@@ -622,8 +623,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**3D Gaussian Splatting aided Localization for Large and Complex Indoor-Environments**|Vincent Ress et.al.|[2502.13803](http://arxiv.org/abs/2502.13803)|null|
 |**2025-02-18**|**Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization**|Shuo Xing et.al.|[2502.13146](http://arxiv.org/abs/2502.13146)|null|
-|**2025-02-18**|**IM360: Textured Mesh Reconstruction for Large-scale Indoor Mapping with 360 $^\circ$ Cameras**|Dongki Jung et.al.|[2502.12545](http://arxiv.org/abs/2502.12545)|null|
+|**2025-02-19**|**IM360: Textured Mesh Reconstruction for Large-scale Indoor Mapping with 360 $^\circ$ Cameras**|Dongki Jung et.al.|[2502.12545](http://arxiv.org/abs/2502.12545)|null|
 |**2025-02-17**|**From Gaming to Research: GTA V for Synthetic Data Generation for Robotics and Navigations**|Matteo Scucchia et.al.|[2502.12303](http://arxiv.org/abs/2502.12303)|null|
 |**2025-02-17**|**Descriminative-Generative Custom Tokens for Vision-Language Models**|Pramuditha Perera et.al.|[2502.12095](http://arxiv.org/abs/2502.12095)|null|
 |**2025-02-17**|**ILIAS: Instance-Level Image retrieval At Scale**|Giorgos Kordopatis-Zilos et.al.|[2502.11748](http://arxiv.org/abs/2502.11748)|null|
@@ -1673,6 +1675,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**2.5D U-Net with Depth Reduction for 3D CryoET Object Identification**|Yusuke Uchida et.al.|[2502.13484](http://arxiv.org/abs/2502.13484)|null|
 |**2025-01-30**|**Transfer Learning for Keypoint Detection in Low-Resolution Thermal TUG Test Images**|Wei-Lun Chen et.al.|[2501.18453](http://arxiv.org/abs/2501.18453)|null|
 |**2025-01-30**|**Video-based Surgical Tool-tip and Keypoint Tracking using Multi-frame Context-driven Deep Learning Models**|Bhargav Ghanekar et.al.|[2501.18361](http://arxiv.org/abs/2501.18361)|null|
 |**2025-01-30**|**Lifelong 3D Mapping Framework for Hand-held & Robot-mounted LiDAR Mapping Systems**|Liudi Yang et.al.|[2501.18110](http://arxiv.org/abs/2501.18110)|null|
@@ -2244,6 +2247,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**Geometry-Aware Diffusion Models for Multiview Scene Inpainting**|Ahmad Salimi et.al.|[2502.13335](http://arxiv.org/abs/2502.13335)|null|
+|**2025-02-18**|**GS-QA: Comprehensive Quality Assessment Benchmark for Gaussian Splatting View Synthesis**|Pedro Martin et.al.|[2502.13196](http://arxiv.org/abs/2502.13196)|null|
 |**2025-02-18**|**ROI-NeRFs: Hi-Fi Visualization of Objects of Interest within a Scene by NeRFs Composition**|Quoc-Anh Bui et.al.|[2502.12673](http://arxiv.org/abs/2502.12673)|null|
 |**2025-02-17**|**HumanGif: Single-View Human Diffusion with Generative Prior**|Shoukang Hu et.al.|[2502.12080](http://arxiv.org/abs/2502.12080)|null|
 |**2025-02-17**|**3D Gaussian Inpainting with Depth-Guided Cross-View Consistency**|Sheng-Yu Huang et.al.|[2502.11801](http://arxiv.org/abs/2502.11801)|null|
@@ -3717,6 +3722,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**Judging the Judges: A Collection of LLM-Generated Relevance Judgements**|Hossein A. Rahmani et.al.|[2502.13908](http://arxiv.org/abs/2502.13908)|null|
+|**2025-02-19**|**Evaluation of EAS directions based on TAIGA HiSCORE data using fully connected neural networks**|A. P. Kryukov et.al.|[2502.13851](http://arxiv.org/abs/2502.13851)|null|
+|**2025-02-19**|**Mixup Regularization: A Probabilistic Perspective**|Yousef El-Laham et.al.|[2502.13825](http://arxiv.org/abs/2502.13825)|null|
+|**2025-02-19**|**Helix-mRNA: A Hybrid Foundation Model For Full Sequence mRNA Therapeutics**|Matthew Wood et.al.|[2502.13785](http://arxiv.org/abs/2502.13785)|null|
+|**2025-02-19**|**Deep Learning for VWAP Execution in Crypto Markets: Beyond the Volume Curve**|Remi Genet et.al.|[2502.13722](http://arxiv.org/abs/2502.13722)|null|
+|**2025-02-19**|**Active Illumination for Visual Ego-Motion Estimation in the Dark**|Francesco Crocetti et.al.|[2502.13708](http://arxiv.org/abs/2502.13708)|null|
+|**2025-02-19**|**Toward Robust Non-Transferable Learning: A Survey and Benchmark**|Ziming Hong et.al.|[2502.13593](http://arxiv.org/abs/2502.13593)|null|
+|**2025-02-19**|**MobileViM: A Light-weight and Dimension-independent Vision Mamba for 3D Medical Image Analysis**|Wei Dai et.al.|[2502.13524](http://arxiv.org/abs/2502.13524)|**[link](https://github.com/anthonyweidai/MobileViM_3D)**|
+|**2025-02-19**|**Poisoned Source Code Detection in Code Models**|Ehab Ghannoum et.al.|[2502.13459](http://arxiv.org/abs/2502.13459)|null|
+|**2025-02-19**|**JL1-CD: A New Benchmark for Remote Sensing Change Detection and a Robust Multi-Teacher Knowledge Distillation Framework**|Ziyuan Liu et.al.|[2502.13407](http://arxiv.org/abs/2502.13407)|null|
 |**2025-02-18**|**UniGuardian: A Unified Defense for Detecting Prompt Injection, Backdoor Attacks and Adversarial Attacks in Large Language Models**|Huawei Lin et.al.|[2502.13141](http://arxiv.org/abs/2502.13141)|null|
 |**2025-02-18**|**MLPs at the EOC: Dynamics of Feature Learning**|Dávid Terjék et.al.|[2502.13110](http://arxiv.org/abs/2502.13110)|null|
 |**2025-02-18**|**A deep learning framework for efficient pathology image analysis**|Peter Neidlinger et.al.|[2502.13027](http://arxiv.org/abs/2502.13027)|null|
