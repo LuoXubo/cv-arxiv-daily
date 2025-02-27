@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.26
+## Updated on 2025.02.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3741,7 +3741,7 @@ layout: default
 |**2025-02-25**|**MindMem: Multimodal for Predicting Advertisement Memorability Using LLMs and Deep Learning**|Sepehr Asgarian et.al.|[2502.18371](http://arxiv.org/abs/2502.18371)|null|
 |**2025-02-25**|**A Deep Neural Network Approach to Compact Source Removal**|M. Madarász et.al.|[2502.18345](http://arxiv.org/abs/2502.18345)|null|
 |**2025-02-25**|**GraphRank Pro+: Advancing Talent Analytics Through Knowledge Graphs and Sentiment-Enhanced Skill Profiling**|Sirisha Velampalli et.al.|[2502.18315](http://arxiv.org/abs/2502.18315)|null|
-|**2025-02-25**|**Bayesian Computation in Deep Learning**|Wenlong Chen et.al.|[2502.18300](http://arxiv.org/abs/2502.18300)|null|
+|**2025-02-26**|**Bayesian Computation in Deep Learning**|Wenlong Chen et.al.|[2502.18300](http://arxiv.org/abs/2502.18300)|null|
 |**2025-02-25**|**Beyond the convexity assumption: Realistic tabular data generation under quantifier-free real linear constraints**|Mihaela Cătălina Stoian et.al.|[2502.18237](http://arxiv.org/abs/2502.18237)|null|
 |**2025-02-25**|**Multi-label out-of-distribution detection via evidential learning**|Eduardo Aguilar et.al.|[2502.18224](http://arxiv.org/abs/2502.18224)|null|
 |**2025-02-25**|**Quantum implicit representation of vortex filaments in turbulence**|Chenjia Zhu et.al.|[2502.18212](http://arxiv.org/abs/2502.18212)|null|
