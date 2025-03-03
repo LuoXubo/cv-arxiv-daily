@@ -3797,18 +3797,18 @@
 |**2025-02-26**|**Enhancing the Scalability and Applicability of Kohn-Sham Hamiltonians for Molecular Systems**|Yunyang Li et.al.|[2502.19227](http://arxiv.org/abs/2502.19227)|null|
 |**2025-02-25**|**MedKAN: An Advanced Kolmogorov-Arnold Network for Medical Image Classification**|Zhuoqin Yang et.al.|[2502.18416](http://arxiv.org/abs/2502.18416)|null|
 |**2025-02-25**|**MindMem: Multimodal for Predicting Advertisement Memorability Using LLMs and Deep Learning**|Sepehr Asgarian et.al.|[2502.18371](http://arxiv.org/abs/2502.18371)|null|
-|**2025-02-25**|**A Deep Neural Network Approach to Compact Source Removal**|M. Madarász et.al.|[2502.18345](http://arxiv.org/abs/2502.18345)|null|
+|**2025-02-25**|**A Deep Neural Network Approach to Compact Source Removal**|M. Madarász et.al.|[2502.18345](http://arxiv.org/abs/2502.18345)|**[link](https://github.com/xmedimadix/compact-source-removal)**|
 |**2025-02-25**|**GraphRank Pro+: Advancing Talent Analytics Through Knowledge Graphs and Sentiment-Enhanced Skill Profiling**|Sirisha Velampalli et.al.|[2502.18315](http://arxiv.org/abs/2502.18315)|null|
 |**2025-02-26**|**Bayesian Computation in Deep Learning**|Wenlong Chen et.al.|[2502.18300](http://arxiv.org/abs/2502.18300)|null|
-|**2025-02-25**|**Beyond the convexity assumption: Realistic tabular data generation under quantifier-free real linear constraints**|Mihaela Cătălina Stoian et.al.|[2502.18237](http://arxiv.org/abs/2502.18237)|null|
+|**2025-02-25**|**Beyond the convexity assumption: Realistic tabular data generation under quantifier-free real linear constraints**|Mihaela Cătălina Stoian et.al.|[2502.18237](http://arxiv.org/abs/2502.18237)|**[link](https://github.com/mihaela-stoian/drl_dgm)**|
 |**2025-02-25**|**Multi-label out-of-distribution detection via evidential learning**|Eduardo Aguilar et.al.|[2502.18224](http://arxiv.org/abs/2502.18224)|null|
 |**2025-02-25**|**Quantum implicit representation of vortex filaments in turbulence**|Chenjia Zhu et.al.|[2502.18212](http://arxiv.org/abs/2502.18212)|null|
-|**2025-02-25**|**Recurrent Neural Networks for Dynamic VWAP Execution: Adaptive Trading Strategies with Temporal Kolmogorov-Arnold Networks**|Remi Genet et.al.|[2502.18177](http://arxiv.org/abs/2502.18177)|null|
+|**2025-02-25**|**Recurrent Neural Networks for Dynamic VWAP Execution: Adaptive Trading Strategies with Temporal Kolmogorov-Arnold Networks**|Remi Genet et.al.|[2502.18177](http://arxiv.org/abs/2502.18177)|**[link](https://github.com/remigenet/deepdynamicvwap)**|
 |**2025-02-25**|**Monitoring snow avalanches from SAR data with deep learning**|Filippo Maria Bianchi et.al.|[2502.18157](http://arxiv.org/abs/2502.18157)|null|
-|**2025-02-24**|**Evolving Form and Function: Dual-Objective Optimization in Neural Symbolic Regression Networks**|Amanda Bertschinger et.al.|[2502.17393](http://arxiv.org/abs/2502.17393)|null|
-|**2025-02-24**|**RELICT: A Replica Detection Framework for Medical Image Generation**|Orhun Utku Aydin et.al.|[2502.17360](http://arxiv.org/abs/2502.17360)|null|
+|**2025-02-24**|**Evolving Form and Function: Dual-Objective Optimization in Neural Symbolic Regression Networks**|Amanda Bertschinger et.al.|[2502.17393](http://arxiv.org/abs/2502.17393)|**[link](https://github.com/mec-lab/SRNE)**|
+|**2025-02-24**|**RELICT: A Replica Detection Framework for Medical Image Generation**|Orhun Utku Aydin et.al.|[2502.17360](http://arxiv.org/abs/2502.17360)|**[link](https://github.com/claim-berlin/relict)**|
 |**2025-02-24**|**Time series forecasting based on optimized LLM for fault prediction in distribution power grid insulators**|João Pedro Matos-Carvalho et.al.|[2502.17341](http://arxiv.org/abs/2502.17341)|null|
-|**2025-02-24**|**Integrating protein sequence embeddings with structure via graph-based deep learning for the prediction of single-residue properties**|Kevin Michalewicz et.al.|[2502.17294](http://arxiv.org/abs/2502.17294)|null|
+|**2025-02-24**|**Integrating protein sequence embeddings with structure via graph-based deep learning for the prediction of single-residue properties**|Kevin Michalewicz et.al.|[2502.17294](http://arxiv.org/abs/2502.17294)|**[link](https://github.com/kevinmicha/GCN-Bf)**|
 |**2025-02-24**|**UNB StepUP: A footStep database for gait analysis and recognition using Underfoot Pressure**|Robyn Larracy et.al.|[2502.17244](http://arxiv.org/abs/2502.17244)|null|
 |**2025-02-24**|**Deep Learning-Powered Electrical Brain Signals Analysis: Advancing Neurological Diagnostics**|Jiahe Li et.al.|[2502.17213](http://arxiv.org/abs/2502.17213)|null|
 |**2025-02-24**|**Motion-Robust T2* Quantification from Gradient Echo MRI with Physics-Informed Deep Learning**|Hannah Eichhorn et.al.|[2502.17209](http://arxiv.org/abs/2502.17209)|null|
@@ -3821,9 +3821,9 @@
 |**2025-02-21**|**MoMa: A Modular Deep Learning Framework for Material Property Prediction**|Botian Wang et.al.|[2502.15483](http://arxiv.org/abs/2502.15483)|null|
 |**2025-02-21**|**Sheaf theory: from deep geometry to deep learning**|Anton Ayzenberg et.al.|[2502.15476](http://arxiv.org/abs/2502.15476)|null|
 |**2025-02-21**|**Decoding for Punctured Convolutional and Turbo Codes: A Deep Learning Solution for Protocols Compliance**|Yongli Yan et.al.|[2502.15475](http://arxiv.org/abs/2502.15475)|null|
-|**2025-02-21**|**Anatomy-Informed Deep Learning and Radiomics for Automated Neurofibroma Segmentation in Whole-Body MRI**|Georgii Kolokolnikov et.al.|[2502.15424](http://arxiv.org/abs/2502.15424)|null|
+|**2025-02-21**|**Anatomy-Informed Deep Learning and Radiomics for Automated Neurofibroma Segmentation in Whole-Body MRI**|Georgii Kolokolnikov et.al.|[2502.15424](http://arxiv.org/abs/2502.15424)|**[link](https://github.com/IPMI-ICNS-UKE/NFSegmentationPipeline)**|
 |**2025-02-21**|**Enhancing Vehicle Make and Model Recognition with 3D Attention Modules**|Narges Semiromizadeh et.al.|[2502.15398](http://arxiv.org/abs/2502.15398)|null|
-|**2025-02-21**|**A Universal Framework for Compressing Embeddings in CTR Prediction**|Kefan Wang et.al.|[2502.15355](http://arxiv.org/abs/2502.15355)|null|
+|**2025-02-21**|**A Universal Framework for Compressing Embeddings in CTR Prediction**|Kefan Wang et.al.|[2502.15355](http://arxiv.org/abs/2502.15355)|**[link](https://github.com/ustc-starteam/mec)**|
 |**2025-02-21**|**Drug-Target Interaction/Affinity Prediction: Deep Learning Models and Advances Review**|Ali Vefghi et.al.|[2502.15346](http://arxiv.org/abs/2502.15346)|null|
 |**2025-02-20**|**Probabilistic Robustness in Deep Learning: A Concise yet Comprehensive Guide**|Xingyu Zhao et.al.|[2502.14833](http://arxiv.org/abs/2502.14833)|null|
 |**2025-02-20**|**Cross Validation for Correlated Data in Regression and Classification Models, with Applications to Deep Learning**|Oren Yuval et.al.|[2502.14808](http://arxiv.org/abs/2502.14808)|**[link](https://github.com/OrenYuv/CVc-for-General-Models)**|
@@ -5485,7 +5485,7 @@
 |**2024-06-07**|**CarbonSense: A Multimodal Dataset and Baseline for Carbon Flux Modelling**|Matthew Fortier et.al.|[2406.04940](http://arxiv.org/abs/2406.04940)|null|
 |**2024-06-07**|**MA-AVT: Modality Alignment for Parameter-Efficient Audio-Visual Transformers**|Tanvir Mahmud et.al.|[2406.04930](http://arxiv.org/abs/2406.04930)|**[link](https://github.com/enyac-group/MA-AVT)**|
 |**2024-06-06**|**The Brain's Bitter Lesson: Scaling Speech Decoding With Self-Supervised Learning**|Dulhan Jayalath et.al.|[2406.04328](http://arxiv.org/abs/2406.04328)|null|
-|**2024-06-06**|**ELFS: Enhancing Label-Free Coreset Selection via Clustering-based Pseudo-Labeling**|Haizhong Zheng et.al.|[2406.04273](http://arxiv.org/abs/2406.04273)|null|
+|**2024-06-06**|**ELFS: Enhancing Label-Free Coreset Selection via Clustering-based Pseudo-Labeling**|Haizhong Zheng et.al.|[2406.04273](http://arxiv.org/abs/2406.04273)|**[link](https://github.com/eltsai/elfs)**|
 |**2024-06-06**|**Beyond Performance Plateaus: A Comprehensive Study on Scalability in Speech Enhancement**|Wangyou Zhang et.al.|[2406.04269](http://arxiv.org/abs/2406.04269)|**[link](https://github.com/emrys365/se-scaling)**|
 |**2024-06-06**|**Sparse Multi-baseline SAR Cross-modal 3D Reconstruction of Vehicle Targets**|Da Li et.al.|[2406.04158](http://arxiv.org/abs/2406.04158)|null|
 |**2024-06-06**|**Characterizing segregation in blast rock piles a deep-learning approach leveraging aerial image analysis**|Chengeng Liu et.al.|[2406.04149](http://arxiv.org/abs/2406.04149)|null|
