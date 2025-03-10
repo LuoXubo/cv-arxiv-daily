@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**THE-SEAN: A Heart Rate Variation-Inspired Temporally High-Order Event-Based Visual Odometry with Self-Supervised Spiking Event Accumulation Networks**|Chaoran Xiong et.al.|[2503.05112](http://arxiv.org/abs/2503.05112)|null|
+|**2025-03-06**|**MarsLGPR: Mars Rover Localization with Ground Penetrating Radar**|Anja Sheppard et.al.|[2503.04944](http://arxiv.org/abs/2503.04944)|null|
 |**2025-03-06**|**Geometry-Constrained Monocular Scale Estimation Using Semantic Segmentation for Dynamic Scenes**|Hui Zhang et.al.|[2503.04235](http://arxiv.org/abs/2503.04235)|null|
 |**2025-03-05**|**Direct Sparse Odometry with Continuous 3D Gaussian Maps for Indoor Environments**|Jie Deng et.al.|[2503.03373](http://arxiv.org/abs/2503.03373)|null|
 |**2025-03-03**|**MUSt3R: Multi-view Network for Stereo 3D Reconstruction**|Yohann Cabon et.al.|[2503.01661](http://arxiv.org/abs/2503.01661)|null|
@@ -629,6 +631,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**Data-Efficient Generalization for Zero-shot Composed Image Retrieval**|Zining Chen et.al.|[2503.05204](http://arxiv.org/abs/2503.05204)|null|
 |**2025-03-06**|**RadIR: A Scalable Framework for Multi-Grained Medical Image Retrieval via Radiology Report Mining**|Tengfei Zhang et.al.|[2503.04653](http://arxiv.org/abs/2503.04653)|null|
 |**2025-03-06**|**ForestLPR: LiDAR Place Recognition in Forests Attentioning Multiple BEV Density Images**|Yanqing Shen et.al.|[2503.04475](http://arxiv.org/abs/2503.04475)|null|
 |**2025-03-06**|**Geometry-Constrained Monocular Scale Estimation Using Semantic Segmentation for Dynamic Scenes**|Hui Zhang et.al.|[2503.04235](http://arxiv.org/abs/2503.04235)|null|
@@ -1706,6 +1709,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**Automatic determination of quasicrystalline patterns from microscopy images**|Tano Kim Kender et.al.|[2503.05472](http://arxiv.org/abs/2503.05472)|null|
 |**2025-03-07**|**Spatial regularisation for improved accuracy and interpretability in keypoint-based registration**|Benjamin Billot et.al.|[2503.04499](http://arxiv.org/abs/2503.04499)|null|
 |**2025-03-04**|**A Novel Streamline-based diffusion MRI Tractography Registration Method with Probabilistic Keypoint Detection**|Junyi Wang et.al.|[2503.02481](http://arxiv.org/abs/2503.02481)|null|
 |**2025-03-01**|**Autonomous Dissection in Robotic Cholecystectomy**|Ki-Hwan Oh et.al.|[2503.00666](http://arxiv.org/abs/2503.00666)|null|
@@ -3793,6 +3797,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**Exploring FMCW Radars and Feature Maps for Activity Recognition: A Benchmark Study**|Ali Samimi Fard et.al.|[2503.05629](http://arxiv.org/abs/2503.05629)|null|
+|**2025-03-07**|**Conformal Prediction for Image Segmentation Using Morphological Prediction Sets**|Luca Mossina et.al.|[2503.05618](http://arxiv.org/abs/2503.05618)|null|
+|**2025-03-07**|**CACTUS: An Open Dataset and Framework for Automated Cardiac Assessment and Classification of Ultrasound Images Using Deep Transfer Learning**|Hanae Elmekki et.al.|[2503.05604](http://arxiv.org/abs/2503.05604)|null|
+|**2025-03-07**|**MPTSNet: Integrating Multiscale Periodic Local Patterns and Global Dependencies for Multivariate Time Series Classification**|Yang Mu et.al.|[2503.05582](http://arxiv.org/abs/2503.05582)|null|
+|**2025-03-07**|**Search for primordial black holes from gravitational wave populations using deep learning**|Hai-Long Huang et.al.|[2503.05570](http://arxiv.org/abs/2503.05570)|null|
+|**2025-03-07**|**Global graph features unveiled by unsupervised geometric deep learning**|Mirja Granfors et.al.|[2503.05560](http://arxiv.org/abs/2503.05560)|null|
+|**2025-03-07**|**Mol-CADiff: Causality-Aware Autoregressive Diffusion for Molecule Generation**|Md Atik Ahamed et.al.|[2503.05499](http://arxiv.org/abs/2503.05499)|null|
+|**2025-03-07**|**Deep Frequency Attention Networks for Single Snapshot Sparse Array Interpolation**|Ruxin Zheng et.al.|[2503.05486](http://arxiv.org/abs/2503.05486)|null|
+|**2025-03-07**|**Towards Locally Explaining Prediction Behavior via Gradual Interventions and Measuring Property Gradients**|Niklas Penzel et.al.|[2503.05424](http://arxiv.org/abs/2503.05424)|null|
+|**2025-03-07**|**Semi-Supervised Learning for Dose Prediction in Targeted Radionuclide: A Synthetic Data Study**|Jing Zhang et.al.|[2503.05367](http://arxiv.org/abs/2503.05367)|null|
 |**2025-03-06**|**DEAL-YOLO: Drone-based Efficient Animal Localization using YOLO**|Aditya Prashant Naidu et.al.|[2503.04698](http://arxiv.org/abs/2503.04698)|null|
 |**2025-03-06**|**Data-Driven Distributed Optimization via Aggregative Tracking and Deep-Learning**|Riccardo Brumali et.al.|[2503.04668](http://arxiv.org/abs/2503.04668)|null|
 |**2025-03-07**|**No Forgetting Learning: Memory-free Continual Learning**|Mohammad Ali Vahedifar et.al.|[2503.04638](http://arxiv.org/abs/2503.04638)|null|
