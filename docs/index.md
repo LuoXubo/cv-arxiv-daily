@@ -631,6 +631,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**Find your Needle: Small Object Image Retrieval via Multi-Object Attention Optimization**|Mihcael Green et.al.|[2503.07038](http://arxiv.org/abs/2503.07038)|null|
+|**2025-03-10**|**Zero-Shot Hashing Based on Reconstruction With Part Alignment**|Yan Jiang et.al.|[2503.07037](http://arxiv.org/abs/2503.07037)|null|
+|**2025-03-10**|**Improving Visual Place Recognition with Sequence-Matching Receptiveness Prediction**|Somayeh Hussaini et.al.|[2503.06840](http://arxiv.org/abs/2503.06840)|null|
+|**2025-03-09**|**RoboDesign1M: A Large-scale Dataset for Robot Design Understanding**|Tri Le et.al.|[2503.06796](http://arxiv.org/abs/2503.06796)|null|
+|**2025-03-09**|**StructVPR++: Distill Structural and Semantic Knowledge with Weighting Samples for Visual Place Recognition**|Yanqing Shen et.al.|[2503.06601](http://arxiv.org/abs/2503.06601)|null|
+|**2025-03-09**|**TextInPlace: Indoor Visual Place Recognition in Repetitive Structures with Scene Text Spotting and Verification**|Huaqi Tao et.al.|[2503.06501](http://arxiv.org/abs/2503.06501)|null|
+|**2025-03-08**|**NeuraLoc: Visual Localization in Neural Implicit Map with Dual Complementary Features**|Hongjia Zhai et.al.|[2503.06117](http://arxiv.org/abs/2503.06117)|null|
 |**2025-03-07**|**Data-Efficient Generalization for Zero-shot Composed Image Retrieval**|Zining Chen et.al.|[2503.05204](http://arxiv.org/abs/2503.05204)|null|
 |**2025-03-06**|**RadIR: A Scalable Framework for Multi-Grained Medical Image Retrieval via Radiology Report Mining**|Tengfei Zhang et.al.|[2503.04653](http://arxiv.org/abs/2503.04653)|null|
 |**2025-03-06**|**ForestLPR: LiDAR Place Recognition in Forests Attentioning Multiple BEV Density Images**|Yanqing Shen et.al.|[2503.04475](http://arxiv.org/abs/2503.04475)|null|
@@ -1709,6 +1716,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413](http://arxiv.org/abs/2503.07413)|**[link](https://github.com/MacavityT/REF-VLM)**|
+|**2025-03-10**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347](http://arxiv.org/abs/2503.07347)|null|
 |**2025-03-07**|**Automatic determination of quasicrystalline patterns from microscopy images**|Tano Kim Kender et.al.|[2503.05472](http://arxiv.org/abs/2503.05472)|null|
 |**2025-03-07**|**Spatial regularisation for improved accuracy and interpretability in keypoint-based registration**|Benjamin Billot et.al.|[2503.04499](http://arxiv.org/abs/2503.04499)|null|
 |**2025-03-04**|**A Novel Streamline-based diffusion MRI Tractography Registration Method with Probabilistic Keypoint Detection**|Junyi Wang et.al.|[2503.02481](http://arxiv.org/abs/2503.02481)|null|
@@ -2298,6 +2307,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**CATPlan: Loss-based Collision Prediction in End-to-End Autonomous Driving**|Ziliang Xiong et.al.|[2503.07425](http://arxiv.org/abs/2503.07425)|null|
+|**2025-03-08**|**Feature-EndoGaussian: Feature Distilled Gaussian Splatting in Surgical Deformable Scene Reconstruction**|Kai Li et.al.|[2503.06161](http://arxiv.org/abs/2503.06161)|null|
+|**2025-03-08**|**SecureGS: Boosting the Security and Fidelity of 3D Gaussian Splatting Steganography**|Xuanyu Zhang et.al.|[2503.06118](http://arxiv.org/abs/2503.06118)|null|
+|**2025-03-08**|**NeuraLoc: Visual Localization in Neural Implicit Map with Dual Complementary Features**|Hongjia Zhai et.al.|[2503.06117](http://arxiv.org/abs/2503.06117)|null|
 |**2025-03-06**|**Surgical Gaussian Surfels: Highly Accurate Real-time Surgical Scene Rendering**|Idris O. Sunmola et.al.|[2503.04079](http://arxiv.org/abs/2503.04079)|null|
 |**2025-03-05**|**LensDFF: Language-enhanced Sparse Feature Distillation for Efficient Few-Shot Dexterous Manipulation**|Qian Feng et.al.|[2503.03890](http://arxiv.org/abs/2503.03890)|null|
 |**2025-03-04**|**Tracking-Aware Deformation Field Estimation for Non-rigid 3D Reconstruction in Robotic Surgeries**|Zeqing Wang et.al.|[2503.02558](http://arxiv.org/abs/2503.02558)|null|
@@ -3797,6 +3810,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**Split-n-Chain: Privacy-Preserving Multi-Node Split Learning with Blockchain-Based Auditability**|Mukesh Sahani et.al.|[2503.07570](http://arxiv.org/abs/2503.07570)|null|
+|**2025-03-10**|**Learning to Localize Leakage of Cryptographic Sensitive Variables**|Jimmy Gammell et.al.|[2503.07464](http://arxiv.org/abs/2503.07464)|null|
+|**2025-03-10**|**Early signs of stuck pipe detection based on Crossformer**|Bo Cao et.al.|[2503.07440](http://arxiv.org/abs/2503.07440)|null|
+|**2025-03-10**|**Inorganic Catalyst Efficiency Prediction Based on EAPCR Model: A Deep Learning Solution for Multi-Source Heterogeneous Data**|Zhangdi Liu et.al.|[2503.07424](http://arxiv.org/abs/2503.07424)|null|
+|**2025-03-10**|**Analysis of 3D Urticaceae Pollen Classification Using Deep Learning Models**|Tijs Konijn et.al.|[2503.07419](http://arxiv.org/abs/2503.07419)|null|
+|**2025-03-10**|**Materials Map Integrating Experimental and Computational Data through Graph-Based Machine Learning for Enhanced Materials Discovery**|Yusuke Hashimoto et.al.|[2503.07378](http://arxiv.org/abs/2503.07378)|null|
+|**2025-03-10**|**Research and Design on Intelligent Recognition of Unordered Targets for Robots Based on Reinforcement Learning**|Yiting Mao et.al.|[2503.07340](http://arxiv.org/abs/2503.07340)|null|
+|**2025-03-10**|**DeepNuParc: A Novel Deep Clustering Framework for Fine-scale Parcellation of Brain Nuclei Using Diffusion MRI Tractography**|Haolin He et.al.|[2503.07263](http://arxiv.org/abs/2503.07263)|**[link](https://github.com/HarlandZZC/deep_nuclei_parcellation)**|
+|**2025-03-10**|**A Deep Learning Architecture for Land Cover Mapping Using Spatio-Temporal Sentinel-1 Features**|Luigi Russo et.al.|[2503.07230](http://arxiv.org/abs/2503.07230)|null|
+|**2025-03-10**|**XMutant: XAI-based Fuzzing for Deep Learning Systems**|Xingcheng Chen et.al.|[2503.07222](http://arxiv.org/abs/2503.07222)|null|
 |**2025-03-07**|**Exploring FMCW Radars and Feature Maps for Activity Recognition: A Benchmark Study**|Ali Samimi Fard et.al.|[2503.05629](http://arxiv.org/abs/2503.05629)|null|
 |**2025-03-07**|**Conformal Prediction for Image Segmentation Using Morphological Prediction Sets**|Luca Mossina et.al.|[2503.05618](http://arxiv.org/abs/2503.05618)|null|
 |**2025-03-07**|**CACTUS: An Open Dataset and Framework for Automated Cardiac Assessment and Classification of Ultrasound Images Using Deep Transfer Learning**|Hanae Elmekki et.al.|[2503.05604](http://arxiv.org/abs/2503.05604)|null|
