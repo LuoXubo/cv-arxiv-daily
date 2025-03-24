@@ -631,13 +631,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-21**|**Missing Target-Relevant Information Prediction with World Model for Accurate Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2503.17109](http://arxiv.org/abs/2503.17109)|null|
+|**2025-03-21**|**Autonomous Exploration-Based Precise Mapping for Mobile Robots through Stepwise and Consistent Motions**|Muhua Zhang et.al.|[2503.17005](http://arxiv.org/abs/2503.17005)|null|
 |**2025-03-20**|**PromptHash: Affinity-Prompted Collaborative Cross-Modal Learning for Adaptive Hashing Retrieval**|Qiang Zou et.al.|[2503.16064](http://arxiv.org/abs/2503.16064)|**[link](https://github.com/ShiShuMo/PromptHash)**|
-|**2025-03-20**|**Automating 3D Dataset Generation with Neural Radiance Fields**|P. Schulz et.al.|[2503.15997](http://arxiv.org/abs/2503.15997)|null|
+|**2025-03-20**|**Automating 3D Dataset Generation with Neural Radiance Fields**|P. Schulz et.al.|[2503.15997](http://arxiv.org/abs/2503.15997)|**[link](https://github.com/PaulSK98/Nerf2Dataset)**|
 |**2025-03-18**|**3D Densification for Multi-Map Monocular VSLAM in Endoscopy**|X. Anadón et.al.|[2503.14346](http://arxiv.org/abs/2503.14346)|null|
 |**2025-03-18**|**A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**|Huy-Hoang Bui et.al.|[2503.13982](http://arxiv.org/abs/2503.13982)|**[link](https://github.com/ais-lab/a-score)**|
 |**2025-03-17**|**Scale Efficient Training for Large Datasets**|Qing Zhou et.al.|[2503.13385](http://arxiv.org/abs/2503.13385)|null|
 |**2025-03-17**|**Multi-Platform Teach-and-Repeat Navigation by Visual Place Recognition Based on Deep-Learned Local Features**|Václav Truhlařík et.al.|[2503.13090](http://arxiv.org/abs/2503.13090)|null|
-|**2025-03-17**|**All You Need to Know About Training Image Retrieval Models**|Gabriele Berton et.al.|[2503.13045](http://arxiv.org/abs/2503.13045)|null|
+|**2025-03-17**|**All You Need to Know About Training Image Retrieval Models**|Gabriele Berton et.al.|[2503.13045](http://arxiv.org/abs/2503.13045)|**[link](https://github.com/gmberton/image-retrieval)**|
 |**2025-03-12**|**Exploring the best way for UAV visual localization under Low-altitude Multi-view Observation Condition: a Benchmark**|Yibin Ye et.al.|[2503.10692](http://arxiv.org/abs/2503.10692)|**[link](https://github.com/uav-avl/benchmark)**|
 |**2025-03-13**|**ImageScope: Unifying Language-Guided Image Retrieval via Large Multimodal Model Collective Reasoning**|Pengfei Luo et.al.|[2503.10166](http://arxiv.org/abs/2503.10166)|**[link](https://github.com/pengfei-luo/ImageScope)**|
 |**2025-03-12**|**Revisiting Medical Image Retrieval via Knowledge Consolidation**|Yang Nan et.al.|[2503.09370](http://arxiv.org/abs/2503.09370)|null|
@@ -2019,7 +2021,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-20**|**Loop Closure from Two Views: Revisiting PGO for Scalable Trajectory Estimation through Monocular Priors**|Tian Yi Lim et.al.|[2503.16275](http://arxiv.org/abs/2503.16275)|null|
-|**2025-03-20**|**MapGlue: Multimodal Remote Sensing Image Matching**|Peihao Wu et.al.|[2503.16185](http://arxiv.org/abs/2503.16185)|null|
+|**2025-03-20**|**MapGlue: Multimodal Remote Sensing Image Matching**|Peihao Wu et.al.|[2503.16185](http://arxiv.org/abs/2503.16185)|**[link](https://github.com/peihaowu/mapglue)**|
 |**2025-03-19**|**PAPI-Reg: Patch-to-Pixel Solution for Efficient Cross-Modal Registration between LiDAR Point Cloud and Camera Image**|Yuanchao Yue et.al.|[2503.15285](http://arxiv.org/abs/2503.15285)|null|
 |**2025-03-17**|**Less Biased Noise Scale Estimation for Threshold-Robust RANSAC**|Johan Edstedt et.al.|[2503.13433](http://arxiv.org/abs/2503.13433)|null|
 |**2025-03-17**|**SatDepth: A Novel Dataset for Satellite Image Matching**|Rahul Deshmukh et.al.|[2503.12706](http://arxiv.org/abs/2503.12706)|**[link](https://github.com/rahuldeshmukh43/satdepth)**|
@@ -2329,9 +2331,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-21**|**FFaceNeRF: Few-shot Face Editing in Neural Radiance Fields**|Kwan Yun et.al.|[2503.17095](http://arxiv.org/abs/2503.17095)|**[link](https://github.com/kwanyun/FFaceNeRF)**|
+|**2025-03-21**|**DroneSplat: 3D Gaussian Splatting for Robust 3D Reconstruction from In-the-Wild Drone Imagery**|Jiadong Tang et.al.|[2503.16964](http://arxiv.org/abs/2503.16964)|null|
+|**2025-03-20**|**Digitally Prototype Your Eye Tracker: Simulating Hardware Performance using 3D Synthetic Data**|Esther Y. H. Lin et.al.|[2503.16742](http://arxiv.org/abs/2503.16742)|null|
 |**2025-03-20**|**Enhancing Close-up Novel View Synthesis via Pseudo-labeling**|Jiatong Xia et.al.|[2503.15908](http://arxiv.org/abs/2503.15908)|null|
 |**2025-03-19**|**SPNeRF: Open Vocabulary 3D Neural Scene Segmentation with Superpoints**|Weiwen Hu et.al.|[2503.15712](http://arxiv.org/abs/2503.15712)|null|
-|**2025-03-19**|**DiffPortrait360: Consistent Portrait Diffusion for 360 View Synthesis**|Yuming Gu et.al.|[2503.15667](http://arxiv.org/abs/2503.15667)|null|
+|**2025-03-19**|**DiffPortrait360: Consistent Portrait Diffusion for 360 View Synthesis**|Yuming Gu et.al.|[2503.15667](http://arxiv.org/abs/2503.15667)|**[link](https://github.com/freedomgu/diffportrait360)**|
 |**2025-03-19**|**GO-N3RDet: Geometry Optimized NeRF-enhanced 3D Object Detector**|Zechuan Li et.al.|[2503.15211](http://arxiv.org/abs/2503.15211)|null|
 |**2025-03-19**|**MultiBARF: Integrating Imagery of Different Wavelength Regions by Using Neural Radiance Fields**|Kana Kurata et.al.|[2503.15070](http://arxiv.org/abs/2503.15070)|null|
 |**2025-03-19**|**3D Engine-ready Photorealistic Avatars via Dynamic Textures**|Yifan Wang et.al.|[2503.14943](http://arxiv.org/abs/2503.14943)|null|
@@ -3854,6 +3859,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-21**|**Time-Series U-Net with Recurrence for Noise-Robust Imaging Photoplethysmography**|Vineet R. Shenoy et.al.|[2503.17351](http://arxiv.org/abs/2503.17351)|null|
+|**2025-03-21**|**Vision Transformer Based Semantic Communications for Next Generation Wireless Networks**|Muhammad Ahmed Mohsin et.al.|[2503.17275](http://arxiv.org/abs/2503.17275)|null|
+|**2025-03-21**|**Recovering Pulse Waves from Video Using Deep Unrolling and Deep Equilibrium Models**|Vineet R Shenoy et.al.|[2503.17269](http://arxiv.org/abs/2503.17269)|null|
+|**2025-03-21**|**Cross-Modal Interactive Perception Network with Mamba for Lung Tumor Segmentation in PET-CT Images**|Jie Mei et.al.|[2503.17261](http://arxiv.org/abs/2503.17261)|null|
+|**2025-03-21**|**A Deep Learning Framework for Visual Attention Prediction and Analysis of News Interfaces**|Matthew Kenely et.al.|[2503.17212](http://arxiv.org/abs/2503.17212)|null|
+|**2025-03-21**|**Robustness of deep learning classification to adversarial input on GPUs: asynchronous parallel accumulation is a source of vulnerability**|Sanjif Shanmugavelu et.al.|[2503.17173](http://arxiv.org/abs/2503.17173)|null|
+|**2025-03-21**|**CoRLD: Contrastive Representation Learning Of Deformable Shapes In Images**|Tonmoy Hossain ana Miaomiao Zhang et.al.|[2503.17162](http://arxiv.org/abs/2503.17162)|null|
+|**2025-03-21**|**HiFi-Stream: Streaming Speech Enhancement with Generative Adversarial Networks**|Ekaterina Dmitrieva et.al.|[2503.17141](http://arxiv.org/abs/2503.17141)|null|
+|**2025-03-21**|**Adiabatic Fine-Tuning of Neural Quantum States Enables Detection of Phase Transitions in Weight Space**|Vinicius Hernandes et.al.|[2503.17140](http://arxiv.org/abs/2503.17140)|null|
+|**2025-03-21**|**Beyond Accuracy: What Matters in Designing Well-Behaved Models?**|Robin Hesse et.al.|[2503.17110](http://arxiv.org/abs/2503.17110)|null|
 |**2025-03-20**|**Lyra: An Efficient and Expressive Subquadratic Architecture for Modeling Biological Sequences**|Krithik Ramesh et.al.|[2503.16351](http://arxiv.org/abs/2503.16351)|null|
 |**2025-03-20**|**On the Cone Effect in the Learning Dynamics**|Zhanpeng Zhou et.al.|[2503.16316](http://arxiv.org/abs/2503.16316)|null|
 |**2025-03-20**|**Active Learning For Repairable Hardware Systems With Partial Coverage**|Michael Potter et.al.|[2503.16315](http://arxiv.org/abs/2503.16315)|null|
