@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.24
+## Updated on 2025.03.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3865,7 +3865,7 @@ layout: default
 |**2025-03-21**|**Cross-Modal Interactive Perception Network with Mamba for Lung Tumor Segmentation in PET-CT Images**|Jie Mei et.al.|[2503.17261](http://arxiv.org/abs/2503.17261)|null|
 |**2025-03-21**|**A Deep Learning Framework for Visual Attention Prediction and Analysis of News Interfaces**|Matthew Kenely et.al.|[2503.17212](http://arxiv.org/abs/2503.17212)|null|
 |**2025-03-21**|**Robustness of deep learning classification to adversarial input on GPUs: asynchronous parallel accumulation is a source of vulnerability**|Sanjif Shanmugavelu et.al.|[2503.17173](http://arxiv.org/abs/2503.17173)|null|
-|**2025-03-21**|**CoRLD: Contrastive Representation Learning Of Deformable Shapes In Images**|Tonmoy Hossain ana Miaomiao Zhang et.al.|[2503.17162](http://arxiv.org/abs/2503.17162)|null|
+|**2025-03-24**|**CoRLD: Contrastive Representation Learning Of Deformable Shapes In Images**|Tonmoy Hossain et.al.|[2503.17162](http://arxiv.org/abs/2503.17162)|null|
 |**2025-03-21**|**HiFi-Stream: Streaming Speech Enhancement with Generative Adversarial Networks**|Ekaterina Dmitrieva et.al.|[2503.17141](http://arxiv.org/abs/2503.17141)|null|
 |**2025-03-21**|**Adiabatic Fine-Tuning of Neural Quantum States Enables Detection of Phase Transitions in Weight Space**|Vinicius Hernandes et.al.|[2503.17140](http://arxiv.org/abs/2503.17140)|null|
 |**2025-03-21**|**Beyond Accuracy: What Matters in Designing Well-Behaved Models?**|Robin Hesse et.al.|[2503.17110](http://arxiv.org/abs/2503.17110)|null|
