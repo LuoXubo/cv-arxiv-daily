@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.27
+## Updated on 2025.03.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -543,7 +543,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#Updated-on-20250327>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250328>back to top</a>)</p>
 
 ## SFM
 
@@ -639,7 +639,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#Updated-on-20250327>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250328>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1747,7 +1747,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#Updated-on-20250327>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250328>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2041,13 +2041,13 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#Updated-on-20250327>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250328>back to top</a>)</p>
 
 ## Image Matching
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-22**|**Normalized Matching Transformer**|Abtin Pourhadi et.al.|[2503.17715](http://arxiv.org/abs/2503.17715)|null|
+|**2025-03-22**|**Normalized Matching Transformer**|Abtin Pourhadi et.al.|[2503.17715](http://arxiv.org/abs/2503.17715)|**[link](https://github.com/apollos1301/normmatchtrans)**|
 |**2025-03-20**|**Loop Closure from Two Views: Revisiting PGO for Scalable Trajectory Estimation through Monocular Priors**|Tian Yi Lim et.al.|[2503.16275](http://arxiv.org/abs/2503.16275)|null|
 |**2025-03-20**|**MapGlue: Multimodal Remote Sensing Image Matching**|Peihao Wu et.al.|[2503.16185](http://arxiv.org/abs/2503.16185)|**[link](https://github.com/peihaowu/mapglue)**|
 |**2025-03-19**|**PAPI-Reg: Patch-to-Pixel Solution for Efficient Cross-Modal Registration between LiDAR Point Cloud and Camera Image**|Yuanchao Yue et.al.|[2503.15285](http://arxiv.org/abs/2503.15285)|null|
@@ -2355,7 +2355,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#Updated-on-20250327>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250328>back to top</a>)</p>
 
 ## NeRF
 
@@ -3896,7 +3896,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#Updated-on-20250327>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250328>back to top</a>)</p>
 
 ## Computer Vision
 
@@ -3905,11 +3905,11 @@
 |**2025-03-26**|**Emotion Detection and Music Recommendation System**|Swetha Kambham et.al.|[2503.20739](http://arxiv.org/abs/2503.20739)|null|
 |**2025-03-26**|**SChanger: Change Detection from a Semantic Change and Spatial Consistency Perspective**|Ziyu Zhou et.al.|[2503.20734](http://arxiv.org/abs/2503.20734)|null|
 |**2025-03-26**|**A weakly-supervised deep learning model for fast localisation and delineation of the skeleton, internal organs, and spinal canal on Whole-Body Diffusion-Weighted MRI (WB-DWI)**|A. Candito et.al.|[2503.20722](http://arxiv.org/abs/2503.20722)|null|
-|**2025-03-26**|**Demand Estimation with Text and Image Data**|Giovanni Compiani et.al.|[2503.20711](http://arxiv.org/abs/2503.20711)|null|
+|**2025-03-27**|**Demand Estimation with Text and Image Data**|Giovanni Compiani et.al.|[2503.20711](http://arxiv.org/abs/2503.20711)|null|
 |**2025-03-26**|**Benchmarking Machine Learning Methods for Distributed Acoustic Sensing**|Shuaikai Shi et.al.|[2503.20681](http://arxiv.org/abs/2503.20681)|null|
 |**2025-03-26**|**AutoRad-Lung: A Radiomic-Guided Prompting Autoregressive Vision-Language Model for Lung Nodule Malignancy Prediction**|Sadaf Khademi et.al.|[2503.20662](http://arxiv.org/abs/2503.20662)|null|
 |**2025-03-26**|**UWarp: A Whole Slide Image Registration Pipeline to Characterize Scanner-Induced Local Domain Shift**|Antoine Schieb et.al.|[2503.20653](http://arxiv.org/abs/2503.20653)|null|
-|**2025-03-26**|**Imitating Radiological Scrolling: A Global-Local Attention Model for 3D Chest CT Volumes Multi-Label Anomaly Classification**|Theo Di Piazza et.al.|[2503.20652](http://arxiv.org/abs/2503.20652)|null|
+|**2025-03-27**|**Imitating Radiological Scrolling: A Global-Local Attention Model for 3D Chest CT Volumes Multi-Label Anomaly Classification**|Theo Di Piazza et.al.|[2503.20652](http://arxiv.org/abs/2503.20652)|null|
 |**2025-03-26**|**NotebookOS: A Notebook Operating System for Interactive Training with On-Demand GPUs**|Benjamin Carver et.al.|[2503.20591](http://arxiv.org/abs/2503.20591)|null|
 |**2025-03-26**|**A Deep Learning Pipeline for Large Earthquake Analysis using High-Rate Global Navigation Satellite System Data**|Claudia Quinteros-Cartaya et.al.|[2503.20584](http://arxiv.org/abs/2503.20584)|null|
 |**2025-03-25**|**Geometric Meta-Learning via Coupled Ricci Flow: Unifying Knowledge Representation and Quantum Entanglement**|Ming Lei et.al.|[2503.19867](http://arxiv.org/abs/2503.19867)|null|
@@ -8710,7 +8710,7 @@
 |**2023-04-04**|**Denoising Diffusion Probabilistic Models to Predict the Density of Molecular Clouds**|Duo Xu et.al.|[2304.01670](http://arxiv.org/abs/2304.01670)|null|
 |**2023-04-04**|**Re-thinking Model Inversion Attacks Against Deep Neural Networks**|Ngoc-Bao Nguyen et.al.|[2304.01669](http://arxiv.org/abs/2304.01669)|**[link](https://github.com/sutd-visual-computing-group/Re-thinking_MI)**|
 
-<p align=right>(<a href=#Updated-on-20250327>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250328>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
