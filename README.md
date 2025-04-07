@@ -649,6 +649,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-04**|**REJEPA: A Novel Joint-Embedding Predictive Architecture for Efficient Remote Sensing Image Retrieval**|Shabnam Choudhury et.al.|[2504.03169](http://arxiv.org/abs/2504.03169)|null|
 |**2025-04-03**|**Re-thinking Temporal Search for Long-Form Video Understanding**|Jinhui Ye et.al.|[2504.02259](http://arxiv.org/abs/2504.02259)|null|
 |**2025-04-02**|**A Chefs KISS -- Utilizing semantic information in both ICP and SLAM framework**|Sven Ochs et.al.|[2504.02086](http://arxiv.org/abs/2504.02086)|null|
 |**2025-04-02**|**Prompt-Guided Attention Head Selection for Focus-Oriented Image Retrieval**|Yuji Nozawa et.al.|[2504.01348](http://arxiv.org/abs/2504.01348)|null|
@@ -2384,6 +2385,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-04**|**NeRFlex: Resource-aware Real-time High-quality Rendering of Complex Scenes on Mobile Devices**|Zhe Wang et.al.|[2504.03415](http://arxiv.org/abs/2504.03415)|null|
 |**2025-04-03**|**MultiNeRF: Multiple Watermark Embedding for Neural Radiance Fields**|Yash Kulthe et.al.|[2504.02517](http://arxiv.org/abs/2504.02517)|null|
 |**2025-04-03**|**LPA3D: 3D Room-Level Scene Generation from In-the-Wild Images**|Ming-Jia Yang et.al.|[2504.02337](http://arxiv.org/abs/2504.02337)|null|
 |**2025-04-01**|**OccludeNeRF: Geometric-aware 3D Scene Inpainting with Collaborative Score Distillation in NeRF**|Jingyu Shi et.al.|[2504.02007](http://arxiv.org/abs/2504.02007)|null|
@@ -3947,6 +3949,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-04**|**Multimodal Diffusion Bridge with Attention-Based SAR Fusion for Satellite Image Cloud Removal**|Yuyang Hu et.al.|[2504.03607](http://arxiv.org/abs/2504.03607)|null|
+|**2025-04-04**|**AdaViT: Adaptive Vision Transformer for Flexible Pretrain and Finetune with Variable 3D Medical Image Modalities**|Badhan Kumar Das et.al.|[2504.03589](http://arxiv.org/abs/2504.03589)|null|
+|**2025-04-04**|**Optimistic Learning for Communication Networks**|George Iosifidis et.al.|[2504.03499](http://arxiv.org/abs/2504.03499)|null|
+|**2025-04-04**|**Quantifying Robustness: A Benchmarking Framework for Deep Learning Forecasting in Cyber-Physical Systems**|Alexander Windmann et.al.|[2504.03494](http://arxiv.org/abs/2504.03494)|null|
+|**2025-04-04**|**Physics-informed 4D X-ray image reconstruction from ultra-sparse spatiotemporal data**|Zisheng Yao et.al.|[2504.03469](http://arxiv.org/abs/2504.03469)|null|
+|**2025-04-04**|**DML-RAM: Deep Multimodal Learning Framework for Robotic Arm Manipulation using Pre-trained Models**|Sathish Kumar et.al.|[2504.03423](http://arxiv.org/abs/2504.03423)|null|
+|**2025-04-04**|**An Efficient GPU-based Implementation for Noise Robust Sound Source Localization**|Zirui Lin et.al.|[2504.03373](http://arxiv.org/abs/2504.03373)|null|
+|**2025-04-04**|**Infrared bubble recognition in the Milky Way and beyond using deep learning**|Shimpei Nishimoto et.al.|[2504.03367](http://arxiv.org/abs/2504.03367)|null|
+|**2025-04-04**|**Data Augmentation of Time-Series Data in Human Movement Biomechanics: A Scoping Review**|Christina Halmich et.al.|[2504.03334](http://arxiv.org/abs/2504.03334)|null|
+|**2025-04-04**|**Roto-Translation Invariant Metrics on Position-Orientation Space**|Gijs Bellaard et.al.|[2504.03309](http://arxiv.org/abs/2504.03309)|null|
 |**2025-04-03**|**HQViT: Hybrid Quantum Vision Transformer for Image Classification**|Hui Zhang et.al.|[2504.02730](http://arxiv.org/abs/2504.02730)|null|
 |**2025-04-03**|**Learning Phase Distortion with Selective State Space Models for Video Turbulence Mitigation**|Xingguang Zhang et.al.|[2504.02697](http://arxiv.org/abs/2504.02697)|null|
 |**2025-04-03**|**Adaptive Frequency Enhancement Network for Remote Sensing Image Semantic Segmentation**|Feng Gao et.al.|[2504.02647](http://arxiv.org/abs/2504.02647)|null|
