@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.08
+## Updated on 2025.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3933,7 +3933,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-07**|**Contour Integration Underlies Human-Like Vision**|Ben Lonnqvist et.al.|[2504.05253](http://arxiv.org/abs/2504.05253)|null|
-|**2025-04-07**|**PEAKS: Selecting Key Training Examples Incrementally via Prediction Error Anchored by Kernel Similarity**|Mustafa Burak Gurbuz et.al.|[2504.05250](http://arxiv.org/abs/2504.05250)|null|
+|**2025-04-08**|**PEAKS: Selecting Key Training Examples Incrementally via Prediction Error Anchored by Kernel Similarity**|Mustafa Burak Gurbuz et.al.|[2504.05250](http://arxiv.org/abs/2504.05250)|null|
 |**2025-04-07**|**Security Risks in Vision-Based Beam Prediction: From Spatial Proxy Attacks to Feature Refinement**|Avi Deb Raha et.al.|[2504.05222](http://arxiv.org/abs/2504.05222)|null|
 |**2025-04-07**|**An ensemble deep learning approach to detect tumors on Mohs micrographic surgery slides**|Abdurrahim Yilmaz et.al.|[2504.05219](http://arxiv.org/abs/2504.05219)|null|
 |**2025-04-07**|**MSA-UNet3+: Multi-Scale Attention UNet3+ with New Supervised Prototypical Contrastive Loss for Coronary DSA Image Segmentation**|Rayan Merghani Ahmed et.al.|[2504.05184](http://arxiv.org/abs/2504.05184)|null|
