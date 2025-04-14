@@ -649,6 +649,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**Hypergraph Vision Transformers: Images are More than Nodes, More than Edges**|Joshua Fixelle et.al.|[2504.08710](http://arxiv.org/abs/2504.08710)|null|
+|**2025-04-11**|**FocalLens: Instruction Tuning Enables Zero-Shot Conditional Image Representations**|Cheng-Yu Hsieh et.al.|[2504.08368](http://arxiv.org/abs/2504.08368)|null|
+|**2025-04-11**|**PNE-SGAN: Probabilistic NDT-Enhanced Semantic Graph Attention Network for LiDAR Loop Closure Detection**|Xiong Li et.al.|[2504.08280](http://arxiv.org/abs/2504.08280)|null|
 |**2025-04-10**|**Multi-modal Reference Learning for Fine-grained Text-to-Image Retrieval**|Zehong Ma et.al.|[2504.07718](http://arxiv.org/abs/2504.07718)|null|
 |**2025-04-09**|**A Pointcloud Registration Framework for Relocalization in Subterranean Environments**|David Akhihiero et.al.|[2504.07231](http://arxiv.org/abs/2504.07231)|null|
 |**2025-04-09**|**Patch Matters: Training-free Fine-grained Image Caption Enhancement via Local Perception**|Ruotian Peng et.al.|[2504.06666](http://arxiv.org/abs/2504.06666)|null|
@@ -1776,6 +1779,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**Stereophotoclinometry Revisited**|Travis Driver et.al.|[2504.08252](http://arxiv.org/abs/2504.08252)|null|
 |**2025-03-31**|**SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection**|Yannick Burkhardt et.al.|[2504.00139](http://arxiv.org/abs/2504.00139)|null|
 |**2025-03-29**|**Deep Visual Servoing of an Aerial Robot Using Keypoint Feature Extraction**|Shayan Sepahvand et.al.|[2503.23171](http://arxiv.org/abs/2503.23171)|null|
 |**2025-03-25**|**Multiscale Feature Importance-based Bit Allocation for End-to-End Feature Coding for Machines**|Junle Liu et.al.|[2503.19278](http://arxiv.org/abs/2503.19278)|null|
@@ -2072,6 +2076,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**Geometric Consistency Refinement for Single Image Novel View Synthesis via Test-Time Adaptation of Diffusion Models**|Josef Bengtson et.al.|[2504.08348](http://arxiv.org/abs/2504.08348)|null|
 |**2025-04-10**|**Image registration of 2D optical thin sections in a 3D porous medium: Application to a Berea sandstone digital rock image**|Jaehong Chung et.al.|[2504.06604](http://arxiv.org/abs/2504.06604)|null|
 |**2025-04-08**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza et.al.|[2504.06116](http://arxiv.org/abs/2504.06116)|null|
 |**2025-04-10**|**Learning Affine Correspondences by Integrating Geometric Constraints**|Pengju Sun et.al.|[2504.04834](http://arxiv.org/abs/2504.04834)|**[link](https://github.com/stilcrad/denseaffine)**|
@@ -3965,6 +3970,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**Quantum Large Language Model Fine-Tuning**|Sang Hyub Kim et.al.|[2504.08732](http://arxiv.org/abs/2504.08732)|null|
+|**2025-04-11**|**ProtoECGNet: Case-Based Interpretable Deep Learning for Multi-Label ECG Classification with Contrastive Learning**|Sahil Sethi et.al.|[2504.08713](http://arxiv.org/abs/2504.08713)|null|
+|**2025-04-11**|**Channel Estimation by Infinite Width Convolutional Networks**|Mohammed Mallik et.al.|[2504.08660](http://arxiv.org/abs/2504.08660)|null|
+|**2025-04-11**|**Deep Learning Methods for Detecting Thermal Runaway Events in Battery Production Lines**|Athanasios Athanasopoulos et.al.|[2504.08632](http://arxiv.org/abs/2504.08632)|null|
+|**2025-04-11**|**Efficient Mixture of Geographical Species for On Device Wildlife Monitoring**|Emmanuel Azuh Mensah et.al.|[2504.08620](http://arxiv.org/abs/2504.08620)|null|
+|**2025-04-11**|**Knowledge Distillation for Multimodal Egocentric Action Recognition Robust to Missing Modalities**|Maria Santos-Villafranca et.al.|[2504.08578](http://arxiv.org/abs/2504.08578)|null|
+|**2025-04-11**|**Boosting-inspired online learning with transfer for railway maintenance**|Diogo Risca et.al.|[2504.08554](http://arxiv.org/abs/2504.08554)|null|
+|**2025-04-11**|**Genetic Algorithm Design Exploration for On-Device Training on FPGAs**|Alaa Mazouz et.al.|[2504.08534](http://arxiv.org/abs/2504.08534)|null|
+|**2025-04-11**|**STF-GCN: A Multi-Domain Graph Convolution Network Method for Automatic Modulation Recognition via Adaptive Correlation**|Mingyuan Shao et.al.|[2504.08504](http://arxiv.org/abs/2504.08504)|null|
+|**2025-04-11**|**AI-Driven Smart Sportswear for Real-Time Fitness Monitoring Using Textile Strain Sensors**|Chenyu Tang et.al.|[2504.08500](http://arxiv.org/abs/2504.08500)|null|
 |**2025-04-10**|**Detect Anything 3D in the Wild**|Hanxue Zhang et.al.|[2504.07958](http://arxiv.org/abs/2504.07958)|null|
 |**2025-04-10**|**Deep Learning-based Intrusion Detection Systems: A Survey**|Zhiwei Xu et.al.|[2504.07839](http://arxiv.org/abs/2504.07839)|null|
 |**2025-04-10**|**Pychop: Emulating Low-Precision Arithmetic in Numerical Methods and Neural Networks**|Erin Carson et.al.|[2504.07835](http://arxiv.org/abs/2504.07835)|null|
