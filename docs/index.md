@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.21
+## Updated on 2025.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2390,16 +2390,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-18**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Samuel Cerezo et.al.|[2504.13713](http://arxiv.org/abs/2504.13713)|**[link](https://github.com/samuel-cerezo/SLAM-Render)**|
+|**2025-04-21**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Samuel Cerezo et.al.|[2504.13713](http://arxiv.org/abs/2504.13713)|**[link](https://github.com/samuel-cerezo/SLAM-Render)**|
 |**2025-04-16**|**BEV-GS: Feed-forward Gaussian Splatting in Bird's-Eye-View for Road Reconstruction**|Wenhua Wu et.al.|[2504.13207](http://arxiv.org/abs/2504.13207)|null|
 |**2025-04-17**|**GSAC: Leveraging Gaussian Splatting for Photorealistic Avatar Creation with Unity Integration**|Rendong Zhang et.al.|[2504.12999](http://arxiv.org/abs/2504.12999)|null|
 |**2025-04-16**|**R-Meshfusion: Reinforcement Learning Powered Sparse-View Mesh Reconstruction with Diffusion Priors**|Haoyang Wang et.al.|[2504.11946](http://arxiv.org/abs/2504.11946)|null|
-|**2025-04-15**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331](http://arxiv.org/abs/2504.10331)|null|
+|**2025-04-19**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331](http://arxiv.org/abs/2504.10331)|null|
 |**2025-04-14**|**MCBlock: Boosting Neural Radiance Field Training Speed by MCTS-based Dynamic-Resolution Ray Sampling**|Yunpeng Tan et.al.|[2504.09878](http://arxiv.org/abs/2504.09878)|null|
 |**2025-04-14**|**NeRF-Based Transparent Object Grasping Enhanced by Shape Priors**|Yi Han et.al.|[2504.09868](http://arxiv.org/abs/2504.09868)|null|
 |**2025-04-11**|**HAL-NeRF: High Accuracy Localization Leveraging Neural Radiance Fields**|Asterios Reppas et.al.|[2504.08901](http://arxiv.org/abs/2504.08901)|null|
 |**2025-04-09**|**Wheat3DGS: In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting**|Daiwei Zhang et.al.|[2504.06978](http://arxiv.org/abs/2504.06978)|null|
-|**2025-04-09**|**S-EO: A Large-Scale Dataset for Geometry-Aware Shadow Detection in Remote Sensing Applications**|Masquil Elías et.al.|[2504.06920](http://arxiv.org/abs/2504.06920)|null|
+|**2025-04-21**|**S-EO: A Large-Scale Dataset for Geometry-Aware Shadow Detection in Remote Sensing Applications**|Elías Masquil et.al.|[2504.06920](http://arxiv.org/abs/2504.06920)|null|
 |**2025-04-09**|**SVG-IR: Spatially-Varying Gaussian Splatting for Inverse Rendering**|Hanxiao Sun et.al.|[2504.06815](http://arxiv.org/abs/2504.06815)|null|
 |**2025-04-08**|**Meta-Continual Learning of Neural Fields**|Seungyoon Woo et.al.|[2504.05806](http://arxiv.org/abs/2504.05806)|null|
 |**2025-04-08**|**SE4Lip: Speech-Lip Encoder for Talking Head Synthesis to Solve Phoneme-Viseme Alignment Ambiguity**|Yihuan Huang et.al.|[2504.05803](http://arxiv.org/abs/2504.05803)|null|
@@ -3972,10 +3972,10 @@ layout: default
 |**2025-04-18**|**Human-aligned Deep Learning: Explainability, Causality, and Biological Inspiration**|Gianluca Carloni et.al.|[2504.13717](http://arxiv.org/abs/2504.13717)|null|
 |**2025-04-18**|**Consensus-aware Contrastive Learning for Group Recommendation**|Soyoung Kim et.al.|[2504.13703](http://arxiv.org/abs/2504.13703)|null|
 |**2025-04-18**|**Enhancing Pothole Detection and Characterization: Integrated Segmentation and Depth Estimation in Road Anomaly Systems**|Uthman Baroudi et.al.|[2504.13648](http://arxiv.org/abs/2504.13648)|null|
-|**2025-04-18**|**FocusNet: Transformer-enhanced Polyp Segmentation with Local and Pooling Attention**|Jun Zeng et.al.|[2504.13597](http://arxiv.org/abs/2504.13597)|null|
-|**2025-04-18**|**Leveraging Automatic CAD Annotations for Supervised Learning in 3D Scene Understanding**|Yuchen Rao et.al.|[2504.13580](http://arxiv.org/abs/2504.13580)|null|
+|**2025-04-18**|**FocusNet: Transformer-enhanced Polyp Segmentation with Local and Pooling Attention**|Jun Zeng et.al.|[2504.13597](http://arxiv.org/abs/2504.13597)|**[link](https://github.com/junzengz/focusnet)**|
+|**2025-04-18**|**Leveraging Automatic CAD Annotations for Supervised Learning in 3D Scene Understanding**|Yuchen Rao et.al.|[2504.13580](http://arxiv.org/abs/2504.13580)|**[link](https://github.com/stefan-ainetter/SCANnotatepp)**|
 |**2025-04-18**|**PoEmotion: Can AI Utilize Chinese Calligraphy to Express Emotion from Poems?**|Tiancheng Liu et.al.|[2504.13567](http://arxiv.org/abs/2504.13567)|null|
-|**2025-04-18**|**Deep Learning Models Meet Financial Data Modalities**|Kasymkhan Khubiev et.al.|[2504.13521](http://arxiv.org/abs/2504.13521)|null|
+|**2025-04-21**|**Deep Learning Models Meet Financial Data Modalities**|Kasymkhan Khubiev et.al.|[2504.13521](http://arxiv.org/abs/2504.13521)|null|
 |**2025-04-18**|**MicroFlow: Domain-Specific Optical Flow for Ground Deformation Estimation in Seismic Events**|Juliette Bertrand et.al.|[2504.13452](http://arxiv.org/abs/2504.13452)|null|
 |**2025-04-18**|**DADU: Dual Attention-based Deep Supervised UNet for Automated Semantic Segmentation of Cardiac Images**|Racheal Mukisa et.al.|[2504.13415](http://arxiv.org/abs/2504.13415)|null|
 |**2025-04-17**|**It's All Connected: A Journey Through Test-Time Memorization, Attentional Bias, Retention, and Online Optimization**|Ali Behrouz et.al.|[2504.13173](http://arxiv.org/abs/2504.13173)|null|
