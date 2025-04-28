@@ -2742,7 +2742,7 @@
 |**2024-09-15**|**NARF24: Estimating Articulated Object Structure for Implicit Rendering**|Stanley Lewis et.al.|[2409.09829](http://arxiv.org/abs/2409.09829)|null|
 |**2024-09-12**|**DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with Diffusion Priors**|Thomas Hanwen Zhu et.al.|[2409.08278](http://arxiv.org/abs/2409.08278)|null|
 |**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454](http://arxiv.org/abs/2409.07454)|null|
-|**2024-09-11**|**ThermalGaussian: Thermal 3D Gaussian Splatting**|Rongfeng Lu et.al.|[2409.07200](http://arxiv.org/abs/2409.07200)|null|
+|**2024-09-11**|**ThermalGaussian: Thermal 3D Gaussian Splatting**|Rongfeng Lu et.al.|[2409.07200](http://arxiv.org/abs/2409.07200)|**[link](https://github.com/chen-hangyu/Thermal-Gaussian-main)**|
 |**2024-09-10**|**LEIA: Latent View-invariant Embeddings for Implicit 3D Articulation**|Archana Swaminathan et.al.|[2409.06703](http://arxiv.org/abs/2409.06703)|null|
 |**2024-09-10**|**Sources of Uncertainty in 3D Scene Reconstruction**|Marcus Klasson et.al.|[2409.06407](http://arxiv.org/abs/2409.06407)|**[link](https://github.com/aaltoml/uncertainty-nerf-gs)**|
 |**2024-09-09**|**LSE-NeRF: Learning Sensor Modeling Errors for Deblured Neural Radiance Fields with RGB-Event Stereo**|Wei Zhi Tang et.al.|[2409.06104](http://arxiv.org/abs/2409.06104)|**[link](https://github.com/ubc-vision/lsenerf)**|
@@ -4068,7 +4068,7 @@
 |**2025-04-16**|**Comparative Evaluation of Radiomics and Deep Learning Models for Disease Detection in Chest Radiography**|Zhijin He et.al.|[2504.12249](http://arxiv.org/abs/2504.12249)|null|
 |**2025-04-16**|**MOS: Towards Effective Smart Contract Vulnerability Detection through Mixture-of-Experts Tuning of Large Language Models**|Hang Yuan et.al.|[2504.12234](http://arxiv.org/abs/2504.12234)|null|
 |**2025-04-16**|**Beyond Patches: Mining Interpretable Part-Prototypes for Explainable AI**|Mahdi Alehdaghi et.al.|[2504.12197](http://arxiv.org/abs/2504.12197)|null|
-|**2025-04-16**|**CodingHomo: Bootstrapping Deep Homography With Video Coding**|Yike Liu et.al.|[2504.12165](http://arxiv.org/abs/2504.12165)|null|
+|**2025-04-16**|**CodingHomo: Bootstrapping Deep Homography With Video Coding**|Yike Liu et.al.|[2504.12165](http://arxiv.org/abs/2504.12165)|**[link](https://github.com/liuyike422/codinghomo)**|
 |**2025-04-16**|**Generative Deep Learning Framework for Inverse Design of Fuels**|Kiran K. Yalamanchi et.al.|[2504.12075](http://arxiv.org/abs/2504.12075)|null|
 |**2025-04-16**|**Exploring Video-Based Driver Activity Recognition under Noisy Labels**|Linjuan Fan et.al.|[2504.11966](http://arxiv.org/abs/2504.11966)|**[link](https://github.com/ilonafan/dar-noisy-labels)**|
 |**2025-04-16**|**Novel-view X-ray Projection Synthesis through Geometry-Integrated Deep Learning**|Daiqi Liu et.al.|[2504.11953](http://arxiv.org/abs/2504.11953)|**[link](https://github.com/dae-plz/re-gips)**|
@@ -4425,7 +4425,7 @@
 |**2025-02-24**|**AIRIS2 : a Smart Gateway Diversity Algorithm for Very High-Throughput Satellite Systems**|Justin Cano et.al.|[2502.17181](http://arxiv.org/abs/2502.17181)|null|
 |**2025-02-24**|**Joint multi-band deconvolution for $Euclid$ and $Vera$ $C.$ $Rubin$ images**|Utsav Akhaury et.al.|[2502.17177](http://arxiv.org/abs/2502.17177)|null|
 |**2025-02-21**|**Extraction multi-étiquettes de relations en utilisant des couches de Transformer**|Ngoc Luyen Le et.al.|[2502.15619](http://arxiv.org/abs/2502.15619)|null|
-|**2025-02-21**|**PDeepPP:A Deep learning framework with Pretrained Protein language for peptide classification**|Jixiu Zhai et.al.|[2502.15610](http://arxiv.org/abs/2502.15610)|null|
+|**2025-02-21**|**PDeepPP:A Deep learning framework with Pretrained Protein language for peptide classification**|Jixiu Zhai et.al.|[2502.15610](http://arxiv.org/abs/2502.15610)|**[link](https://github.com/fondress/pdeeppp)**|
 |**2025-02-21**|**Causal Modeling of fMRI Time-series for Interpretable Autism Spectrum Disorder Classification**|Peiyu Duan et.al.|[2502.15595](http://arxiv.org/abs/2502.15595)|null|
 |**2025-02-21**|**MoMa: A Modular Deep Learning Framework for Material Property Prediction**|Botian Wang et.al.|[2502.15483](http://arxiv.org/abs/2502.15483)|null|
 |**2025-02-21**|**Sheaf theory: from deep geometry to deep learning**|Anton Ayzenberg et.al.|[2502.15476](http://arxiv.org/abs/2502.15476)|null|
@@ -5323,7 +5323,7 @@
 |**2024-10-07**|**Improved detection of discarded fish species through BoxAL active learning**|Maria Sokolova et.al.|[2410.04880](http://arxiv.org/abs/2410.04880)|**[link](https://github.com/pieterblok/boxal)**|
 |**2024-10-07**|**Multimodal Fusion Strategies for Mapping Biophysical Landscape Features**|Lucia Gordon et.al.|[2410.04833](http://arxiv.org/abs/2410.04833)|**[link](https://github.com/lgordon99/fusion-strategies-eccv)**|
 |**2024-10-07**|**CAT: Concept-level backdoor ATtacks for Concept Bottleneck Models**|Songning Lai et.al.|[2410.04823](http://arxiv.org/abs/2410.04823)|null|
-|**2024-10-04**|**NRGBoost: Energy-Based Generative Boosted Trees**|João Bravo et.al.|[2410.03535](http://arxiv.org/abs/2410.03535)|null|
+|**2024-10-04**|**NRGBoost: Energy-Based Generative Boosted Trees**|João Bravo et.al.|[2410.03535](http://arxiv.org/abs/2410.03535)|**[link](https://github.com/ajoo/nrgboost)**|
 |**2024-10-04**|**A Multimodal Framework for Deepfake Detection**|Kashish Gandhi et.al.|[2410.03487](http://arxiv.org/abs/2410.03487)|null|
 |**2024-10-04**|**Vulnerability Detection via Topological Analysis of Attention Maps**|Pavel Snopov et.al.|[2410.03470](http://arxiv.org/abs/2410.03470)|**[link](https://github.com/Snopoff/Vulnerability-Detection-via-Topological-Analysis-of-Attention-Maps)**|
 |**2024-10-04**|**On Uncertainty In Natural Language Processing**|Dennis Ulmer et.al.|[2410.03446](http://arxiv.org/abs/2410.03446)|**[link](https://github.com/kaleidophon/nlp-uncertainty-zoo)**|
