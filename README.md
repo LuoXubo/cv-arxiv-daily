@@ -1793,6 +1793,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-26**|**VISUALCENT: Visual Human Analysis using Dynamic Centroid Representation**|Niaz Ahmad et.al.|[2504.19032](http://arxiv.org/abs/2504.19032)|null|
 |**2025-04-24**|**EdgePoint2: Compact Descriptors for Superior Efficiency and Accuracy**|Haodi Yao et.al.|[2504.17280](http://arxiv.org/abs/2504.17280)|null|
 |**2025-04-15**|**UKDM: Underwater keypoint detection and matching using underwater image enhancement techniques**|Pedro Diaz-Garcia et.al.|[2504.11063](http://arxiv.org/abs/2504.11063)|null|
 |**2025-04-15**|**Acquisition of high-quality images for camera calibration in robotics applications via speech prompts**|Timm Linder et.al.|[2504.11031](http://arxiv.org/abs/2504.11031)|null|
@@ -2093,6 +2094,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective**|Taoyu Su et.al.|[2504.19458](http://arxiv.org/abs/2504.19458)|null|
+|**2025-04-28**|**Dynamic Arthroscopic Navigation System for Anterior Cruciate Ligament Reconstruction Based on Multi-level Memory Architecture**|Shuo Wang et.al.|[2504.19398](http://arxiv.org/abs/2504.19398)|null|
 |**2025-04-23**|**Road Similarity-Based BEV-Satellite Image Matching for UGV Localization**|Zhenping Sun et.al.|[2504.16346](http://arxiv.org/abs/2504.16346)|null|
 |**2025-04-18**|**Outlier-Robust Multi-Model Fitting on Quantum Annealers**|Saurabh Pandey et.al.|[2504.13836](http://arxiv.org/abs/2504.13836)|null|
 |**2025-04-11**|**Geometric Consistency Refinement for Single Image Novel View Synthesis via Test-Time Adaptation of Diffusion Models**|Josef Bengtson et.al.|[2504.08348](http://arxiv.org/abs/2504.08348)|null|
@@ -2417,6 +2420,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**Joint Optimization of Neural Radiance Fields and Continuous Camera Motion from a Monocular Video**|Hoang Chuong Nguyen et.al.|[2504.19819](http://arxiv.org/abs/2504.19819)|null|
+|**2025-04-27**|**Beyond Physical Reach: Comparing Head- and Cane-Mounted Cameras for Last-Mile Navigation by Blind Users**|Apurv Varshney et.al.|[2504.19345](http://arxiv.org/abs/2504.19345)|null|
+|**2025-04-27**|**IM-Portrait: Learning 3D-aware Video Diffusion for PhotorealisticTalking Heads from Monocular Videos**|Yuan Li et.al.|[2504.19165](http://arxiv.org/abs/2504.19165)|null|
 |**2025-04-28**|**RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**|Georgios Kouros et.al.|[2504.18468](http://arxiv.org/abs/2504.18468)|null|
 |**2025-04-23**|**Visibility-Uncertainty-guided 3D Gaussian Inpainting via Scene Conceptional Learning**|Mingxuan Cui et.al.|[2504.17815](http://arxiv.org/abs/2504.17815)|null|
 |**2025-04-24**|**CasualHDRSplat: Robust High Dynamic Range 3D Gaussian Splatting from Casually Captured Videos**|Shucheng Gong et.al.|[2504.17728](http://arxiv.org/abs/2504.17728)|null|
@@ -4006,6 +4012,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**Mitigating Catastrophic Forgetting in the Incremental Learning of Medical Images**|Sara Yavari et.al.|[2504.20033](http://arxiv.org/abs/2504.20033)|null|
+|**2025-04-28**|**Modular Machine Learning: An Indispensable Path towards New-Generation Large Language Models**|Xin Wang et.al.|[2504.20020](http://arxiv.org/abs/2504.20020)|null|
+|**2025-04-28**|**Curiosity Driven Exploration to Optimize Structure-Property Learning in Microscopy**|Aditya Vatsavai et.al.|[2504.20011](http://arxiv.org/abs/2504.20011)|null|
+|**2025-04-28**|**Graph Neural Network Prediction of Nonlinear Optical Properties**|Yomn Alkabakibi et.al.|[2504.19987](http://arxiv.org/abs/2504.19987)|null|
+|**2025-04-28**|**Deep Declarative Risk Budgeting Portfolios**|Manuel Parra-Diaz et.al.|[2504.19980](http://arxiv.org/abs/2504.19980)|null|
+|**2025-04-28**|**Enhancing short-term traffic prediction by integrating trends and fluctuations with attention mechanism**|Adway Das et.al.|[2504.19967](http://arxiv.org/abs/2504.19967)|null|
+|**2025-04-28**|**Enhancing Quality for VVC Compressed Videos with Omniscient Quality Enhancement Model**|Xiem HoangVan et.al.|[2504.19935](http://arxiv.org/abs/2504.19935)|null|
+|**2025-04-28**|**Taming the Randomness: Towards Label-Preserving Cropping in Contrastive Learning**|Mohamed Hassan et.al.|[2504.19824](http://arxiv.org/abs/2504.19824)|null|
+|**2025-04-28**|**Mjölnir: A Deep Learning Parametrization Framework for Global Lightning Flash Density**|Minjong Cheon et.al.|[2504.19822](http://arxiv.org/abs/2504.19822)|null|
+|**2025-04-28**|**Hybrid Approach Combining Ultrasound and Blood Test Analysis with a Voting Classifier for Accurate Liver Fibrosis and Cirrhosis Assessment**|Kapil Kashyap et.al.|[2504.19755](http://arxiv.org/abs/2504.19755)|null|
 |**2025-04-25**|**Music Tempo Estimation on Solo Instrumental Performance**|Zhanhong He et.al.|[2504.18502](http://arxiv.org/abs/2504.18502)|null|
 |**2025-04-25**|**Pseudo-Asynchronous Local SGD: Robust and Efficient Data-Parallel Training**|Hiroki Naganuma et.al.|[2504.18454](http://arxiv.org/abs/2504.18454)|null|
 |**2025-04-25**|**Nearly isotropic segmentation for medial temporal lobe subregions in multi-modality MRI**|Yue Li et.al.|[2504.18442](http://arxiv.org/abs/2504.18442)|null|
