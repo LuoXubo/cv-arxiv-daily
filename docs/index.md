@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.30
+## Updated on 2025.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4001,7 +4001,7 @@ layout: default
 |**2025-04-29**|**Scenario-based Compositional Verification of Autonomous Systems with Neural Perception**|Christopher Watson et.al.|[2504.20942](http://arxiv.org/abs/2504.20942)|null|
 |**2025-04-29**|**Flexible Semantic-Aware Resource Allocation: Serving More Users Through Similarity Range Constraints**|Nasrin Gholami et.al.|[2504.20939](http://arxiv.org/abs/2504.20939)|null|
 |**2025-04-29**|**Bipartite Randomized Response Mechanism for Local Differential Privacy**|Shun Zhang et.al.|[2504.20926](http://arxiv.org/abs/2504.20926)|null|
-|**2025-04-29**|**End-to-end Audio Deepfake Detection from RAW Waveforms: a RawNet-Based Approach with Cross-Dataset Evaluation**|Andrea Di Pierno et.al.|[2504.20923](http://arxiv.org/abs/2504.20923)|null|
+|**2025-04-30**|**End-to-end Audio Deepfake Detection from RAW Waveforms: a RawNet-Based Approach with Cross-Dataset Evaluation**|Andrea Di Pierno et.al.|[2504.20923](http://arxiv.org/abs/2504.20923)|**[link](https://github.com/adipiz99/RawNetLite)**|
 |**2025-04-29**|**Tabular Data Adapters: Improving Outlier Detection for Unlabeled Private Data**|Dayananda Herurkar et.al.|[2504.20862](http://arxiv.org/abs/2504.20862)|null|
 |**2025-04-29**|**Partitioned Memory Storage Inspired Few-Shot Class-Incremental learning**|Renye Zhang et.al.|[2504.20797](http://arxiv.org/abs/2504.20797)|null|
 |**2025-04-29**|**ECOSoundSet: a finely annotated dataset for the automated acoustic identification of Orthoptera and Cicadidae in North, Central and temperate Western Europe**|David Funosas et.al.|[2504.20776](http://arxiv.org/abs/2504.20776)|null|
