@@ -640,6 +640,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**NeuroLoc: Encoding Navigation Cells for 6-DOF Camera Localization**|Xun Li et.al.|[2505.01113](http://arxiv.org/abs/2505.01113)|null|
 |**2025-05-01**|**GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**|Jongwon Lee et.al.|[2504.20379](http://arxiv.org/abs/2504.20379)|null|
 |**2025-04-25**|**From Mapping to Composing: A Two-Stage Framework for Zero-shot Composed Image Retrieval**|Yabing Wang et.al.|[2504.17990](http://arxiv.org/abs/2504.17990)|null|
 |**2025-04-24**|**A Guide to Structureless Visual Localization**|Vojtech Panek et.al.|[2504.17636](http://arxiv.org/abs/2504.17636)|null|
@@ -2406,6 +2407,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**A Survey on 3D Reconstruction Techniques in Plant Phenotyping: From Classical Methods to Neural Radiance Fields (NeRF), 3D Gaussian Splatting (3DGS), and Beyond**|Jiajia Li et.al.|[2505.00737](http://arxiv.org/abs/2505.00737)|null|
 |**2025-05-01**|**Cues3D: Unleashing the Power of Sole NeRF for Consistent and Unique Instances in Open-Vocabulary 3D Panoptic Segmentation**|Feng Xue et.al.|[2505.00378](http://arxiv.org/abs/2505.00378)|null|
 |**2025-04-29**|**GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction**|Yuhan Xie et.al.|[2504.21067](http://arxiv.org/abs/2504.21067)|null|
 |**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496](http://arxiv.org/abs/2504.20496)|null|
@@ -4001,6 +4003,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**How Effective are Large Time Series Models in Hydrology? A Study on Water Level Forecasting in Everglades**|Rahuul Rangaraj et.al.|[2505.01415](http://arxiv.org/abs/2505.01415)|null|
+|**2025-05-02**|**Multimodal Doctor-in-the-Loop: A Clinically-Guided Explainable Framework for Predicting Pathological Response in Non-Small Cell Lung Cancer**|Alice Natalina Caragliano et.al.|[2505.01390](http://arxiv.org/abs/2505.01390)|null|
+|**2025-05-02**|**Deep Learning-Enabled System Diagnosis in Microgrids: A Feature-Feedback GAN Approach**|Swetha Rani Kasimalla et.al.|[2505.01366](http://arxiv.org/abs/2505.01366)|null|
+|**2025-05-02**|**2DXformer: Dual Transformers for Wind Power Forecasting with Dual Exogenous Variables**|Yajuan Zhang et.al.|[2505.01286](http://arxiv.org/abs/2505.01286)|null|
+|**2025-05-02**|**Enhancing Obsolescence Forecasting with Deep Generative Data Augmentation: A Semi-Supervised Framework for Low-Data Industrial Applications**|Elie Saad et.al.|[2505.01261](http://arxiv.org/abs/2505.01261)|null|
+|**2025-05-02**|**Can Foundation Models Really Segment Tumors? A Benchmarking Odyssey in Lung CT Imaging**|Elena Mulero Ayllón et.al.|[2505.01239](http://arxiv.org/abs/2505.01239)|null|
+|**2025-05-02**|**Robust Deep Learning-Based Physical Layer Communications: Strategies and Approaches**|Fenghao Zhu et.al.|[2505.01234](http://arxiv.org/abs/2505.01234)|null|
+|**2025-05-02**|**Core-Set Selection for Data-efficient Land Cover Segmentation**|Keiller Nogueira et.al.|[2505.01225](http://arxiv.org/abs/2505.01225)|null|
+|**2025-05-02**|**CaReAQA: A Cardiac and Respiratory Audio Question Answering Model for Open-Ended Diagnostic Reasoning**|Tsai-Ning Wang et.al.|[2505.01199](http://arxiv.org/abs/2505.01199)|null|
+|**2025-05-02**|**CoCoAFusE: Beyond Mixtures of Experts via Model Fusion**|Aurelio Raffa Ugolini et.al.|[2505.01105](http://arxiv.org/abs/2505.01105)|null|
 |**2025-05-01**|**Spreading Depolarization Detection in Electrocorticogram Spectrogram Imaging by Deep Learning: Is It Just About Delta Band?**|Jeanne Boyer-Chammard et.al.|[2505.00666](http://arxiv.org/abs/2505.00666)|null|
 |**2025-05-02**|**AI-based CSI Feedback with Digital Twins: Real-World Validation and Insights**|Tzu-Hao Huang et.al.|[2505.00660](http://arxiv.org/abs/2505.00660)|null|
 |**2025-05-01**|**Deep Learning Assisted Outer Volume Removal for Highly-Accelerated Real-Time Dynamic MRI**|Merve Gülle et.al.|[2505.00643](http://arxiv.org/abs/2505.00643)|null|
