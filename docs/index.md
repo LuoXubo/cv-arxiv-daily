@@ -2425,6 +2425,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**Sparse Point Cloud Patches Rendering via Splitting 2D Gaussians**|Ma Changfeng et.al.|[2505.09413](http://arxiv.org/abs/2505.09413)|**[link](https://github.com/murcherful/gaupcrender)**|
+|**2025-05-14**|**FreeDriveRF: Monocular RGB Dynamic NeRF without Poses for Autonomous Driving via Point-Level Dynamic-Static Decoupling**|Yue Wen et.al.|[2505.09406](http://arxiv.org/abs/2505.09406)|null|
+|**2025-05-12**|**TUGS: Physics-based Compact Representation of Underwater Scenes by Tensorized Gaussian**|Shijie Lian et.al.|[2505.08811](http://arxiv.org/abs/2505.08811)|null|
 |**2025-05-13**|**FOCI: Trajectory Optimization on Gaussian Splats**|Mario Gomez Andreu et.al.|[2505.08510](http://arxiv.org/abs/2505.08510)|null|
 |**2025-05-13**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396](http://arxiv.org/abs/2505.07396)|null|
 |**2025-05-12**|**Geometric Prior-Guided Neural Implicit Surface Reconstruction in the Wild**|Lintao Xiang et.al.|[2505.07373](http://arxiv.org/abs/2505.07373)|null|
@@ -4032,6 +4035,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**Rhomboid Tiling for Geometric Graph Deep Learning**|Yipeng Zhang et.al.|[2505.09586](http://arxiv.org/abs/2505.09586)|null|
+|**2025-05-14**|**Using Foundation Models as Pseudo-Label Generators for Pre-Clinical 4D Cardiac CT Segmentation**|Anne-Marie Rickmann et.al.|[2505.09564](http://arxiv.org/abs/2505.09564)|null|
+|**2025-05-14**|**Deep-SITAR: A SITAR-Based Deep Learning Framework for Growth Curve Modeling via Autoencoders**|María Alejandra Hernández et.al.|[2505.09506](http://arxiv.org/abs/2505.09506)|null|
+|**2025-05-14**|**FaceShield: Explainable Face Anti-Spoofing with Multimodal Large Language Models**|Hongyang Wang et.al.|[2505.09415](http://arxiv.org/abs/2505.09415)|null|
+|**2025-05-14**|**Quantum-Enhanced Parameter-Efficient Learning for Typhoon Trajectory Forecasting**|Chen-Yu Liu et.al.|[2505.09395](http://arxiv.org/abs/2505.09395)|null|
+|**2025-05-14**|**Personalized Control for Lower Limb Prosthesis Using Kolmogorov-Arnold Networks**|SeyedMojtaba Mohasel et.al.|[2505.09366](http://arxiv.org/abs/2505.09366)|null|
+|**2025-05-14**|**Efficient Mixed Precision Quantization in Graph Neural Networks**|Samir Moustafa et.al.|[2505.09361](http://arxiv.org/abs/2505.09361)|**[link](https://github.com/samirmoustafa/mixq)**|
+|**2025-05-14**|**Marigold: Affordable Adaptation of Diffusion-Based Image Generators for Image Analysis**|Bingxin Ke et.al.|[2505.09358](http://arxiv.org/abs/2505.09358)|null|
+|**2025-05-14**|**DCSNet: A Lightweight Knowledge Distillation-Based Model with Explainable AI for Lung Cancer Diagnosis from Histopathological Images**|Sadman Sakib Alif et.al.|[2505.09334](http://arxiv.org/abs/2505.09334)|null|
+|**2025-05-14**|**Accelerating Machine Learning Systems via Category Theory: Applications to Spherical Attention for Gene Regulatory Networks**|Vincent Abbott et.al.|[2505.09326](http://arxiv.org/abs/2505.09326)|null|
 |**2025-05-13**|**PCS-UQ: Uncertainty Quantification via the Predictability-Computability-Stability Framework**|Abhineet Agarwal et.al.|[2505.08784](http://arxiv.org/abs/2505.08784)|null|
 |**2025-05-14**|**Sensitivity-Constrained Fourier Neural Operators for Forward and Inverse Problems in Parametric Differential Equations**|Abdolmehdi Behroozi et.al.|[2505.08740](http://arxiv.org/abs/2505.08740)|**[link](https://github.com/ambehroozi/sc_neural_operators)**|
 |**2025-05-13**|**Controllable Image Colorization with Instance-aware Texts and Masks**|Yanru An et.al.|[2505.08705](http://arxiv.org/abs/2505.08705)|null|
