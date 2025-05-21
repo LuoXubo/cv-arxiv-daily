@@ -657,6 +657,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Multimodal RAG-driven Anomaly Detection and Classification in Laser Powder Bed Fusion using Large Language Models**|Kiarash Naghavi Khanghah et.al.|[2505.13828](http://arxiv.org/abs/2505.13828)|null|
 |**2025-05-18**|**MMS-VPR: Multimodal Street-Level Visual Place Recognition Dataset and Benchmark**|Yiwei Ou et.al.|[2505.12254](http://arxiv.org/abs/2505.12254)|null|
 |**2025-05-16**|**Improved Bag-of-Words Image Retrieval with Geometric Constraints for Ground Texture Localization**|Aaron Wilhelm et.al.|[2505.11620](http://arxiv.org/abs/2505.11620)|null|
 |**2025-05-16**|**Redundancy-Aware Pretraining of Vision-Language Foundation Models in Remote Sensing**|Mathis Jürgen Adler et.al.|[2505.11121](http://arxiv.org/abs/2505.11121)|null|
@@ -2453,6 +2454,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**IPENS:Interactive Unsupervised Framework for Rapid Plant Phenotyping Extraction via NeRF-SAM2 Fusion**|Wentao Song et.al.|[2505.13633](http://arxiv.org/abs/2505.13633)|null|
 |**2025-05-19**|**3D Gaussian Adaptive Reconstruction for Fourier Light-Field Microscopy**|Chenyu Xu et.al.|[2505.12875](http://arxiv.org/abs/2505.12875)|null|
 |**2025-05-18**|**Is Semantic SLAM Ready for Embedded Systems ? A Comparative Survey**|Calvin Galagain et.al.|[2505.12384](http://arxiv.org/abs/2505.12384)|null|
 |**2025-05-16**|**MutualNeRF: Improve the Performance of NeRF under Limited Samples with Mutual Information Theory**|Zifan Wang et.al.|[2505.11386](http://arxiv.org/abs/2505.11386)|null|
@@ -4070,6 +4072,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Bridging Predictive Coding and MDL: A Two-Part Code Framework for Deep Learning**|Benjamin Prada et.al.|[2505.14635](http://arxiv.org/abs/2505.14635)|null|
+|**2025-05-20**|**TSA-WF: Exploring the Effectiveness of Time Series Analysis for Website Fingerprinting**|Michael Wrana et.al.|[2505.14616](http://arxiv.org/abs/2505.14616)|null|
+|**2025-05-20**|**Electrostatics from Laplacian Eigenbasis for Neural Network Interatomic Potentials**|Maksim Zhdanov et.al.|[2505.14606](http://arxiv.org/abs/2505.14606)|null|
+|**2025-05-20**|**Instance Segmentation for Point Sets**|Abhimanyu Talwar et.al.|[2505.14583](http://arxiv.org/abs/2505.14583)|null|
+|**2025-05-20**|**Automated Fetal Biometry Assessment with Deep Ensembles using Sparse-Sampling of 2D Intrapartum Ultrasound Images**|Jayroop Ramesh et.al.|[2505.14572](http://arxiv.org/abs/2505.14572)|null|
+|**2025-05-20**|**Representation Learning for Semantic Alignment of Language, Audio, and Visual Modalities**|Parthasaarathy Sudarsanam et.al.|[2505.14562](http://arxiv.org/abs/2505.14562)|null|
+|**2025-05-20**|**Physics-Guided Learning of Meteorological Dynamics for Weather Downscaling and Forecasting**|Yingtao Luo et.al.|[2505.14555](http://arxiv.org/abs/2505.14555)|null|
+|**2025-05-20**|**Comparison of Data-Driven Modeling Approaches for Control Optimization of Floating Offshore Wind Turbines**|Athul K. Sundarrajan et.al.|[2505.14515](http://arxiv.org/abs/2505.14515)|null|
+|**2025-05-20**|**Federated prediction for scalable and privacy-preserved knowledge-based planning in radiotherapy**|Jingyun Chen et.al.|[2505.14507](http://arxiv.org/abs/2505.14507)|null|
+|**2025-05-20**|**VisualQuality-R1: Reasoning-Induced Image Quality Assessment via Reinforcement Learning to Rank**|Tianhe Wu et.al.|[2505.14460](http://arxiv.org/abs/2505.14460)|null|
 |**2025-05-19**|**Unlocking Non-Invasive Brain-to-Text**|Dulhan Jayalath et.al.|[2505.13446](http://arxiv.org/abs/2505.13446)|null|
 |**2025-05-19**|**Gluon: Making Muon & Scion Great Again! (Bridging Theory and Practice of LMO-based Optimizers for LLMs)**|Artem Riabinin et.al.|[2505.13416](http://arxiv.org/abs/2505.13416)|null|
 |**2025-05-19**|**Learning by solving differential equations**|Benoit Dherin et.al.|[2505.13397](http://arxiv.org/abs/2505.13397)|null|
