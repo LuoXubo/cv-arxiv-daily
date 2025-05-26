@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.25
+## Updated on 2025.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4058,7 +4058,7 @@ layout: default
 |**2025-05-22**|**PICT -- A Differentiable, GPU-Accelerated Multi-Block PISO Solver for Simulation-Coupled Learning Tasks in Fluid Dynamics**|Aleksandra Franz et.al.|[2505.16992](http://arxiv.org/abs/2505.16992)|null|
 |**2025-05-22**|**An Effective Training Framework for Light-Weight Automatic Speech Recognition Models**|Abdul Hannan et.al.|[2505.16991](http://arxiv.org/abs/2505.16991)|null|
 |**2025-05-22**|**The Polar Express: Optimal Matrix Sign Methods and Their Application to the Muon Algorithm**|Noah Amsel et.al.|[2505.16932](http://arxiv.org/abs/2505.16932)|null|
-|**2025-05-22**|**TULiP: Test-time Uncertainty Estimation via Linearization and Weight Perturbation**|Yuhui Zhang et.al.|[2505.16923](http://arxiv.org/abs/2505.16923)|null|
+|**2025-05-23**|**TULiP: Test-time Uncertainty Estimation via Linearization and Weight Perturbation**|Yuhui Zhang et.al.|[2505.16923](http://arxiv.org/abs/2505.16923)|null|
 |**2025-05-22**|**Redefining Clustered Federated Learning for System Identification: The Path of ClusterCraft**|Ertuğrul Keçeci et.al.|[2505.16857](http://arxiv.org/abs/2505.16857)|null|
 |**2025-05-22**|**Semi-Supervised State-Space Model with Dynamic Stacking Filter for Real-World Video Deraining**|Shangquan Sun et.al.|[2505.16811](http://arxiv.org/abs/2505.16811)|null|
 |**2025-05-22**|**Mitigating Overfitting in Medical Imaging: Self-Supervised Pretraining vs. ImageNet Transfer Learning for Dermatological Diagnosis**|Iván Matas et.al.|[2505.16773](http://arxiv.org/abs/2505.16773)|null|
