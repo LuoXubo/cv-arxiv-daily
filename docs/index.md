@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.26
+## Updated on 2025.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -649,7 +649,7 @@ layout: default
 |**2025-05-23**|**CU-Multi: A Dataset for Multi-Robot Data Association**|Doncey Albin et.al.|[2505.17576](http://arxiv.org/abs/2505.17576)|null|
 |**2025-05-22**|**TAT-VPR: Ternary Adaptive Transformer for Dynamic and Efficient Visual Place Recognition**|Oliver Grainge et.al.|[2505.16447](http://arxiv.org/abs/2505.16447)|null|
 |**2025-05-21**|**Highlighting What Matters: Promptable Embeddings for Attribute-Focused Image Retrieval**|Siting Li et.al.|[2505.15877](http://arxiv.org/abs/2505.15877)|null|
-|**2025-05-21**|**SCENIR: Visual Semantic Clarity through Unsupervised Scene Graph Retrieval**|Nikolaos Chaidos et.al.|[2505.15867](http://arxiv.org/abs/2505.15867)|null|
+|**2025-05-21**|**SCENIR: Visual Semantic Clarity through Unsupervised Scene Graph Retrieval**|Nikolaos Chaidos et.al.|[2505.15867](http://arxiv.org/abs/2505.15867)|**[link](https://github.com/nickhaidos/scenir-icml2025)**|
 |**2025-05-20**|**Multimodal RAG-driven Anomaly Detection and Classification in Laser Powder Bed Fusion using Large Language Models**|Kiarash Naghavi Khanghah et.al.|[2505.13828](http://arxiv.org/abs/2505.13828)|null|
 |**2025-05-18**|**MMS-VPR: Multimodal Street-Level Visual Place Recognition Dataset and Benchmark**|Yiwei Ou et.al.|[2505.12254](http://arxiv.org/abs/2505.12254)|null|
 |**2025-05-16**|**Improved Bag-of-Words Image Retrieval with Geometric Constraints for Ground Texture Localization**|Aaron Wilhelm et.al.|[2505.11620](http://arxiv.org/abs/2505.11620)|null|
@@ -4063,7 +4063,7 @@ layout: default
 |**2025-05-23**|**TabSTAR: A Foundation Tabular Model With Semantically Target-Aware Representations**|Alan Arazi et.al.|[2505.18125](http://arxiv.org/abs/2505.18125)|null|
 |**2025-05-23**|**Early-Exit Graph Neural Networks**|Andrea Giuseppe Di Francesco et.al.|[2505.18088](http://arxiv.org/abs/2505.18088)|null|
 |**2025-05-23**|**Bayesian Deep Learning for Discrete Choice**|Daniel F. Villarraga et.al.|[2505.18077](http://arxiv.org/abs/2505.18077)|null|
-|**2025-05-23**|**Semantic Correspondence: Unified Benchmarking and a Strong Baseline**|Kaiyan Zhang et.al.|[2505.18060](http://arxiv.org/abs/2505.18060)|**[link](https://github.com/Visual-AI/Semantic-Correspondence)**|
+|**2025-05-26**|**Semantic Correspondence: Unified Benchmarking and a Strong Baseline**|Kaiyan Zhang et.al.|[2505.18060](http://arxiv.org/abs/2505.18060)|**[link](https://github.com/Visual-AI/Semantic-Correspondence)**|
 |**2025-05-23**|**Building Floor Number Estimation from Crowdsourced Street-Level Images: Munich Dataset and Baseline Method**|Yao Sun et.al.|[2505.18021](http://arxiv.org/abs/2505.18021)|null|
 |**2025-05-23**|**SemSegBench & DetecBench: Benchmarking Reliability and Generalization Beyond Classification**|Shashank Agnihotri et.al.|[2505.18015](http://arxiv.org/abs/2505.18015)|null|
 |**2025-05-23**|**Clinical Validation of Deep Learning for Real-Time Tissue Oxygenation Estimation Using Spectral Imaging**|Jens De Winne et.al.|[2505.18010](http://arxiv.org/abs/2505.18010)|null|

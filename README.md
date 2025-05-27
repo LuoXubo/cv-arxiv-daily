@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.26
+## Updated on 2025.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -555,7 +555,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#Updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250527>back to top</a>)</p>
 
 ## SFM
 
@@ -651,7 +651,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#Updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250527>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -662,7 +662,7 @@
 |**2025-05-23**|**CU-Multi: A Dataset for Multi-Robot Data Association**|Doncey Albin et.al.|[2505.17576](http://arxiv.org/abs/2505.17576)|null|
 |**2025-05-22**|**TAT-VPR: Ternary Adaptive Transformer for Dynamic and Efficient Visual Place Recognition**|Oliver Grainge et.al.|[2505.16447](http://arxiv.org/abs/2505.16447)|null|
 |**2025-05-21**|**Highlighting What Matters: Promptable Embeddings for Attribute-Focused Image Retrieval**|Siting Li et.al.|[2505.15877](http://arxiv.org/abs/2505.15877)|null|
-|**2025-05-21**|**SCENIR: Visual Semantic Clarity through Unsupervised Scene Graph Retrieval**|Nikolaos Chaidos et.al.|[2505.15867](http://arxiv.org/abs/2505.15867)|null|
+|**2025-05-21**|**SCENIR: Visual Semantic Clarity through Unsupervised Scene Graph Retrieval**|Nikolaos Chaidos et.al.|[2505.15867](http://arxiv.org/abs/2505.15867)|**[link](https://github.com/nickhaidos/scenir-icml2025)**|
 |**2025-05-20**|**Multimodal RAG-driven Anomaly Detection and Classification in Laser Powder Bed Fusion using Large Language Models**|Kiarash Naghavi Khanghah et.al.|[2505.13828](http://arxiv.org/abs/2505.13828)|null|
 |**2025-05-18**|**MMS-VPR: Multimodal Street-Level Visual Place Recognition Dataset and Benchmark**|Yiwei Ou et.al.|[2505.12254](http://arxiv.org/abs/2505.12254)|null|
 |**2025-05-16**|**Improved Bag-of-Words Image Retrieval with Geometric Constraints for Ground Texture Localization**|Aaron Wilhelm et.al.|[2505.11620](http://arxiv.org/abs/2505.11620)|null|
@@ -1810,7 +1810,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#Updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250527>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2123,7 +2123,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#Updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250527>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2455,7 +2455,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#Updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250527>back to top</a>)</p>
 
 ## NeRF
 
@@ -4074,7 +4074,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#Updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250527>back to top</a>)</p>
 
 ## Computer Vision
 
@@ -4084,7 +4084,7 @@
 |**2025-05-23**|**TabSTAR: A Foundation Tabular Model With Semantically Target-Aware Representations**|Alan Arazi et.al.|[2505.18125](http://arxiv.org/abs/2505.18125)|null|
 |**2025-05-23**|**Early-Exit Graph Neural Networks**|Andrea Giuseppe Di Francesco et.al.|[2505.18088](http://arxiv.org/abs/2505.18088)|null|
 |**2025-05-23**|**Bayesian Deep Learning for Discrete Choice**|Daniel F. Villarraga et.al.|[2505.18077](http://arxiv.org/abs/2505.18077)|null|
-|**2025-05-23**|**Semantic Correspondence: Unified Benchmarking and a Strong Baseline**|Kaiyan Zhang et.al.|[2505.18060](http://arxiv.org/abs/2505.18060)|**[link](https://github.com/Visual-AI/Semantic-Correspondence)**|
+|**2025-05-26**|**Semantic Correspondence: Unified Benchmarking and a Strong Baseline**|Kaiyan Zhang et.al.|[2505.18060](http://arxiv.org/abs/2505.18060)|**[link](https://github.com/Visual-AI/Semantic-Correspondence)**|
 |**2025-05-23**|**Building Floor Number Estimation from Crowdsourced Street-Level Images: Munich Dataset and Baseline Method**|Yao Sun et.al.|[2505.18021](http://arxiv.org/abs/2505.18021)|null|
 |**2025-05-23**|**SemSegBench & DetecBench: Benchmarking Reliability and Generalization Beyond Classification**|Shashank Agnihotri et.al.|[2505.18015](http://arxiv.org/abs/2505.18015)|null|
 |**2025-05-23**|**Clinical Validation of Deep Learning for Real-Time Tissue Oxygenation Estimation Using Spectral Imaging**|Jens De Winne et.al.|[2505.18010](http://arxiv.org/abs/2505.18010)|null|
@@ -9298,7 +9298,7 @@
 |**2023-04-04**|**Denoising Diffusion Probabilistic Models to Predict the Density of Molecular Clouds**|Duo Xu et.al.|[2304.01670](http://arxiv.org/abs/2304.01670)|null|
 |**2023-04-04**|**Re-thinking Model Inversion Attacks Against Deep Neural Networks**|Ngoc-Bao Nguyen et.al.|[2304.01669](http://arxiv.org/abs/2304.01669)|**[link](https://github.com/sutd-visual-computing-group/Re-thinking_MI)**|
 
-<p align=right>(<a href=#Updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250527>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
