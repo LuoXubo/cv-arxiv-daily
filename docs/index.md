@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.27
+## Updated on 2025.05.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4073,8 +4073,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**Variational Deep Learning via Implicit Regularization**|Jonathan Wenger et.al.|[2505.20235](http://arxiv.org/abs/2505.20235)|null|
+|**2025-05-26**|**Research on feature fusion and multimodal patent text based on graph attention network**|Zhenzhen Song et.al.|[2505.20188](http://arxiv.org/abs/2505.20188)|null|
+|**2025-05-26**|**A Theoretical Framework for Grokking: Interpolation followed by Riemannian Norm Minimisation**|Etienne Boursier et.al.|[2505.20172](http://arxiv.org/abs/2505.20172)|null|
+|**2025-05-26**|**DeepInverse: A Python package for solving imaging inverse problems with deep learning**|Julián Tachella et.al.|[2505.20160](http://arxiv.org/abs/2505.20160)|null|
 |**2025-05-26**|**Tensorization is a powerful but underexplored tool for compression and interpretability of neural networks**|Safa Hamreras et.al.|[2505.20132](http://arxiv.org/abs/2505.20132)|null|
-|**2025-05-26**|**Transformer in Protein: A Survey**|Xiaowen Ling et.al.|[2505.20098](http://arxiv.org/abs/2505.20098)|null|
+|**2025-05-27**|**Transformers in Protein: A Survey**|Xiaowen Ling et.al.|[2505.20098](http://arxiv.org/abs/2505.20098)|null|
 |**2025-05-26**|**Multiple Descents in Deep Learning as a Sequence of Order-Chaos Transitions**|Wenbo Wei et.al.|[2505.20030](http://arxiv.org/abs/2505.20030)|null|
 |**2025-05-26**|**TabPFN: One Model to Rule Them All?**|Qiong Zhang et.al.|[2505.20003](http://arxiv.org/abs/2505.20003)|null|
 |**2025-05-26**|**Optimizing edge AI models on HPC systems with the edge in the loop**|Marcel Aach et.al.|[2505.19995](http://arxiv.org/abs/2505.19995)|null|
