@@ -1831,8 +1831,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-29**|**TimePoint: Accelerated Time Series Alignment via Self-Supervised Keypoint and Descriptor Learning**|Ron Shapira Weber et.al.|[2505.23475](http://arxiv.org/abs/2505.23475)|null|
-|**2025-05-24**|**Why Not Replace? Sustaining Long-Term Visual Localization via Handcrafted-Learned Feature Collaboration on CPU**|Yicheng Lin et.al.|[2505.18652](http://arxiv.org/abs/2505.18652)|null|
+|**2025-05-29**|**TimePoint: Accelerated Time Series Alignment via Self-Supervised Keypoint and Descriptor Learning**|Ron Shapira Weber et.al.|[2505.23475](http://arxiv.org/abs/2505.23475)|**[link](https://github.com/bgu-cs-vil/timepoint)**|
+|**2025-05-24**|**Why Not Replace? Sustaining Long-Term Visual Localization via Handcrafted-Learned Feature Collaboration on CPU**|Yicheng Lin et.al.|[2505.18652](http://arxiv.org/abs/2505.18652)|**[link](https://github.com/linyicheng1/orb_slam3_localization)**|
 |**2025-05-18**|**SEPT: Standard-Definition Map Enhanced Scene Perception and Topology Reasoning for Autonomous Driving**|Muleilan Pei et.al.|[2505.12246](http://arxiv.org/abs/2505.12246)|null|
 |**2025-05-17**|**Keypoints as Dynamic Centroids for Unified Human Pose and Segmentation**|Niaz Ahmad et.al.|[2505.12130](http://arxiv.org/abs/2505.12130)|null|
 |**2025-05-16**|**Deepfake Forensic Analysis: Source Dataset Attribution and Legal Implications of Synthetic Media Manipulation**|Massimiliano Cassia et.al.|[2505.11110](http://arxiv.org/abs/2505.11110)|null|
@@ -2479,7 +2479,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-29**|**PhysicsNeRF: Physics-Guided 3D Reconstruction from Sparse Views**|Mohamed Rayan Barhdadi et.al.|[2505.23481](http://arxiv.org/abs/2505.23481)|null|
+|**2025-05-29**|**PhysicsNeRF: Physics-Guided 3D Reconstruction from Sparse Views**|Mohamed Rayan Barhdadi et.al.|[2505.23481](http://arxiv.org/abs/2505.23481)|**[link](https://github.com/anonymous-researcher-01/physicsnerf)**|
 |**2025-05-29**|**LODGE: Level-of-Detail Large-Scale Gaussian Splatting with Efficient Rendering**|Jonas Kulhanek et.al.|[2505.23158](http://arxiv.org/abs/2505.23158)|null|
 |**2025-05-28**|**Can NeRFs See without Cameras?**|Chaitanya Amballa et.al.|[2505.22441](http://arxiv.org/abs/2505.22441)|null|
 |**2025-05-28**|**Learning Fine-Grained Geometry for Sparse-View Splatting via Cascade Depth Loss**|Wenjun Lu et.al.|[2505.22279](http://arxiv.org/abs/2505.22279)|null|
@@ -4111,11 +4111,11 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-29**|**Distributed Federated Learning for Vehicular Network Security: Anomaly Detection Benefits and Multi-Domain Attack Threats**|Utku Demir et.al.|[2505.23706](http://arxiv.org/abs/2505.23706)|null|
-|**2025-05-29**|**Computational Algebra with Attention: Transformer Oracles for Border Basis Algorithms**|Hiroshi Kera et.al.|[2505.23696](http://arxiv.org/abs/2505.23696)|null|
+|**2025-05-29**|**Computational Algebra with Attention: Transformer Oracles for Border Basis Algorithms**|Hiroshi Kera et.al.|[2505.23696](http://arxiv.org/abs/2505.23696)|**[link](https://github.com/hiroshikera/oracleborderbasis)**|
 |**2025-05-29**|**ImmunoDiff: A Diffusion Model for Immunotherapy Response Prediction in Lung Cancer**|Moinak Bhattacharya et.al.|[2505.23675](http://arxiv.org/abs/2505.23675)|null|
 |**2025-05-29**|**ZeroSep: Separate Anything in Audio with Zero Training**|Chao Huang et.al.|[2505.23625](http://arxiv.org/abs/2505.23625)|null|
 |**2025-05-29**|**Bridging Classical and Modern Computer Vision: PerceptiveNet for Tree Crown Semantic Segmentation**|Georgios Voulgaris et.al.|[2505.23597](http://arxiv.org/abs/2505.23597)|null|
-|**2025-05-29**|**DeepChest: Dynamic Gradient-Free Task Weighting for Effective Multi-Task Learning in Chest X-ray Classification**|Youssef Mohamed et.al.|[2505.23595](http://arxiv.org/abs/2505.23595)|null|
+|**2025-05-29**|**DeepChest: Dynamic Gradient-Free Task Weighting for Effective Multi-Task Learning in Chest X-ray Classification**|Youssef Mohamed et.al.|[2505.23595](http://arxiv.org/abs/2505.23595)|**[link](https://github.com/youssefkhalil320/deepchest-mtl)**|
 |**2025-05-29**|**Weakly-supervised Localization of Manipulated Image Regions Using Multi-resolution Learned Features**|Ziyong Wang et.al.|[2505.23586](http://arxiv.org/abs/2505.23586)|null|
 |**2025-05-29**|**Translation in the Wild**|Yuri Balashov et.al.|[2505.23548](http://arxiv.org/abs/2505.23548)|null|
 |**2025-05-29**|**Incorporating Preconditioning into Accelerated Approaches: Theoretical Guarantees and Practical Improvement**|Stepan Trifonov et.al.|[2505.23510](http://arxiv.org/abs/2505.23510)|null|
