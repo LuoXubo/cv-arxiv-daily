@@ -644,6 +644,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**SORCE: Small Object Retrieval in Complex Environments**|Chunxu Liu et.al.|[2505.24441](http://arxiv.org/abs/2505.24441)|null|
 |**2025-05-29**|**Sketch Down the FLOPs: Towards Efficient Networks for Human Sketch**|Aneeshan Sain et.al.|[2505.23763](http://arxiv.org/abs/2505.23763)|null|
 |**2025-05-28**|**4DTAM: Non-Rigid Tracking and Mapping via Dynamic Surface Gaussians**|Hidenobu Matsuki et.al.|[2505.22859](http://arxiv.org/abs/2505.22859)|null|
 |**2025-05-28**|**UAVPairs: A Challenging Benchmark for Match Pair Retrieval of Large-scale UAV Images**|Junhuan Liu et.al.|[2505.22098](http://arxiv.org/abs/2505.22098)|null|
@@ -2129,6 +2130,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping**|Mingxu Zhang et.al.|[2505.24305](http://arxiv.org/abs/2505.24305)|null|
 |**2025-05-28**|**Universal Domain Adaptation for Semantic Segmentation**|Seun-An Choe et.al.|[2505.22458](http://arxiv.org/abs/2505.22458)|null|
 |**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
 |**2025-05-16**|**Multi-view dense image matching with similarity learning and geometry priors**|Mohamed Ali Chebbi et.al.|[2505.11264](http://arxiv.org/abs/2505.11264)|null|
@@ -4089,6 +4091,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**Segmenting France Across Four Centuries**|Marta López-Rauhut et.al.|[2505.24824](http://arxiv.org/abs/2505.24824)|null|
+|**2025-05-30**|**Lightweight Relational Embedding in Task-Interpolated Few-Shot Networks for Enhanced Gastrointestinal Disease Classification**|Xinliu Zhong et.al.|[2505.24792](http://arxiv.org/abs/2505.24792)|null|
+|**2025-05-30**|**Drop Dropout on Single-Epoch Language Model Pretraining**|Houjun Liu et.al.|[2505.24788](http://arxiv.org/abs/2505.24788)|null|
+|**2025-05-30**|**PatchDEMUX: A Certifiably Robust Framework for Multi-label Classifiers Against Adversarial Patches**|Dennis Jacob et.al.|[2505.24703](http://arxiv.org/abs/2505.24703)|null|
+|**2025-05-30**|**Predicting the Past: Estimating Historical Appraisals with OCR and Machine Learning**|Mihir Bhaskar et.al.|[2505.24676](http://arxiv.org/abs/2505.24676)|null|
+|**2025-05-30**|**Impact of Bottleneck Layers and Skip Connections on the Generalization of Linear Denoising Autoencoders**|Jonghyun Ham et.al.|[2505.24668](http://arxiv.org/abs/2505.24668)|null|
+|**2025-05-30**|**Learning Distributions over Permutations and Rankings with Factorized Representations**|Daniel Severo et.al.|[2505.24664](http://arxiv.org/abs/2505.24664)|null|
+|**2025-05-30**|**Black-box Adversarial Attacks on CNN-based SLAM Algorithms**|Maria Rafaela Gkeka et.al.|[2505.24654](http://arxiv.org/abs/2505.24654)|null|
+|**2025-05-30**|**Cloud Optical Thickness Retrievals Using Angle Invariant Attention Based Deep Learning Models**|Zahid Hassan Tushar et.al.|[2505.24638](http://arxiv.org/abs/2505.24638)|null|
+|**2025-05-30**|**Hyperbolic Dataset Distillation**|Wenyuan Li et.al.|[2505.24623](http://arxiv.org/abs/2505.24623)|null|
 |**2025-05-29**|**Distributed Federated Learning for Vehicular Network Security: Anomaly Detection Benefits and Multi-Domain Attack Threats**|Utku Demir et.al.|[2505.23706](http://arxiv.org/abs/2505.23706)|null|
 |**2025-05-29**|**Computational Algebra with Attention: Transformer Oracles for Border Basis Algorithms**|Hiroshi Kera et.al.|[2505.23696](http://arxiv.org/abs/2505.23696)|**[link](https://github.com/hiroshikera/oracleborderbasis)**|
 |**2025-05-29**|**ImmunoDiff: A Diffusion Model for Immunotherapy Response Prediction in Lung Cancer**|Moinak Bhattacharya et.al.|[2505.23675](http://arxiv.org/abs/2505.23675)|null|
