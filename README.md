@@ -4115,6 +4115,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**Lions and Muons: Optimization via Stochastic Frank-Wolfe**|Maria-Eleni Sfyraki et.al.|[2506.04192](http://arxiv.org/abs/2506.04192)|null|
+|**2025-06-04**|**Synthetic multi-inversion time magnetic resonance images for visualization of subcortical structures**|Savannah P. Hays et.al.|[2506.04173](http://arxiv.org/abs/2506.04173)|null|
+|**2025-06-04**|**Deep-learned error mitigation via partially knitted circuits for the variational quantum eigensolver**|Simone Cantori et.al.|[2506.04146](http://arxiv.org/abs/2506.04146)|null|
+|**2025-06-04**|**Plant Bioelectric Early Warning Systems: A Five-Year Investigation into Human-Plant Electromagnetic Communication**|Peter A. Gloor et.al.|[2506.04132](http://arxiv.org/abs/2506.04132)|null|
+|**2025-06-04**|**Recent Advances in Medical Image Classification**|Loan Dao et.al.|[2506.04129](http://arxiv.org/abs/2506.04129)|null|
+|**2025-06-04**|**MS-YOLO: A Multi-Scale Model for Accurate and Efficient Blood Cell Detection**|Guohua Wu et.al.|[2506.03972](http://arxiv.org/abs/2506.03972)|null|
+|**2025-06-04**|**Average Calibration Losses for Reliable Uncertainty in Medical Image Segmentation**|Theodore Barfoot et.al.|[2506.03942](http://arxiv.org/abs/2506.03942)|null|
+|**2025-06-04**|**Personalized Improvement of Standard Readout Error Mitigation using Low-Depth Circuits and Machine Learning**|Melody Lee et.al.|[2506.03920](http://arxiv.org/abs/2506.03920)|null|
+|**2025-06-04**|**Learning from Noise: Enhancing DNNs for Event-Based Vision through Controlled Noise Injection**|Marcin Kowalczyk et.al.|[2506.03918](http://arxiv.org/abs/2506.03918)|null|
+|**2025-06-04**|**Identifying Alzheimer's Disease Prediction Strategies of Convolutional Neural Network Classifiers using R2* Maps and Spectral Clustering**|Christian Tinauer et.al.|[2506.03890](http://arxiv.org/abs/2506.03890)|null|
 |**2025-06-03**|**Torsion in Persistent Homology and Neural Networks**|Maria Walch et.al.|[2506.03049](http://arxiv.org/abs/2506.03049)|null|
 |**2025-06-03**|**Understanding Stability Mechanisms in Single-Atom Alloys with Theory-infused Deep Learning**|Yang Huang et.al.|[2506.03031](http://arxiv.org/abs/2506.03031)|null|
 |**2025-06-03**|**Hybrid deep learning and iterative methods for accelerated solutions of viscous incompressible flow**|Heming Bai et.al.|[2506.03016](http://arxiv.org/abs/2506.03016)|null|
