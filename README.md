@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.07
+## Updated on 2025.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -556,7 +556,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#Updated-on-20250607>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250609>back to top</a>)</p>
 
 ## SFM
 
@@ -652,7 +652,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#Updated-on-20250607>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250609>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1831,7 +1831,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#Updated-on-20250607>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250609>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2146,7 +2146,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#Updated-on-20250607>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250609>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2482,7 +2482,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#Updated-on-20250607>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250609>back to top</a>)</p>
 
 ## NeRF
 
@@ -4117,7 +4117,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#Updated-on-20250607>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250609>back to top</a>)</p>
 
 ## Computer Vision
 
@@ -4153,7 +4153,7 @@
 |**2025-06-03**|**PhysGaia: A Physics-Aware Dataset of Multi-Body Interactions for Dynamic Novel View Synthesis**|Mijeong Kim et.al.|[2506.02794](http://arxiv.org/abs/2506.02794)|null|
 |**2025-06-03**|**Investigating Mask-aware Prototype Learning for Tabular Anomaly Detection**|Ruiying Lu et.al.|[2506.02757](http://arxiv.org/abs/2506.02757)|null|
 |**2025-06-03**|**BenLOC: A Benchmark for Learning to Configure MIP Optimizers**|Hongpei Li et.al.|[2506.02752](http://arxiv.org/abs/2506.02752)|null|
-|**2025-05-30**|**Segmenting France Across Four Centuries**|Marta López-Rauhut et.al.|[2505.24824](http://arxiv.org/abs/2505.24824)|null|
+|**2025-05-30**|**Segmenting France Across Four Centuries**|Marta López-Rauhut et.al.|[2505.24824](http://arxiv.org/abs/2505.24824)|**[link](https://github.com/archiel19/frax4)**|
 |**2025-05-30**|**Lightweight Relational Embedding in Task-Interpolated Few-Shot Networks for Enhanced Gastrointestinal Disease Classification**|Xinliu Zhong et.al.|[2505.24792](http://arxiv.org/abs/2505.24792)|null|
 |**2025-05-30**|**Drop Dropout on Single-Epoch Language Model Pretraining**|Houjun Liu et.al.|[2505.24788](http://arxiv.org/abs/2505.24788)|null|
 |**2025-05-30**|**PatchDEMUX: A Certifiably Robust Framework for Multi-label Classifiers Against Adversarial Patches**|Dennis Jacob et.al.|[2505.24703](http://arxiv.org/abs/2505.24703)|null|
@@ -4162,7 +4162,7 @@
 |**2025-05-30**|**Learning Distributions over Permutations and Rankings with Factorized Representations**|Daniel Severo et.al.|[2505.24664](http://arxiv.org/abs/2505.24664)|null|
 |**2025-05-30**|**Black-box Adversarial Attacks on CNN-based SLAM Algorithms**|Maria Rafaela Gkeka et.al.|[2505.24654](http://arxiv.org/abs/2505.24654)|null|
 |**2025-05-30**|**Cloud Optical Thickness Retrievals Using Angle Invariant Attention Based Deep Learning Models**|Zahid Hassan Tushar et.al.|[2505.24638](http://arxiv.org/abs/2505.24638)|null|
-|**2025-05-30**|**Hyperbolic Dataset Distillation**|Wenyuan Li et.al.|[2505.24623](http://arxiv.org/abs/2505.24623)|null|
+|**2025-05-30**|**Hyperbolic Dataset Distillation**|Wenyuan Li et.al.|[2505.24623](http://arxiv.org/abs/2505.24623)|**[link](https://github.com/Guang000/Awesome-Dataset-Distillation)**|
 |**2025-05-29**|**Distributed Federated Learning for Vehicular Network Security: Anomaly Detection Benefits and Multi-Domain Attack Threats**|Utku Demir et.al.|[2505.23706](http://arxiv.org/abs/2505.23706)|null|
 |**2025-05-29**|**Computational Algebra with Attention: Transformer Oracles for Border Basis Algorithms**|Hiroshi Kera et.al.|[2505.23696](http://arxiv.org/abs/2505.23696)|**[link](https://github.com/hiroshikera/oracleborderbasis)**|
 |**2025-05-29**|**ImmunoDiff: A Diffusion Model for Immunotherapy Response Prediction in Lung Cancer**|Moinak Bhattacharya et.al.|[2505.23675](http://arxiv.org/abs/2505.23675)|null|
@@ -4178,13 +4178,13 @@
 |**2025-05-28**|**PRISM: Video Dataset Condensation with Progressive Refinement and Insertion for Sparse Motion**|Jaehyun Choi et.al.|[2505.22564](http://arxiv.org/abs/2505.22564)|null|
 |**2025-05-28**|**Deep Learning-Based BMD Estimation from Radiographs with Conformal Uncertainty Quantification**|Long Hui et.al.|[2505.22551](http://arxiv.org/abs/2505.22551)|null|
 |**2025-05-29**|**RiverMamba: A State Space Model for Global River Discharge and Flood Forecasting**|Mohamad Hakam Shams Eddin et.al.|[2505.22535](http://arxiv.org/abs/2505.22535)|null|
-|**2025-05-28**|**Single Domain Generalization for Alzheimer's Detection from 3D MRIs with Pseudo-Morphological Augmentations and Contrastive Learning**|Zobia Batool et.al.|[2505.22465](http://arxiv.org/abs/2505.22465)|null|
+|**2025-05-28**|**Single Domain Generalization for Alzheimer's Detection from 3D MRIs with Pseudo-Morphological Augmentations and Contrastive Learning**|Zobia Batool et.al.|[2505.22465](http://arxiv.org/abs/2505.22465)|**[link](https://github.com/zobia111/sdg-alzheimer)**|
 |**2025-05-28**|**NFR: Neural Feature-Guided Non-Rigid Shape Registration**|Puhua Jiang et.al.|[2505.22445](http://arxiv.org/abs/2505.22445)|null|
 |**2025-05-28**|**Neural Face Skinning for Mesh-agnostic Facial Expression Cloning**|Sihun Cha et.al.|[2505.22416](http://arxiv.org/abs/2505.22416)|null|
 |**2025-05-28**|**Frugal Incremental Generative Modeling using Variational Autoencoders**|Victor Enescu et.al.|[2505.22408](http://arxiv.org/abs/2505.22408)|null|
 |**2025-05-28**|**DAM: Domain-Aware Module for Multi-Domain Dataset Condensation**|Jaehyun Choi et.al.|[2505.22387](http://arxiv.org/abs/2505.22387)|null|
 |**2025-05-27**|**M3S-UPD: Efficient Multi-Stage Self-Supervised Learning for Fine-Grained Encrypted Traffic Classification with Unknown Pattern Discovery**|Yali Yuan et.al.|[2505.21462](http://arxiv.org/abs/2505.21462)|null|
-|**2025-05-28**|**AgriFM: A Multi-source Temporal Remote Sensing Foundation Model for Crop Mapping**|Wenyuan Li et.al.|[2505.21357](http://arxiv.org/abs/2505.21357)|null|
+|**2025-05-28**|**AgriFM: A Multi-source Temporal Remote Sensing Foundation Model for Crop Mapping**|Wenyuan Li et.al.|[2505.21357](http://arxiv.org/abs/2505.21357)|**[link](https://github.com/flyakon/agrifm)**|
 |**2025-05-28**|**Towards Robust Automated Perceptual Voice Quality Assessment with Speech Foundation Models**|Whenty Ariyanti et.al.|[2505.21356](http://arxiv.org/abs/2505.21356)|null|
 |**2025-05-28**|**Copresheaf Topological Neural Networks: A Generalized Deep Learning Framework**|Mustafa Hajij et.al.|[2505.21251](http://arxiv.org/abs/2505.21251)|null|
 |**2025-05-27**|**Topological Deep Learning for Speech Data**|Zhiwang Yu et.al.|[2505.21173](http://arxiv.org/abs/2505.21173)|null|
@@ -4335,7 +4335,7 @@
 |**2025-05-07**|**Deep Learning Innovations for Energy Efficiency: Advances in Non-Intrusive Load Monitoring and EV Charging Optimization for a Sustainable Grid**|Stavros Sykiotis et.al.|[2505.04367](http://arxiv.org/abs/2505.04367)|null|
 |**2025-05-07**|**Reduced Cloud Cover Errors in a Hybrid AI-Climate Model Through Equation Discovery And Automatic Tuning**|Arthur Grundner et.al.|[2505.04358](http://arxiv.org/abs/2505.04358)|**[link](https://github.com/EyringMLClimateGroup/grundner25pnas_iconaml_automatic_tuning)**|
 |**2025-05-07**|**Detecting Concept Drift in Neural Networks Using Chi-squared Goodness of Fit Testing**|Jacob Glenn Ayers et.al.|[2505.04318](http://arxiv.org/abs/2505.04318)|null|
-|**2025-05-07**|**Sparsity is All You Need: Rethinking Biological Pathway-Informed Approaches in Deep Learning**|Isabella Caranzano et.al.|[2505.04300](http://arxiv.org/abs/2505.04300)|null|
+|**2025-05-07**|**Sparsity is All You Need: Rethinking Biological Pathway-Informed Approaches in Deep Learning**|Isabella Caranzano et.al.|[2505.04300](http://arxiv.org/abs/2505.04300)|**[link](https://github.com/compbiomed-unito/Pathway_Randomization)**|
 |**2025-05-07**|**Physics-Informed DeepONets for drift-diffusion on metric graphs: simulation and parameter identification**|Jan Blechschmidt et.al.|[2505.04263](http://arxiv.org/abs/2505.04263)|null|
 |**2025-05-06**|**Neural Integral Operators for Inverse problems in Spectroscopy**|Emanuele Zappala et.al.|[2505.03677](http://arxiv.org/abs/2505.03677)|null|
 |**2025-05-06**|**Understand the Effect of Importance Weighting in Deep Learning on Dataset Shift**|Thien Nhan Vo et.al.|[2505.03617](http://arxiv.org/abs/2505.03617)|null|
@@ -4517,7 +4517,7 @@
 |**2025-04-11**|**Genetic Algorithm Design Exploration for On-Device Training on FPGAs**|Alaa Mazouz et.al.|[2504.08534](http://arxiv.org/abs/2504.08534)|null|
 |**2025-04-11**|**STF-GCN: A Multi-Domain Graph Convolution Network Method for Automatic Modulation Recognition via Adaptive Correlation**|Mingyuan Shao et.al.|[2504.08504](http://arxiv.org/abs/2504.08504)|null|
 |**2025-04-11**|**AI-Driven Smart Sportswear for Real-Time Fitness Monitoring Using Textile Strain Sensors**|Chenyu Tang et.al.|[2504.08500](http://arxiv.org/abs/2504.08500)|null|
-|**2025-04-10**|**Detect Anything 3D in the Wild**|Hanxue Zhang et.al.|[2504.07958](http://arxiv.org/abs/2504.07958)|null|
+|**2025-04-10**|**Detect Anything 3D in the Wild**|Hanxue Zhang et.al.|[2504.07958](http://arxiv.org/abs/2504.07958)|**[link](https://github.com/OpenDriveLab/DetAny3D)**|
 |**2025-04-10**|**Deep Learning-based Intrusion Detection Systems: A Survey**|Zhiwei Xu et.al.|[2504.07839](http://arxiv.org/abs/2504.07839)|null|
 |**2025-04-10**|**Pychop: Emulating Low-Precision Arithmetic in Numerical Methods and Neural Networks**|Erin Carson et.al.|[2504.07835](http://arxiv.org/abs/2504.07835)|**[link](https://github.com/inexascale/pychop)**|
 |**2025-04-10**|**Nonlocal Retinex-Based Variational Model and its Deep Unfolding Twin for Low-Light Image Enhancement**|Daniel Torres et.al.|[2504.07810](http://arxiv.org/abs/2504.07810)|null|
@@ -5623,7 +5623,7 @@
 |**2024-10-23**|**Closed-form merging of parameter-efficient modules for Federated Continual Learning**|Riccardo Salami et.al.|[2410.17961](http://arxiv.org/abs/2410.17961)|null|
 |**2024-10-23**|**Deep learning for model correction of dynamical systems with data scarcity**|Caroline Tatsuoka et.al.|[2410.17913](http://arxiv.org/abs/2410.17913)|null|
 |**2024-10-23**|**Leveraging Deep Learning for Time Series Extrinsic Regression in predicting photometric metallicity of Fundamental-mode RR Lyrae Stars**|Lorenzo Monti et.al.|[2410.17906](http://arxiv.org/abs/2410.17906)|**[link](https://github.com/lorenzomonti/metallicity_rrls)**|
-|**2024-10-23**|**Variational MineGAN: A Data-efficient Knowledge Transfer Architecture for Generative AI-assisted Design of Nanophotonic Structures**|Shahriar Tarvir Nushin et.al.|[2410.17889](http://arxiv.org/abs/2410.17889)|null|
+|**2024-10-23**|**Variational MineGAN: A Data-efficient Knowledge Transfer Architecture for Generative AI-assisted Design of Nanophotonic Structures**|Shahriar Tarvir Nushin et.al.|[2410.17889](http://arxiv.org/abs/2410.17889)|**[link](https://github.com/tarvirator/variational-minegan)**|
 |**2024-10-23**|**Relaxed Equivariance via Multitask Learning**|Ahmed A. Elhag et.al.|[2410.17878](http://arxiv.org/abs/2410.17878)|null|
 |**2024-10-23**|**The Probabilistic Tsetlin Machine: A Novel Approach to Uncertainty Quantification**|K. Darshana Abeyrathna et.al.|[2410.17851](http://arxiv.org/abs/2410.17851)|null|
 |**2024-10-23**|**Deep Learning for Active Region Classification: A Systematic Study from Convolutional Neural Networks to Vision Transformers**|Edoardo Legnaro et.al.|[2410.17816](http://arxiv.org/abs/2410.17816)|null|
@@ -9425,7 +9425,7 @@
 |**2023-04-04**|**Denoising Diffusion Probabilistic Models to Predict the Density of Molecular Clouds**|Duo Xu et.al.|[2304.01670](http://arxiv.org/abs/2304.01670)|null|
 |**2023-04-04**|**Re-thinking Model Inversion Attacks Against Deep Neural Networks**|Ngoc-Bao Nguyen et.al.|[2304.01669](http://arxiv.org/abs/2304.01669)|**[link](https://github.com/sutd-visual-computing-group/Re-thinking_MI)**|
 
-<p align=right>(<a href=#Updated-on-20250607>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250609>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
