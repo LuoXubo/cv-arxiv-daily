@@ -648,6 +648,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Towards a general-purpose foundation model for fMRI analysis**|Cheng Wang et.al.|[2506.11167](http://arxiv.org/abs/2506.11167)|null|
 |**2025-06-11**|**Improving Personalized Search with Regularized Low-Rank Parameter Updates**|Fiona Ryan et.al.|[2506.10182](http://arxiv.org/abs/2506.10182)|null|
 |**2025-06-10**|**Safeguarding Multimodal Knowledge Copyright in the RAG-as-a-Service Environment**|Tianyu Chen et.al.|[2506.10030](http://arxiv.org/abs/2506.10030)|null|
 |**2025-06-11**|**Hierarchical Image Matching for UAV Absolute Visual Localization via Semantic and Structural Constraints**|Xiangkai Zhang et.al.|[2506.09748](http://arxiv.org/abs/2506.09748)|null|
@@ -4126,6 +4127,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**Using gridpoint relaxation for forecast error diagnostics in neural weather models**|Uros Perkan et.al.|[2506.11987](http://arxiv.org/abs/2506.11987)|null|
+|**2025-06-13**|**Evaluating Sensitivity Parameters in Smartphone-Based Gaze Estimation: A Comparative Study of Appearance-Based and Infrared Eye Trackers**|Nishan Gunawardena et.al.|[2506.11932](http://arxiv.org/abs/2506.11932)|null|
+|**2025-06-13**|**A Neural Rejection System Against Universal Adversarial Perturbations in Radio Signal Classification**|Lu Zhang et.al.|[2506.11901](http://arxiv.org/abs/2506.11901)|null|
+|**2025-06-13**|**Decadal sink-source shifts of forest aboveground carbon since 1988**|Zhen Qian et.al.|[2506.11879](http://arxiv.org/abs/2506.11879)|null|
+|**2025-06-13**|**Robust Molecular Property Prediction via Densifying Scarce Labeled Data**|Jina Kim et.al.|[2506.11877](http://arxiv.org/abs/2506.11877)|null|
+|**2025-06-13**|**Smart Buildings Energy Consumption Forecasting using Adaptive Evolutionary Ensemble Learning Models**|Mehdi Neshat et.al.|[2506.11864](http://arxiv.org/abs/2506.11864)|null|
+|**2025-06-13**|**3D Skin Segmentation Methods in Medical Imaging: A Comparison**|Martina Paccini et.al.|[2506.11852](http://arxiv.org/abs/2506.11852)|null|
+|**2025-06-13**|**The Cambrian Explosion of Mixed-Precision Matrix Multiplication for Quantized Deep Learning Inference**|Héctor Martínez et.al.|[2506.11728](http://arxiv.org/abs/2506.11728)|null|
+|**2025-06-13**|**Deep Learning-based mmWave MIMO Channel Estimation using sub-6 GHz Channel Information: CNN and UNet Approaches**|Faruk Pasic et.al.|[2506.11714](http://arxiv.org/abs/2506.11714)|null|
+|**2025-06-13**|**Brain Network Analysis Based on Fine-tuned Self-supervised Model for Brain Disease Diagnosis**|Yifei Tang et.al.|[2506.11671](http://arxiv.org/abs/2506.11671)|null|
 |**2025-06-12**|**Rethinking Losses for Diffusion Bridge Samplers**|Sebastian Sanokowski et.al.|[2506.10982](http://arxiv.org/abs/2506.10982)|null|
 |**2025-06-12**|**Principled Approaches for Extending Neural Architectures to Function Spaces for Operator Learning**|Julius Berner et.al.|[2506.10973](http://arxiv.org/abs/2506.10973)|null|
 |**2025-06-12**|**FerroAI: A Deep Learning Model for Predicting Phase Diagrams of Ferroelectric Materials**|Chenbo Zhang et.al.|[2506.10970](http://arxiv.org/abs/2506.10970)|null|
