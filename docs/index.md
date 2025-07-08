@@ -650,6 +650,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**An analysis of vision-language models for fabric retrieval**|Francesco Giuliari et.al.|[2507.04735](http://arxiv.org/abs/2507.04735)|null|
+|**2025-07-07**|**What's Making That Sound Right Now? Video-centric Audio-Visual Localization**|Hahyeon Choi et.al.|[2507.04667](http://arxiv.org/abs/2507.04667)|null|
+|**2025-07-07**|**Simultaneous Localization and Mapping Using Active mmWave Sensing in 5G NR**|Tao Du et.al.|[2507.04662](http://arxiv.org/abs/2507.04662)|null|
+|**2025-07-06**|**U-ViLAR: Uncertainty-Aware Visual Localization for Autonomous Driving via Differentiable Association and Registration**|Xiaofan Li et.al.|[2507.04503](http://arxiv.org/abs/2507.04503)|null|
+|**2025-07-04**|**Query-Based Adaptive Aggregation for Multi-Dataset Joint Training Toward Universal Visual Place Recognition**|Jiuhong Xiao et.al.|[2507.03831](http://arxiv.org/abs/2507.03831)|null|
 |**2025-07-01**|**LoD-Loc v2: Aerial Visual Localization over Low Level-of-Detail City Models using Explicit Silhouette Alignment**|Juelin Zhu et.al.|[2507.00659](http://arxiv.org/abs/2507.00659)|null|
 |**2025-06-28**|**Utilizing a Novel Deep Learning Method for Scene Categorization in Remote Sensing Data**|Ghufran A. Omran et.al.|[2506.22939](http://arxiv.org/abs/2506.22939)|null|
 |**2025-06-28**|**Mask-aware Text-to-Image Retrieval: Referring Expression Segmentation Meets Cross-modal Retrieval**|Li-Cheng Shen et.al.|[2506.22864](http://arxiv.org/abs/2506.22864)|null|
@@ -2173,11 +2178,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-05**|**From Query to Explanation: Uni-RAG for Multi-Modal Retrieval-Augmented Learning in STEM**|Xinyi Wu et.al.|[2507.03868](http://arxiv.org/abs/2507.03868)|null|
 |**2025-07-02**|**What does really matter in image goal navigation?**|Gianluca Monaci et.al.|[2507.01667](http://arxiv.org/abs/2507.01667)|null|
 |**2025-06-30**|**Efficient and Accurate Image Provenance Analysis: A Scalable Pipeline for Large-scale Images**|Jiewei Lai et.al.|[2506.23707](http://arxiv.org/abs/2506.23707)|null|
 |**2025-06-29**|**Dynamic Contrastive Learning for Hierarchical Retrieval: A Case Study of Distance-Aware Cross-View Geo-Localization**|Suofei Zhang et.al.|[2506.23077](http://arxiv.org/abs/2506.23077)|null|
 |**2025-06-27**|**MatChA: Cross-Algorithm Matching with Feature Augmentation**|Paula Carbó Cubero et.al.|[2506.22336](http://arxiv.org/abs/2506.22336)|null|
-|**2025-06-27**|**Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs**|Shaojie Zhang et.al.|[2506.22139](http://arxiv.org/abs/2506.22139)|null|
+|**2025-07-07**|**Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs**|Shaojie Zhang et.al.|[2506.22139](http://arxiv.org/abs/2506.22139)|null|
 |**2025-06-27**|**ZeroReg3D: A Zero-shot Registration Pipeline for 3D Consecutive Histopathology Image Reconstruction**|Juming Xiong et.al.|[2506.21923](http://arxiv.org/abs/2506.21923)|null|
 |**2025-06-25**|**Fast entropy-regularized SDP relaxations for permutation synchronization**|Michael Lindsey et.al.|[2506.20191](http://arxiv.org/abs/2506.20191)|null|
 |**2025-06-18**|**ReSeDis: A Dataset for Referring-based Object Search across Large-Scale Image Collections**|Ziling Huang et.al.|[2506.15180](http://arxiv.org/abs/2506.15180)|null|
@@ -2520,6 +2526,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-06**|**A View-consistent Sampling Method for Regularized Training of Neural Radiance Fields**|Aoxiang Fan et.al.|[2507.04408](http://arxiv.org/abs/2507.04408)|null|
 |**2025-07-02**|**Tile and Slide : A New Framework for Scaling NeRF from Local to Global 3D Earth Observation**|Camille Billouard et.al.|[2507.01631](http://arxiv.org/abs/2507.01631)|null|
 |**2025-07-01**|**Surgical Neural Radiance Fields from One Image**|Alberto Neri et.al.|[2507.00969](http://arxiv.org/abs/2507.00969)|null|
 |**2025-07-01**|**PlantSegNeRF: A few-shot, cross-dataset method for plant 3D instance point cloud reconstruction via joint-channel NeRF with multi-view image instance matching**|Xin Yang et.al.|[2507.00371](http://arxiv.org/abs/2507.00371)|null|
@@ -4183,6 +4190,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Multi-Disease Deep Learning Framework for GWAS: Beyond Feature Selection Constraints**|Iqra Farooq et.al.|[2507.05247](http://arxiv.org/abs/2507.05247)|null|
+|**2025-07-07**|**CTA: Cross-Task Alignment for Better Test Time Training**|Samuel Barbeau et.al.|[2507.05221](http://arxiv.org/abs/2507.05221)|null|
+|**2025-07-07**|**$\varphi$ -Adapt: A Physics-Informed Adaptation Learning Approach to 2D Quantum Material Discovery**|Hoang-Quan Nguyen et.al.|[2507.05184](http://arxiv.org/abs/2507.05184)|null|
+|**2025-07-07**|**Hardware-efficient tractable probabilistic inference for TinyML Neurosymbolic AI applications**|Jelin Leslin et.al.|[2507.05141](http://arxiv.org/abs/2507.05141)|null|
+|**2025-07-07**|**Deep Learning to Automate Parameter Extraction and Model Fitting of Two-Dimensional Transistors**|Robert K. A. Bennett et.al.|[2507.05134](http://arxiv.org/abs/2507.05134)|null|
+|**2025-07-07**|**PRING: Rethinking Protein-Protein Interaction Prediction from Pairs to Graphs**|Xinzhe Zheng et.al.|[2507.05101](http://arxiv.org/abs/2507.05101)|null|
+|**2025-07-07**|**Deep Learning Based Antenna Selection Technique for RIS-Empowered RQSM System**|Burak Ahmet Ozden et.al.|[2507.05071](http://arxiv.org/abs/2507.05071)|null|
+|**2025-07-07**|**Estimating Object Physical Properties from RGB-D Vision and Depth Robot Sensors Using Deep Learning**|Ricardo Cardoso et.al.|[2507.05029](http://arxiv.org/abs/2507.05029)|null|
+|**2025-07-07**|**AI for the Routine, Humans for the Complex: Accuracy-Driven Data Labelling with Mixed Integer Linear Programming**|Mohammad Hossein Amini et.al.|[2507.04990](http://arxiv.org/abs/2507.04990)|null|
+|**2025-07-07**|**Classification of autoimmune diseases from Peripheral blood TCR repertoires by multimodal multi-instance learning**|Ruihao Zhang et.al.|[2507.04981](http://arxiv.org/abs/2507.04981)|null|
 |**2025-07-03**|**Leveraging Transformer Models to Capture Multi-Scale Dynamics in Biomolecules by nano-GPT**|Wenqi Zeng et.al.|[2507.02734](http://arxiv.org/abs/2507.02734)|null|
 |**2025-07-03**|**Embedding-Based Federated Data Sharing via Differentially Private Conditional VAEs**|Francesco Di Salvo et.al.|[2507.02671](http://arxiv.org/abs/2507.02671)|null|
 |**2025-07-03**|**High-Order Deep Meta-Learning with Category-Theoretic Interpretation**|David H. Mguni et.al.|[2507.02634](http://arxiv.org/abs/2507.02634)|null|
