@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.07
+## Updated on 2025.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4192,7 +4192,7 @@ layout: default
 |**2025-07-03**|**IMASHRIMP: Automatic White Shrimp (Penaeus vannamei) Biometrical Analysis from Laboratory Images Using Computer Vision and Deep Learning**|Abiam Remache González et.al.|[2507.02519](http://arxiv.org/abs/2507.02519)|null|
 |**2025-07-03**|**Detecting Multiple Diseases in Multiple Crops Using Deep Learning**|Vivek Yadav et.al.|[2507.02517](http://arxiv.org/abs/2507.02517)|null|
 |**2025-07-03**|**TFOC-Net: A Short-time Fourier Transform-based Deep Learning Approach for Enhancing Cross-Subject Motor Imagery Classification**|Ahmed G. Habashi et.al.|[2507.02510](http://arxiv.org/abs/2507.02510)|null|
-|**2025-07-03**|**Introducing a New Brexit-Related Uncertainty Index: Its Evolution and Economic Consequences**|Ismet Gocer et.al.|[2507.02439](http://arxiv.org/abs/2507.02439)|null|
+|**2025-07-04**|**Introducing a New Brexit-Related Uncertainty Index: Its Evolution and Economic Consequences**|Ismet Gocer et.al.|[2507.02439](http://arxiv.org/abs/2507.02439)|null|
 |**2025-07-02**|**Characterizing control between interacting subsystems with deep Jacobian estimation**|Adam J. Eisen et.al.|[2507.01946](http://arxiv.org/abs/2507.01946)|null|
 |**2025-07-02**|**Exploring a Hybrid Deep Learning Approach for Anomaly Detection in Mental Healthcare Provider Billing: Addressing Label Scarcity through Semi-Supervised Anomaly Detection**|Samirah Bakker et.al.|[2507.01924](http://arxiv.org/abs/2507.01924)|null|
 |**2025-07-02**|**3D Reconstruction and Information Fusion between Dormant and Canopy Seasons in Commercial Orchards Using Deep Learning and Fast GICP**|Ranjan Sapkota et.al.|[2507.01912](http://arxiv.org/abs/2507.01912)|null|
