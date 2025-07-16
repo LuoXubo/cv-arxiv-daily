@@ -651,6 +651,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Orchestrator-Agent Trust: A Modular Agentic AI Visual Classification System with Trust-Aware Orchestration and RAG-Based Reasoning**|Konstantinos I. Roumeliotis et.al.|[2507.10571](http://arxiv.org/abs/2507.10571)|null|
 |**2025-07-14**|**GT-Loc: Unifying When and Where in Images Through a Joint Embedding Space**|David G. Shatwell et.al.|[2507.10473](http://arxiv.org/abs/2507.10473)|null|
 |**2025-07-14**|**Text-to-Remote-Sensing-Image Retrieval beyond RGB Sources**|Daniele Rege Cambrin et.al.|[2507.10403](http://arxiv.org/abs/2507.10403)|null|
 |**2025-07-14**|**Kaleidoscopic Background Attack: Disrupting Pose Estimation with Multi-Fold Radial Symmetry Textures**|Xinlong Ding et.al.|[2507.10265](http://arxiv.org/abs/2507.10265)|null|
@@ -1879,6 +1880,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**KptLLM++: Towards Generic Keypoint Comprehension with Large Language Model**|Jie Yang et.al.|[2507.11102](http://arxiv.org/abs/2507.11102)|null|
+|**2025-07-15**|**GKNet: Graph-based Keypoints Network for Monocular Pose Estimation of Non-cooperative Spacecraft**|Weizhao Ma et.al.|[2507.11077](http://arxiv.org/abs/2507.11077)|null|
+|**2025-07-14**|**FPC-Net: Revisiting SuperPoint with Descriptor-Free Keypoint Detection via Feature Pyramids and Consistency-Based Implicit Matching**|Ionuţ Grigore et.al.|[2507.10770](http://arxiv.org/abs/2507.10770)|null|
 |**2025-07-11**|**Doodle Your Keypoints: Sketch-Based Few-Shot Keypoint Detection**|Subhajit Maity et.al.|[2507.07994](http://arxiv.org/abs/2507.07994)|null|
 |**2025-07-09**|**Reading a Ruler in the Wild**|Yimu Pan et.al.|[2507.07077](http://arxiv.org/abs/2507.07077)|null|
 |**2025-07-09**|**MK-Pose: Category-Level Object Pose Estimation via Multimodal-Based Keypoint Learning**|Yifan Yang et.al.|[2507.06662](http://arxiv.org/abs/2507.06662)|null|
@@ -4217,6 +4221,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**Towards Depth Foundation Model: Recent Trends in Vision-Based Depth Estimation**|Zhen Xu et.al.|[2507.11540](http://arxiv.org/abs/2507.11540)|null|
+|**2025-07-15**|**Precision Spatio-Temporal Feature Fusion for Robust Remote Sensing Change Detection**|Buddhi Wijenayake et.al.|[2507.11523](http://arxiv.org/abs/2507.11523)|null|
+|**2025-07-15**|**Elk: Exploring the Efficiency of Inter-core Connected AI Chips with Deep Learning Compiler Techniques**|Yiqi Liu et.al.|[2507.11506](http://arxiv.org/abs/2507.11506)|null|
+|**2025-07-15**|**LRMR: LLM-Driven Relational Multi-node Ranking for Lymph Node Metastasis Assessment in Rectal Cancer**|Yaoxian Dong et.al.|[2507.11457](http://arxiv.org/abs/2507.11457)|null|
+|**2025-07-15**|**Toward Improving fNIRS Classification: A Study on Activation Functions in Deep Neural Architectures**|Behtom Adeli et.al.|[2507.11436](http://arxiv.org/abs/2507.11436)|null|
+|**2025-07-15**|**The model is the message: Lightweight convolutional autoencoders applied to noisy imaging data for planetary science and astrobiology**|Caleb Scharf et.al.|[2507.11400](http://arxiv.org/abs/2507.11400)|null|
+|**2025-07-15**|**Emulating CO Line Radiative Transfer with Deep Learning**|Shiqi Su et.al.|[2507.11398](http://arxiv.org/abs/2507.11398)|null|
+|**2025-07-15**|**Quantitative multi-metabolite imaging of Parkinson's disease using AI boosted molecular MRI**|Hagar Shmuely et.al.|[2507.11329](http://arxiv.org/abs/2507.11329)|null|
+|**2025-07-15**|**Mapping Diffuse Radio Sources Using TUNA: A Transformer-Based Deep Learning Approach**|Nicoletta Sanvitale et.al.|[2507.11320](http://arxiv.org/abs/2507.11320)|null|
+|**2025-07-15**|**LRCTI: A Large Language Model-Based Framework for Multi-Step Evidence Retrieval and Reasoning in Cyber Threat Intelligence Credibility Verification**|Fengxiao Tang et.al.|[2507.11310](http://arxiv.org/abs/2507.11310)|null|
 |**2025-07-14**|**The Power of Certainty: How Confident Models Lead to Better Segmentation**|Tugberk Erol et.al.|[2507.10490](http://arxiv.org/abs/2507.10490)|null|
 |**2025-07-14**|**From BERT to Qwen: Hate Detection across architectures**|Ariadna Mon et.al.|[2507.10468](http://arxiv.org/abs/2507.10468)|null|
 |**2025-07-15**|**Energy Efficiency in AI for 5G and Beyond: A DeepRx Case Study**|Amine Lbath et.al.|[2507.10409](http://arxiv.org/abs/2507.10409)|null|
