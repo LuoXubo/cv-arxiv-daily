@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**DINO-VO: A Feature-based Visual Odometry Leveraging a Visual Foundation Model**|Maulana Bisyir Azhari et.al.|[2507.13145](http://arxiv.org/abs/2507.13145)|null|
 |**2025-07-10**|**Hardware-Aware Feature Extraction Quantisation for Real-Time Visual Odometry on FPGA Platforms**|Mateusz Wasala et.al.|[2507.07903](http://arxiv.org/abs/2507.07903)|null|
 |**2025-06-30**|**VOCAL: Visual Odometry via ContrAstive Learning**|Chi-Yao Huang et.al.|[2507.00243](http://arxiv.org/abs/2507.00243)|null|
 |**2025-06-29**|**Event-based Stereo Visual-Inertial Odometry with Voxel Map**|Zhaoxing Zhang et.al.|[2506.23078](http://arxiv.org/abs/2506.23078)|null|
@@ -664,6 +665,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**FAR-Net: Multi-Stage Fusion Network with Enhanced Semantic Alignment and Adaptive Reconciliation for Composed Image Retrieval**|Jeong-Woo Park et.al.|[2507.12823](http://arxiv.org/abs/2507.12823)|null|
+|**2025-07-17**|**MCoT-RE: Multi-Faceted Chain-of-Thought and Re-Ranking for Training-Free Zero-Shot Composed Image Retrieval**|Jeong-Woo Park et.al.|[2507.12819](http://arxiv.org/abs/2507.12819)|null|
 |**2025-07-16**|**QuRe: Query-Relevant Retrieval through Hard Negative Sampling in Composed Image Retrieval**|Jaehyun Kwak et.al.|[2507.12416](http://arxiv.org/abs/2507.12416)|null|
 |**2025-07-16**|**CorrMoE: Mixture of Experts with De-stylization Learning for Cross-Scene and Cross-Domain Correspondence Pruning**|Peiwen Xia et.al.|[2507.11834](http://arxiv.org/abs/2507.11834)|null|
 |**2025-07-09**|**Orchestrator-Agent Trust: A Modular Agentic AI Visual Classification System with Trust-Aware Orchestration and RAG-Based Reasoning**|Konstantinos I. Roumeliotis et.al.|[2507.10571](http://arxiv.org/abs/2507.10571)|null|
@@ -1897,6 +1900,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**DINO-VO: A Feature-based Visual Odometry Leveraging a Visual Foundation Model**|Maulana Bisyir Azhari et.al.|[2507.13145](http://arxiv.org/abs/2507.13145)|null|
 |**2025-07-15**|**KptLLM++: Towards Generic Keypoint Comprehension with Large Language Model**|Jie Yang et.al.|[2507.11102](http://arxiv.org/abs/2507.11102)|null|
 |**2025-07-15**|**GKNet: Graph-based Keypoints Network for Monocular Pose Estimation of Non-cooperative Spacecraft**|Weizhao Ma et.al.|[2507.11077](http://arxiv.org/abs/2507.11077)|null|
 |**2025-07-14**|**FPC-Net: Revisiting SuperPoint with Descriptor-Free Keypoint Detection via Feature Pyramids and Consistency-Based Implicit Matching**|Ionuţ Grigore et.al.|[2507.10770](http://arxiv.org/abs/2507.10770)|null|
@@ -4246,6 +4250,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**Stochastic Weakly Convex Optimization Under Heavy-Tailed Noises**|Tianxi Zhu et.al.|[2507.13283](http://arxiv.org/abs/2507.13283)|null|
+|**2025-07-17**|**Transient-Stability-Aware Frequency Provision in IBR-Rich Grids via Information Gap Decision Theory and Deep Learning**|Amin Masoumi et.al.|[2507.13265](http://arxiv.org/abs/2507.13265)|null|
+|**2025-07-17**|**Leveraging Language Prior for Infrared Small Target Detection**|Pranav Singh et.al.|[2507.13113](http://arxiv.org/abs/2507.13113)|null|
+|**2025-07-17**|**Deep Learning-Based Fetal Lung Segmentation from Diffusion-weighted MRI Images and Lung Maturity Evaluation for Fetal Growth Restriction**|Zhennan Xiao et.al.|[2507.13106](http://arxiv.org/abs/2507.13106)|null|
+|**2025-07-17**|**DiffOSeg: Omni Medical Image Segmentation via Multi-Expert Collaboration Diffusion Model**|Han Zhang et.al.|[2507.13087](http://arxiv.org/abs/2507.13087)|null|
+|**2025-07-17**|**DASViT: Differentiable Architecture Search for Vision Transformer**|Pengjin Wu et.al.|[2507.13079](http://arxiv.org/abs/2507.13079)|null|
+|**2025-07-17**|**Beyond Fully Supervised Pixel Annotations: Scribble-Driven Weakly-Supervised Framework for Image Manipulation Localization**|Songlin Li et.al.|[2507.13018](http://arxiv.org/abs/2507.13018)|null|
+|**2025-07-17**|**WaveletInception Networks for Drive-by Vibration-Based Infrastructure Health Monitoring**|Reza Riahi Samani et.al.|[2507.12969](http://arxiv.org/abs/2507.12969)|null|
+|**2025-07-17**|**Adaptive feature capture method for solving partial differential equations with low regularity solutions**|Yangtao Deng et.al.|[2507.12941](http://arxiv.org/abs/2507.12941)|null|
+|**2025-07-17**|**A Deep-Learning Framework for Land-Sliding Classification from Remote Sensing Image**|Hieu Tang et.al.|[2507.12939](http://arxiv.org/abs/2507.12939)|null|
 |**2025-07-16**|**Interpreting Radiologist's Intention from Eye Movements in Chest X-ray Diagnosis**|Trong-Thang Pham et.al.|[2507.12461](http://arxiv.org/abs/2507.12461)|null|
 |**2025-07-16**|**BitWave: Exploiting Column-Based Bit-Level Sparsity for Deep Learning Acceleration**|Man Shi et.al.|[2507.12444](http://arxiv.org/abs/2507.12444)|null|
 |**2025-07-16**|**Heat Kernel Goes Topological**|Maximilian Krahn et.al.|[2507.12380](http://arxiv.org/abs/2507.12380)|null|
